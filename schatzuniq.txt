@@ -2240,7 +2240,7 @@ Entsetzen
 entsetzliche
 entsetzlichen
 entsetzt
-entsinne
+entsinne=remember
 entsprang
 entsprechend
 entstammte
@@ -3552,7 +3552,7 @@ gestalten
 gestaltet
 gestanden
 Gestank
-gestapft
+gestapft=trudging
 gestattet
 gestehe
 gesteigert
@@ -7418,7 +7418,7 @@ Säbel
 Säbel
 Säbelhiebs
 Säbeln
-Säbelnarbe
+Säbelnarbe=saber scar
 säbelte
 Schaden
 schaffen
@@ -8115,8 +8115,7 @@ Sonnenlicht
 Sonnenschein
 Sonnenstrahlen
 Sonnenuntergang
-sonnenverbrannte
-sonnenverbrannten
+sonnenverbrannte=sunburned
 sonnig
 sonnige
 sonst
@@ -8894,7 +8893,7 @@ ungeheuchelte
 Ungeheuer
 ungeheuerlicher
 ungeheure
-ungehobene
+ungehobene=undiscovered
 Ungehorsam
 ungemein
 ungerührt
@@ -9877,7 +9876,7 @@ Wirkung
 wirkungslos
 wir’s
 wirst
-Wirt
+Wirt=host
 Wirtschaftsräume
 Wirtshaus
 Wirtshausschild
