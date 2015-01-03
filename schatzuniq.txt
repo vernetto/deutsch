@@ -434,7 +434,7 @@ aufzusparen
 aufzuspringen
 aufzustehen
 aufzutauchen
-aufzutreten
+aufzutreten=(auftreten) act
 Auge
 Augen
 Augenblick
@@ -674,7 +674,7 @@ beieinander
 beißen
 beißen
 beigeführt
-beigetragen
+beigetragen=(beitragen) contributed
 beim
 Beim
 Bein
@@ -1698,8 +1698,7 @@ Darüber
 Darby
 darf
 darfes
-darin
-Darin
+darin=in that
 darum
 Darum
 darunter
@@ -3530,7 +3529,7 @@ gewann
 gewappnet
 gewarnt
 gewartet
-gewechselt
+gewechselt=(wechseln) changed
 geweckt
 Gewehr
 Gewehre
@@ -4027,7 +4026,7 @@ Haus
 Hause
 Hausecke
 Hauses
-Hausierer
+Hausierer=peddler,hawker
 Haustor
 Haut
 Hautstreifen
@@ -5128,11 +5127,7 @@ klettert
 kletterte
 kletterten
 klüger
-kläglich
-kläglich
-kläglichem
-kläglichen
-kläglicher
+kläglich=pathetic
 klickte
 Klima
 Klinge
@@ -6406,7 +6401,7 @@ Na
 ›Na‹
 nach
 Nach
-Nachbarn
+Nachbarn=(nachbar) neighbors
 nachdem
 Nachdem
 nachdenklich
@@ -6418,8 +6413,7 @@ nachlassen
 nachlässig
 Nachlässigkeit
 Nachmittag
-nachmittags
-Nachmittags
+Nachmittags=afternoon
 nachmittägliche
 Nachricht
 Nachrichten
@@ -6714,7 +6708,7 @@ obwohl’s
 Ochsen
 oder
 Oder
-offen
+offen=open
 offenbar
 Offenbar
 offenen
@@ -6809,7 +6803,7 @@ Pew
 Pews
 Pfanne
 Pfannen
-Pfeife
+Pfeife=whistle, pipe
 pfeifen
 Pfeifen
 pfeift
@@ -7860,7 +7854,7 @@ Setz
 setze
 setzen
 setzt
-setzte
+setzte=(vorsetzte) serve
 setzten
 Seufzer
 Söhnchen
@@ -8305,7 +8299,7 @@ stärker
 Stürme
 Stürmen=storm
 stürmischer
-Strümpfe
+Strümpfe=socks
 stürmte
 strömte
 Strömung
@@ -8860,7 +8854,7 @@ Verbündete
 Verbündeten
 verborgen
 verbracht
-verbrachte
+verbrachte=(verbringen) spent
 Verbrechen
 Verbrecher
 verbreitert
@@ -9358,7 +9352,7 @@ wagen
 Waghalsigkeit
 Wagnis
 wagt
-wagte
+wagte=(wagen) dared
 wagten
 Wahl
 wahr
@@ -9572,7 +9566,7 @@ wert
 Wert
 wertvolle
 Wesen
-wesentlich
+wesentlich=substantially
 wesentliche
 Westen
 Westküste
