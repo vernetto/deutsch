@@ -353,7 +353,7 @@ auffahre
 Aufforderung
 Aufgabe
 aufgeben
-aufgebraucht
+aufgebraucht=depleted
 aufgebrochen
 aufgedunsener
 aufgefahren
@@ -1250,7 +1250,7 @@ Bösewicht
 Buch
 Buchstabe
 buchstäblich
-Bucht
+Bucht=bay
 Buchten
 Buckel
 Bug
@@ -1918,14 +1918,8 @@ dreimal
 drein
 dreinschauender
 dreizehn
-dürft
-dürfte
-dürfte
-dürfte
-dürfte
-dürfte
-dürfte
-dürften
+dürft=may
+dürften=may
 dröhnen
 dröhnender
 dröhnte
@@ -2500,26 +2494,13 @@ exotischen
 Explosion
 F
 Faß
-Faß
-Faß
-Faß
-Faß
-Faß
-Faß
-Faß
-Faß
-Faß
-Faß
-Faß
-Faß
-Faß
 Fabrik
 Fachausdrücke
 Fackel
 Faden
 fahle
 fahlem
-fahler
+fahler=pale
 Fahne
 fahre
 fahren
@@ -2723,7 +2704,7 @@ Flüchen
 Flüchen
 flüchtige
 Fleck
-fleckigen
+fleckigen=stained
 flehen
 flehend
 Fleisch
@@ -3032,26 +3013,10 @@ Försters
 Fässer
 Fässern
 Fuß
-Fuß
-Fuß
-Fuß
-Fuß
-Fuß
-Fuß
-Fuß
-Fuß
-Fuß
-Fuß
-Fuß
-Fuß
-Fuß
-Fuß
-Fuß
-Fuß
 Fuchs
 fuchtelte
 Fug
-fuhr
+fuhr=fortfuhren=continue
 fuhren
 Funke
 Furcht
@@ -3342,7 +3307,7 @@ Geldbeutel
 Geldsorten
 gelebt
 gelegen
-gelegene
+gelegene=situated
 gelegenen
 Gelegenheit
 gelegt
@@ -3584,8 +3549,7 @@ gesunken
 getan
 getauft
 getaugt
-geteerte
-geteerten
+geteerte=tarred
 getragen
 getraut
 getreten
@@ -3615,16 +3579,8 @@ Gewerbe
 gewesen
 gewählt
 gewählt
-gewöhnlich
-gewöhnlich
-gewöhnlich
-gewöhnlich
-gewöhnlich
-gewöhnlich
-gewöhnlichen
-gewöhnlichen
-gewöhnlicher
-gewöhnt
+gewöhnlich=ordinary
+gewöhnt=accustomed
 gewöhnten
 gewiß
 gewiß
@@ -3840,7 +3796,7 @@ groß
 großartige
 großartigen
 großartiger
-grob
+grob=coarse
 grobe
 großem
 großem
@@ -4496,7 +4452,7 @@ hoch
 Hochebene
 hochgemut
 hochgewachsen
-hochgewachsener
+hochgewachsener=tall
 Hochwassergrenze
 hochzuklettern
 hockte
@@ -5098,7 +5054,7 @@ kappen
 kappt
 Kapuze
 Karosse
-Karren
+Karren=wheelbarrow
 Karte
 Kasten
 Katastrophe
@@ -5127,7 +5083,7 @@ keiner
 Keiner
 Kenne
 kennengelernt
-Kennermiene
+Kennermiene=air of a connoisseur
 kennst
 kennt
 Kenntnis
@@ -5224,14 +5180,14 @@ Klima
 Klinge
 klingen
 Klinke
-Klippen
+Klippen=cliffs
 klirren
 Klirren
 klirrten
 Kloß
 klopfen
 klopfendem
-klopfte
+klopfte=knocked
 Kälte
 Kälte
 Kälte
@@ -5372,12 +5328,12 @@ könnt’s
 könnt’s
 könnt’s
 Knochen
-Knüttel
+Knüttel=stick
 Knäuel
 knurrte
 Koch
 kochen
-Koje
+Koje=bunk
 Kojen
 kollerte
 Kombüse
@@ -5677,7 +5633,7 @@ landeten
 Landleben
 Landschaft
 Landseite
-Landspitze
+Landspitze=cape
 Landstrichs
 Landungsplatz
 Landungsversuch
@@ -5996,7 +5952,7 @@ lungerte
 Lust
 lustig
 Löwe
-Maat
+Maat=mate
 mach
 mache
 machen
@@ -6409,7 +6365,7 @@ Muskete‹
 Musketen
 Musketenkugeln
 Musketenschüsse
-musterte
+musterte=inspect
 mußt
 mußt
 mußt
@@ -6544,7 +6500,7 @@ Namen
 namens
 nannte
 nannten
-Narbe
+Narbe=scar
 Narr
 Narren
 Nase
@@ -6910,7 +6866,7 @@ Pfeil
 Äpfeln
 Pferd
 Pferde
-pfiff
+pfiff=whistle
 Pfiffe
 pfiffig
 Pflanzenreich
@@ -7090,7 +7046,7 @@ rauchenden
 Rauchwolke
 Rauchwolken
 Rauferei
-rauh
+rauh=rough
 rauhe
 rauhen
 rauhes
@@ -7405,18 +7361,7 @@ saufen
 Saum
 Savannah
 Säbel
-Säbel
-Säbel
-Säbel
-Säbel
-Säbel
-Säbel
-Säbel
-Säbel
-Säbel
-Säbel
-Säbel
-Säbelhiebs
+Säbelhiebs=saber chop
 Säbeln
 Säbelnarbe=saber scar
 säbelte
@@ -7462,7 +7407,7 @@ Scheit
 schelten
 Schößen
 Schößen
-Schenke
+Schenke=inn
 Schenkel
 schenkt
 schenkten
@@ -7508,7 +7453,7 @@ Schiff
 Schiffbruch
 Schiffe
 Schiffen
-Schiffer
+Schiffer=skipper
 Schiffes
 Schiffkoch
 Schiffs
@@ -7714,7 +7659,7 @@ schnupfen
 Schnupftabakdose
 Schnur
 schoß
-schob
+schob=push
 schoben
 scholl
 schon
@@ -7767,20 +7712,8 @@ Schützen
 Schätzen
 schätzte
 Schuß
-Schuß
-Schuß
-Schuß
-Schuß
-Schuß
-Schuß
-Schuß
-Schuß
-Schuß
-Schuß
 schußbereit
-schußbereit
-schußbereit
-Schubkarren
+Schubkarren=wheelbarrow
 Schuft
 Schufte
 Schuhe
@@ -7828,7 +7761,7 @@ schweißglänzendes
 schweigsame
 schweigsamer
 schwelenden
-Schwelle
+Schwelle=threshold
 schwellen
 schwenkte
 schwer
@@ -8319,7 +8252,7 @@ Steuer
 steuerbord
 Steuerbordwanten
 steuerlos
-Steuermann
+Steuermann=helmsman
 Steuermanns
 steuern
 Steuerrad
@@ -8425,8 +8358,7 @@ Streifen
 streite
 Streitigkeiten
 strengten
-strich
-Strich
+Strich=line
 strichen
 Strick
 Stricke
@@ -8756,7 +8688,7 @@ trockenliegt
 trocknete
 Trompete
 Tropenfrüchte
-Tropfen
+Tropfen=drop
 trotteten
 trotz
 Trotz
@@ -8829,7 +8761,7 @@ umringten
 Umrisse
 ums
 Ums
-umsah
+umsah=look around
 Umschau
 umschlotterte
 Umschwung
@@ -9114,7 +9046,7 @@ verlange
 Verlangen
 verlangsamt
 verlangt
-verlangte
+verlangte=request
 verlasse
 verlassen
 Verlauf
@@ -9204,13 +9136,13 @@ verschlagenen
 Verschlagenes
 verschlingen
 verschlungen
-verschmiert
+verschmiert=smudged
 verschmitzter
 verschnaufen
 Verschnaufen
 verschnaufte
 verschont
-verschrammt
+verschrammt=scratched
 verschwamm
 verschwand
 verschwanden
@@ -9547,8 +9479,8 @@ Wanderung
 Wanderungen
 wandte
 wandten
-Wange
-Wangen
+Wange=cheek
+Wangen=cheeks
 wann
 Wann
 Wanten
@@ -9666,7 +9598,7 @@ Weißer
 Weißes
 Weißglühen
 weil
-Weile
+Weile=a while
 weißlichen
 Wein
 Weinbrandgrog
@@ -9879,7 +9811,7 @@ wirst
 Wirt=host
 Wirtschaftsräume
 Wirtshaus
-Wirtshausschild
+Wirtshausschild=inn sign
 Wirtshäuser
 Wirtsleute
 Wirtsstube
@@ -9939,8 +9871,7 @@ wollten
 wolltest
 wolltet
 woran
-worauf
-Worauf
+worauf=what
 worden
 Wort
 Worte
@@ -10246,7 +10177,7 @@ zogen
 Zoll
 Zollbeamte
 Zollkutter
-Zopf
+Zopf=pigtail
 Zorn
 zorniger
 zottig
@@ -10288,7 +10219,7 @@ Zunächst
 Zunächst
 Zunächst
 Zunächst
-Zunge
+Zunge=tongue
 zunutze
 zur
 Zur
