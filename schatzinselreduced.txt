@@ -56,8 +56,8 @@ beiseite genommen und mir
 für jeden Monatsersten ein
 silbernes Vierpennystück
 versprochen, wenn ich die
-Augen nach einem »seebefahrenen Mann mit einem
-Bein« offenhalten und ihm
+Augen nach einem "seebefahrenen Mann mit einem
+Bein" offenhalten und ihm
 auf der Stelle melden wollte,
 sobald sich solch ein Mann
 sehen ließ. 
@@ -4920,7 +4920,3 @@ sie dort liegenbleiben. Keine zehn Pferde könnten mich jemals
 wieder zu der verwünschten Insel schleppen; und es sind meine
 schlimmsten Träume, wenn ich die Brandung an die Küste donnern höre oder jählings im Bett auffahre, weil mir die kreischende
 Stimme von Käpt’n Flint ins Ohr gellt: »Piaster! Piaster!
-
-
-
-
