@@ -2296,7 +2296,7 @@ ergreifen
 ergriffen
 erhalten
 erheben
-erheblich
+erheblich=substantially
 erhebt
 Erhebung
 erhellte
@@ -5975,7 +5975,7 @@ Manöver
 Mark
 marsch
 Marsch
-marterte
+marterte=martern=torture
 Masse
 Mast
 Mastspitze
@@ -6727,8 +6727,7 @@ oberhalb
 Oberhand
 Oberschenkel
 oberstes
-obgleich
-Obgleich
+Obgleich=although
 Obhut
 O’Brien
 ob’s
@@ -7245,8 +7244,7 @@ Rumtrinken
 rund
 Rund
 Rundbärten
-runde
-Runde
+Runde=round,company
 Runden
 rundes
 Rundhaus
@@ -9180,7 +9178,7 @@ Vertrauen
 vertrödeln
 Verträglichkeit
 vertrieben
-vertrug
+vertrug=vertragen=tolerate
 verunglückten
 verursachte
 vervollständigt
@@ -9380,9 +9378,8 @@ Vorsichtsmaßregeln
 vorsorglich
 Vorsprung
 vorstellen
-Vorstellung
-Vorstellungen
-Vorstellungskraft
+Vorstellung=vision
+Vorstellungskraft=imagination
 Vorteil
 vortrefflichen
 Vorwand
