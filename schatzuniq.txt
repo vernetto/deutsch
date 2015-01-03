@@ -184,8 +184,7 @@ angefangen
 angefertigt
 angegriffen
 angeholt
-angehört
-angehört
+angehört=belong
 angeht
 angekommen
 angelangt
@@ -217,7 +216,7 @@ angreifen
 Angreifer
 Angriff
 Angriffs
-Angst
+Angst=fear
 anheuern
 Anhöhe
 Anhöhe
@@ -273,7 +272,7 @@ Antwort
 antworten
 antwortete
 anvertrauen
-Anwesenheit
+Anwesenheit=presence
 Anzahl
 Anzeichen
 anziehen
@@ -405,7 +404,7 @@ Aufprall
 aufragend
 aufragt
 aufrecht
-Aufregung
+Aufregung=excitement
 aufreißen
 aufrichtig
 aufs
@@ -850,14 +849,7 @@ beruhigten
 überzeugen
 überzeugen
 überzeugende
-überzeugt
-überzeugt
-überzeugt
-überzeugt
-überzeugt
-überzeugt
-überzeugt
-überzeugt
+überzeugt=convinced
 Überzeugung
 überzogen
 besaß
@@ -987,7 +979,7 @@ bewährte
 bewährten
 bewies
 bewirkt
-bewunderten
+bewunderten=admire
 Bewunderung
 bewußt
 Bewußtsein
@@ -1000,7 +992,7 @@ bezeichnen
 bezeichnet
 Bezeichnung
 beziehen
-Beziehung
+Beziehung=(in einer) in one respect
 bezwang
 bezweifeln
 Bibel
@@ -1134,7 +1126,7 @@ Botschaft
 Bär
 brach
 brachen
-brachte
+brachte=(bringen) bringen übers Herz=have the courage
 brachten
 Brandung
 brannte
@@ -2320,21 +2312,10 @@ erkennen
 Erkennungszeichen
 erklang
 erkläre
-erklären
+erklären=declare
 erklärenden
 erklärt
-erklärte
-erklärte
-erklärte
-erklärte
-erklärte
-erklärte
-erklärte
-erklärte
-erklärte
-erklärten
-erklärten
-Erklärung
+erklärte=(erklären) declare
 Erklärung
 erkundigte=enquired
 erlauben
@@ -3102,7 +3083,7 @@ gedruckte
 gedrungen
 gedöst
 gedulden
-geduldet
+geduldet=tolerated
 gedunsenen
 geeigneten
 geeignetste
@@ -5607,7 +5588,7 @@ Landabenteuer
 Landausflug
 Landes
 landeten
-Landleben
+Landleben=country Life
 Landschaft
 Landseite
 Landspitze=cape
@@ -5874,10 +5855,7 @@ längs
 längs
 längsseits
 Längsseits
-längst
-längst
-längst
-längst
+längst=long ago
 lobendes
 Loch
 locker
@@ -6474,8 +6452,7 @@ Naht
 Name
 Namen
 namens
-nannte
-nannten
+nannten=(nennen) called
 Narbe=scar
 Narr
 Narren
@@ -7063,7 +7040,7 @@ rechne
 rechnen
 rechnet
 Rechnung
-recht
+recht=quite
 Recht
 rechte
 Rechte
@@ -7129,28 +7106,15 @@ rettest
 rettet
 Rettung
 rettungslos
-Ärger
-Ärger
+Ärger=anger
 ärgerlich
 Rheumatismus
 rühmen
 Röhricht
 rührte
-rührte
-rührte
-rührte
-rührte
-rührte
-riß
-riß
-riß
-riß
-riß
-riß
 riß
 Richard
-richten
-richtete
+richten=set
 richtig
 Richtig
 richtige
@@ -7979,7 +7943,7 @@ sobald’s
 Sockel
 sofort
 Sofort
-sogar
+sogar=even
 Sogar
 sogenannten
 sogleich
@@ -8267,10 +8231,10 @@ Stimme
 stimmen
 Stimmen
 stimmte
-stimmten
+stimmten=(einstimmen) join
 stimmt’s
 Stimmung
-Stimmungen
+Stimmungen=moods
 östlichen
 östlicher
 östlicher
@@ -8857,7 +8821,7 @@ unverändert
 Unverschämtheit
 unverständlich
 unverständliche
-unverträglichste
+unverträglichste=most intolerant
 unverzüglich
 unverzüglich
 unverzüglich
@@ -8876,7 +8840,7 @@ Vaters
 Vegetation
 verabschieden
 verabschiedete
-verachten
+verachten=despise
 Veranda
 verankerten
 veranlaßt
@@ -9295,7 +9259,7 @@ vorüberkamen
 vorüberpfiff
 vorüberpfiff
 vorbeugten
-vorbrachte
+vorbrachte=uttered
 Vordeck
 Vorderarm
 Vorderboot
@@ -9785,7 +9749,7 @@ wünschten
 wünschten
 wo
 Wo
-Woche
+Woche=(Woche um Woche=week after week)
 Wochen
 Wogen
 woher
@@ -10106,14 +10070,7 @@ Zirpen
 Zischeln
 zischte
 zitierte
-zittern
-Zittern
-zitternd
-zitternde
-zitternden
-zitternder
-zitterte
-zitterten
+zitternden=trembling
 zündete
 Zündpfanne
 zog
@@ -10144,7 +10101,7 @@ zugelassen
 zugesagt
 zugeschworen
 Zugeständnis
-zugrunde
+zugrunde=(richten) ruin
 zukam
 zukehrte
 zulangte
