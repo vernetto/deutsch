@@ -2302,7 +2302,7 @@ Erhebung
 erhellte
 erhielt
 erhielten
-Erhängen
+Erhängen=hanging
 erhob
 erhoben
 erhoffen
@@ -2421,7 +2421,7 @@ ertönte
 ertönte
 ertönten
 ertragen
-Ertränken
+Ertränken=drowning
 erwachsene
 erwachsenen
 erwacht
@@ -3067,7 +3067,7 @@ gebohrt
 geboren
 geborene
 geborgen
-gebot
+gebot=bieten=command
 geboten
 gebracht=bringen=brought
 gebrannt
@@ -3357,7 +3357,7 @@ geradeaus
 Geradeaus
 geradewegs
 geradezu
-geraten
+geraten=get into
 Geratewohl
 geraubt
 gerecht
@@ -3417,7 +3417,7 @@ geschah
 geschahen
 geschaut
 geschehen
-Geschehnissen
+Geschehnissen=events
 gescheiten
 geschenkt
 gescheuert
@@ -4380,8 +4380,7 @@ Hülle
 Hölle
 Hölle
 Hölle
-höllische
-höllische
+höllische=hellish
 hält
 Hände
 Hände
@@ -7487,7 +7486,7 @@ schleuderten
 schleunigst
 Schläfer
 Schläfers
-schläfrig
+schläfrig=somnolent
 Schläge
 schlich
 schlichen
@@ -7646,10 +7645,8 @@ Schöpfer
 Schöpfer
 Schraubstock
 Schreck
-Schrecken
-schreckliche
-Schreckliche
-schrecklichen
+Schrecken=terror
+schreckliche=terrible
 Schrei
 Schreie
 schreien
@@ -8342,25 +8339,12 @@ stärker
 stärker
 stärker
 Stürme
-Stürmen
-Stürmen
+Stürmen=storm
 stürmischer
 Strümpfe
 stürmte
 strömte
 Strömung
-Strömung
-Strömung
-Strömung
-Strömung
-Strömung
-Strömung
-Strömung
-Strömung
-Strömung
-Strömung
-Strömung
-Stränge
 Stränge
 Strohdach
 störte
@@ -8370,18 +8354,6 @@ Sträucher
 Störung
 stürzen
 stürzte
-stürzte
-stürzte
-stürzte
-stürzte
-stürzte
-stürzte
-stürzte
-stürzte
-stürzte
-stürzten
-stürzten
-stürzten
 stürzten
 stößt
 stützen
@@ -8548,7 +8520,7 @@ Tonnage
 Tonnen
 Tor
 Torheit
-torkelte
+torkelte=torkeln=totter
 Tortugas
 tosend
 tot
@@ -9131,7 +9103,7 @@ versenkt
 versenkten
 versessen
 versetzt
-versetzte
+versetzte=(in Schrecken) frighten, move
 versichern
 versicherte
 versiegelte
