@@ -190,9 +190,7 @@ angekommen
 angelangt
 Angelegenheiten
 angemerkt
-angenehm
-angenehme
-angenehmen
+angenehm=pleasant
 Angenehmer
 angenehmes
 angenommen
@@ -284,7 +282,7 @@ anzuhören
 anzuhäufen
 anzuschauen
 anzusehen
-anzustimmen
+anzustimmen=(anstimmen) begin to sing
 anzustoßen
 anzutun
 anzuzünden
@@ -721,8 +719,7 @@ Bemühungen
 üben
 Ben
 Benbow
-benehmen
-Benehmen
+Benehmen=behavior
 benehmt
 beneiden
 benetzt
@@ -1012,7 +1009,7 @@ bin’s
 bin’s
 bin’s
 Binsen
-bis
+bis=(bis auf) except
 Bis
 Bischof
 bisher
@@ -1238,7 +1235,7 @@ böses
 Böses
 Böses
 Bösewicht
-übte
+übte=(üben)practice
 Buch
 Buchstabe
 buchstäblich
@@ -2565,7 +2562,7 @@ festgenommen
 festgewurzelt
 festhielt
 Festland
-feststellen
+feststellen=find,discover
 feststellte
 Festung
 festzustellen
@@ -3174,7 +3171,7 @@ gegenüberstanden
 Gegend
 Gegenden
 gegeneinander
-Gegensatz
+Gegensatz=contrast
 Gegenstände
 Gegenteil=contrary
 gegessen
@@ -3209,7 +3206,7 @@ gehißt
 Gehölz
 gehoben
 gehofft
-geholt
+geholt=(holen) fetch
 gehorcht
 gehorchte=gehorchen=obey
 gehorsam
@@ -3330,7 +3327,7 @@ geplant
 geplündert
 geplündert
 gepocht
-gepuderten
+gepuderten=powdered
 gerade
 Gerade
 geradeaus
@@ -4747,7 +4744,7 @@ jegliche
 jemals
 jemand
 jemanden
-jenem
+jenem=that
 jenen
 jener
 jenes
@@ -7771,12 +7768,7 @@ seemännischer
 seemännisches
 Seeoffizier
 Seereisen
-Seeräuber
-Seeräuber
-Seeräuber
-Seeräuber
-Seeräuber
-Seeräuber
+Seeräuber=buccaneer
 seetüchtiges
 Seewasser
 Seewind
@@ -8082,7 +8074,7 @@ Spur
 Spuren
 Squire
 SSW
-stach
+stach=(stechen) sting, pierce 
 Stadt
 Stag
 Stahl
@@ -8277,7 +8269,7 @@ stranden
 Strang
 Streck
 Strecke
-streckte
+streckte=(strecken) protrude
 Streich
 streiche
 streichelte
@@ -8374,7 +8366,7 @@ tastete
 tasteten
 tat
 Tat
-taten
+taten=tun
 Tatsache
 tatsächlich
 tatsächlich
@@ -8574,7 +8566,7 @@ törichten
 Törichtes
 trieb
 triefend
-triefäugigen
+triefäugigen=bleary-eyed
 trillern
 trinke
 trinken
@@ -8648,14 +8640,13 @@ umgedreht
 umgehängt
 umgekrempelt
 umgeworfen
-umgänglichen
-umgänglicher
+umgänglichen=approachable
 umher
 umherspüren
 umhin
 umhüllten
 umkreiste
-umnebelt
+umnebelt=fogged
 umrandet
 umrankt
 umrechnen
@@ -9179,33 +9170,8 @@ Visiert
 Visite
 Vizekönig
 völlig
-völlig
-völlig
-völlig
-völlig
-völlig
-völlig
-völlig
-völlig
-völlig
-völlig
-völlig
-völlig
-völlig
-völlig
-völlig
-völlig
-völlig
-völlig
-völlig
-völlig
-völlig
-völlig
-völlig
-völlig
 Vogel
-›Vogel
-Vogelscheuche
+Vogelscheuche=scarecrow
 voll
 vollauf
 volle
@@ -9216,8 +9182,6 @@ vollkommen
 Vollkommen
 Vollmond
 Vollschiffs
-vollständig
-vollständig
 vollständig
 volläuft
 Vollversammlung
@@ -9706,7 +9670,7 @@ wirkliche
 wirkt
 wirkte
 wirkten
-Wirkung
+Wirkung=effect
 wirkungslos
 wir’s
 wirst
