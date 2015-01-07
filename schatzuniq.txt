@@ -2850,7 +2850,7 @@ fürchte
 fürchte
 fürchten
 fürchten
-fürchterlich
+fürchterlich=tremendous
 fürchterlicher
 fürchtet
 fürchtet
@@ -6388,7 +6388,7 @@ nachzog
 nacktes
 Nadeln
 nagelfest
-nageln
+nageln=nail
 nahe
 nahegelegt
 nahen
@@ -7060,7 +7060,7 @@ rettungslos
 Rheumatismus
 rühmen
 Röhricht
-rührte
+rührte=(rühren) move, stir
 riß
 Richard
 richten=set
@@ -7988,7 +7988,7 @@ Spotts
 sprach
 Sprache
 sprachen
-sprang
+sprang=(aufpsringen) jump up
 sprangen
 Sprüchlein
 spreche
@@ -8066,14 +8066,6 @@ Staunen
 staunte
 Stöbern
 Stück
-Stück
-Stück
-Stück
-Stück
-Stück
-Stück
-Stück
-Stück
 Stückchen
 Stücke
 Stücke
@@ -8082,9 +8074,7 @@ Stücke
 Städten
 städtischen
 stechen
-stecken
-steckt
-steckte
+stecken=put
 stehe
 stehen
 Stehen
@@ -8680,7 +8670,7 @@ ungeheure
 ungehobene=undiscovered
 Ungehorsam
 ungemein
-ungerührt
+ungerührt=impassive
 ungeschoren
 ungeschützten
 ungesunder
@@ -9136,8 +9126,7 @@ volle
 vollen
 vollendeter
 voller
-vollkommen
-Vollkommen
+vollkommen=completely
 Vollmond
 Vollschiffs
 vollständig
