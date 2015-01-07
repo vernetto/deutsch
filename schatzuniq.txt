@@ -188,7 +188,7 @@ angehört=belong
 angeht
 angekommen
 angelangt
-Angelegenheiten
+Angelegenheiten=affari
 angemerkt
 angenehm=pleasant
 Angenehmer
@@ -316,7 +316,7 @@ aschgrauen
 Assel
 Ast
 Atem
-Atemhauch
+Atemhauch=breath
 atemlos
 atmeten
 auch
@@ -372,7 +372,7 @@ aufgeschnappt
 aufgeschreckt
 aufgesessen
 aufgespürt
-aufgestanden
+aufgestanden=got up
 aufgestiegen
 aufgestörte
 aufgetischt
@@ -381,7 +381,7 @@ aufgezogen
 aufging
 aufgrund
 aufhielt
-aufhält
+aufhält=(sich aufhalten) stay
 aufhören=stop
 Aufklatschen
 aufklären
@@ -548,8 +548,7 @@ Backbordseite
 Backbordwanten
 Backe
 backt
-bald
-Bald
+bald=soon
 Balgerei
 band
 Bande
@@ -574,7 +573,7 @@ Büchsenschuß
 Bücken
 beabsichtigt
 beachtete
-beachteten
+beachteten=(beachten) pay attention
 Becken
 bedacht
 bedachte
@@ -718,7 +717,7 @@ Bemühungen
 Ben
 Benbow
 Benehmen=behavior
-benehmt
+benehmt=behave
 beneiden
 benetzt
 Bengel
@@ -762,7 +761,7 @@ bereute
 überflüssiges
 Überfluß
 überflutet
-bergab
+bergab=downhill
 übergegangen
 bergen
 übergeschnappt
@@ -1093,14 +1092,10 @@ blutigen
 Blutspritzer
 Bluttaten
 Bündel
-Bündel
-Bündel
-Bündel
-Bündel
 bündig
 Boden
 Bodennebel
-bog
+bog=(umbiegen) turn
 bogen
 Bogen
 Bogensehne
@@ -1642,8 +1637,7 @@ dann
 Dann
 daran=to that
 daranlehnte
-darauf
-Darauf
+darauf=on that
 daraufhin
 Daraufhin
 daraus
@@ -1977,7 +1971,7 @@ Ehren
 Ehrenbezeigung
 Ehrenmann
 Ehrensache
-Ehrenwort
+Ehrenwort=word of honor
 ehrfurchtsvoll
 ehrgeiziger
 ehrlich
@@ -2243,7 +2237,7 @@ ergab
 ergaben
 ergeben
 Ergebensten
-ergreifen
+ergreifen=adopt
 ergriffen
 erhalten
 erheben
@@ -2561,11 +2555,7 @@ Feuerzeug
 Öffnung
 Öffnung
 fügen
-fügte
-fügte
-fügte
-fügte
-fügte
+fügte=(sich fügen) obey
 fühlen
 fühlen
 fühlte
@@ -2929,7 +2919,7 @@ Frühstück
 Frühstückstisch
 Frühstückstisch
 Frieden
-Friedensrichter
+Friedensrichter=magistrate
 friedlich
 friedvoll
 frisch
@@ -3264,7 +3254,7 @@ genauso
 geändert
 geneigt
 geneigtes
-genügen
+genügen=suffice
 genügt
 genügte
 genügte
@@ -3500,19 +3490,7 @@ gewählt
 gewöhnlich=ordinary
 gewöhnt=accustomed
 gewöhnten=accustomed
-gewiß
-gewiß
-gewiß
-gewiß
-gewiß
-gewiß
-gewiß
-gewiß
-gewiß
-gewiß
-gewiß
-gewiß
-Gewiß
+gewiß=sure
 gewichen
 Gewicht
 gewickelt
@@ -3972,7 +3950,7 @@ hatte
 Hatte
 hatten
 hattet
-Hauch
+Hauch=breath
 hauen
 Haulbowline
 Hauptmast
@@ -4274,7 +4252,7 @@ hindurch
 hinein
 Hinein
 hineinführen
-hing
+hing=(hangen) hang around
 hingab
 hingelegt
 hingemordet
@@ -5240,7 +5218,7 @@ könnt’s
 Knochen
 Knüttel=stick
 Knäuel
-knurrte
+knurrte=(knurren) growled
 Koch
 kochen
 Koje=bunk
@@ -5783,7 +5761,7 @@ Lippen
 Liste
 Livesey
 Liveseys
-lümmelhaft
+lümmelhaft=ill mannered, boorish
 Lämmer
 Länder
 Ländern
@@ -6014,49 +5992,13 @@ Meuterern
 mexikanischen
 möge
 mögen
-mögen
-mögen
-möglich
-möglich
-möglich
-möglich
-möglich
-möglich
-möglich
-möglich
-möglich
-möglich
-möglich
 möglich
 möglichen
 Möglichkeit
 möglichst
-möglichst
-möglichst
-möglichst
-möglichst
 möglichstes
 M’Graw
-M’Graw
-M’Graw
-mögt
-mögt
-mögt
-mögt
-mögt
-mögt
-mögt
-mögt
-Mühe
-Mühe
-Mühe
-Mühe
-Mühe
-Mühe
-Mühe
-Mühe
-Mühe
-Mühe
+mögt=mögen
 Mühe
 mühelos
 Mühle
@@ -6065,9 +6007,7 @@ mühsam
 mühsame
 mühselig
 mühte
-mühte
 mich
-Mich
 Mienenspiel
 Mieter
 müßig
@@ -7084,7 +7024,7 @@ riet
 Ringen
 Ringkampf
 Rippen
-ritt
+ritt=(reiten) ride horse
 ritten
 Ritter
 rittlings
@@ -7292,7 +7232,6 @@ Scheinangriffe
 scheint
 Scheit
 schelten
-Schößen
 Schößen
 Schenke=inn
 Schenkel
@@ -8074,7 +8013,7 @@ Stücke
 Städten
 städtischen
 stechen
-stecken=put
+stecken=put (einstecken) sheathe
 stehe
 stehen
 Stehen
@@ -8229,7 +8168,7 @@ strengten
 Strich=line
 strichen
 Strick
-Stricke
+Stricke=(Strick) ropes
 Stricks
 stritt
 stärker
@@ -8623,7 +8562,7 @@ umzusetzen
 unablässig
 unablässig
 unablässige
-unangenehmen
+unangenehmen=unpleasant
 unausstehlichen
 unbeachtet
 unbedingt
@@ -8929,7 +8868,7 @@ verändert
 verändert
 veränderter
 vernehmbar
-vernehme
+vernehme=hear
 vernehmen
 verängstigt
 vernichtet
@@ -8940,7 +8879,7 @@ Vernünftiges
 verpaßt
 verpflichte
 verprügeln
-verprügelter
+verprügelter=(verprügeln) spanked
 verrate
 verraten
 verrückt
@@ -9174,10 +9113,10 @@ Vorderschiff
 vordersten
 Vordersteven
 Vorderteil
-Vorfälle
+Vorfälle=incident
 Vorgebirge
 vorgefallen
-vorgeführt
+vorgeführt=presented
 vorgefunden
 vorgehabt
 vorgehen
@@ -9344,7 +9283,7 @@ weg
 Weg
 wegen
 Wegen
-weggeschafft
+weggeschafft=taken away
 weggeworfen
 weglaufen
 wegriß
@@ -9468,7 +9407,7 @@ werde
 werden
 Werden
 werden’s
-werdet
+werdet=(werden) will
 werd’s
 werfen
 Werk
