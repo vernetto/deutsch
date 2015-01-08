@@ -371,7 +371,7 @@ aufgeschlitzt
 aufgeschnappt
 aufgeschreckt
 aufgesessen
-aufgespürt
+aufgespürt=tracked
 aufgestanden=got up
 aufgestiegen
 aufgestörte
@@ -509,7 +509,7 @@ Ausreißen
 ausrief
 ausrüsten
 ausräuchern
-aussah
+aussah=(aussieht) looked
 Ausschau
 ausschelten
 ausschiffe
@@ -2200,9 +2200,7 @@ er
 Er
 erbarmungslos
 erbeutet
-erblickt
-erblickte
-erblickten
+erblickt=(erblicken)see
 erbost
 erbötig
 Erdbeben
@@ -3399,7 +3397,7 @@ Gesindel
 Gesinnung
 gespannt
 gespanntes
-Gespenst
+Gespenst=ghost
 gespenstischer
 gesperrten
 gespielt
@@ -3483,7 +3481,7 @@ gewöhnlich=ordinary
 gewöhnt=accustomed
 gewöhnten=accustomed
 gewiß=sure
-gewichen
+gewichen=(weichen) vanished
 Gewicht
 gewickelt
 Gewißheit
@@ -3902,7 +3900,7 @@ handhaben
 Hands
 Handschrift
 Handschuh
-Handumdrehen
+Handumdrehen=instantly
 Handwerk
 Handwerkszeug
 Hang
@@ -4238,7 +4236,7 @@ hingab
 hingelegt
 hingemordet
 hingen
-hinsetzen
+hinsetzen=sit down
 hinten
 hinter=behind
 Hinterhalt
@@ -4949,7 +4947,7 @@ kühlen
 kühlenden
 kühler
 Kühlung
-kühn
+kühn=bold
 kühner
 kühner
 Kiel
@@ -5580,7 +5578,7 @@ Leibe
 Leibes
 Leibeskräften
 leibhaftig
-Leibhaftigen
+Leibhaftigen=?
 leibst
 leibt
 Leiche
@@ -5950,7 +5948,7 @@ mitlachen
 Mitleid
 mitmachen
 mitnehmen
-mitsammen
+mitsammen=together
 Mittag
 Mittagessen
 Mittagssonne
@@ -6773,7 +6771,7 @@ ragte
 Rahe
 Rahen
 Rand
-rang
+rang=(ringen) wrestled
 Rang
 Ranghöchste
 rann
@@ -7773,9 +7771,8 @@ Sonnenuntergang
 sonnenverbrannte=sunburned
 sonnig
 sonnige
-sonst
-Sonst
-sorgen‹
+sonst=else
+sorgen
 Sorgen
 Sorgfalt
 sorgsam
@@ -8861,7 +8858,7 @@ verstehen
 verstehst
 Verstehst
 versteht
-verstümmelte
+verstümmelte=mutilated
 verständigen
 verstohlen
 verstrich
@@ -9399,7 +9396,7 @@ Wiedereroberung
 wiedererwachenden
 wiedergefunden
 wiedergefundenen
-wiedergewann
+wiedergewann=regained
 Wiederherstellung
 wiederholen
 wiederholt
