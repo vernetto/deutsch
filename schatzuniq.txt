@@ -352,7 +352,7 @@ Aufgabe
 aufgeben
 aufgebraucht=depleted
 aufgebrochen
-aufgedunsener
+aufgedunsener=bloated, fatty
 aufgefahren
 aufgefallen
 aufgefordert=asked
@@ -388,7 +388,7 @@ aufklären
 Aufklärungen
 aufkommen
 auflachte
-auflauerte
+auflauerte=(auflauern) ambush
 aufmachen
 aufmachte
 aufmerksam
@@ -459,7 +459,7 @@ ausgebreitet
 ausgeführt
 ausgeführt
 ausgeführt
-ausgegangen
+ausgegangen=go out
 ausgeglichene
 ausgegraben
 ausgeheckt
@@ -689,7 +689,7 @@ Bekanntschaft
 bekennen
 beklagt
 bekomme
-bekommen
+bekommen=got
 übel
 übel
 übel
@@ -1952,10 +1952,9 @@ eben
 Eben
 ebener
 ebenfalls
-ebenso
-ebensogut
+ebenso=just as
+ebensogut=as well
 ebensowenig
-Ebensowenig
 Echo
 Echos
 echten
@@ -2135,7 +2134,7 @@ entdeckte
 entdeckten
 Entdeckungen
 entern
-Entersäbel
+Entersäbel=cutlass
 entfernen
 entfernt
 entfernte
@@ -2229,7 +2228,7 @@ Erfüllungen
 Erfolg
 erfolgloses
 erfolgte
-erfreulich
+erfreulich=cheering
 erfreut
 erfreuten
 erfuhr
@@ -2274,7 +2273,7 @@ erkundigte=enquired
 erlauben
 erlaubt
 erlaubte
-erleben
+erleben=experience
 erlebt
 erledigt
 erleichtert
@@ -2472,8 +2471,7 @@ Füße
 Füße
 fechten
 Feder
-fehlte
-fehlten
+fehlten=(fehlen) lack, miss
 Feiertagen
 Feigling
 Feiglinge
@@ -2838,15 +2836,9 @@ Färbung
 Färbung
 fürchte
 fürchte
-fürchten
-fürchten
+fürchten=(sich f.) to be afrait
 fürchterlich=tremendous
 fürchterlicher
-fürchtet
-fürchtet
-fürchtet
-fürchtete
-fürchtete
 freß
 frech
 Fregatte
@@ -3396,12 +3388,12 @@ Gesellschaft=company
 Gesellschafter=partner
 gesessen
 gesetzt
-Gesicht
+Gesicht=face
 Gesichter
 Gesichtern
 gesichtet
 Gesichts
-Gesichtsausdruck
+Gesichtsausdruck=expression
 gesiegelt
 Gesindel
 Gesinnung
@@ -3534,7 +3526,7 @@ gierig
 Gift
 Gilt
 ging
-ginge
+ginge=(angehen) concern
 gingen
 Ginster
 Gipfel
@@ -3772,20 +3764,10 @@ Grundfarbe
 Gruppe
 Gruppen
 Gäste
-Gäste
-Gäste
-Gäste
-Gäste
-Gäste
-Gäste
-Güte
-Güte
-Güte
-Güte
-Güte
+Güte=(du meine Güte) my goodness
 gütiger
 gütiger
-Guckglas
+Guckglas=telescope
 Guineas
 Guineen
 Gunn
@@ -3896,8 +3878,7 @@ half
 Hallo
 Hallorufe
 hallte
-Hals
-Halse
+Hals=throat
 Halstuch
 halt
 Halt
@@ -4080,7 +4061,7 @@ herüber
 herüber
 herüber
 Herbst
-herein
+herein=inside
 hereingebracht
 hereingebrochen
 hereingeschneit
@@ -4259,8 +4240,7 @@ hingemordet
 hingen
 hinsetzen
 hinten
-hinter
-Hinter
+hinter=behind
 Hinterhalt
 hinterlistigen
 Hinterschiff
@@ -4278,7 +4258,7 @@ hinweg
 Hinweis
 hinzog
 hinzu
-hinzufügen
+hinzufügen=add
 hinzugefügt
 hinzuzusetzen
 Hispaniola
@@ -4298,39 +4278,7 @@ Hölle
 höllische=hellish
 hält
 Hände
-Hände
-Hände
-Hände
-Hände
-Hände
-Hände
-Hände
-Hände
-Hände
-Hände
-Hände
-Hände
-Hände
-Hände
-Hände
 Händen
-Händen
-Händen
-Händen
-Händen
-Händen
-Händen
-Händen
-Händen
-Händen
-Händen
-Händen
-Händen
-Händen
-hängen
-hängen
-hängen
-hängen
 hängen
 Hängen
 hängend
@@ -5072,7 +5020,7 @@ Klippen=cliffs
 klirren
 Klirren
 klirrten
-Kloß
+Kloß=meatball
 klopfen
 klopfendem
 klopfte=knocked
@@ -5555,7 +5503,7 @@ Laterne
 Laternenträger
 laßt’s
 Laubdach
-lauernd
+lauernd=(lauern) lurking
 lauernde
 lauf
 Lauf
@@ -5683,44 +5631,6 @@ lichteten
 Lichtfleckchen
 Lichtung
 ließ
-ließ
-ließ
-ließ
-ließ
-ließ
-ließ
-ließ
-ließ
-ließ
-ließ
-ließ
-ließ
-ließ
-ließ
-ließ
-ließ
-ließ
-ließ
-ließ
-ließ
-ließ
-ließ
-ließ
-ließ
-ließ
-ließ
-ließ
-ließ
-ließ
-ließ
-ließ
-ließ
-ließ
-ließ
-ließ
-ließ
-ließ
-ließ
 lieb
 liebe
 Liebe
@@ -5788,8 +5698,7 @@ Längsseits
 längst=long ago
 lobendes
 Loch
-locker
-lockerte
+locker=loosen
 Logbuch
 lohnend
 lohnte
@@ -5831,7 +5740,7 @@ lugte
 Luke
 Lump=rascal
 Lunge
-lungerte
+lungerte=(lungern) hang about
 Lust
 lustig
 Löwe
@@ -5839,13 +5748,13 @@ Maat=mate
 mach
 mache
 machen
-›machen
+machen
 macht
 Macht
 machte
 machten
 Madagaskar
-mag
+mag=(mögen) likes 
 Mag
 Magd
 Magen
@@ -6854,7 +6763,7 @@ Quantum
 Quartier
 Quartiermeister
 Quelle
-quer
+quer=diagonally
 Quere
 quälen
 rabenschwarze
@@ -6929,7 +6838,7 @@ rechne
 rechnen
 rechnet
 Rechnung
-recht=quite
+recht=quite,all right. wenn es [dir] recht ist (wenn du einverstanden bist)
 Recht
 rechte
 Rechte
@@ -7151,13 +7060,13 @@ Sagt
 sagte
 sagten
 Sagt’s
-sah
+sah=(aussehen) look like
 sahen
 salutierte
 Salve
 Salven
 Salz
-Salzgeruch
+Salzgeruch=smell of salt
 Salzluft
 Salzwasser
 Sammlung
@@ -7187,7 +7096,7 @@ Sauerei
 saufen
 Saum
 Savannah
-Säbel
+Säbel=saber
 Säbelhiebs=saber chop
 Säbeln
 Säbelnarbe=saber scar
@@ -7225,7 +7134,7 @@ Schädel
 Schädel
 Schädel
 Scheiben
-Scheide
+Scheide=sheath
 Scheidewand
 Schein
 Scheinangriffe
@@ -7257,7 +7166,7 @@ schiefe
 schiefgegangen
 Schießkunst
 Schielauge
-schien
+schien=(scheinen) seem
 schienen
 Schießpulver
 Schießscharte
@@ -7410,13 +7319,13 @@ Schluß
 Schluß
 Schluck
 schlucken
-schluckte
+schluckte=swallowed
 schluckten
 schlug
 Schmach
 schmale
 Schmalseiten
-Schmarre
+Schmarre=cut
 schmecken
 Schmeichelhaftes
 schämen
@@ -7746,12 +7655,7 @@ setzt
 setzte=(vorsetzte) serve
 setzten
 Seufzer
-Söhnchen
-Söhnchen
-Söhnchen
-Söhnchen
-Söhnchen
-Söhnchen
+Söhnchen=son
 sich
 sicher
 sichere
@@ -7903,10 +7807,7 @@ Spektakel
 Spendier
 sperrte
 Spähers
-spähte
-spähte
-spähte
-spähte
+spähte=(spähen) peered
 spähten
 spiegelte
 Spiegelung
@@ -7984,9 +7885,7 @@ standen
 Standpauke
 Standpunkt
 stapelten
-stapfen
-stapfte
-stapften
+stapfen=stomp
 starb
 stark
 Starkduftender
@@ -8013,7 +7912,7 @@ Stücke
 Städten
 städtischen
 stechen
-stecken=put (einstecken) sheathe
+stecken=put (einstecken) sheathe, stuck
 stehe
 stehen
 Stehen
@@ -8567,7 +8466,7 @@ unausstehlichen
 unbeachtet
 unbedingt
 Unbehagen
-unbehaglich
+unbehaglich=(u. zumute) feel uncomfortable
 unbehindert
 unbekannten
 unbemerkt
@@ -8636,7 +8535,7 @@ unrecht
 Unrecht
 unregelmäßigen
 Unruhe
-unruhig
+unruhig=restless
 unruhige
 uns
 unschätzbaren
@@ -8751,7 +8650,7 @@ verdanken
 verdankten
 verdächtigen
 Verdeck
-verdeckt
+verdeckt=concealed
 verdichtete
 Verdienst
 verdoppelte
@@ -8767,7 +8666,7 @@ verfallen
 verfehlen
 verfehlten
 Verführung
-verflixt
+verflixt=darn
 verflogen
 verflucht
 Verflucht
@@ -9157,7 +9056,7 @@ Vorsichtsmaßnahmen
 Vorsichtsmaßregeln
 vorsorglich
 Vorsprung
-vorstellen
+vorstellen=(sich v.) imagine
 Vorstellung=vision
 Vorstellungskraft=imagination
 Vorteil
@@ -9553,7 +9452,7 @@ wirkenden
 wirklich
 wirkliche
 wirkt
-wirkte
+wirkte=(wirken) seem, appear
 wirkten
 Wirkung=effect
 wirkungslos
@@ -9582,10 +9481,7 @@ wälzen
 Wände
 Wänden
 wünsche
-wünschen
-wünschen
-wünschen
-Wünschen
+Wünschen=wish
 wünscht
 wünschte
 wünschten
@@ -9632,60 +9528,7 @@ wortkarg
 wovon
 Wrack
 würd’
-würde
-würde
-würde
-würde
-würde
-würde
-würde
-würde
-würde
-würde
-würde
-würde
-würde
-würde
-würde
-würde
-würde
-würde
-würde
-würde
-würde
-würde
-würde
-würde
-würde
-würde
-würde
-würde
-würde
-würde
-würde
-würde
-würde
-würde
-würde
-würde
-Würde
-Würde
-würden
-würden
-würden
-würden
-würden
-würden
-würden
-würden
-würden
-würden
-würdest
-würdest
-Würdest
-würdet
-würdet
-würdet
+würde=(werden) 
 würdevoll
 wäre
 wäre
@@ -9926,8 +9769,7 @@ zu
 Zu
 Zucker
 zuckte
-zudem
-Zudem
+zudem=moreover
 zueinander
 zuerst
 Zuerst
@@ -9949,7 +9791,7 @@ zuletzt
 zum
 Zum
 zumeist
-zumute
+zumute=(unbehaglich z.) feel uncomfortable
 zumuten
 zunächst
 zunächst
