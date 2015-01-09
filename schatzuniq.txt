@@ -367,9 +367,9 @@ aufgerissen
 aufgerollt
 aufgeschichtet
 aufgeschichtete
-aufgeschlitzt
+aufgeschlitzt=(aufschlitzen) slashed
 aufgeschnappt
-aufgeschreckt
+aufgeschreckt=frightened
 aufgesessen
 aufgespürt=tracked
 aufgestanden=got up
@@ -407,7 +407,7 @@ aufs
 aufsah
 aufscheuchte
 aufschlug
-aufschnappen
+aufschnappen=pick up
 aufschneiden
 Aufschrei
 aufschrie
@@ -489,7 +489,7 @@ ausgeworfen
 ausgezeichnete
 ausgezogen
 ausging
-ausgoß
+ausgoß=(ausgießen) pour out
 Ausguck
 aushalten
 ausharren
@@ -916,11 +916,7 @@ bestimmten
 Bestimmtes
 Bestimmtheit
 Bestimmungen
-beständig
-beständig
-beständig
-beständig
-beständig
+beständig=constant
 beständige
 beständige
 beständiges
@@ -933,8 +929,7 @@ besudelt
 betastet
 Beten
 betonen
-betrachten
-betrachtete
+betrachten=view
 betraf
 betrübt
 beträchtlichen
@@ -1074,7 +1069,7 @@ bloße
 bloße
 bloßen
 bloßer
-bloßgelegt
+bloßgelegt=exposed
 blonden
 Blätter
 Blätter
@@ -1162,24 +1157,12 @@ Bretter
 Brief
 Briefes
 übrig
-übrig
-übrig
-übrig
-übrig
-übrig
 übrigblieb
 übrigblieb
 übrige
 übrigen
-übrigen
-übrigen
-übrigen
-übrigen
-übrigen
-übrigens
-übrigens
+übrigens=by the way
 bring
-bring’
 Bring
 bringe
 bringen
@@ -1716,7 +1699,7 @@ Dennoch
 denselben
 der
 Der
-derart
+derart=in such a way
 derartige
 deren
 dergleichen
@@ -1819,19 +1802,7 @@ Drachens
 dran
 drang
 drangen
-draußen
-draußen
-draußen
-draußen
-draußen
-draußen
-draußen
-draußen
-draußen
-draußen
-draußen
-draußen
-draußen
+draußen=outside
 drauf
 draufgegangen
 drüben
@@ -2082,7 +2053,7 @@ einstimmen
 eintönig
 eintöniges
 Eintragungen
-eintrat
+eintrat=entered
 Eintritt
 Einverstanden
 Einwände
@@ -2095,7 +2066,7 @@ einzigen
 einziger
 einziges
 einzudringen
-einzuflößen
+einzuflößen=infuse
 einzuhalten
 einzuschlagen
 einzutreten
@@ -2246,7 +2217,7 @@ erhielt
 erhielten
 Erhängen=hanging
 erhob
-erhoben
+erhoben=raise
 erhoffen
 erholen
 erholt
@@ -2260,7 +2231,7 @@ erkannte
 erkannten
 erkennen
 Erkennungszeichen
-erklang
+erklang=(erklingen) resound
 erkläre
 erklären=declare
 erklärenden
@@ -2275,7 +2246,7 @@ erleben=experience
 erlebt
 erledigt
 erleichtert
-Erleichterung
+Erleichterung=relief
 erleidet
 erlitten
 ermüden
@@ -2450,7 +2421,7 @@ Fangleine
 Farbe
 Farnkräuter
 Farthings
-fassen
+fassen=(sich fassen) compose oneself
 fassend
 Fassung
 fast
@@ -2621,9 +2592,6 @@ flatterten
 flaut
 Flaute
 Flüche
-Flüche
-Flüche
-Flüche
 Flüchen
 Flüchen
 flüchtige
@@ -2713,7 +2681,7 @@ Fortbewegung
 fortgeschritten
 fortgesetzt
 forthaben
-fortkomme
+fortkomme=come away
 fortkommen
 fortsetzen=continue
 Fortune
@@ -2944,7 +2912,7 @@ Futter
 gab
 gaben
 gabs
-Galgen
+Galgen=gallows
 Galgendock
 Galgens
 Galionsfigur
@@ -3149,7 +3117,7 @@ Gehölz
 gehoben
 gehofft
 geholt=(holen) fetch
-gehorcht
+gehorcht=(horchen) listen
 gehorchte=gehorchen=obey
 gehorsam
 gehörige
@@ -3233,7 +3201,7 @@ gemünzte
 gemocht
 Gemüse
 gemütlichsten
-Gemurmel
+Gemurmel=murmur
 gemustert
 genagelt
 genannt
@@ -3309,19 +3277,7 @@ geröstetem
 Geruch
 gerufen
 gerunzelt
-Geräusch
-Geräusch
-Geräusch
-Geräusch
-Geräusch
-Geräusch
-Geräusch
-Geräusch
-Geräusch
-Geräusch
-Geräusch
-Geräusch
-Geräuschen
+Geräusch=noise
 geräuschvoll
 geräuschvoll
 gesagt
@@ -3466,7 +3422,7 @@ gewandt
 Gewandtheit
 gewann
 gewappnet
-gewarnt
+gewarnt=(warnen) warn
 gewartet
 gewechselt=(wechseln) changed
 geweckt
@@ -3636,7 +3592,7 @@ grasbewachsene
 Grasbüschel
 Grau
 Grauen
-grauenerregend
+grauenerregend=horrifying
 grausam
 grausame
 Grausamkeit
@@ -4092,7 +4048,7 @@ herumzusitzen
 herunter
 herunterfiel
 heruntergehumpelt
-heruntergelaufen
+heruntergelaufen=run down
 herunterhing
 herunterstiegen
 hervor
@@ -4204,7 +4160,7 @@ hilft
 Himmel
 Himmels
 hin=hin und wieder=occasionally
-hinauf
+hinauf=up
 hinaufgestürmt
 hinaufkletterte
 hinaufzuschleppen
@@ -4222,7 +4178,7 @@ hinüber
 hinüber
 hinüber
 hinüber
-hinüberlief
+hinüberlief=(hinüberlaufen) run over
 hinüberreiten
 hinüberschaute
 hinüberspähte
@@ -4260,18 +4216,12 @@ hinzufügen=add
 hinzugefügt
 hinzuzusetzen
 Hispaniola
-›Hispaniola‹
 Hispanlola
 Hitze
-hitzig
-Hälfte
-Hälfte
-Hälfte
+hitzig=hot
 Hälfte
 häßliche
 Hülle
-Hölle
-Hölle
 Hölle
 höllische=hellish
 hält
@@ -4306,12 +4256,10 @@ hohen
 hoher
 Hoher
 hohlen
-hol’
 Hol
 holen
-holen‹
 Holt
-holte
+holte=(holen) bring
 Holz
 Holzbein
 Holzbeins
@@ -4714,7 +4662,7 @@ Kammerdiener
 Kampf
 Kampfes
 kampffähige
-Kampfgeschrei
+Kampfgeschrei=battle cry
 Kampfhahn
 Kampfhähne
 Kampftages
@@ -5017,7 +4965,7 @@ Klinke
 Klippen=cliffs
 klirren
 Klirren
-klirrten
+klirrten=rattle
 Kloß=meatball
 klopfen
 klopfendem
@@ -5600,7 +5548,7 @@ Leintuch
 leise
 leisem
 leiser
-leises
+leises=low,soft
 leiseste
 leisten
 leistete
@@ -5678,7 +5626,7 @@ Länge
 Länge
 Länge
 Länge
-längelang
+längelang=at full length
 länger
 länger
 längeren
@@ -5838,15 +5786,7 @@ mehrmals
 Meile
 Meilen
 mein
-mein’
-Mein
-meine
-Meine
-meinem
-meinen
-meiner
-meinerseits
-meines
+meinerseits=for my part
 meinetwegen
 Meinetwegen
 meins
@@ -5902,15 +5842,15 @@ mögen
 möglich
 möglichen
 Möglichkeit
-möglichst
+möglichst=preferably
 möglichstes
 M’Graw
 mögt=mögen
-Mühe
+Mühe=effort, (Mühe geben) make an effort
 mühelos
 Mühle
 Mühlsteine
-mühsam
+mühsam=laborious
 mühsame
 mühselig
 mühte
@@ -5939,7 +5879,7 @@ Mistreß
 mit
 Mit
 Mitbesitzer
-miteinander
+miteinander=together
 miterleben
 Mitesser
 mitgenommen
@@ -6519,7 +6459,7 @@ offenes
 offenhalten=keep open
 offenhielt
 offenkundige
-offenzulassen
+offenzulassen=(offenlassen) leave open
 Offizier
 Offiziersdienst
 oft
@@ -6709,7 +6649,7 @@ pochte
 Polarstern
 Politik
 poltern
-polternd
+polternd=rumbling
 polterte
 polterten
 Portobello
@@ -6827,8 +6767,7 @@ Rückseite
 rücksichtslosen
 rückte
 rückwärtige
-Rückzug
-Rückzugs
+Rückzug=retreat
 Rädelsführer
 re
 reagierte
@@ -6921,7 +6860,7 @@ Richtungen
 rieb
 riechen
 riecht
-rief
+rief=(reifen) call, shout
 riefen
 Riegel
 Riemen
@@ -6936,8 +6875,7 @@ ritten
 Ritter
 rittlings
 Ritze
-Ärmel
-Ärmel
+Ärmel=sleeve
 Roberts’
 Rock
 Rocks
@@ -7103,8 +7041,8 @@ Schaden
 schaffen
 schafften
 schalt
-Schande
-Schankraum
+Schande=shame
+Schankraum=public parlor
 Schankstube
 Schanzverkleidung
 Schar
@@ -7118,7 +7056,7 @@ Schatzinsel
 Schatzkammer
 Schatzsuche
 Schatzsucher
-schauen
+schauen=look
 Schauer
 Schaufeln
 Schaukeln
@@ -7310,10 +7248,7 @@ Schlüssel
 Schlüssel
 Schlüssel
 Schlüssel
-Schlüsselloch
-Schluß
-Schluß
-Schluß
+Schlüsselloch=keyhole
 Schluß
 Schluck
 schlucken
@@ -7428,7 +7363,7 @@ schüttelte
 schüttelte
 schüttete
 schätz
-Schätzchen
+Schätzchen=baby
 schütze
 schätze
 Schätze
@@ -7467,7 +7402,7 @@ schwaches
 schwang
 schwankend
 schwankenden
-schwankte
+schwankte=(schwanken) vacillate
 schwarz
 schwarze
 Schwarze
@@ -7586,12 +7521,11 @@ Segeltuchhülle
 segne
 segnen
 seh
-seh’
 sehe
 sehen
 Sehen
 sehenswert
-sehnigen
+sehnigen=tendineous
 Sehnsucht
 sehr
 Sehr
@@ -7623,8 +7557,7 @@ Seiten
 Seitentisch
 Seitenwände
 seither
-seitwärts
-seitwärts
+seitwärts=sideways
 Sekunde
 Sekunden
 sekundenlang
@@ -8061,7 +7994,7 @@ Streifen
 streite
 Streitigkeiten
 strengten
-Strich=line
+Strich=line, (streichen) stroke
 strichen
 Strick
 Stricke=(Strick) ropes
@@ -8087,7 +8020,7 @@ Sträucher
 Störung
 stürzen
 stürzte
-stürzten
+stürzten=(umstürzen) overthrow
 stößt
 stützen
 stützte
@@ -8178,25 +8111,7 @@ Tausende
 tausendfältige
 Taylor
 tüchtig
-tüchtig
-tüchtig
-tüchtig
-tüchtig
-tüchtige
-tüchtigen
-tüchtigen
-tüchtigen
-tüchtigen
-tüchtiger
-tüchtiger
-tüchtiger
-tüchtiger
-tüchtiger
-tüchtiger
-tödlich
-tödlich
-tödliche
-tödlichen
+tödlich=fatal, mortal
 Teer
 Teerjacken
 Teil
@@ -8390,7 +8305,7 @@ Tätigkeit
 Tätigkeit
 Tätigkeit
 Tätowierung
-Tätowierungen
+Tätowierungen=tattoos
 tu’
 Tu
 Tuch
@@ -8527,7 +8442,7 @@ Unmöglich
 unmöglichen
 unmittelbaren
 unnatürlich
-unnützes
+unnützes=useless
 unrecht
 Unrecht
 unregelmäßigen
@@ -8867,10 +8782,8 @@ verstärkte
 verstummt
 verstummte
 Versuch
-versuche
-versuchen
-Versuchen
-versuchte
+versuchen=try
+versuchte=(versuchen)
 versuchten
 versunken
 verteidigen
@@ -8893,8 +8806,7 @@ verwette
 verwetten
 verwöhnen
 verwirkt
-verwirrt
-Verwirrt
+verwirrt=confused
 Verwirrung
 verwünschte
 verwünschte
@@ -9001,7 +8913,7 @@ vorüberpfiff
 vorbeugten
 vorbrachte=uttered
 Vordeck
-Vorderarm
+Vorderarm=forearm
 Vorderboot
 Vorderdeck
 vorderen
@@ -9019,7 +8931,7 @@ vorgehen
 vorgestellt
 vorgetragen
 vorging
-Vorgänge
+Vorgänge=(vorgang) events
 vorhabt
 vorhanden
 vorhandenen
@@ -9401,7 +9313,7 @@ Wiederherstellung
 wiederholen
 wiederholt
 wiederholte
-wiederkam
+wiederkam=returned
 wiederkamen
 wiederkehrten
 wiederum
@@ -9670,7 +9582,7 @@ Zeichen
 zeige
 Zeigefinger
 zeigen
-zeigte
+zeigte=(zeigen) show, demonstrate
 Zeile
 Zeit
 Zeiten
@@ -9680,7 +9592,7 @@ Zeitspanne
 Zelt
 Zelten
 Zeltplane
-zerbrach
+zerbrach=(Zerbrechen) break
 zerbrochen
 zerbrochenen
 zerbrochener
