@@ -688,7 +688,7 @@ bereit
 bereitet
 bereitgemacht
 bereithalten
-bereits
+bereits=already
 Bereitwillig
 bereute
 überfallen
@@ -1357,7 +1357,7 @@ durchsucht
 durchweg
 durchzuschneiden
 durfte
-durften
+durften=allowed
 Durst
 du’s
 Dutzend
@@ -1544,7 +1544,7 @@ Entfernung
 entgegen
 entgegengenommen
 entgegengesetzte
-entgegengesetzten
+entgegengesetzten=opposite
 entgegenzublicken
 entgegnete
 entging
@@ -1588,13 +1588,13 @@ entwickelten
 entwischt
 entworfen
 Entzücken
-entzückt
-entzogen
+entzückt=delighted
+entzogen=withdrawn
 entzwei
 er
 erbarmungslos
 erbeutet
-erblickt=(erblicken)see
+erblickt=(erblicken) see
 erbost
 erbötig
 Erdbeben=earthquake
@@ -1672,7 +1672,7 @@ ermessen
 ermordet
 Ermordeten
 ermutigt
-ermutigte
+ermutigte=(ermutigen) encourage
 ernannt
 Ernst
 Ernstfall
@@ -1742,7 +1742,7 @@ erwacht
 erwachte
 erwachten
 erwarte
-erwarten
+erwarten=expect
 erwartet
 erwartete
 erwarteten
@@ -1753,7 +1753,7 @@ erwidern
 erwidert
 erwiderte
 erwiderten
-erwies
+erwies=(sich erweisen) prove
 erwiesen
 erwischen
 erwischt=(erwischen) get hold of
@@ -3697,7 +3697,7 @@ lauf
 laufen
 Laune
 lauschend
-lauschte
+lauschte=(lauschen) listen
 lauschten
 laut=sound
 laute
@@ -4841,7 +4841,7 @@ Schädel
 Scheiben
 Scheide=sheath
 Scheidewand
-Schein
+Schein=light
 Scheinangriffe
 scheint
 Scheit
@@ -5789,7 +5789,7 @@ trotz
 Trotzes
 Türschwelle
 tröstlich
-Tröstung
+Tröstung=consolation
 trug
 trugen
 Träume
@@ -5853,7 +5853,7 @@ umschlotterte=???
 Umschwung
 umsegeln
 umsonst
-Umstand
+Umstand=circumstance
 Umstände
 Umständen
 umsäumt
@@ -5900,8 +5900,7 @@ ungerührt=impassive
 ungeschoren
 ungeschützten
 ungesunder
-ungewöhnlich
-ungewöhnliches
+ungewöhnlich=unusual
 unglaubhaft
 unglaubliche
 unglaublicher
