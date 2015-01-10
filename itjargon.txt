@@ -1,0 +1,8 @@
+execution=Ausführung 
+application=Anwendung
+framework=Rahme
+service=Dienste 
+multi-tier=mehrschichtige
+scalable=skalierbar 
+component=Bestandteile 
+release=zur Verfügung gestellt
