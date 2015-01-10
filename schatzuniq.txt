@@ -366,7 +366,7 @@ aufragend
 aufragt
 aufrecht
 Aufregung=excitement
-aufreißen
+aufreißen=tear
 aufrichtig
 aufs
 aufsah
@@ -437,7 +437,7 @@ ausgesetzte
 ausgesetzten
 ausgesprochen
 ausgestanden
-ausgestreckt
+ausgestreckt=outstretched
 ausgestreckten
 ausgetrunken
 ausgewählt
@@ -662,7 +662,7 @@ Bengel
 Benjamin
 benommen=dazed
 benötigt
-beobachten
+beobachten=watch
 beobachtet
 beobachtete
 beobachteten
@@ -753,7 +753,7 @@ beruhigt
 beruhigte
 beruhigten=calmed
 überwachen
-überwinden
+überwinden=surmount
 überzeugen
 überzeugende
 überzeugt=convinced
@@ -1351,7 +1351,7 @@ durchnäßt
 durchquert
 durchschauen
 durchschauerte
-durchschnitt
+durchschnitt=(durchschneiden) cut in 2
 durchschnitten
 durchsucht
 durchweg
@@ -1610,7 +1610,7 @@ erfassen
 erfaßte
 eröffnet
 erfüllt=filled
-erfüllte
+erfüllte=(erfüllen) filled
 Erfüllungen
 Erfolg
 erfolgloses
@@ -1885,7 +1885,7 @@ feuert
 feuerte
 feuerten
 Feuerwaffen
-Feuerzeug
+Feuerzeug=lighter
 Öffentlichkeit
 öffnen
 öffnete
@@ -1913,7 +1913,7 @@ findet
 fing
 fingen
 Finger
-Fingerhut
+Fingerhut=thimble
 Fingern
 finsterem
 finstern
@@ -1965,8 +1965,8 @@ flogen
 Flohbiß
 flott
 flottmachen
-flüstern
-flüsterte
+flüstern=whisper
+flüsterte=whispered
 flößte=(einflößen) inspire
 Fluß
 Fluch
@@ -2114,7 +2114,7 @@ ganzen
 ganzer
 ganzes
 gar
-Gardine
+Gardine=curtain
 Garn
 Gartenanlagen
 Gast
@@ -2134,7 +2134,7 @@ Gebete
 gebeutelt
 gebissen
 geblieben
-gebogenen
+gebogenen=curved
 gebohrt
 geboren
 geborene
@@ -2489,7 +2489,7 @@ gesprungen
 Gestalt
 gestalten
 gestaltet
-gestanden
+gestanden=(stehen) be, stand
 Gestank
 gestapft=trudging
 gestattet
@@ -2566,7 +2566,7 @@ Gewitterwolke
 gewitzter
 gewälzt
 gewünscht
-gewohnt
+gewohnt=(wohnen) live
 gewohnten
 gewollt
 gewonnen
@@ -2685,6 +2685,7 @@ größeren
 größerer
 größeres
 griff=(greifen) grab
+Griff=handle
 grimmig
 Grinsen
 grinste
@@ -2823,7 +2824,7 @@ harten
 haselnußbraunen
 Hasenfuß
 hast
-hasteten
+hasteten=hurried
 hastig
 hat
 hat’s
@@ -2907,7 +2908,7 @@ hellem
 hellen
 heller
 hellwach
-Hemd
+Hemd=shirt
 Hemden
 Henker
 her
@@ -3094,7 +3095,7 @@ hängt
 hängte
 ähnliche
 ho
-hob=(heben) raised
+hob=(heben) raised (aufheben) pick up
 hoben
 hoch
 Hochebene
@@ -3107,7 +3108,7 @@ hockte
 hockten
 hoffen
 hoffentlich
-Hoffnung
+Hoffnung=hope
 Hoffnungen
 Hoffnungsschimmer
 Hoffnungsstrahl
@@ -3366,7 +3367,7 @@ kauerte
 kaufen
 kaufte
 kaum
-Kautabak
+Kautabak=chewing tobacco
 Kehle=throat
 kehrt
 kehrte
@@ -3453,7 +3454,7 @@ kleinen
 kleiner
 kleineren
 kleines
-Kleingeld
+Kleingeld=small change, cash
 Klemme
 klettern
 klettert
@@ -3499,7 +3500,7 @@ knatternden
 Knöchel
 Knie
 knien
-kniete
+kniete=(niederknien) kneel
 knietief
 knietiefen
 kniff=(kneifen) pinched
@@ -3760,7 +3761,7 @@ leibhaftig
 Leibhaftigen=?
 leibst
 leibt
-Leiche
+Leiche=corpse
 leicht
 leichte
 leichten
@@ -4174,7 +4175,7 @@ nachtrage
 Nachzüglern
 nachzog
 nacktes
-Nadeln
+Nadeln=needle
 nagelfest
 nageln=nail
 nahe
@@ -4570,7 +4571,7 @@ Rauschen
 rauschte
 rächen
 Röcke
-Rücken
+Rücken=back
 Rückfahrt
 Rückgrat
 Rückkehr
@@ -4666,7 +4667,7 @@ riechen
 riecht
 rief=(reifen) call, shout
 riefen
-Riegel
+Riegel=lock
 Riemen
 Riese
 Rieseln
@@ -5014,9 +5015,9 @@ schnitt
 schnorren
 schnupfen
 Schnupftabakdose
-Schnur
+Schnur=cord
 schoß
-schob=(schieben)pushed
+schob=(schieben) pushed
 schoben
 scholl
 schon=already
@@ -5636,14 +5637,14 @@ tappen
 Tasche=bag
 Taschen
 Taschenkompaß
-Taschenmesser
+Taschenmesser=pocket knife
 Taschentuch
 tastete
 tasteten
 tat
 taten=tun
 Tatsache
-tatsächlich
+tatsächlich=indeed
 Tau
 Taubenpastete
 tauchen
@@ -5971,7 +5972,7 @@ Unverschämtheit
 unverständlich
 unverständliche
 unverträglichste=most intolerant
-unverzüglich
+unverzüglich=immediately
 unvorsichtig
 unvorstellbar
 unweit
@@ -6401,7 +6402,7 @@ Waghalsigkeit
 Wagnis
 wagt
 wagte=(wagen) dared
-wagten
+wagten=(wagen) dare
 Wahl
 wahr
 wahre
@@ -6962,7 +6963,7 @@ zwieback
 zwiefachen
 Zwinkern
 zwinkerte
-Zwirn
+Zwirn=thread
 zwischen
 Zwischendeck=intermediate deck
 zwölf
