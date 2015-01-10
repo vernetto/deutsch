@@ -307,7 +307,7 @@ außerordentlicher
 auf
 aufbewahre
 aufblitzen
-aufbrachen
+aufbrachen=(aufbrechen) set off
 aufbrachte
 aufbrechenden=(aufbrechen) set off, start out
 Aufenthaltsort
@@ -432,7 +432,7 @@ ausgerissen
 ausgeritten
 ausgerüstet
 ausgerutscht
-ausgesetzt
+ausgesetzt=exposed
 ausgesetzte
 ausgesetzten
 ausgesprochen
@@ -687,7 +687,7 @@ Beredsamkeit
 bereit
 bereitet
 bereitgemacht
-bereithalten
+bereithalten=have ready
 bereits=already
 Bereitwillig
 bereute
@@ -768,7 +768,7 @@ beschäftigen
 beschäftigt
 beschäftigten
 beschimpft
-beschleunigte
+beschleunigte=accelerated
 beschloß
 beschlossen
 Beschluß
@@ -1066,7 +1066,7 @@ Buchstabe
 buchstäblich
 Bucht=bay
 Buchten
-Buckel
+Buckel=(mir den Buckel herunter rutschen) leave me alone
 Bug
 Bugspriet
 Bulle
@@ -1413,7 +1413,7 @@ eilten
 ein
 einander
 einbeinigen
-einbüßen
+einbüßen=forfeit
 Einbruch
 eindeutig
 eindringlich
@@ -1562,7 +1562,7 @@ entrindeten
 entrinnen
 entrüstet
 entsann
-entsannen
+entsannen=(entsinnen) remember
 entscheiden
 Entscheidende
 entschlossen
@@ -1768,7 +1768,7 @@ es
 Esel
 esse
 essen
-etliche
+etliche=several
 etlichen
 etlicher
 etwa
@@ -1967,7 +1967,7 @@ flott
 flottmachen
 flüstern
 flüsterte
-flößte
+flößte=(einflößen) inspire
 Fluß
 Fluch
 Fluchen
@@ -2033,7 +2033,7 @@ freigebiger
 Freiheit
 freiwillig
 Freiwillige
-fremd
+fremd=unfamiliar
 Fremde
 fremden
 Fremder
@@ -2255,7 +2255,7 @@ gehend
 geheuert
 gehißt
 Gehölz
-gehoben
+gehoben=(heben) elevated
 gehofft
 geholt=(holen) fetch
 gehorcht=(horchen) listen
@@ -2264,7 +2264,7 @@ gehorsam
 gehörige
 gehörst
 gehört
-gehörte
+gehörte=pertain
 gehörten
 geht
 geht’s
@@ -2411,7 +2411,7 @@ geräuschvoll
 gesagt
 Gesamtsumme
 Gesang
-gesattelte
+gesattelte=saddled
 geschadet
 geschaffen
 geschafft
@@ -2494,7 +2494,7 @@ Gestank
 gestapft=trudging
 gestattet
 gestehe
-gesteigert
+gesteigert=(steigert) increased
 Gestell
 gestellt
 gestern
@@ -2857,7 +2857,7 @@ heben
 hebt
 Heck
 Hecke
-Hecken
+Hecken=hedges
 Heckfenster
 Heckluke
 Heckpforte
@@ -2885,7 +2885,7 @@ Heimat
 Heimatlandes
 Heimfahrt
 heimgekehrt
-Heimkehr
+Heimkehr=return
 Heimlichkeit
 Heimreise
 heimwärts
@@ -3005,12 +3005,12 @@ Höhlen
 Hühnchen
 höhnenden
 Hühneraugen
-hühnerherzigen
+hühnerherzigen=chicken-hearted
 höhnte
 hieß
 Hieb
 hielt=(halten) held
-hielten
+hielten=(halten) 
 hier
 hier
 hierbleiben
@@ -3116,7 +3116,7 @@ hohen
 hoher
 hohlen=hollow
 Hol
-holen
+holen=bring
 Holt
 holte=(holen) bring
 Holz
@@ -3272,7 +3272,7 @@ jenem=that
 jenen
 jener
 jenes
-jenseits
+jenseits=beyond
 jetzt
 jäh
 jäher
@@ -3645,14 +3645,14 @@ Ladestock
 Ladung
 Ladungen
 Lafette
-lag
+lag=(liegen) be located
 Lage
 lagen
 Lager
 Lagerfeuers
 lagerte
 lagerten
-lahmlatschigen
+lahmlatschigen=???
 Lakai
 Land
 Landabenteuer
@@ -3708,7 +3708,7 @@ lautes
 lautet
 lautete
 lauteten
-lautlos
+lautlos=silent
 Lächeln
 lächelnd
 Lücken
@@ -3771,7 +3771,7 @@ Leidenschaft
 leidenschaftlich
 leider
 leidlich
-leihen
+leihen=lend
 Leine
 Leinensack
 Leintuch
@@ -3880,7 +3880,7 @@ Luft
 Luftdruck
 luftiger
 Luftzug
-lugte
+lugte=(lugen) peeped
 Luke
 Lump=rascal
 Lunge
@@ -4473,7 +4473,7 @@ Plätze
 Plätzen
 plötzlich
 plumpsen
-pochte
+pochte=(pochen) pulsate
 Polarstern
 Politik
 poltern
@@ -4769,7 +4769,7 @@ sagte
 sagten
 Sagt’s
 sah=(aussehen) look like
-sahen
+sahen=(sehen) saw
 salutierte
 Salve
 Salven
@@ -4802,7 +4802,7 @@ sauberen
 Sauberkeit
 Sauerei
 saufen
-Saum
+Saum=edge
 Savannah
 Säbel=saber
 Säbelhiebs=saber chop
@@ -4960,7 +4960,7 @@ Schlingpflanzen
 schlingst
 schloß=(schliessen) shut
 schlüpfte
-schlüpften
+schlüpften=slipped
 Schlüssel
 Schlüsselloch=keyhole
 Schluß
@@ -4984,7 +4984,7 @@ schmerzhaftem
 schmerzte
 Schmiedehammer
 schämte
-Schmuggler
+Schmuggler=smuggler
 schmutzig
 schmutzigen
 schmutziger
@@ -5365,7 +5365,7 @@ Speis=food
 Spektakel
 Spendier
 sperrte
-Spähers
+Spähers=scout (???)
 spähte=(spähen) peered
 spähten
 spiegelte
@@ -5388,7 +5388,7 @@ Sprache
 sprachen
 sprang=(aufpsringen) jump up
 sprangen
-Sprüchlein
+Sprüchlein=small sentence
 spreche
 sprechen
 Sprecher
@@ -5421,7 +5421,7 @@ Stampfen
 stampfte
 stand=(stehen) 
 standen
-Standpauke
+Standpauke=telling off
 Standpunkt
 stapelten
 stapfen=stomp
@@ -5625,7 +5625,7 @@ Tage
 Tagen
 Tages
 Tageslichts
-taghell
+taghell=daylight
 Takelung
 Tanzbären
 tanzte
@@ -5633,7 +5633,7 @@ tapfer
 tapfere
 tapp
 tappen
-Tasche
+Tasche=bag
 Taschen
 Taschenkompaß
 Taschenmesser
@@ -5703,8 +5703,8 @@ Todesschreien
 todmüde
 toll
 tollen
-Tollkühnes
-Tollkühnheit
+Tollkühnes=reckless
+Tollkühnheit=temeritz
 Tom
 Ton
 Tonnage
@@ -5746,7 +5746,7 @@ Trauer=mourning
 Traum
 traurig
 traurigen
-traut
+traut=(sich trauen) dare
 traute
 trauten
 Türbalken
@@ -5941,7 +5941,7 @@ unten
 unter
 unterbrach=interrupted
 unterbrochen
-unterdessen
+unterdessen=meanwhile
 unterdrückt
 Untergebener
 untergebracht
@@ -6009,7 +6009,7 @@ Verbrecher
 verbreitert
 verbürgt
 verbringen
-verbunden
+verbunden=obliged
 verbundenen
 verächtlich
 verächtlichem
@@ -6043,7 +6043,7 @@ verflogen
 verflucht
 verfluchte=curse
 verfluchten
-verfolgt
+verfolgt=(verfolgen) followed
 verfolgte
 verfolgten
 verfärbte
@@ -6222,7 +6222,7 @@ versuchen=try
 versuchte=(versuchen)
 versuchten
 versunken
-verteidigen
+verteidigen=defend
 Verteidigung
 Verteidigungsstellung
 Vertrag
@@ -6801,7 +6801,7 @@ Zerstörungswut
 zertreten
 zertrümmert
 zertrümmerten
-Zeter
+Zeter=shame
 Zeug
 Zeugen
 Züge=lineaments
@@ -6895,7 +6895,7 @@ zurücklassen
 zurückließ
 zurückruderte
 zurückzuhalten
-zurückzukehren
+zurückzukehren=go back
 zurückzukriechen
 zurückzulegen
 zurechtgelegt
