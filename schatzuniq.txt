@@ -58,7 +58,7 @@ abschneiden
 abseits
 absetzen
 Absicht
-absitzen
+absitzen=dismount
 abspringen
 Abstand
 abstattete
@@ -164,7 +164,7 @@ Anerkennung
 Anfang
 anfangs
 Angaben
-Angebot
+Angebot=offer
 angeboten
 angebracht
 angebrochen
@@ -218,7 +218,7 @@ Ankunft
 Anlaß
 anlangt
 anlangte
-anlangten
+anlangten=arrived
 anlegen
 anlegten
 anmerken
@@ -335,7 +335,7 @@ aufgeschichtete
 aufgeschlitzt=(aufschlitzen) slashed
 aufgeschnappt
 aufgeschreckt=frightened
-aufgesessen
+aufgesessen=(aufsitzen) mounted
 aufgespürt=tracked
 aufgestanden=got up
 aufgestiegen
@@ -356,7 +356,7 @@ auflachte
 auflauerte=(auflauern) ambush
 aufmachen
 aufmachte=opened
-aufmerksam
+aufmerksam=attention
 Aufmerksamkeit
 aufmunternden
 aufnehmen
@@ -367,7 +367,7 @@ aufragt
 aufrecht
 Aufregung=excitement
 aufreißen=tear
-aufrichtig
+aufrichtig=sincere
 aufs
 aufsah
 aufscheuchte
@@ -377,7 +377,7 @@ aufschneiden
 Aufschrei
 aufschrie=cried
 aufsetzen
-aufsitzen
+aufsitzen=mount
 aufstacheln
 aufstand
 Aufstehen
@@ -532,7 +532,7 @@ bedauerten
 bedächtig
 bedeckt
 bedeckten
-bedenke
+bedenke=remember
 bedenklich
 bedeuten
 bedeutete
@@ -551,7 +551,7 @@ befahren
 befallen
 befanden=be situated
 befaßte
-Befehl
+Befehl=order
 befehle
 Befehlshaber
 befestigt
@@ -586,7 +586,7 @@ Begräbnis=funeral
 begreifen=understand
 begreift=begreifen
 begrenzt
-begriff
+begriff=(begreifen) understood
 begriffen
 Behaglichkeit
 behagt
@@ -734,7 +734,7 @@ berichtete
 übernehmen
 übernehmt
 übernommen
-überraschend
+überraschend=surprising
 überraschenden
 überrascht
 überraschte
@@ -863,7 +863,7 @@ bewirkt
 bewunderten=admire
 Bewunderung
 bewußt
-Bewußtsein
+Bewußtsein=consciousness
 bezahlen
 bezahlt
 bezaubernden
@@ -914,7 +914,7 @@ blauen
 blauer
 blaues
 Blöcken
-Blei
+Blei=lead
 Bleib
 bleiben
 bleibt
@@ -1025,7 +1025,7 @@ Brett
 Bretter
 Brief
 Briefes
-übrig
+übrig=remaining
 übrigblieb=remained
 übrige
 übrigen
@@ -1052,11 +1052,10 @@ brummte
 brummten
 Brust
 Brustkorb
-Brusttasche
-bös’
+Brusttasche=chest pocket
 Büsche
 Büschen
-Böschung= embankement
+Böschung=embankement
 böse
 böses
 Bösewicht
@@ -1115,7 +1114,6 @@ Danach
 Dance
 daneben
 dank
-dank’
 dankbar
 Dankbarkeit
 danke
@@ -1127,7 +1125,7 @@ daranlehnte
 darauf=on that
 daraufhin=thereupon
 daraus
-darüber
+darüber=about it
 Darby
 darf
 darfes
@@ -1142,7 +1140,7 @@ dastehen
 Datum
 Datums
 dauern
-dauernd
+dauernd=constantly
 dauert
 dauerte
 David
@@ -1321,7 +1319,7 @@ Dummheiten
 Dummköpfe
 Dummköpfen
 dumpfer
-dunkel
+dunkel=dark
 dunkelblauem
 dunkelbraun
 Dunkelheit
@@ -1377,7 +1375,7 @@ ehrbarer
 Ehre
 Ehren
 Ehrenbezeigung
-Ehrenmann
+Ehrenmann=man of honor,Gentleman
 Ehrensache
 Ehrenwort=word of honor
 ehrfurchtsvoll
@@ -1620,7 +1618,7 @@ ergeben
 Ergebensten
 ergreifen=adopt
 ergriffen
-erhalten
+erhalten=receive
 erheben=raise
 erheblich=substantially
 erhebt
@@ -1705,7 +1703,7 @@ ersparen
 erspart
 erst
 erstarb=(ersterben) died, faded
-erstatten
+erstatten=report
 erstattet
 Erstaunen
 erstaunlich
@@ -1750,11 +1748,11 @@ erwiderte
 erwiderten
 erwies=(sich erweisen) prove
 erwiesen
-erwischen
+erwischen=catch
 erwischt=(erwischen) get hold of
 erwischte=(erwischen) caught
 erzählen
-erzählt
+erzählt=told
 erzählte
 Erzählung
 Erzählungen
@@ -1863,7 +1861,7 @@ festgebannt
 festgemacht
 festgenommen
 festgewurzelt
-festhielt
+festhielt=(festhalten) clutch
 Festland
 feststellen=find,discover
 feststellte
@@ -1988,7 +1986,7 @@ folgendes
 folgte
 folgten
 Form
-fort
+fort=gone
 Fortbewegung
 fortgeschritten
 fortgesetzt
@@ -2069,7 +2067,7 @@ frischen
 frischer
 frisches
 Frömmigkeit
-froh
+froh=glad
 fromm
 fromme
 frommer
@@ -2302,7 +2300,7 @@ gelbäugiger
 Gelächter
 Geld
 Geldbetrag
-Geldbeutel
+Geldbeutel=purse
 Geldsorten
 gelebt
 gelegen
@@ -2345,7 +2343,7 @@ geneigt=(neigen) disposed
 geneigtes
 genügen=suffice
 genügt
-genügte
+genügte=be sufficient
 genügten
 genähert
 genoß
@@ -2407,7 +2405,7 @@ gesagt
 Gesamtsumme
 Gesang
 gesattelte=saddled
-geschadet
+geschadet=harmed
 geschaffen
 geschafft
 geschah
@@ -2421,7 +2419,7 @@ gescheuert
 Geschäft
 Geschäftigkeit
 Geschäftsbüchern
-Geschichte
+Geschichte=story
 Geschichten
 Geschicklichkeit
 geschickt
@@ -2506,7 +2504,7 @@ gestrichen
 Gestrüpp
 gestürzt
 gestützt
-gesucht
+gesucht=(suchen) look for
 gesund
 Gesundheit
 gesunken
@@ -2516,7 +2514,7 @@ getaugt
 geteerte=tarred
 getragen
 getraut
-getreten
+getreten=step
 Getränken=drink
 getroffen=(treffen, Blitz) struck
 getrunken
@@ -2707,7 +2705,7 @@ Großsegel
 großzügigste
 größte
 grüßte
-Gürtel
+Gürtel=belt
 größtem
 größten
 größter
@@ -2790,7 +2788,7 @@ halte
 halten
 haltet
 haltgemacht
-haltmachten
+haltmachten=halted
 Haltung
 Halunken
 Hand
@@ -2998,10 +2996,10 @@ Höhle
 Höhlen
 Hühnchen
 höhnenden
-Hühneraugen
+Hühneraugen=corns, chicken eyes
 hühnerherzigen=chicken-hearted
 höhnte
-hieß
+hieß=(heissen) called
 Hieb
 hielt=(halten) held
 hielten=(halten) (anhalten) stop
@@ -3036,7 +3034,7 @@ hinausstolperte
 hinauszuwerfen
 hinüber
 hinüberlief=(hinüberlaufen) run over
-hinüberreiten
+hinüberreiten=ride over
 hinüberschaute
 hinüberspähte
 hindern
@@ -3049,24 +3047,24 @@ hingelegt
 hingemordet
 hingen
 hinsetzen=sit down
-hinten
+hinten=behind
 hinter=behind
-Hinterhalt
+Hinterhalt=ambush
 hinterlistigen
 Hinterschiff
 hintersten
 Hintersteven
-hinunter
+hinunter=down
 hinuntergegangen
 hinuntergehen
 hinuntergleiten
-hinuntersteigen
+hinuntersteigen=go down
 hinunterzugehen
 hinunterzuzerren=(zerren) drag down
 hinweg
 Hinweis
 hinzog
-hinzu
+hinzu=(hinzusetzen) add
 hinzufügen=add
 hinzugefügt
 hinzuzusetzen
@@ -3134,7 +3132,7 @@ hört
 hörte
 hörten
 Hörweite=earshot
-hüten
+hüten=guard
 hätte
 hätten
 hätten’s
@@ -3636,7 +3634,7 @@ Lad
 Lade
 laden
 Ladestock
-Ladung
+Ladung=charge
 Ladungen
 Lafette
 lag=(liegen) be located
@@ -3688,7 +3686,7 @@ lauernd=(lauern) lurking
 lauernde
 lauf
 laufen
-Laune
+Laune=mood
 lauschend
 lauschte=(lauschen) listen
 lauschten
@@ -3745,7 +3743,7 @@ lehmverschmiert
 lehnte
 lehnten
 Lehrling
-Leib
+Leib=body
 Leibe
 Leibes
 Leibeskräften
@@ -3800,13 +3798,13 @@ lichteten
 Lichtfleckchen
 Lichtung
 ließ
-lieb
+lieb=dear
 liebe
 lieben
 liebenswürdig
 liebenswürdiger
 Liebenswürdigkeit
-lieber
+lieber=please
 liebes
 liebsten
 Lied
@@ -4612,7 +4610,7 @@ reichte
 Reichtum
 Reichweite
 reißen
-Reim
+Reim=rhyme, sense
 rein
 reine
 reinem
@@ -4662,7 +4660,7 @@ Riegel=lock
 Riemen
 Riese
 Rieseln
-riet
+riet=(raten) advise
 Ringen
 Ringkampf
 Rippen
@@ -4783,7 +4781,7 @@ sanfter
 sang
 sank=(sinken) drop, subside
 satt
-Sattel
+Sattel=saddle
 Satz
 Satzfetzen
 Satzung
@@ -4809,7 +4807,7 @@ Schande=shame
 Schankraum=public parlor
 Schankstube=saloon
 Schanzverkleidung
-Schar
+Schar=crowd
 scharf
 scharfem
 scharfen
@@ -4867,7 +4865,7 @@ Schießpulver
 Schießscharte
 Schießscharten
 schießt
-Schiff
+Schiff=ship
 Schiffbruch
 Schiffe
 Schiffen
@@ -5233,7 +5231,7 @@ sicher
 sichere
 sicheren
 sicheres
-Sicherheit
+Sicherheit=security
 Sicherheitsgefühl
 sichern
 sich’s
@@ -5258,7 +5256,7 @@ Signale
 Silbe
 Silber
 Silberbarren=bullion
-Silbergeld
+Silbergeld=silver
 silbernes
 Silberschiffe
 Silberstück
@@ -5272,7 +5270,7 @@ singen
 sinken
 Sinn
 Sinnen
-sinnlos
+sinnlos=futile
 Sir
 Situation
 Sitz
@@ -5716,7 +5714,7 @@ totzuschießen
 täppischen
 Tür
 trab
-trabte
+trabte=(traben) trot
 traf
 trafen
 tragbar
@@ -5814,7 +5812,7 @@ umbringt
 umdrehen
 umfangreich
 umfriedeten
-umfuhr
+umfuhr=circumnavigated
 umfuhren
 umgab
 umgebracht
@@ -6109,7 +6107,7 @@ Vermögen
 vermochte
 vermute
 vermuten
-vermutlich
+vermutlich=presumably
 vernachlässigte
 verändern
 verändert
@@ -6163,7 +6161,7 @@ verschnaufte
 verschont
 verschrammt=scratched
 verschwamm
-verschwand
+verschwand=(verschwinden) disappeared
 verschwanden
 verschweigen=conceal
 Verschwendung
@@ -6299,7 +6297,7 @@ vorausgeschickt
 voraussagen
 vorauszusehen
 Vorbau
-vorbei
+vorbei=by
 vorüber
 vorübereilte
 Vorbereitungen
@@ -6813,7 +6811,7 @@ Zielscheibe
 zielt
 zielte
 zielten
-ziemlich
+ziemlich=quite
 Zierde
 zierlichen
 Zigeuner
@@ -6852,7 +6850,7 @@ zugesagt
 zugeschworen
 Zugeständnis
 zugrunde=(richten) ruin
-zukam
+zukam=(zukommen) be due
 zukehrte
 zulangte
 zulassen
