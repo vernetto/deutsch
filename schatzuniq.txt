@@ -59,7 +59,7 @@ abseits
 absetzen
 Absicht
 absitzen=dismount
-abspringen
+abspringen=jump
 Abstand
 abstattete
 Abständen
@@ -1099,7 +1099,7 @@ dadurch
 dafür
 dagegen
 dagewesen=been there
-daheim
+daheim=home
 daher
 dahin=there
 dahintanzte
@@ -3462,7 +3462,7 @@ Klippen=cliffs
 klirren=clang
 klirrten=rattle
 Kloß=meatball
-klopfen
+klopfen=knock
 klopfendem
 klopfte=knocked
 Kälte
@@ -3889,7 +3889,7 @@ machten
 Madagaskar
 mag=(mögen) likes 
 Mag
-Magd
+Magd=maiden
 Magen
 Magistratspersonen=magistrates
 magst
@@ -5453,7 +5453,7 @@ steht’s
 steif
 steifen=hard,rigid
 Steig
-Steigbügel
+Steigbügel=stirrup ???
 Steigbügelriemen
 steigen
 steigerte
