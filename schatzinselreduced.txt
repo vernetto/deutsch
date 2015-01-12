@@ -964,8 +964,7 @@ zu essen, sich darin zu wälzen, es mit vollen Händen hinauszuwerfen.«
 »Trelawney«, sagte der Doktor, »ich gehe mit Euch; und Jim
 geht auch, darauf könnte ich wetten, und er wird unserem Unternehmen Ehre machen. Nur einen Mann gibt es, vor dem ich Angst
 habe.«
-»Und wer ist das?« rief der Squire. »Nennt mir doch den Hund,
-Sir!
+»Und wer ist das?« rief der Squire. »Nennt mir doch den Hund, Sir!
 
 »Ihr selber«, erwiderte der Doktor, »denn Ihr könnt den Mund nicht halten. Wir sind ja nicht die einzigen, die von diesem Papier
 wissen. Die Kerle, die heute abend das Gasthaus überfielen,  soviel ist gewiß, und die andern, die an
@@ -990,7 +989,7 @@ Försters, fast wie ein Gefangener, aber von Träumen vom Meer
 und den herrlichsten Vorstellungen von fremden Inseln und
 Abenteuern erfüllt.  Manchmal wimmelte es auf
 der Insel von Wilden, mit denen wir kämpfen mußten, manchmal
-auch von .gefährlichen Tieren. Doch in all meinen Vorstellungen
+auch von gefährlichen Tieren. Doch in all meinen Vorstellungen
 ereignete sich nichts so Seltsames und Tragisches wie das Abenteuer, das wir erleben sollten.
 
 So vergingen die Wochen, bis eines schönen Tages ein Brief an Doktor Livesey kam, darauf der Vermerk stand: »Im Falle seiner
@@ -1003,13 +1002,12 @@ beide Adressen. Das Schiff ist gekauft und ausgerüstet. Es liegt zur Ausfahrt be
 Name: ›Hispaniola‹. Ich habe ihn durch meinen alten Freund
 Blandly gefunden. Der
 prächtige Kerl hat sich buchstäblich für mich halb tot geschunden,
-und das hat – ich darfes wohl sagen – jedermann in Bristol getan, sobald sich herumgesprochen hatte, nach welchem Hafen – nach welchem Schatz, meine ich – wir segeln wollen.
+und das hat – ich darf es wohl sagen – jedermann in Bristol getan, sobald sich herumgesprochen hatte, nach welchem Hafen – nach welchem Schatz, meine ich – wir segeln wollen.
 
 »Redruth«, sagte ich und unterbrach die Lektüre des Briefes, »das
 wird Doktor Livesey nicht gefallen. Der Squire hat am Ende doch
 den Mund nicht halten können.«
-und las
-weiter:
+und las weiter:
 »Blandly selber hat die Hispaniola entdeckt und es so pfiffig angestellt, daß er sie für einen Pappenstiel kaufen konnte. Dennoch wagt kein Mensch, die
 Güte des Schiffs anzuzweifeln.
 Soweit hat es noch keine Schwierigkeiten gegeben. Es war

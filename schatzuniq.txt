@@ -70,7 +70,7 @@ Abtreten
 abwarten
 Abwechslung
 Abweichungen
-Abwesenheit
+Abwesenheit=absence
 abwärts
 abzufeuern
 abzugeben=give
@@ -190,7 +190,7 @@ angesehen
 angespannten
 angesprochen
 angesteckt
-angestellt
+angestellt=made
 angestiftet=(anstiften) instigated
 angestrengt
 angetan
@@ -269,7 +269,7 @@ anzustimmen=(anstimmen) begin to sing
 anzustoßen
 anzutun
 anzuzünden
-anzuzweifeln
+anzuzweifeln=to doubt
 Apfel
 Apfelfaß
 Appetit
@@ -420,7 +420,7 @@ ausführbar
 ausfindig
 Ausflug
 ausgebreitet
-ausgeführt
+ausgeführt=(ausführen) accomplished
 ausgegangen=go out
 ausgeglichene
 ausgegraben
@@ -430,7 +430,7 @@ ausgehändigt
 ausgeplaudert
 ausgerissen
 ausgeritten=(ausreiten) to ride out
-ausgerüstet
+ausgerüstet=(ausrüsten) equipped
 ausgerutscht
 ausgesetzt=exposed
 ausgesetzte
@@ -442,7 +442,7 @@ ausgestreckten
 ausgetrunken
 ausgewählt
 ausgeworfen
-ausgezeichnete
+ausgezeichnete=excellent
 ausgezogen
 ausging
 ausgoß=(ausgießen) pour out
@@ -456,7 +456,7 @@ Auslug
 Ausmaß
 ausmachte=accounted
 Ausnahme
-ausplaudern
+ausplaudern=divulge
 ausprobiert
 Ausrede
 ausreden
@@ -522,7 +522,7 @@ Baus
 Bücher
 Büchsenschuß
 Bücken
-beabsichtigt
+beabsichtigt=intended
 beachtete
 beachteten=(beachten) pay attention
 Becken
@@ -616,7 +616,7 @@ Bein
 beinahe
 Beine
 Beinen
-beisammen
+beisammen=togetehr
 beiseite
 Beispiel
 beistehen
@@ -669,7 +669,7 @@ beobachteten
 Beobachtungsposten=observation post
 bepackt
 bequemer
-über
+über=(über und über) all over
 überall
 Beratung
 Beratungen
@@ -693,7 +693,7 @@ Bereitwillig
 bereute
 überfallen
 überfiel
-überfielen
+überfielen=(überfallen) raid
 überflüssig
 überflüssiges
 Überfluß
@@ -765,7 +765,7 @@ Besanwanten
 Besatzung
 beschaffte
 beschäftigen
-beschäftigt
+beschäftigt=busy
 beschäftigten
 beschimpft
 beschleunigte=accelerated
@@ -984,7 +984,7 @@ Bär
 brach=(ausbrechen) break out (zusammenbrechen) collapse
 brachen
 brachte=(bringen) bringen übers Herz=have the courage, (ich brachte es nicht über mich) I could not bring myself
-brachten=(bringen) brought
+brachten=(bringen) brought, (zusammenbringen) collect
 Brandung
 brannte
 brannten
@@ -1062,7 +1062,7 @@ Bösewicht
 übte=(üben)practice
 Buch
 Buchstabe=letter
-buchstäblich
+buchstäblich=literally
 Bucht=bay
 Buchten=bays
 Buckel=(mir den Buckel herunter rutschen) leave me alone
@@ -1142,7 +1142,7 @@ Datums=date
 dauern
 dauernd=constantly
 dauert
-dauerte
+dauerte=(es dauerte länger) it tool longer
 David
 Davis
 davon=of it
@@ -1177,7 +1177,7 @@ denken
 denkst
 denkt
 denn
-dennoch
+dennoch=yet
 denselben
 der
 derart=in such a way
@@ -1372,7 +1372,7 @@ eh=(wie eh und je) as ever
 ehelichen
 eher
 ehrbarer
-Ehre
+Ehre=honor
 Ehren
 Ehrenbezeigung
 Ehrenmann=man of honor,Gentleman
@@ -1507,7 +1507,7 @@ Ekel
 elend
 Ellbogen
 empfahl
-Empfehlung
+Empfehlung=recommendation, reference
 Empfehlungen
 empörte
 Ende
@@ -1596,7 +1596,7 @@ Erden
 Erdenfleck
 Erdnüsse
 ereignet
-ereignete
+ereignete=(sich ereignen) occur
 erfahren
 erfahrener
 erfassen
@@ -1653,7 +1653,7 @@ erkundigte=enquired
 erlauben
 erlaubt
 erlaubte
-erleben=experience
+erleben=experience, go through
 erlebt
 erledigt=done
 erleichtert=relieved
@@ -2028,7 +2028,7 @@ freiwillig
 Freiwillige
 fremd=unfamiliar
 Fremde
-fremden
+fremden=foreign
 Fremder
 fressen
 Freu
@@ -2073,8 +2073,7 @@ fromme
 frommer
 Front
 Frost
-Förster
-Försters
+Förster=ranger
 Fässer
 Fässern
 Fuß
@@ -2126,7 +2125,7 @@ Gebet
 Gebete
 gebeutelt
 gebissen
-geblieben
+geblieben=(bleiben) remain
 gebogenen=curved
 gebohrt
 geboren
@@ -2178,7 +2177,7 @@ gefallenen
 gefalteten
 gefangen
 Gefangenen
-Gefangener
+Gefangener=prisoner
 gefaßt=(fassen) taken
 gefaßter
 Gefecht
@@ -2187,7 +2186,7 @@ geöffnet
 Gefühl
 gefühlt
 gefährlich
-gefährlichen
+gefährlichen=dangerous
 geführt
 Gefährten
 Gefieder
@@ -2212,9 +2211,9 @@ gefürchtete
 gefressen
 gefrühstückt
 gefrorenen=frozen
-gefunden
+gefunden=(finden) found
 gegangen=(gehen) go
-gegeben
+gegeben=given
 gegen=around
 gegenüber
 gegenüberstanden
@@ -2252,7 +2251,7 @@ gehoben=(heben) elevated
 gehofft
 geholt=(holen) fetch
 gehorcht=(horchen) listen
-gehorchte=gehorchen=obey
+gehorchte=(gehorchen) obey
 gehorsam
 gehörige=pertinent
 gehörst
@@ -2286,7 +2285,7 @@ geladenen
 gelagert
 gelandet
 gelang=(gelingen) manage
-gelangen
+gelangen=reach,acquire
 gelangt
 gelangte
 gelassen=calmly
@@ -2443,7 +2442,7 @@ geschüttelt
 geschützt
 geschätzt
 geschützten
-geschunden
+geschunden=(schinden) grind
 geschurigelt
 geschwankt=(schwanken) vacillate, sway
 geschwatzt
@@ -2475,7 +2474,7 @@ Gespenst=ghost
 gespenstischer
 gesperrten
 gespielt
-Gespräch
+Gespräch=(ins Gespräch kommen) start a conversation
 Gesprächsfetzen
 gesprochen
 gesprungen
@@ -2607,7 +2606,7 @@ Glück
 glückliche
 glücklichen
 glücklichere
-glücklichste
+glücklichste=happiest
 Glücksfall
 Glückspilz
 Glücksritter
@@ -2638,7 +2637,7 @@ gönnen
 gönnt
 Gänsemarsch
 günstig
-günstigen
+günstigen=favourable
 günstiger
 günstigsten
 Günstlingswirtschaft
@@ -2942,14 +2941,14 @@ Herren=(aus aller Herren Länder) from all over the world
 Herrenhaus=manor house
 Herrenleben
 herrisch=imperious
-herrlichsten
+herrlichsten=magnificent
 Herrn
 herrschte
 herstellten
 herum=around
 herumführen
 herumgeschwenkt
-herumgesprochen
+herumgesprochen=spread
 herumliegen
 herumstocherte
 herumtrödeln
@@ -2957,7 +2956,7 @@ herumtrieben
 herumzusitzen
 herunter=down
 herunterfiel
-heruntergehumpelt
+heruntergehumpelt=(humpeln) limp down
 heruntergelaufen=run down
 herunterhing
 herunterstiegen
@@ -3030,7 +3029,7 @@ hinausschaute
 hinausschickte
 hinausspringen
 hinausstolperte
-hinauszuwerfen
+hinauszuwerfen=throw out
 hinüber
 hinüberlief=(hinüberlaufen) run over
 hinüberreiten=ride over
@@ -3249,7 +3248,7 @@ jedem
 jeden
 jedenfalls=anyhow
 jeder
-jedermann
+jedermann=everyone
 jederzeit
 jedes
 jedesmal
@@ -3903,7 +3902,7 @@ manche
 manchem
 mancher
 manches
-manchmal
+manchmal=sometimes
 Manieren
 Manigfaltigeres
 Mann
@@ -4049,7 +4048,7 @@ Mitesser
 mitgenommen
 mitgeteilt
 mitlachen
-Mitleid
+Mitleid=compassion
 mitmachen
 mitnehmen=take
 mitsammen=together
@@ -4212,7 +4211,7 @@ neigten
 nein
 nenne
 nennen
-nennt
+nennt=(nennen) mention
 Nerven
 nett
 nette
@@ -4317,7 +4316,7 @@ Oberhand
 Oberschenkel
 oberstes=top
 Obgleich=although
-Obhut
+Obhut=custody
 O’Brien
 ob’s
 Obst
@@ -4379,7 +4378,7 @@ Papagei
 Papageis
 Papier
 Papiere
-Pappenstiel
+Pappenstiel=on the cheap
 Parade
 Parktor=park gate
 Parlamentär
@@ -4415,7 +4414,7 @@ Pferd
 Pferde
 pfiff=whistle
 Pfiffe
-pfiffig
+pfiffig=smart
 Pflanzenreich
 Pflaster
 pflegen
@@ -4455,7 +4454,7 @@ Plateau
 Plateaus
 platt
 Platz
-Pläne
+Pläne=(plan) plans
 Plätze
 Plätzen
 plötzlich
@@ -4478,10 +4477,7 @@ prallte
 prasselnden=crackling
 prasselte
 Praxis
-prächtige
-prächtigen
-prächtiger=glorious
-prächtigere
+prächtige=glorious
 preis
 preßte
 prüfte
@@ -4608,21 +4604,21 @@ Reichtum
 Reichweite
 reißen
 Reim=rhyme, sense
-rein
+rein=pure
 reine
-reinem
+reinem=(rein) pure
 reinen
 reines
 reinigte
 reinliche
 Reise
-reisefertig
+reisefertig=ready to travel
 Reisen
 reiten
 Reiter
 Reitern
 reitest=ride
-reizenderen
+reizenderen=(reizend) more lovely
 reizvollsten
 Reling
 rennen
@@ -4762,7 +4758,7 @@ Salve
 Salven
 Salz
 Salzgeruch=smell of salt
-Salzluft
+Salzluft=salt air
 Salzwasser
 Sammlung
 samt
@@ -4870,15 +4866,14 @@ Schiffer=skipper
 Schiffes
 Schiffkoch
 Schiffs
-Schiffsarzt
+Schiffsarzt=ship's doctor
 Schiffseigentümer
 Schiffseigentümers
-Schiffsjunge
-Schiffsjungen
+Schiffsjunge=cabin boy
 Schiffskamerad
 Schiffskameraden
-Schiffskoch
-Schiffslände
+Schiffskoch=ship's cook
+Schiffslände=???
 Schiffswand
 Schiffszimmermann
 Schiffszwieback
@@ -4960,7 +4955,7 @@ Schmach
 schmale
 Schmalseiten
 Schmarre=cut
-schmecken
+schmecken=taste
 Schmeichelhaftes=flattering
 schämen
 Schmerz
@@ -5008,7 +5003,7 @@ schoben
 scholl=(schallen) resound
 schon=already
 Schon
-Schoner
+Schoner=schooner
 Schoners
 Schopf
 Schöpfer
@@ -5097,8 +5092,7 @@ Schwermut
 schwieg=to be silent
 schwierig
 schwierigen
-Schwierigkeit
-Schwierigkeiten
+Schwierigkeit=difficulty
 schwingen
 schwirren=buzz
 schwirrte
@@ -5211,7 +5205,7 @@ Selbstverständlich
 seltsame
 seltsamem
 seltsamen
-Seltsames
+Seltsames=strange
 sende
 Senke
 senkte
@@ -5334,7 +5328,7 @@ sorgsam=carefully
 Sorte
 Sortieren
 Soso
-soviel
+soviel=so far 
 soweit=thus far
 sozusagen=so to speak
 Spaß
@@ -5779,7 +5773,7 @@ Tröstung=consolation
 trug
 trugen
 Träume
-Träumen
+Träumen=(Traum) dreams
 Trunkenbolde
 trunkenen
 Trunkenheit
@@ -5872,7 +5866,7 @@ unerklärliche
 Unfall=accident
 ungedeckt
 Ungeduldig=impatient
-ungefähr
+ungefähr=approximately
 ungeheuchelte
 Ungeheuer
 ungeheuerlicher
@@ -5939,7 +5933,7 @@ Unterhändler
 Unterholz
 unterkriegen
 unterlegen
-unternehmen
+unternehmen=enterprise
 unterscheiden
 unterschieben
 unterschied=differ
@@ -6047,7 +6041,7 @@ vergeudete
 Vergeudung
 vergilbtem
 verging=(vergehen) passed
-vergingen
+vergingen=(vergehen) go by
 Vergißt
 vergleichen
 Vergnügen
@@ -6096,8 +6090,8 @@ verlierst
 verlor=lost
 verloren
 verläuft
-vermeinte
-Vermerk
+vermeinte=(vermeinen) believe, suppose
+Vermerk=note
 vermerkt
 Vermögen
 vermochte
@@ -6316,7 +6310,7 @@ vorgeführt=presented
 vorgefunden
 vorgehabt
 vorgehen
-vorgestellt
+vorgestellt=(sich vorstellen) imagine
 vorgetragen
 vorging
 Vorgänge=(vorgang) events
@@ -6377,10 +6371,10 @@ Waffe
 Waffen
 Waffenvorrat
 wage
-wagen
+wagen=dare
 Waghalsigkeit
 Wagnis
-wagt
+wagt=(wagen) dare
 wagte=(wagen) dared
 wagten=(wagen) dare
 Wahl
@@ -6536,7 +6530,7 @@ westliche
 westlichen
 Westseite
 Weswegen=why
-wetten
+wetten=bet
 Wetter
 wählen
 wühlte
@@ -6586,7 +6580,7 @@ wie’s
 wiesen
 wieviel
 wild
-wilden
+wilden=savages
 Wildente
 Wilder
 will=want
@@ -6596,7 +6590,7 @@ willig
 willkommen
 will’s
 willst
-wimmelte
+wimmelte=(wimmeln) swarmed
 Wimper
 Wind
 Winde
@@ -6639,13 +6633,13 @@ wißt
 Witz
 Wälder
 Wäldern
-wälzen
+wälzen=roll
 Wände
 Wänden
 wünsche
 Wünschen=wish
 wünscht
-wünschte
+wünschte=(wünschen) wished
 wünschten
 wo
 Woche=(Woche um Woche=week after week)
@@ -6788,8 +6782,8 @@ Zeugen
 Züge=lineaments
 Zügen
 zögern
-zäh
-zähesten
+zäh=tough
+zähesten=toughest
 zählen
 zählt
 Zähne
@@ -6835,7 +6829,7 @@ zuckte
 zudem=moreover
 zueinander
 zuerst
-Zufall
+Zufall=chance
 zufällig
 zufrieden
 Zug
