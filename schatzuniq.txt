@@ -914,7 +914,7 @@ Blei=lead
 Bleib
 bleiben
 bleibt
-blähen
+blähen=puff
 blühende
 blähten
 übliche=usual
@@ -971,7 +971,7 @@ Boot
 boote
 Booten
 Boots
-Bootsmann
+Bootsmann=officer
 Bord
 bot
 boten
@@ -1383,7 +1383,7 @@ Ei
 Eiche
 Eichen
 Eier
-eifrig
+eifrig=eager
 eigenartig
 eigenartigen
 eigene=own
@@ -1395,7 +1395,7 @@ eigentümlichen=strange
 Eigentum
 Eile=hurry
 eilte
-eilten
+eilten=rush
 ein
 einander
 einbeinigen
@@ -2613,7 +2613,7 @@ glich=(gleichen) resemble
 glichen
 Glieder
 glitt
-glitten
+glitten=(glit) slide
 glänzten
 glotzen=gawk
 Gläschen=glass
@@ -3022,7 +3022,7 @@ hinüberreiten=ride over
 hinüberschaute
 hinüberspähte
 hindern
-hindurch
+hindurch=through
 hinein=inside
 hineinführen=usher in
 hing=(hangen) hang around
@@ -4074,7 +4074,7 @@ Mord
 Morgan
 morgen
 Morgenarbeit
-Morgengrauen
+Morgengrauen=dawn
 Morgens
 Mr
 Mörder
@@ -4397,7 +4397,7 @@ Pfeil
 Pferd
 Pferde
 pfiff=whistle
-Pfiffe
+Pfiffe=whistle
 pfiffig=smart
 Pflanzenreich
 Pflaster
@@ -5733,7 +5733,7 @@ Törichtes
 trieb
 triefend
 triefäugigen=bleary-eyed
-trillern
+trillern=trill
 trinke
 trinken
 trinkt
@@ -6161,7 +6161,7 @@ Versprechen
 versprochen=promised
 verstand
 verstanden
-verstauen
+verstauen=stow
 verstaut
 verstaute=(verstauen) stowed
 Versteck=hideout
