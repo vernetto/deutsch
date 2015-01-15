@@ -52,7 +52,7 @@ abnehmen=remove
 Abraham=Abraham
 Abrede=dispute
 Absatz
-abscheulich
+abscheulich=horrible
 Abschluß
 abschneiden
 abseits=apart
@@ -120,7 +120,7 @@ allerhand
 allerlei
 Allerschönsten
 alles
-allesamt
+allesamt=all
 allgemeine
 allgemeinen
 allmählich
@@ -230,14 +230,14 @@ anrechnen
 anrief
 ans
 anschaust
-anschaut
+anschaut=look
 anschauten=watched
 Anschein=appearance
 anscheinend=apparently
 anschließen
 ansehen=view
 ansehnlichen
-Ansicht
+Ansicht=view
 Anspruch
 Anstieg
 anständige
@@ -332,7 +332,7 @@ aufgerollt
 aufgeschichtet
 aufgeschichtete
 aufgeschlitzt=(aufschlitzen) slashed
-aufgeschnappt
+aufgeschnappt=picked up
 aufgeschreckt=frightened
 aufgesessen=(aufsitzen) mounted
 aufgespürt=tracked
@@ -443,7 +443,7 @@ ausgewählt
 ausgeworfen
 ausgezeichnete=excellent
 ausgezogen
-ausging
+ausging=(ausgehen) run out
 ausgoß=(ausgießen) pour out
 Ausguck
 aushalten=withstand
@@ -588,7 +588,7 @@ begrenzt
 begriff=(begreifen) understood
 begriffen
 Behaglichkeit
-behagt
+behagt=(behagen) please
 behalte=keep
 behandeln
 behandelt
@@ -675,7 +675,7 @@ beraubt
 überdies=moreover
 berechnet
 berechnete=calculated
-Berechnung
+Berechnung=calculation
 Berechnungen
 Beredsamkeit
 übereilst
@@ -691,7 +691,7 @@ bereute
 überfiel
 überfielen=(überfallen) raid
 überflüssig
-überflüssiges
+überflüssiges=superfluous
 Überfluß
 überflutet
 bergab=downhill
@@ -822,7 +822,7 @@ betastet
 Beten
 betonen
 betrachten=view
-betraf
+betraf=concerned
 betrübt
 beträchtlichen=considerable
 betreffenden
@@ -853,7 +853,7 @@ beweglich=movable
 Bewegung
 Beweis
 bewährte=(sich bewähren) proved itself
-bewährten
+bewährten=(sich bewähren) proved themselves
 bewies= (beweisen) prove
 bewirkt
 bewunderten=admire
@@ -1011,7 +1011,7 @@ breit
 breite=latitude
 breiten
 breiter
-breitete
+breitete=(breiten) spread
 breitschultrig=broad-shouldered
 Breitseite
 brennen
@@ -1087,7 +1087,7 @@ Crossleys
 d
 da
 daß
-dabei
+dabei=there
 Dach
 dacht
 dachte
@@ -1117,7 +1117,7 @@ dankte
 dankten=(danken) thank
 dann
 daran=to that
-daranlehnte
+daranlehnte=(lehnen) leaned
 darauf=on that
 daraufhin=thereupon
 daraus=out of that
@@ -1271,7 +1271,7 @@ drehte
 drei
 dreien
 dreifach
-Dreihundertfünfzigtausend
+Dreihundertfünfzigtausend=350000
 dreißig
 dreimal
 drein=in it
@@ -1319,7 +1319,7 @@ dunkel=dark
 dunkelblauem=dark blue
 dunkelbraun
 Dunkelheit
-dunkeln
+dunkeln=darkness
 Dunkels
 dunkle
 dunklen
@@ -1365,7 +1365,7 @@ Ecke=corner
 Ecken=corners
 Eßgeschirr
 eh=(wie eh und je) as ever
-ehelichen
+ehelichen=wed
 eher
 ehrbarer
 Ehre=honor
@@ -1388,7 +1388,7 @@ eigenartig
 eigenartigen
 eigene=own
 eigenhändig
-Eigenschaften
+Eigenschaften=features,properties
 eigentlich=actually
 eigentümliche
 eigentümlichen=strange
@@ -1518,7 +1518,7 @@ entblößt
 entdecken
 Entdeckerfreude
 entdeckt
-entdeckte
+entdeckte=discovered
 entdeckten
 Entdeckungen=discoveries
 entern
@@ -1775,7 +1775,7 @@ Exemplare=specimens
 Exemplaren
 exotischen
 Explosion
-Faß
+Faß=barrel
 Fabrik
 Fachausdrücke=technical terms
 Fackel
@@ -1953,7 +1953,7 @@ flößte=(einflößen) inspire
 Fluß
 Fluch
 Fluchen
-flucht
+flucht=(flüchten) escaped
 fluchte=cursed
 Fluchtmöglichkeit
 Flut
@@ -2111,7 +2111,7 @@ gebe
 geben
 Gebet
 Gebete
-gebeutelt
+gebeutelt=(beuteln) shaken
 gebissen
 geblieben=(bleiben) remain
 gebogenen=curved
@@ -2134,7 +2134,7 @@ gebt=(aufgeben) give up
 geübten
 Gebäude=building
 gebunden
-Geburtstag
+Geburtstag=birthday
 gedacht
 gedachte
 Gedanke
@@ -2273,7 +2273,7 @@ gelagert
 gelandet
 gelang=(gelingen) manage
 gelangen=reach,acquire
-gelangt
+gelangt=reached
 gelangte
 gelassen=calmly
 gelassenen
@@ -2292,7 +2292,7 @@ gelebt
 gelegen
 gelegene=situated
 gelegenen
-Gelegenheit
+Gelegenheit=opportunity
 gelegt
 geleistet
 Geleitschiff=escort ship
@@ -2306,7 +2306,7 @@ gelockert
 gelockten=curly
 gelten
 geltet
-Geläufigkeit
+Geläufigkeit=fluency
 gelungen
 gemacht
 gemächlich
@@ -2386,7 +2386,7 @@ Geruch
 gerufen
 gerunzelt
 Geräusch=noise
-geräuschvoll
+geräuschvoll=noisily
 gesagt
 Gesamtsumme
 Gesang
@@ -2542,14 +2542,13 @@ gewissen
 gewissenhafter=conscientious
 Gewissensbisse
 Gewitterwolke
-gewitzter
+gewitzter=witty
 gewälzt
 gewünscht
 gewohnt=(wohnen) live
 gewohnten
 gewollt
 gewonnen
-gewor199
 geworden
 geworfen
 Gewäsch
@@ -2577,7 +2576,7 @@ Ginster
 Gipfel
 Gipfeln
 Gischt
-Gitter
+Gitter=bars
 Glas
 Glasen
 glatt=smooth
@@ -2716,14 +2715,12 @@ Guckglas=telescope
 Guineas
 Guineen
 Gunn
-›Gunn
-Gunn‹
 Gunns
 Gunst
 Gurgel
 gut
 gutbürgerlichen
-Gutdünken
+Gutdünken=discretion
 gute
 gutem
 guten
@@ -2900,7 +2897,7 @@ heranschlichen
 heranschreiten=apporaching
 heranwagte
 heranzuschleichen
-herauf
+herauf=up
 heraufkommt
 heraus=out
 herausbekommt
@@ -3013,7 +3010,7 @@ hinausgeschwungen
 hinausgetragen
 hinausschaute
 hinausschickte
-hinausspringen
+hinausspringen=jump out
 hinausstolperte
 hinauszuwerfen=throw out
 hinüber
@@ -3051,6 +3048,7 @@ hinzog
 hinzu=(hinzusetzen) add
 hinzufügen=add
 hinzugefügt=added
+hinzuzusetzen=(hinzusetzen) add
 Hispaniola
 Hispanlola
 Hitze
@@ -3077,7 +3075,7 @@ hochgemut
 hochgewachsen=tall
 Hochwassergrenze
 hochzuklettern
-hockte
+hockte=(hocken) squat
 hockten
 hoffen
 hoffentlich
@@ -3094,8 +3092,7 @@ holen=bring, fetch
 Holt=(holen)
 holte=(holen) bring
 Holz
-Holzbein
-Holzbeins
+Holzbein=wooden leg
 Holzkopf
 Holzstapel
 Holzvorrat
@@ -3461,7 +3458,7 @@ Knacken
 Knall
 knallte=(knallen) bang, explode
 knallten
-knapp
+knapp=almost
 knappen
 Knarren
 knarrte
@@ -3548,7 +3545,7 @@ Kreisel
 kreiste
 kreisten
 Kreuz
-kreuzbraver
+kreuzbraver=very good
 Kreuze
 Kreuzen
 Kreuzfahrt
@@ -3664,7 +3661,7 @@ lauernde
 lauf
 laufen
 Laune=mood
-lauschend
+lauschend=listening
 lauschte=(lauschen) listen
 lauschten
 laut=sound, loud
@@ -3929,7 +3926,7 @@ Meeres
 Meeresbucht
 Meeresgrund
 Mehlbeutel
-Mehlpudding
+Mehlpudding=cake,duff
 mehr
 mehrere
 mehreren
@@ -4174,7 +4171,7 @@ nüchtern=sober
 Nebel=fog
 Nebels
 Nebelschleier=mist
-neben
+neben=next
 nebeneinander
 Nebenzimmer=next room
 nebligen=misty
@@ -4240,7 +4237,7 @@ Niederlage
 niederlassen
 niederließen
 niedersetzen
-niedersetzte
+niedersetzte=sat down
 niederzuschreiben
 niedrigem
 niedrigen
@@ -4284,7 +4281,7 @@ Nummer
 nun=now
 nur
 Nußschale
-Nutzen
+Nutzen=use,benefit
 nutzlos
 O
 ob
@@ -4369,7 +4366,7 @@ Partei
 Passage
 Passagier
 Passatwinde
-Passatwinden
+Passatwinden=trade wind
 passen
 passiert
 Pastete=pie
@@ -4389,7 +4386,7 @@ Pfeife=whistle, pipe
 pfeifen
 pfeift
 Pfeil
-Äpfeln
+Äpfeln=(Apfel)apples
 Pferd
 Pferde
 pfiff=whistle
@@ -4398,10 +4395,8 @@ pfiffig=smart
 Pflanzenreich
 Pflaster
 pflegen
-pflegte
+pflegte=(pflegen) care
 Pflicht
-›Pflicht
-Pflicht‹
 pflichttreuer
 Pflichtverletzung
 Pförtnerstelle
@@ -4411,8 +4406,8 @@ Pfunden
 pfundweis’
 Pfuscherei
 phantasierte=fantasized
-Piaster
-pickte
+Piaster=piastres
+pickte=(picken) peck
 piff
 Pinne
 Pirat
@@ -4487,7 +4482,7 @@ quakend
 qualvoll
 Quantum
 Quartier
-Quartiermeister
+Quartiermeister=quartermaster
 Quelle
 quer=diagonally
 Quere
@@ -4563,7 +4558,7 @@ reden=talk
 redete=talk
 redeten=talk
 redliche
-redlichen
+redlichen=(redlich) honest
 redlicher
 Redruth
 regelmäßigen
@@ -4748,7 +4743,7 @@ Sandhügel=sand hill
 sandigen
 Sandstreifen
 sanft
-sanfte
+sanfte=gentle
 sanften=smooth
 sanfter
 sang
@@ -4781,7 +4776,7 @@ Schankraum=public parlor
 Schankstube=saloon
 Schanzverkleidung
 Schar=crowd
-scharf
+scharf=sharp
 scharfem=sharp
 scharfen
 scharren
@@ -4794,7 +4789,7 @@ Schatzsucher
 schauen=look
 Schauer
 Schaufeln
-Schaukeln
+Schaukeln=swing
 Schaum
 schaut
 schaute=(schauen) look
@@ -5220,7 +5215,7 @@ Sieg
 Siegel
 sieh
 siehst
-sieht
+sieht=(aussiehen) looks
 sie’s
 Signal
 Signale
@@ -5297,7 +5292,7 @@ sonnenklar
 Sonnenlicht
 Sonnenschein
 Sonnenstrahlen
-Sonnenuntergang
+Sonnenuntergang=sunset
 sonnenverbrannte=sunburned
 sonnig
 sonnige
@@ -5327,7 +5322,7 @@ Spektakel
 Spendier
 sperrte=lock
 Spähers=scout (???)
-spähte=(spähen) peered
+spähte=(spähen. ausspähen) peered
 spähten=(spähen) peered
 spiegelte
 Spiegelung
@@ -5365,7 +5360,7 @@ sprudelte
 spät
 später
 späteren=later
-spätestens
+spätestens=at the latest
 Spucke
 spuckte
 Spur
@@ -5402,7 +5397,7 @@ statt
 Statue
 Staubwolke
 Staunen=amazement
-staunte
+staunte=(stauen) marvel
 Stöbern
 Stück
 Stückchen
@@ -5443,9 +5438,9 @@ sterben
 sterblichen
 Sterblicher
 Sterne
-stetige
+stetige=steady
 stets=always
-Steuer
+Steuer=helm
 steuerbord
 Steuerbordwanten
 steuerlos
@@ -5457,7 +5452,7 @@ Steuerruder
 Steuerruders
 steuert
 steuerte
-steuerten
+steuerten=(steuern) headed
 Stöhnen
 stöhnend
 stöhnte
@@ -5597,7 +5592,7 @@ Tasche=bag
 Taschen
 Taschenkompaß
 Taschenmesser=pocket knife
-Taschentuch
+Taschentuch=handkerchief
 tastete
 tasteten=probe
 tat
@@ -5631,7 +5626,7 @@ teilten
 temperamentvoller=temperamental
 Tempo
 teppichbelegten=carpeted (belegen)
-Teufel
+Teufel=devil
 Teufels
 täglich
 Theatervorstellung
@@ -5737,7 +5732,7 @@ trist
 trittst
 Triumph
 Tränen=(Träne) tears
-trocken
+trocken=dry
 Trockenen
 trockenliegt
 trocknete
@@ -5883,7 +5878,7 @@ unruhige
 uns
 unschätzbaren
 Unschuld=innocence
-unschuldiger
+unschuldiger=innocent
 unser
 unsere
 unserem
@@ -6036,7 +6031,7 @@ verhandelten=negotiated
 verhaßt=hateful
 verhielt=acted
 verhindern
-Verhältnis
+Verhältnis=relationship
 verhältnismäßiger
 Verhängnis
 verholfen
@@ -6104,7 +6099,7 @@ verrichtete=carry out
 verriegelt=locked
 verriet
 verrinnen
-Verräter
+Verräter=traitor
 verruchter
 verruchtesten
 versagten
@@ -6196,7 +6191,7 @@ verwand
 verwegener
 verwette
 verwetten
-verwöhnen
+verwöhnen=spoil
 verwirkt
 verwirrt=confused
 Verwirrung=confusion
@@ -6212,7 +6207,7 @@ Verwundung
 verzagt
 verzehren
 verzeichnet
-verzeih’s
+verzeih’s=forgive
 Verzeihung
 verzerrt
 verziehen
@@ -6302,7 +6297,7 @@ Vorhang=curtain
 vorher
 Vorhänge=curtains
 vorläufig
-Vormittag
+Vormittag=morning
 vorn
 vornehme
 vornehmer
@@ -6315,7 +6310,7 @@ Vorschlag
 Vorsehung
 Vorsicht
 vorsichtig
-vorsichtigster
+vorsichtigster=most cautious
 Vorsichtsmaßnahmen
 Vorsichtsmaßregeln
 vorsorglich
@@ -6336,10 +6331,9 @@ vorziehen
 vorzudringen
 vorzuschlagen
 vorzuziehen
-W
 wabernde
 wach
-Wache
+Wache=guard
 Wachen
 Wachs
 wachsen
@@ -6537,7 +6531,7 @@ widerspenstiges
 widersprechen=contradict
 Widerwillen=reluctance
 widrige
-wie
+wie=as, when
 wieder=again
 wiedererkennen
 wiedererlangt
@@ -6807,11 +6801,11 @@ zu
 Zucker
 zuckte
 zudem=moreover
-zueinander
+zueinander=to one another
 zuerst
 Zufall=chance
 zufällig
-zufrieden
+zufrieden=satisfied
 Zug
 zugeben=add
 zugelassen
