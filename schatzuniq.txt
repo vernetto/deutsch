@@ -67,7 +67,7 @@ abstoßen
 abstreiten
 abtreiben
 Abtreten
-abwarten
+abwarten=wait
 Abwechslung
 Abweichungen
 Abwesenheit=absence
@@ -159,7 +159,7 @@ aneinandergedrängt
 aneinandergekettet
 aneinandergeraten
 anerkennen
-anerkennend
+anerkennend=appreciative
 Anerkennung=appreciation
 Anfang
 anfangs
@@ -368,7 +368,7 @@ Aufregung=excitement
 aufreißen=tear
 aufrichtig=sincere
 aufs
-aufsah
+aufsah=(aufsehen) look up
 aufscheuchte
 aufschlug=(aufschlagen) opened
 aufschnappen=pick up
@@ -378,7 +378,7 @@ aufschrie=cried
 aufsetzen
 aufsitzen=mount
 aufstacheln
-aufstand
+aufstand=(aufstehen) rise
 Aufstehen
 aufstäuben
 aufsuchen
@@ -472,7 +472,7 @@ Aussehen
 aussetzen
 Aussichten
 aussieht
-ausspringen
+ausspringen=???
 ausstaffiert=fitted out
 ausstieß= (ausstoßen) emit, utter
 ausstrahlte
@@ -554,7 +554,7 @@ Befehl=order
 befehle
 Befehlshaber
 befestigt
-befeuchten
+befeuchten=moisten
 befinden
 befindet
 befohlen=ordered
@@ -1297,7 +1297,7 @@ droht
 drohte
 drohten
 Drohungen
-dörren
+dörren=bake
 dürstend
 Druck
 düsteren
@@ -1368,7 +1368,7 @@ ehelichen=wed
 eher
 ehrbarer
 Ehre=honor
-Ehren
+Ehren=honor
 Ehrenbezeigung
 Ehrenmann=man of honor,Gentleman
 Ehrensache
@@ -1603,7 +1603,7 @@ erfolgte
 erfreulich=cheering
 erfreut
 erfreuten
-erfuhr
+erfuhr=(erfahren) learned
 ergab
 ergaben
 ergeben
@@ -1681,7 +1681,7 @@ erscheint
 Erscheinung=vision
 erschien
 erschlagen
-erscholl
+erscholl=(erschallen) resounded
 erschossen
 erschöpft
 Erschöpfung
@@ -2079,7 +2079,7 @@ gab=(geben) give
 gaben
 gabs
 Galgen=gallows
-Galgendock
+Galgendock=???
 Galgens
 Galionsfigur
 Galionsfiguren=figureheads
@@ -2461,7 +2461,7 @@ gespenstischer
 gesperrten
 gespielt
 Gespräch=(ins Gespräch kommen) start a conversation
-Gesprächsfetzen
+Gesprächsfetzen=snatches of conversation
 gesprochen
 gesprungen
 Gestalt
@@ -2609,7 +2609,7 @@ gleichzeitig
 glühenden
 glich=(gleichen) resemble
 glichen
-Glieder
+Glieder=limbs
 glitt
 glitten=(glit) slide
 glänzten=(glänzen) shine
@@ -2716,7 +2716,7 @@ Guineen
 Gunn
 Gunns
 Gunst
-Gurgel
+Gurgel=throat
 gut
 gutbürgerlichen
 Gutdünken=discretion
@@ -2874,11 +2874,7 @@ Heldentaten
 helfe
 helfen=help
 Helft
-hell
-helle
-hellem=bright
-hellen
-heller
+hell=bright
 hellwach
 Hemd=shirt
 Hemden
@@ -3276,7 +3272,7 @@ Kajüte
 Kajütenfenster
 Kajütenpartel
 Kajütentreppe
-Kalbskopf
+Kalbskopf=calf's head
 kalkuliere
 kalt
 kaltblütig
@@ -3560,7 +3556,7 @@ kriechen
 kriechend
 kriegen
 Kriegsmann
-Kriegsrat
+Kriegsrat=war council
 Kriegsschiffs
 kriegst
 kriegt
@@ -3570,7 +3566,7 @@ kroch= (Kriechen) crawled
 Körper
 Körpers
 Krüppel
-Krug
+Krug=jug
 Käse
 Küste
 Küstenboote
@@ -3941,7 +3937,7 @@ meinte
 Meinung
 meist
 meisten
-Meßlatte
+Meßlatte=yardstick
 Melde
 melden
 meldete
@@ -4012,7 +4008,7 @@ Mischlingen
 mischte=(sich mischen) interfere
 mischten
 Missetäter
-Mist
+Mist=rubbish
 Mister
 Mistreß
 mit
@@ -4024,7 +4020,7 @@ mitgenommen
 mitgeteilt=(mitteilen) communicated
 mitlachen=laugh too
 Mitleid=compassion
-mitmachen
+mitmachen=participate
 mitnehmen=take
 mitsammen=together
 Mittag
@@ -4362,8 +4358,7 @@ Parmesan
 Partei
 Passage
 Passagier
-Passatwinde
-Passatwinden=trade wind
+Passatwinde=trade wind
 passen
 passiert
 Pastete=pie
@@ -4913,13 +4908,13 @@ Schlinggewächse
 Schlingpflanzen
 schlingst
 schloß=(schliessen) shut
-schlüpfte
+schlüpfte=slipped
 schlüpften=slipped
 Schlüssel
 Schlüsselloch=keyhole
 Schluß
 Schluck
-schlucken
+schlucken=swallow
 schluckte=swallowed
 schluckten
 schlug
@@ -5316,7 +5311,7 @@ Speigatt
 Speigatten
 Speis=food
 Spektakel
-Spendier
+Spendier=???
 sperrte=lock
 Spähers=scout (???)
 spähte=(spähen. ausspähen) peered
@@ -5500,7 +5495,7 @@ straffgespanntes
 Strahlen
 strahlte
 stramm=upright
-stramme
+stramme=(stramm) robust
 Strand
 stranden
 Strang
@@ -6076,8 +6071,7 @@ verändern
 verändert
 veränderter
 vernehmbar=audible
-vernehme=hear
-vernehmen
+vernehmen=hear
 verängstigt
 vernichtet
 vernünftig
@@ -6099,7 +6093,7 @@ verrinnen
 Verräter=traitor
 verruchter
 verruchtesten
-versagten
+versagten=(versagen) fail
 versah=(versehen) perform
 versammelt
 verschüchtert
