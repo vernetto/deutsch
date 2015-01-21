@@ -83,7 +83,7 @@ Achseln
 acht
 Achtelmeile
 achten
-Achterdeck
+Achterdeck=quarterdeck
 Achterdecks
 achtern
 achtete=(achten) respect
@@ -435,7 +435,7 @@ ausgesetzt=exposed
 ausgesetzte
 ausgesetzten
 ausgesprochen=(aussprechen) say
-ausgestanden
+ausgestanden=to be overcome, endured
 ausgestreckt=outstretched
 ausgestreckten
 ausgetrunken
@@ -445,7 +445,7 @@ ausgezeichnete=excellent
 ausgezogen
 ausging=(ausgehen) run out
 ausgoß=(ausgießen) pour out
-Ausguck
+Ausguck=look-out
 aushalten=withstand
 ausharren=wait
 auskommen
@@ -1171,7 +1171,7 @@ denke
 denken
 denkst
 denkt
-denn
+denn=because
 dennoch=yet
 denselben=the same
 der
@@ -1557,15 +1557,14 @@ Entschluß=decision
 Entschuldigung
 entschwunden=disappeared
 Entsetzen
-entsetzliche=dreadful
-entsetzlichen
+entsetzlich=dreadful
 entsetzt=horrified
 entsinne=remember
 entsprang
 entsprechend
 entstammte
 entstehen=arise
-Enttäuschung
+Enttäuschung=disappointment
 entwand
 entweder
 entwickeln
@@ -1623,7 +1622,7 @@ erhob
 erhoben=raise
 erhoffen
 erholen
-erholt
+erholt=(erholen) recovered
 erinnere
 erinnern
 erinnert=recall
@@ -1904,7 +1903,7 @@ Fische
 Fischerboot
 fischten
 flach
-flache
+flache=flat
 flachen
 Flackern
 Flagge
@@ -1964,7 +1963,7 @@ fünfunddreißig
 fünfundvierzig
 fünfzehn
 fünfzig
-Focksegel
+Focksegel=foresail
 Folge
 folgen
 folgende
@@ -2750,7 +2749,7 @@ hafteten
 haha
 Hahn
 Hain
-Haken
+Haken=hook
 halb
 halbe
 halbem
@@ -2967,7 +2966,7 @@ Hügels
 Höhe
 Höhen=highs
 höher
-höherer
+höherer=higher
 Höhle
 Höhlen
 Hühnchen
@@ -4324,7 +4323,7 @@ Orinoco
 Ort
 Orten
 Ortes
-Ortsbezeichnungen
+Ortsbezeichnungen=place names
 Ortsjugend
 OSO
 Osten
@@ -4917,7 +4916,7 @@ Schluck
 schlucken=swallow
 schluckte=swallowed
 schluckten
-schlug
+schlug=(schlagen) beat (schlug einen Haken) swerved
 Schmach
 schmale
 Schmalseiten
@@ -5241,7 +5240,7 @@ Smollets
 sämtliche
 sämtlichen
 sämtlicher
-Smut
+Smut=ship cook
 Sänger
 so
 sobald
@@ -5478,7 +5477,7 @@ Stock=cane
 stockbesoffen
 Stocks=cane
 stockte
-stoßen
+stoßen=(auf) bump into
 Stoff
 Stoffresten
 stolperte
@@ -5937,7 +5936,7 @@ veranlaßt=caused
 verantwortlich
 verband
 verbarg
-verbergen
+verbergen=hide
 verbinden
 verbitte
 verblödete
@@ -5945,7 +5944,7 @@ verblüffend
 Verblüffung
 Verbündete
 Verbündeten
-verborgen
+verborgen=hidden
 verbracht
 verbrachte=(verbringen) spent
 Verbrechen
@@ -6095,7 +6094,7 @@ verruchter
 verruchtesten
 versagten=(versagen) fail
 versah=(versehen) perform
-versammelt
+versammelt=gathered
 verschüchtert
 verscherzen=forfeit
 verscheuchte
@@ -6237,7 +6236,7 @@ voller
 vollkommen=completely
 Vollmond
 Vollschiffs
-vollständig
+vollständig=perfect
 volläuft
 Vollversammlung
 vollzog
@@ -6680,7 +6679,7 @@ Wurfgeschoß
 Wurst
 wusch
 Wut
-wußte
+wußte=knew
 wußten
 Yards
 Zahl
