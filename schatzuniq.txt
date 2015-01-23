@@ -1334,7 +1334,7 @@ durchfurcht
 Durchgang
 durchgeschnitten
 durchgesprochen
-Durchlaß
+Durchlaß=passage
 durchnäßt
 durchquert
 durchschauen
@@ -2300,7 +2300,7 @@ gelingen
 gelingt
 gellt
 gellte
-gelockert
+gelockert=(lockern) relaxed
 gelockten=curly
 gelten
 geltet
@@ -3739,7 +3739,7 @@ leisten
 leistete
 Lektion=lesson
 Lektüre
-lenkte
+lenkte=(lenken) guide
 lesen
 Leser
 letzte
@@ -3814,7 +3814,7 @@ lose
 losgeworden
 loswerden
 loszuschlagen=strike
-Lot
+Lot=plumb line
 Lotse
 Louis
 Louisdors
@@ -4513,7 +4513,7 @@ Raum
 raus
 Rausch=intoxication
 Rauschen
-rauschte
+rauschte=(rauschen) swoosh, hiss
 rächen=revenge
 Röcke
 Rücken=back
@@ -4648,7 +4648,7 @@ roter
 rotes
 Rotmützige
 Royal
-rüstig
+rüstig=active
 rüstige
 rötlich
 Rätsel
@@ -4799,7 +4799,7 @@ schenkt
 schenkten
 Schere=scissors
 schert
-scheuchte
+scheuchte=(scheuchen) scare off
 scheußlich
 Scheunentor
 Scheusal
@@ -5062,7 +5062,7 @@ schwirrte
 Schwüle
 schwoll
 schwöre
-Schwärme
+Schwärme=swarms
 Schwätzer=talker,windbag
 Schwung
 Säcken
