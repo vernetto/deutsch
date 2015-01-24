@@ -192,7 +192,7 @@ angesprochen
 angesteckt=infected
 angestellt=made
 angestiftet=(anstiften) instigated
-angestrengt
+angestrengt=strained
 angetan
 angewiesen
 angewurzelt
@@ -315,7 +315,7 @@ aufgeben
 aufgebraucht=depleted
 aufgebrochen=(aufbrechen) leave
 aufgedunsener=bloated, fatty
-aufgefahren
+aufgefahren=ascended
 aufgefallen=noticed
 aufgefordert=asked
 aufgegangen=(aufgehen) come up
@@ -324,7 +324,7 @@ aufgehalten
 aufgeklappt=(aufklappen) unfolded
 aufgekommen
 aufgenommen
-aufgerichtet
+aufgerichtet=erected
 aufgerissen=(aufreißen) torn
 aufgerollt
 aufgeschichtet
@@ -358,7 +358,7 @@ Aufmerksamkeit=attention
 aufmunternden
 aufnehmen
 aufnimmt
-Aufprall
+Aufprall=impact
 aufragend
 aufragt
 aufrecht
@@ -665,7 +665,7 @@ bequemer
 über=(über und über) all over
 überall
 Beratung
-Beratungen
+Beratungen=advice
 beraubt
 überblickten
 überbot=surpassed
@@ -784,7 +784,7 @@ besonderen
 besonderes
 besonders
 Besorgnis=concern
-besorgt
+besorgt=worried
 bespannt
 besprechen
 besprühte
@@ -900,7 +900,7 @@ blanken
 blankes
 blaßrosa=pale pink
 blasser
-Blattwerk
+Blattwerk=foliage
 blau
 Blaubart=Barbebleu
 blauen
@@ -945,7 +945,7 @@ Blätter
 Blättern=pages
 blätterte=scroll
 Blut
-blutbeflecktes
+blutbeflecktes=blood-stained
 blutdurstigste=(blutdürstig) bloodthirsty
 blutende
 Blutes
@@ -978,7 +978,7 @@ brach=(ausbrechen) break out (zusammenbrechen) collapse
 brachen
 brachte=(bringen) bringen übers Herz=have the courage, (ich brachte es nicht über mich) I could not bring myself
 brachten=(bringen) brought, (zusammenbringen) collect
-Brandung
+Brandung=surf
 brannte
 brannten
 Branntwein
@@ -1187,7 +1187,7 @@ deswegen
 deutete
 deutlich=clear
 dich
-dicht
+dicht=close, thick
 dichten
 dichter
 dichtesten
@@ -1332,7 +1332,7 @@ durchgeschnitten
 durchgesprochen
 Durchlaß=passage
 durchnäßt
-durchquert
+durchquert=crossed
 durchschauen
 durchschauerte
 durchschnitt=(durchschneiden) cut in 2
@@ -1362,7 +1362,7 @@ Eßgeschirr
 eh=(wie eh und je) as ever
 ehelichen=wed
 eher
-ehrbarer
+ehrbarer=honorable
 Ehre=honor
 Ehren=honor
 Ehrenbezeigung
@@ -1375,7 +1375,7 @@ ehrlich=honest
 ehrliche
 ehrlichen=honest
 Ei
-Eiche
+Eiche=oak
 Eichen
 Eier
 eifrig=eager
@@ -1396,8 +1396,8 @@ einbeinigen
 einbüßen=forfeit
 Einbruch
 eindeutig
-eindringlich
-Eindringlinge
+eindringlich=vividly
+Eindringlinge=intruders
 Eindruck=impression
 eine
 einem
@@ -1450,7 +1450,7 @@ Einmischerei
 einnahm
 einquartiert=quartered
 einquartierte
-einreden
+einreden=persuade
 einredest
 einreiben
 Einrichtung=equipment,installation
@@ -1461,7 +1461,7 @@ Einsamkeit
 einsank
 einschlafen
 einschlagen=smash
-einschätze
+einschätze=estimate
 einsperren
 einst
 einstimmen=agree
@@ -1475,7 +1475,7 @@ Einwände=objection
 Einzelheit=detail
 Einzelheiten
 einzelne=single
-einzelnen
+einzelnen=single
 einzige
 einzigen
 einziger
@@ -1564,14 +1564,14 @@ entwand
 entweder
 entwickeln
 entwickelten
-entwischt=escaped
+entwischt=(entwischen) escaped
 entworfen
 Entzücken=delight
 entzückt=delighted
 entzogen=withdrawn
 entzwei
 er
-erbarmungslos
+erbarmungslos=merciless
 erbeutet
 erblickt=(erblicken) see
 erbost
@@ -1583,7 +1583,7 @@ Erdenfleck
 Erdnüsse
 ereignet
 ereignete=(sich ereignen) occur
-erfahren
+erfahren=find out
 erfahrener=experienced
 erfassen
 erfaßte
@@ -1694,7 +1694,7 @@ erstattet
 Erstaunen
 erstaunlich
 erstaunliche
-erstaunlicher
+erstaunlicher=amazing
 erstaunt
 erste
 erstemal
@@ -1909,7 +1909,7 @@ flammte
 Flasche
 Flaschen
 flattern
-flatternd
+flatternd=fluttering
 flatterte
 flatterten
 flaut
@@ -1927,7 +1927,7 @@ flickte
 Fliege
 Fliegen
 flimmernde
-flink
+flink=agile
 flinker
 Flint
 Flints
@@ -1990,10 +1990,8 @@ Franzosen
 französische
 Frau
 Färbung
-fürchte
 fürchten=(sich f.) to be afraid
 fürchterlich=tremendous
-fürchterlicher
 freß
 frech
 Fregatte=frigate
@@ -2109,7 +2107,7 @@ gebeutelt=(beuteln) shaken
 gebissen
 geblieben=(bleiben) remain
 gebogenen=curved
-gebohrt
+gebohrt=drilled
 geboren
 geborene
 geborgen
@@ -2125,7 +2123,7 @@ gebrochen
 gebräunt
 Gebüsch
 gebt=(aufgeben) give up
-geübten
+geübten=experienced
 Gebäude=building
 gebunden
 Geburtstag=birthday
@@ -2170,7 +2168,7 @@ gefühlt
 gefährlich
 gefährlichen=dangerous
 geführt
-Gefährten
+Gefährten=mates, companions
 Gefieder
 gefiel
 geflüchtet
@@ -2190,7 +2188,7 @@ geformt
 gefragt
 gefärbten
 gefürchtete
-gefressen
+gefressen=(eine Narren fressen) take a fancy
 gefrühstückt
 gefrorenen=frozen
 gefunden=(finden) found
@@ -2447,7 +2445,7 @@ gesichtet
 Gesichts
 Gesichtsausdruck=expression
 gesiegelt=sealed
-Gesindel
+Gesindel=mob
 Gesinnung
 gespannt
 gespanntes
@@ -2499,7 +2497,7 @@ Getränken=drink
 getroffen=(treffen, Blitz) struck
 getrunken
 getötet
-getäuscht
+getäuscht=deceived
 gewagt=(wagen) risk
 gewahrte
 Gewalt=control
@@ -2532,7 +2530,7 @@ gewinkt
 Gewirr
 gewisse
 gewissem
-gewissen
+gewissen=conscience
 gewissenhafter=conscientious
 Gewissensbisse
 Gewitterwolke=thundercloud
@@ -2554,7 +2552,7 @@ Gezeiten
 gezielt
 gezogen=(ziehen) drawn
 gezogenen
-gezuckt
+gezuckt=(zucken) shrugged
 gezwungen
 Gib
 gibst
@@ -2640,7 +2638,7 @@ Grad
 Gram
 Gras
 grasbewachsene
-Grasbüschel
+Grasbüschel=grass bundle
 Grau
 Grauen
 grauenerregend=horrifying
@@ -2663,7 +2661,7 @@ Grinsen
 grinste
 grölen
 grölend
-gräßlicher
+gräßlicher=ghastly
 grölte
 gründlich=thoroughly
 grüne
@@ -2862,7 +2860,7 @@ heiseres
 heisse
 heißt
 heiter=cheerful
-Held
+Held=hero
 Heldentaten
 helfe
 helfen=help
@@ -2884,7 +2882,7 @@ heranrollten
 heranschlichen
 heranschreiten=apporaching
 heranwagte
-heranzuschleichen
+heranzuschleichen=creep up
 herauf=up
 heraufkommt
 heraus=out
@@ -3157,7 +3155,7 @@ Innenseite
 Innere
 innerhalb
 Innern
-innezuhalten
+innezuhalten=(innenhalten) pause
 innig
 ins
 Insekten
@@ -3314,7 +3312,7 @@ Katastrophe
 Katechismus
 Katze
 Katzen
-kauerte
+kauerte=crouched
 kaufen
 kaufte
 kaum
@@ -3343,9 +3341,9 @@ Kerlen
 Kerls
 Kerze
 Kerzen
-keuchen
+keuchen=pant
 keuchend
-keuchenden
+keuchenden=panting
 keuchte
 Key
 Käfig=cage
@@ -3373,7 +3371,7 @@ Klage
 klagen=moan
 klagte
 klammerten
-klang
+klang=sound
 klangen
 klang’s
 Klappe
@@ -3523,7 +3521,7 @@ krächzte=(krächzen) croaked
 Krücke=crutch
 Kreis
 Kreischen
-kreischend
+kreischend=screaming
 kreischende
 kreischten=(kreischen) shrieked
 Kreisel
@@ -3541,7 +3539,7 @@ kräftig=strong
 kräftiger
 kräftiges
 kriechen
-kriechend
+kriechend=crawling
 kriegen
 Kriegsmann
 Kriegsrat=war council
@@ -3562,7 +3560,7 @@ Küstenstreifen
 küßte
 Kugel
 Kugeln
-Kuhle
+Kuhle=hollow
 Kummer=grief
 Kumpan
 Kumpane
@@ -3622,7 +3620,7 @@ langem
 langen
 langer
 langgestreckten
-langgezogener
+langgezogener=long-drawn
 langsam=slowly
 Langsamkeit=slowness
 langte
@@ -3637,7 +3635,7 @@ laßt
 Laterne
 Laternenträger
 laßt’s
-Laubdach
+Laubdach=canopy
 lauernd=(lauern) lurking
 lauernde
 lauf
@@ -3673,7 +3671,7 @@ Lebensmittel
 Lebensmittelvorräten
 Leber
 Lebewohl=farewell
-lebhaft
+lebhaft=lively
 lebst
 lebt
 Leckerbissen=delicacy
@@ -3715,7 +3713,7 @@ leichter
 leichtes
 leid
 Leidenschaft=passion
-leidenschaftlich
+leidenschaftlich=passionately
 leider
 leidlich
 leihen=lend
@@ -4043,7 +4041,7 @@ Mond
 mondhelle=moonlit
 Mondlicht=moonlight
 Mondschein=moonlight
-Moor
+Moor=bog, moor
 morastigem
 Mord
 Morgan
@@ -4214,7 +4212,7 @@ niedergeritten
 niedergeschlagen
 Niedergeschlagenheit
 niedergeschossen
-niedergesetzt
+niedergesetzt=sat down
 Niederlage
 niederlassen
 niederließen
@@ -4376,7 +4374,7 @@ Pflaster
 pflegen
 pflegte=(pflegen) care
 Pflicht=duty
-pflichttreuer
+pflichttreuer=dutiful
 Pflichtverletzung
 Pförtnerstelle
 Pfütze
@@ -4457,7 +4455,7 @@ Puppe
 putzte
 Quacksalber=charlatan
 Quadrant
-quakend
+quakend=quack
 qualvoll
 Quantum
 Quartier=accommodation
@@ -4480,7 +4478,7 @@ rann
 rannte
 rasch
 rasche
-Rascheln
+Rascheln=rustle
 raschen
 rascher
 rascheren
@@ -4509,7 +4507,7 @@ rächen=revenge
 Röcke
 Rücken=back
 Rückfahrt
-Rückgrat
+Rückgrat=backbone
 Rückkehr
 Rückschlag
 Rückseite=back
@@ -4530,7 +4528,7 @@ rechte
 rechten
 rechtes
 rechts
-reckte
+reckte=(aufrecken) stretch up
 red
 Rede
 reden=talk
@@ -4588,9 +4586,9 @@ rettungslos
 ärgerlich=annoying
 Rheumatismus
 rühmen
-Röhricht
+Röhricht=reeds
 rührte=(rühren) move, stir
-riß
+riß=(wegrissen) tore away
 Richard
 richten=set
 richtig=right
@@ -4726,7 +4724,7 @@ sang
 sank=(sinken) drop, subside
 satt
 Sattel=saddle
-Satz
+Satz=movement
 Satzfetzen
 Satzung
 Satzungen
@@ -4790,7 +4788,7 @@ schert
 scheuchte=(scheuchen) scare off
 scheußlich
 Scheunentor
-Scheusal
+Scheusal=monster
 schicken
 Schicksal
 schicksalsschweren
@@ -4825,14 +4823,14 @@ Schiffskamerad
 Schiffskameraden
 Schiffskoch=ship's cook
 Schiffslände=???
-Schiffswand
+Schiffswand=???
 Schiffszimmermann
 Schiffszwieback
 Schiffverlassen
 Schild
 Schilde
 schilderte
-Schilfrohr
+Schilfrohr=reed, cane
 Schimmer
 schimmern
 schimmerten
@@ -4864,7 +4862,7 @@ schleimbedeckte
 schlenderte
 schleppen
 schleppte
-schleuderte
+schleuderte=(schleudern) threw
 schleuderten=hurling
 schleunigst
 Schläfer
@@ -4995,11 +4993,11 @@ Schulden
 schuldet=owe
 Schulter=shoulder
 Schulterblatt
-Schultern
+Schultern=shoulder
 schulterten
 schäumend
 schäumten
-Schurken
+Schurken=scoundrels
 Schutz
 Schutze
 schwach=weak
@@ -5047,7 +5045,7 @@ Schwierigkeit=difficulty
 schwingen
 schwirren=buzz
 schwirrte
-Schwüle
+Schwüle=sultriness
 schwoll
 schwöre
 Schwärme=swarms
@@ -5310,7 +5308,7 @@ spielte
 Spieren
 spinnen
 Spinnennetz
-Spitze
+Spitze=tip
 Spitzhacken
 Sporn
 Spott
@@ -5456,7 +5454,7 @@ Stimmungen=moods
 östlichen
 östlicher
 stünde
-ständig
+ständig=steadily
 Stoß=kick, push
 Stock=cane
 stockbesoffen
@@ -5485,7 +5483,7 @@ stranden
 Strang
 Streck=(ausstrecken) stretch
 Strecke=line
-streckte=(strecken) protrude
+streckte=(strecken) protrude (ausstrecken) stretch
 Streich=trick
 streiche
 streichelte
@@ -5509,7 +5507,7 @@ stürmte
 strömte
 Strömung
 Stränge
-Strohdach
+Strohdach=thatched roof
 störte
 störten
 Sträucher
@@ -5540,7 +5538,7 @@ sucht
 suchte
 Säugling=infant
 Summe
-Sumpf
+Sumpf=swamp
 Sumpfgebiet=wetland
 Surinam
 Süßwasserzimperlingen=freshwater ???
@@ -5560,7 +5558,7 @@ taghell=daylight
 Takelung=rigging
 Tanzbären
 tanzte
-tapfer
+tapfer=brave
 tapfere
 tapp
 tappen
@@ -5740,7 +5738,7 @@ Tuch
 Tuchanzug=cloth suit
 tue
 tun
-Turners
+Turner=gymnast
 Tuscheln
 tut
 Äußerlich
@@ -5869,7 +5867,7 @@ unsinnig
 unten
 unter
 unterbrach=interrupted
-unterbrochen
+unterbrochen=interrupted
 unterdessen=meanwhile
 unterdrückt
 Untergebener
@@ -5885,7 +5883,7 @@ Unterholz
 unterkriegen
 unterlegen
 unternehmen=enterprise
-unterscheiden
+unterscheiden=distinguish
 unterschieben=attribute
 unterschied=differ
 untersuchen=examine
@@ -5895,7 +5893,7 @@ unterwegs=on the road
 unterworfen=subject
 ununterbrochen=continuously
 unverkennbar
-unverändert
+unverändert=unchanged
 Unverschämtheit
 unverständliche=incomprehensible
 unverträglichste=most intolerant
@@ -6005,7 +6003,7 @@ verhallt
 Verhalten=behavior
 verhandelten=negotiated
 verhaßt=hateful
-verhielt=acted
+verhielt=(verhalten) acted
 verhindern
 Verhältnis=relationship
 verhältnismäßiger
@@ -6032,7 +6030,7 @@ verlegen
 Verlegenheit
 verlegte
 verleiden
-verleiten
+verleiten=mislead
 verletzt
 verließ
 verlief=(verlaufen) proceeded
@@ -6046,11 +6044,11 @@ vermeinte=(vermeinen) believe, suppose
 Vermerk=note
 vermerkt
 Vermögen
-vermochte
+vermochte=could
 vermute
 vermuten
 vermutlich=presumably
-vernachlässigte
+vernachlässigte=neglected
 verändern
 verändert=changed
 veränderter
@@ -6101,7 +6099,7 @@ verschnaufen
 verschnaufte
 verschont
 verschrammt=scratched
-verschwamm
+verschwamm=blurred
 verschwand=(verschwinden) disappeared
 verschwanden
 verschweigen=conceal
@@ -6109,7 +6107,7 @@ Verschwendung
 verschwinden
 verschwindet
 Verschwörung
-verschwunden
+verschwunden=disappeared
 versehen=mistake
 versenkt=(versenken) sink
 versenkten
@@ -6198,7 +6196,7 @@ vieler
 vielleicht
 vier
 viereckige
-vieren
+vieren=four
 vierhundert
 Vierpennystück
 Viertel=quarter
@@ -6402,7 +6400,7 @@ Wegs
 Wegweiser
 weh
 wehren
-wehrlosen
+wehrlosen=defenseless
 wehte
 weiß
 Weib=wife
@@ -6528,7 +6526,7 @@ wiesen
 wieviel
 wild
 wilden=savages
-Wildente
+Wildente=wild duck
 Wilder
 will=want
 Will
@@ -6538,7 +6536,7 @@ willkommen
 will’s
 willst
 wimmelte=(wimmeln) swarmed
-Wimper
+Wimper=eyelash
 Wind
 Winde
 Windhauch
@@ -6658,7 +6656,7 @@ wundert
 Wunsch
 wurde
 wurden
-Wurfgeschoß
+Wurfgeschoß=projectile
 Wurst
 wusch
 Wut
@@ -6767,7 +6765,7 @@ Zollbeamte=customs officer
 Zollkutter
 Zopf=pigtail
 Zorn=anger
-zorniger
+zorniger=angry
 zottig
 Zöpfen=(Zopf) braids
 zu
@@ -6841,7 +6839,7 @@ zusehends
 Zustand=condition
 zusteht=entitled
 zusteuern
-zustieß
+zustieß=(zustoßen) happened
 Zusätze=additional
 zutreten=step up to someone
 zuverlässig=reliable
