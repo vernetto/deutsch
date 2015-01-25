@@ -229,7 +229,7 @@ Anordnungen
 anrechnen
 anrief
 ans
-anschaust
+anschaust=(anschauen) examine
 anschaut=look
 anschauten=watched
 Anschein=appearance
@@ -931,7 +931,7 @@ blinkte
 Blitz
 blitzschnell
 blitzte=(aufblitzen) flash
-blitzten
+blitzten=flashed
 bloß
 Block
 Blockhaus
@@ -1070,8 +1070,8 @@ Caracas
 Chor
 Christ
 Christenkost
-Christenmenschen
-christlicher
+Christenmenschen=christian person
+christlicher=christian
 Ächzen
 ächzte=(ächzen) moaned
 cke
@@ -1312,7 +1312,7 @@ Dummköpfen
 dumpfer
 dunkel=dark
 dunkelblauem=dark blue
-dunkelbraun
+dunkelbraun=dark brown
 Dunkelheit
 dunkeln=darkness
 Dunkels
@@ -1595,7 +1595,7 @@ Erfolg
 erfolgloses
 erfolgte
 erfreulich=cheering
-erfreut
+erfreut=delighted
 erfreuten
 erfuhr=(erfahren) learned
 ergab
@@ -1852,7 +1852,7 @@ feststellen=find,discover
 feststellte
 Festung=fortress
 festzustellen=determine
-Fetzen
+Fetzen=rags
 feuchter
 Feuer
 Feuerholz
@@ -1920,7 +1920,6 @@ flüchtige
 Fleck=spot
 fleckigen=stained
 flehen=implore
-flehend
 Fleisch
 Flügel
 flickte
@@ -2077,7 +2076,7 @@ Galgens
 Galionsfigur
 Galionsfiguren=figureheads
 galoppierender
-galt
+galt=(gelten) was
 Gang
 Gangspill
 ganz
@@ -2154,7 +2153,7 @@ gefahren
 gefahrvollen=dangerous
 gefallen=please
 gefallenen
-gefalteten
+gefalteten=(falten) folded
 gefangen
 Gefangenen
 Gefangener=prisoner
@@ -2167,7 +2166,7 @@ Gefühl
 gefühlt
 gefährlich
 gefährlichen=dangerous
-geführt
+geführt=(führen) led
 Gefährten=mates, companions
 Gefieder
 gefiel
@@ -2310,7 +2309,7 @@ gemocht=(mögen) liked
 Gemüse
 gemütlichsten
 Gemurmel=murmur
-gemustert
+gemustert=patterned
 genagelt
 genannt
 genau=accurately
@@ -2476,7 +2475,7 @@ gestohlen
 gestolpert
 gestorben
 gestrandet
-gestreichelt
+gestreichelt=caressed
 gestreift
 gestrichen=(streichen) coated
 Gestrüpp
@@ -2821,7 +2820,7 @@ höchste
 höchstwahrscheinlich=most Likely
 he
 Hebearm
-heben
+heben=raise
 hebt
 Heck
 Hecke=hedge
@@ -2854,7 +2853,7 @@ Heimkehr=return
 Heimlichkeit
 Heimreise
 heimwärts
-heiser
+heiser=hoarse
 heiseren
 heiseres
 heisse
@@ -2973,7 +2972,7 @@ hielten=(halten) (anhalten) stop
 hier
 hier
 hierbleiben
-hierhergeführt
+hierhergeführt=brought here
 hierhergekommen=come here
 hierhergeschleppt
 hierherschicke
@@ -3676,7 +3675,7 @@ lebt
 Leckerbissen=delicacy
 Leder
 lederbezogene
-Ledergürtel
+Ledergürtel=leather belt
 Lederschifflein
 ledig
 lediglich=only
@@ -3992,7 +3991,7 @@ mir’s
 Mischlingen
 mischte=(sich mischen) interfere
 mischten
-Missetäter
+Missetäter=wrongdoer
 Mist=rubbish
 Mister
 Mistreß
@@ -4379,7 +4378,7 @@ Pförtnerstelle
 Pfütze
 Pfund
 Pfunden
-pfundweis
+pfundweis(e)=by the pound
 Pfuscherei
 phantasierte=fantasized
 Piaster=piastres
@@ -4624,7 +4623,7 @@ rollte
 rollten
 rosig
 Rosinen
-rostiges
+rostiges=rusty
 rot
 Rotbemützte
 rote
@@ -5103,7 +5102,7 @@ Segel=sail
 segeln
 segelte
 segelten
-Segeltuch
+Segeltuch=canvas
 Segeltuchhülle
 segne=(segnen) bless
 segnen=bless
@@ -5135,7 +5134,7 @@ Seite
 Seiten
 Seitentisch=side table
 Seitenwände
-seither
+seither=since then
 seitwärts=sideways
 Sekunde
 Sekunden
@@ -5664,7 +5663,7 @@ Traglast
 Trank=drink
 tranken
 Transport
-trat
+trat=(treten) stepped
 traten=(antreten) start
 trau=(trauen) trust
 Traube
@@ -5793,7 +5792,7 @@ unablässige
 unangenehmen=unpleasant
 unausstehlichen=insufferable
 unbeachtet
-unbedingt
+unbedingt=absolutely
 Unbehagen
 unbehaglich=(u. zumute) feel uncomfortable
 unbehindert
@@ -5921,7 +5920,7 @@ verbergen=hide
 verbinden
 verbitte
 verblödete
-verblüffend
+verblüffend=striking
 Verblüffung
 Verbündete
 Verbündeten
@@ -6088,7 +6087,7 @@ verschiedenste
 verschiedensten=various
 verschlagen
 verschlagenen
-Verschlagenes
+Verschlagenes=sly
 verschlingen
 verschlungen
 verschmiert=smudged
@@ -6278,7 +6277,7 @@ Vorräten
 Vorschein=(zum Vorschein kommen) come to light
 Vorschiff
 Vorschlag
-Vorsehung
+Vorsehung=providence, destiny
 Vorsicht
 vorsichtig
 vorsichtigster=most cautious
@@ -6480,7 +6479,7 @@ Wetter
 wählen
 wühlte
 während
-währenddessen
+währenddessen=meanwhile
 wich
 wichen
 wichtig
@@ -6730,7 +6729,7 @@ zählen
 zählt
 Zähne
 Zähnen
-Ziegen
+Ziegen=goats
 Ziegenfell
 Ziegenfellen
 Ziegenfleisch
@@ -6809,13 +6808,13 @@ zurückgezogen
 zurückkehren
 zurückkommen
 zurücklassen
-zurückließ
+zurückließ=left behind
 zurückruderte
 zurückzuhalten
 zurückzukehren=go back
 zurückzukriechen=crawl back
 zurückzulegen
-zurechtgelegt
+zurechtgelegt=concocted
 zurechtzuweisen=rebuke, admonish
 zuriefen
 zusagt=(mir z.) suits me
