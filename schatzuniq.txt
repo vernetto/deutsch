@@ -62,7 +62,7 @@ absitzen=dismount
 abspringen=jump
 Abstand
 abstattete
-Abständen
+Abständen=spacing, interval
 abstoßen
 abstreiten
 abtreiben
@@ -557,7 +557,7 @@ befindet
 befohlen=ordered
 befolgte
 befürchtet
-Befürchtungen
+Befürchtungen=fears
 befördern=promote
 befördert
 befreien
@@ -717,7 +717,7 @@ berichtete
 überlege=think
 Überlegen
 überlegt
-überlegte
+überlegte=consider
 überließ=(überlassen) relinquish, leave
 Übermaß
 Übermacht
@@ -767,7 +767,7 @@ beschlossen
 Beschluß=decision
 beschuldigt
 beschwerte
-Besessenheit
+Besessenheit=obsession
 besetzen=occupy
 besetzt
 besichtigte
@@ -848,14 +848,14 @@ bewahren=preserve
 bewegen
 beweglich=movable
 Bewegung
-Beweis
+Beweis=evidence
 bewährte=(sich bewähren) proved itself
 bewährten=(sich bewähren) proved themselves
 bewies= (beweisen) prove
 bewirkt
 bewunderten=admire
 Bewunderung=admiration
-bewußt
+bewußt=conscious
 Bewußtsein=consciousness
 bezahlen=pay
 bezahlt=paid
@@ -921,7 +921,7 @@ Blicken
 blickte
 blieb=(bleiben) remain
 blieben
-blies
+blies=(blasen) blew
 blind
 blinde
 blinden
@@ -953,7 +953,7 @@ blutete
 blutige
 blutigen
 Blutspritzer
-Bluttaten
+Bluttaten=bloodshed
 Bündel=parcel
 bündig=concise
 Boden
@@ -1099,8 +1099,8 @@ dahinter
 dalag
 damals
 damit=with it
-dampfende
-dampften
+dampfende=steaming
+dampften=steamed
 danach=after that
 Danach
 Dance
@@ -1376,7 +1376,7 @@ ehrliche
 ehrlichen=honest
 Ei
 Eiche=oak
-Eichen
+Eichen=oaks
 Eier
 eifrig=eager
 eigenartig=peculiar
@@ -1529,7 +1529,7 @@ entgegenzublicken
 entgegnete=(entgegnen) reply
 entging
 enthielt=(enthalten) contained
-entkommen
+entkommen=escape
 entlang
 entlanggehen=go along
 entlassen=lay off
@@ -1541,7 +1541,7 @@ entreißen=snatch from
 entrindeten
 entrinnen
 entrüstet=indignant
-entsann
+entsann=remembered
 entsannen=(entsinnen) remember
 entscheiden
 Entscheidende=crucial
@@ -1711,7 +1711,7 @@ ersuche
 ersuchen=request
 erteilt
 erteilte
-ertönte
+ertönte=resounded
 ertönten
 ertragen
 Ertränken=drowning
@@ -1836,13 +1836,13 @@ Fernrohr
 Fernrohrhügel=Telescope hill
 Fernrohrhügels
 fertig
-fertigbrachte
+fertigbrachte=manage
 fertiggebracht
 fest=hard
 feste
 festem
 fester
-festgebannt
+festgebannt=spellbound
 festgemacht
 festgenommen
 festgewurzelt
@@ -1851,7 +1851,7 @@ Festland
 feststellen=find,discover
 feststellte
 Festung=fortress
-festzustellen
+festzustellen=determine
 Fetzen
 feuchter
 Feuer
@@ -1878,7 +1878,7 @@ Führer
 führst=lead
 Fichte
 Fichten
-Fichtenstamm
+Fichtenstamm=fir trunk
 Fieber
 fieberbrütender
 fiel=(fallen) fall
@@ -1905,7 +1905,7 @@ Flackern
 Flagge
 Flaggenkopf
 Flaggenleine
-flammte
+flammte=(aufflammen) flare up
 Flasche
 Flaschen
 flattern
@@ -1926,7 +1926,7 @@ Flügel
 flickte
 Fliege
 Fliegen
-flimmernde
+flimmernde=flickering
 flink=agile
 flinker
 Flint
@@ -2323,7 +2323,7 @@ genügen=suffice
 genügt
 genügte=be sufficient
 genügten
-genähert
+genähert=approached
 genoß
 genommen
 Genossen
@@ -2457,7 +2457,7 @@ Gespräch=(ins Gespräch kommen) start a conversation
 Gesprächsfetzen=snatches of conversation
 gesprochen
 gesprungen
-Gestalt
+Gestalt=shape
 gestalten
 gestaltet=created, designed
 gestanden=(stehen) be, stand
@@ -2565,7 +2565,7 @@ ging=(es eben ging) as possible
 ginge=(angehen) concern
 gingen
 Ginster
-Gipfel
+Gipfel=peak
 Gipfeln
 Gischt
 Gitter=bars
@@ -2601,7 +2601,7 @@ gleicht
 gleichzeitig
 glühenden
 glich=(gleichen) resemble
-glichen
+glichen=be like
 Glieder=limbs
 glitt
 glitten=(glit) slide
@@ -2642,7 +2642,7 @@ Grasbüschel=grass bundle
 Grau
 Grauen
 grauenerregend=horrifying
-grausam
+grausam=cruel
 grausame
 Grausamkeit
 graut’s
@@ -2951,7 +2951,7 @@ höflicher
 Höflichkeit=politeness
 Hüfte=hip
 Hügel
-Hügelhang
+Hügelhang=hillside
 Hügelkamm=ridge, range of hills
 Hügeln=hills
 Hügels
@@ -3026,7 +3026,7 @@ hinuntergegangen
 hinuntergehen
 hinuntergleiten
 hinuntersteigen=go down
-hinunterzugehen
+hinunterzugehen=go down
 hinunterzuzerren=(zerren) drag down
 hinweg
 Hinweis=lead, reference
@@ -3165,7 +3165,7 @@ Inseln
 Inspektor
 inspizieren=inspect
 Instinkt
-instinktiv
+instinktiv=instinctively
 intelligent=intelligent
 interessant
 Interesse
@@ -3356,7 +3356,7 @@ kühn=bold
 kühner
 Kiel
 Kielwasser
-Kieslawine
+Kieslawine=gravel avalanche
 Kind
 Kinder
 Kinderspiel
@@ -3636,8 +3636,7 @@ Laterne
 Laternenträger
 laßt’s
 Laubdach=canopy
-lauernd=(lauern) lurking
-lauernde
+lauernd/lauernde=(lauern) lurking
 lauf
 laufen
 Laune=mood
@@ -3811,7 +3810,7 @@ Louisdors
 lärmten
 Löscht
 löschte
-lösen
+lösen=dislodge
 löste
 läßt
 Älteste
@@ -3933,7 +3932,7 @@ Menge
 Mengen
 Mensch
 Menschen
-Menschenfressern
+Menschenfressern=Cannibals
 Menschenfreundlichkeit
 Menschenhände
 Menschenleben
@@ -4020,7 +4019,7 @@ mitten
 Mittlere
 mittleren
 Mittlerweile
-Mitwisserschaft
+Mitwisserschaft=complicity
 mitzählen
 mitzunehmen
 mitzuteilen=inform
@@ -4427,7 +4426,7 @@ Postscriptum
 Postwagen=stage-coach
 prallte
 prasselnden=crackling
-prasselte
+prasselte=rattled
 Praxis
 prächtige=glorious
 preis
@@ -4466,7 +4465,7 @@ Quere
 quälen
 rabenschwarze
 Rache
-ragenden
+ragenden=towering
 ragte
 Rahe
 Rahen
@@ -4534,7 +4533,6 @@ Rede
 reden=talk
 redete=talk
 redeten=talk
-redliche
 redlichen=(redlich) honest
 redlicher
 Redruth
@@ -4791,7 +4789,7 @@ Scheunentor
 Scheusal=monster
 schicken
 Schicksal
-schicksalsschweren
+schicksalsschweren=fateful
 Schieß=shoot
 schieße
 schießen
@@ -4848,7 +4846,7 @@ Schlag
 Schlaganfall=stroke
 schlage=(vorschlage) suggest
 schlagen
-schlagendem
+schlagendem=beating
 schlau
 schlauem
 schlauer=smart
@@ -4937,7 +4935,7 @@ schneller
 schnellfüßige
 Schnelligkeit
 schönen
-Schnepfe
+Schnepfe=snipe
 Schöner
 schnüffelte=(schnüffeln) sniffed
 schnippte
@@ -5046,7 +5044,7 @@ schwingen
 schwirren=buzz
 schwirrte
 Schwüle=sultriness
-schwoll
+schwoll=swelled
 schwöre
 Schwärme=swarms
 Schwätzer=talker,windbag
@@ -5226,7 +5224,7 @@ sämtlicher
 Smut=ship cook
 Sänger
 so
-sobald
+sobald=as soon as
 sobald’s
 Sockel
 sofort
@@ -5300,7 +5298,7 @@ spähte=(spähen. ausspähen) peered
 spähten=(spähen) peered
 spiegelte
 Spiegelung
-Spießgesellen
+Spießgesellen=cronies
 Spiel
 spielen
 spielt
@@ -5443,7 +5441,7 @@ still
 stillag
 stille
 Stilliegen=have come to a halt
-stillstehen
+stillstehen=be at a standstill
 stimme
 stimmen
 stimmte
@@ -5749,7 +5747,7 @@ Uhr
 um
 umbringen=kill
 umbringt
-umdrehen
+umdrehen=turn around
 umfangreich
 umfriedeten
 umfuhr=circumnavigated
@@ -5766,7 +5764,7 @@ umher=about
 umherspüren
 umhin
 umhüllten
-umkreiste
+umkreiste=circled
 umnebelt=fogged
 umrandet
 umrankt
@@ -6009,7 +6007,7 @@ Verhältnis=relationship
 verhältnismäßiger
 Verhängnis
 verholfen
-verhungern
+verhungern=starve
 verjagen
 verkauft
 verkauften
@@ -6055,7 +6053,7 @@ veränderter
 vernehmbar=audible
 vernehmen=hear
 verängstigt
-vernichtet
+vernichtet=destroyed
 vernünftig
 vernünftiger
 Vernünftiges
@@ -6236,7 +6234,7 @@ voraussagen=predict
 vorauszusehen
 Vorbau
 vorbei=by
-vorüber
+vorüber=past
 vorübereilte
 Vorbereitungen
 vorüberkamen=passed by
@@ -6277,7 +6275,7 @@ vornehmer
 Vorrat
 Vorräte
 Vorräten
-Vorschein
+Vorschein=(zum Vorschein kommen) come to light
 Vorschiff
 Vorschlag
 Vorsehung
@@ -6303,7 +6301,7 @@ vorzüglicher
 vorziehen
 vorzudringen
 vorzuschlagen
-vorzuziehen
+vorzuziehen=preferable
 wabernde
 wach
 Wache=guard
@@ -6345,8 +6343,7 @@ Walroß
 wand
 wandern
 wanderte
-Wanderung
-Wanderungen
+Wanderung=walk
 wandte=(wenden) turned
 wandten
 Wange=cheek
@@ -6766,7 +6763,7 @@ Zollkutter
 Zopf=pigtail
 Zorn=anger
 zorniger=angry
-zottig
+zottig=ragged
 Zöpfen=(Zopf) braids
 zu
 Zucker
@@ -6816,7 +6813,7 @@ zurückließ
 zurückruderte
 zurückzuhalten
 zurückzukehren=go back
-zurückzukriechen
+zurückzukriechen=crawl back
 zurückzulegen
 zurechtgelegt
 zurechtzuweisen=rebuke, admonish
