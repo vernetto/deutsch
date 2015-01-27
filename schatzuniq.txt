@@ -339,7 +339,7 @@ aufgestiegen=(aufsteigen) went up
 aufgestörte
 aufgetischt=served
 aufgewacht
-aufgezogen
+aufgezogen=mounted
 aufging=(aufgehen) go up
 aufgrund=on the basis of
 aufhielt=stayed
@@ -378,7 +378,7 @@ aufsitzen=mount
 aufstacheln
 aufstand=(aufstehen) rise
 Aufstehen
-aufstäuben
+aufstäuben=sputtering
 aufsuchen
 auftauchten=appeared
 aufwachte
@@ -422,7 +422,7 @@ ausgegangen=go out
 ausgeglichene=balanced
 ausgegraben=dig up
 ausgeheckt
-ausgehen
+ausgehen=go out
 ausgehändigt=handed
 ausgeplaudert=(ausplaudern) blabbed
 ausgerissen
@@ -446,7 +446,7 @@ ausgoß=(ausgießen) pour out
 Ausguck=look-out
 aushalten=withstand
 ausharren=wait
-auskommen
+auskommen=manage
 auslöffeln
 Auslieferung
 Auslug
@@ -550,7 +550,7 @@ befaßte
 Befehl=order
 befehle=commands
 Befehlshaber
-befestigt
+befestigt=fixed
 befeuchten=moisten
 befinden
 befindet
@@ -692,7 +692,7 @@ bereute=(bereuen) regret
 überflutet
 bergab=downhill
 übergegangen
-bergen
+bergen=retrieve
 übergeschnappt=crazy
 überhaupt
 berühmten
@@ -1367,7 +1367,7 @@ Ehrenbezeigung
 Ehrenmann=man of honor,Gentleman
 Ehrensache
 Ehrenwort=word of honor
-ehrfurchtsvoll
+ehrfurchtsvoll=reverent
 ehrgeiziger
 ehrlich=honest
 ehrliche
@@ -1412,7 +1412,7 @@ Einfahrt=entrance
 Einfall=idea
 Einfälle=ideas
 Einfluß
-Einfriedung
+Einfriedung=enclosure
 eingab
 Eingang
 eingebrannt=branded
@@ -1483,7 +1483,7 @@ einzuflößen=infuse
 einzuhalten
 einzuschlagen
 einzutreten=enter
-einzuziehen
+einzuziehen=collect, recover
 Eisen=iron
 eiserne
 eisige
@@ -1536,7 +1536,7 @@ entlockt
 entnahm
 entnehmen=infer
 entreißen=snatch from
-entrindeten
+entrindeten=debarked
 entrinnen
 entrüstet=indignant
 entsann=remembered
@@ -1555,7 +1555,7 @@ entsetzt=horrified
 entsinne=remember
 entsprang
 entsprechend
-entstammte
+entstammte=came from
 entstehen=arise
 Enttäuschung=disappointment
 entwand
@@ -1774,7 +1774,7 @@ Faden=string (???)
 fahle=pale
 fahlem
 fahler=pale
-Fahne
+Fahne=flag
 fahre
 fahren
 fahrt=trip
@@ -2001,8 +2001,7 @@ freien
 freigebig=generous
 freigebiger=generous
 Freiheit
-freiwillig
-Freiwillige
+freiwillig=volunteer
 fremd=unfamiliar
 Fremde
 fremden=foreign
@@ -2175,7 +2174,7 @@ gefällig=pleasing
 gefälligst
 gefüllt
 gefällt
-gefällten
+gefällten=felled
 geflohen
 Gefängnisarzt
 Gefolgsmännern
@@ -2220,7 +2219,7 @@ geheiratet
 gehen
 gehend
 geheuert=(heuern) hire
-gehißt
+gehißt=hoisted
 Gehölz
 gehoben=(heben) elevated
 gehofft
@@ -2243,7 +2242,7 @@ gekannt
 gekappt=capped
 gekauft
 Gekeuch
-geklettert
+geklettert=climbed
 geklungen
 gekämpft
 Geknatter=rattle
@@ -2440,7 +2439,7 @@ Gesichts
 Gesichtsausdruck=expression
 gesiegelt=sealed
 Gesindel=mob
-Gesinnung
+Gesinnung=attitude
 gespannt
 gespanntes
 Gespenst=ghost
@@ -2704,7 +2703,7 @@ Guineas
 Guineen
 Gunn
 Gunns
-Gunst
+Gunst=favor
 Gurgel=throat
 gut
 gutbürgerlichen
@@ -2843,7 +2842,7 @@ heim
 Heimat
 Heimatlandes
 Heimfahrt=drive home
-heimgekehrt
+heimgekehrt=returned
 Heimkehr=return
 Heimlichkeit
 Heimreise
@@ -2936,7 +2935,7 @@ Herzens
 herzhaftesten=heartiest
 herzlich=cordially
 herzupaddeln
-heulte
+heulte=(heulen) howled
 heute
 Häfen=(hafen) ports
 höfliche
@@ -2975,7 +2974,7 @@ hilf
 Hilfe
 hilflos=helpless
 Hilflosigkeit
-Hilfsschiff
+Hilfsschiff=aid ship
 hilft
 Himmel
 Himmels
@@ -3510,7 +3509,7 @@ krachten
 Kraft
 krank
 Kranken
-kratzte
+kratzte=scratched
 krächzte=(krächzen) croaked
 Krücke=crutch
 Kreis
@@ -4190,7 +4189,7 @@ näherten
 nicht
 Nichtdestoweniger
 nichts
-nichtsdestoweniger
+nichtsdestoweniger=nonetheless
 nickte
 nie
 nieder
@@ -4776,11 +4775,11 @@ schicksalsschweren=fateful
 Schieß=shoot
 schieße
 schießen
-Schießerei
+Schießerei=shooting
 schief
 schiefe
 schiefgegangen
-Schießkunst
+Schießkunst=marksmanship
 Schielauge=squint eye
 schien=(scheinen) seem
 schienen
@@ -4797,15 +4796,14 @@ Schiffes
 Schiffkoch
 Schiffs
 Schiffsarzt=ship's doctor
-Schiffseigentümer
-Schiffseigentümers
+Schiffseigentümer=ship owner
 Schiffsjunge=cabin boy
 Schiffskamerad
 Schiffskameraden
 Schiffskoch=ship's cook
 Schiffslände=???
 Schiffswand=???
-Schiffszimmermann
+Schiffszimmermann=ship carpenter
 Schiffszwieback
 Schiffverlassen
 Schild
@@ -5345,7 +5343,7 @@ starrte=(starren) stare
 starrten
 statt
 Statue
-Staubwolke
+Staubwolke=cloud of dust
 Staunen=amazement
 staunte=(stauen) marvel
 Stöbern
@@ -5380,7 +5378,6 @@ stell’
 Stelle=auf der Stelle=immediately
 stellen
 stellte=(feststellen) find, discover
-stellten=(feststellen) find, discover
 Stellung=position
 stemmte
 Stößen
@@ -5459,7 +5456,7 @@ streckte=(strecken) protrude (ausstrecken) stretch
 Streich=trick
 streiche
 streichelte=stroke
-streichen
+streichen=cancel, remove
 Streifen=strip
 streite=contend
 Streitigkeiten
@@ -5592,7 +5589,7 @@ Tisch
 Tische
 Tja
 Tölpel
-tönte
+tönte=(tönen) resound
 tönten
 Tod
 Tode
@@ -5617,7 +5614,7 @@ Tortugas
 tosend
 tot
 Tote
-toten
+toten=dead
 totenblaß=deathly pale
 totenbleich
 totenstill=dead silent
@@ -5834,7 +5831,7 @@ unseres
 unserm
 unsern
 unsicherer
-unsichtbar
+unsichtbar=invisible
 unsinnig
 unten
 unter
@@ -6113,7 +6110,7 @@ verstrickt
 verstärkte
 verstummt
 verstummte=go silent
-Versuch
+Versuch=attempt
 versuchen=try
 versuchte=(versuchen)
 versuchten
@@ -6288,7 +6285,7 @@ wackeren=brave
 Wadenmuskeln
 Waffe
 Waffen
-Waffenvorrat
+Waffenvorrat=arsenal
 wage
 wagen=dare
 Waghalsigkeit
@@ -6521,7 +6518,7 @@ winzigen
 winziges
 Wipfel
 wir
-wirbelte
+wirbelte=whirled
 wird=shall
 wird’s
 wirkenden
