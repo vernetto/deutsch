@@ -485,7 +485,7 @@ auszusetzen
 auszuspucken
 auszustrecken=reach out
 auszusuchen=choose
-Axthieben
+Axthieben=slashing blows
 ay
 Bö
 Bachs
@@ -2388,7 +2388,7 @@ gescheiten
 geschenkt
 gescheuert
 Geschäft
-Geschäftigkeit
+Geschäftigkeit=busyness
 Geschäftsbüchern=business books
 Geschichte=story
 Geschichten
@@ -2404,7 +2404,7 @@ geschlossenen
 geschlüpft=(schlüpfen) hatched
 Geschmack=taste
 geschmiert
-Geschosse
+Geschosse=bullets
 geschossen=shot
 Geschöpf=creature
 Geschrei=shout
@@ -2683,7 +2683,7 @@ größten
 größter=greatest
 größtes
 Gruß
-grub
+grub=(graben) dig
 Grube=pit
 gräuliche=dreadful
 gräulichen=bloody
@@ -2995,7 +2995,7 @@ hinauszuwerfen=throw out
 hinüber
 hinüberlief=(hinüberlaufen) run over
 hinüberreiten=ride over
-hinüberschaute
+hinüberschaute=looked over
 hinüberspähte
 hindern
 hindurch=through
@@ -3431,14 +3431,14 @@ Kämpft
 kämpfte
 Knabe
 Knacken=crack
-Knall
+Knall=explosion
 knallte=(knallen) bang, explode
 knallten
 knapp=almost
 knappen
 Knarren
 knarrte=(knarren) creaked
-knatternden
+knatternden=rattling
 Knöchel
 Knie
 knien
@@ -4847,7 +4847,7 @@ Schläfers
 schläfrig=somnolent
 Schläge=beating
 schlich=(schleichen) creep
-schlichen
+schlichen=creep
 schlicht
 Schließ
 schließen
@@ -5484,7 +5484,7 @@ Störung=trouble
 stürzen=fall
 stürzte=fell
 stürzten=(umstürzen) overthrow
-stößt
+stößt=(stoßen) encounters
 stützen
 stützte
 stützten
@@ -5645,7 +5645,7 @@ Traum
 traurig
 traurigen
 traut=(sich trauen) dare
-traute
+traute=(trauen) dare
 trauten=(sich trauen) dare
 Türbalken
 trüben=(trüb) dim
@@ -5951,7 +5951,7 @@ Vergangenheit
 vergebe
 vergebens=in vain
 vergeblich
-vergebliche
+vergebliche=wasted
 Vergehen
 vergeht
 vergessen
@@ -5961,7 +5961,7 @@ Vergeudung
 vergilbtem
 verging=(vergehen) passed
 vergingen=(vergehen) go by
-Vergißt
+Vergißt=(vergessen) forgets
 vergleichen
 Vergnügen
 vergnügliche
@@ -6270,7 +6270,7 @@ vorzeitig
 vorzüglicher
 vorziehen
 vorzudringen
-vorzuschlagen
+vorzuschlagen=propose
 vorzuziehen=preferable
 wabernde
 wach
@@ -6307,7 +6307,7 @@ Wald
 Waldes
 Waldkap
 Waldrand
-Waldstreifen
+Waldstreifen=forest strips
 Waldtiere
 Walroß
 wand
@@ -6371,7 +6371,7 @@ wehrlosen=defenseless
 wehte
 weiß
 Weib=wife
-weichen
+weichen=(weich) soft
 weiches
 weiden=pasture
 weiße
@@ -6460,7 +6460,7 @@ Wichtigste
 wickelte=(wickeln) wrap
 wider
 widergehallt
-Widerhall
+Widerhall=echo
 widerhallen=reverberate
 widerhallte=echoed
 widerliche=disgusting
@@ -6528,7 +6528,7 @@ wirkt
 wirkte=(wirken) seem, appear
 wirkten
 Wirkung=effect, action
-wirkungslos
+wirkungslos=ineffective
 wir’s
 wirst
 Wirt=host
@@ -6562,7 +6562,7 @@ wohin
 wohl=no doubt
 Wohl
 wohlbekannte
-Wohlbewaffnet
+Wohlbewaffnet=well armed
 wohlgelaunt
 wohlgelittener
 Wohlgeschmack
@@ -6687,7 +6687,7 @@ zerstreuten
 Zerstörungswut
 zertreten=trod,trample
 zertrümmert
-zertrümmerten
+zertrümmerten=smashed
 Zeter=shame
 Zeug=stuff
 Zeugen
@@ -6720,7 +6720,7 @@ zimmer
 Zinnbüchse=tin box
 Zirpen
 Zischeln
-zischte
+zischte=hissed
 zitierte=cited
 zittern=tremble
 zündete
