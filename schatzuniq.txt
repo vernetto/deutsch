@@ -241,7 +241,7 @@ Anspruch=claim
 Anstieg
 anständige=decent
 Anstoß=offense
-anstrengte
+anstrengte=struggled
 Anstrengungen=efforts
 Ansuchens
 Anteil=share, quota
@@ -335,7 +335,7 @@ aufgesessen=(aufsitzen) mounted
 aufgespürt=tracked
 aufgestanden=got up
 aufgestiegen=(aufsteigen) went up
-aufgestörte
+aufgestörte=disturbed
 aufgetischt=served
 aufgewacht
 aufgezogen=mounted
@@ -348,7 +348,7 @@ Aufklatschen=land with a splash
 aufklären=explain
 Aufklärungen=(Aufklärung) elucidations
 aufkommen=emerge
-auflachte
+auflachte=laughed
 auflauerte=(auflauern) ambush
 aufmachen=(sich a.) move off
 aufmachte=opened
@@ -424,7 +424,7 @@ ausgeheckt
 ausgehen=go out,finish
 ausgehändigt=handed
 ausgeplaudert=(ausplaudern) blabbed
-ausgerissen
+ausgerissen=run away
 ausgeritten=(ausreiten) to ride out
 ausgerüstet=(ausrüsten) equipped
 ausgerutscht
@@ -475,7 +475,7 @@ ausstieß= (ausstoßen) emit, utter
 ausstrahlte
 Ausweg
 ausweichen=evade
-auszudenken
+auszudenken=conceive 
 auszufahren
 auszugleichen=compensate
 auszuprobieren=try
@@ -491,7 +491,7 @@ Bachs
 Back=forecastle (part of ship)
 backbord
 Backbordseite=Port side
-Backbordwanten
+Backbordwanten=Starboard riggings
 Backe=jaw
 backt=(backen) bake
 bald=soon
@@ -561,7 +561,7 @@ befördern=promote
 befördert=transported
 befreien
 befreit=(befreien) set free
-befreite
+befreite=freed
 befremdender
 befreundet=friendly
 begann
@@ -582,7 +582,7 @@ begreifen=understand
 begreift=begreifen
 begrenzt
 begriff=(begreifen) understood, idea
-begriffen
+begriffen=understood
 Behaglichkeit
 behagt=(behagen) please
 behalte=keep
@@ -591,8 +591,8 @@ behandelt
 behauptete
 behielt
 behilflich
-behutsam
-Behutsamkeit
+behutsam=cautious
+Behutsamkeit=cautiousness
 bei
 beibehielt=(beibehalten) retained
 Beiboot
@@ -602,7 +602,7 @@ beide
 beiden
 beides
 beidrehen=bring the ship to a standstill
-beieinander
+beieinander=together
 beißen
 beigeführt
 beigetragen=(beitragen) contributed
@@ -695,8 +695,8 @@ bergen=retrieve
 übergeschnappt=crazy
 überhaupt
 berühmten
-überhängenden
-berührte
+überhängenden=overhanging
+berührte=touched
 berührten=touched
 Berührung=touch
 Bericht=report
@@ -746,13 +746,13 @@ beruhigten=calmed
 überwachen=supervise
 überwinden=surmount
 überzeugen=convince
-überzeugende
+überzeugende=convincing
 überzeugt=convinced
 Überzeugung
 überzogen=overdrawn
 besaß=(besitzen) have
 besah=(besehen) look at
-Besanwanten
+Besanwanten=???
 Besatzung
 beschaffte=procure
 beschäftigen
@@ -913,7 +913,7 @@ blühende
 blähten
 übliche=usual
 Blick
-Blicke
+Blicke=look
 Blicken
 blickte
 blieb=(bleiben) remain
@@ -1039,7 +1039,7 @@ brummen=grumble
 brummig=grumpy
 brummte
 brummten=(brummen) hummed
-Brust
+Brust=breast
 Brustkorb=Rib Cage
 Brusttasche=chest pocket
 Büsche=shrubbery
@@ -1092,7 +1092,7 @@ daher=hence
 dahin=there
 dahintanzte=go dancing
 dahinter
-dalag
+dalag=lay there
 damals
 damit=with it
 dampfende=steaming
@@ -1137,7 +1137,7 @@ davon=of it
 davongelaufen=run away
 davongerannt=run away
 davonmachten=???
-davontanzte
+davontanzte=was dancing
 davonzusegeln
 davor
 dazu
@@ -1473,7 +1473,7 @@ einziger
 einziges
 einzudringen=penetrate
 einzuflößen=infuse
-einzuhalten
+einzuhalten=observe
 einzuschlagen=beat,smash
 einzutreten=enter
 einzuziehen=collect, recover
@@ -1490,7 +1490,7 @@ Empfehlungen
 empörte
 Ende
 endeten
-endgültig
+endgültig=final
 endlich
 energischen
 enfernt
@@ -1510,7 +1510,7 @@ entern
 Entersäbel=cutlass
 entfernen
 entfernt
-entfernte
+entfernte=removed
 Entfernung=distance
 entgegen=against
 entgegengenommen=accepted
@@ -1537,7 +1537,7 @@ entsannen=(entsinnen) remember
 entscheiden
 Entscheidende=crucial
 entschlossen=determined
-Entschlossenheit
+Entschlossenheit=determination
 Entschlüssen=decisions
 Entschluß=decision
 Entschuldigung
@@ -1652,7 +1652,7 @@ Erquickung
 erregen=provoke
 erregt=excited
 Erregung=excitation
-erreichen
+erreichen=reach
 erreicht
 erreichte
 erreichten=reached
@@ -1675,7 +1675,7 @@ erschreckte
 erschrocken=frightened
 erschüttert=shaken
 erschütterten=(erschüttern) shake
-ersinnen
+ersinnen=devise
 ersparen
 erspart=save
 erst
@@ -1771,7 +1771,7 @@ fahrt=trip
 Fahrzeug=vehicle, vessel
 Fall
 Falle=trap
-Falleinen
+Falleinen=???
 fallen
 falsche
 Familie
@@ -1859,7 +1859,7 @@ Feuerzeug=lighter
 Öffnung
 fügen=(sich fügen) be obedient
 fügte=(sich fügen) obey
-fühlen
+fühlen/fühlte=felt
 führ
 führen=guide, lead
 Führer
@@ -1887,7 +1887,7 @@ Fische
 Fischerboot=fishing Boat
 fischten=(fischen) to fish
 flach=flat
-Flackern
+Flackern=flicker
 Flagge
 Flaggenkopf
 Flaggenleine
@@ -1933,9 +1933,9 @@ Fluch
 Fluchen
 flucht=(flüchten) escaped, escape
 fluchte=cursed
-Fluchtmöglichkeit
+Fluchtmöglichkeit=escape
 Flut=high tide
-flutete
+flutete=flooded
 Flutgrenze
 fünf
 fünfte
@@ -2048,7 +2048,7 @@ fuhren
 Funke
 Furcht
 furchtbar
-furchtbaren
+furchtbaren=terrible
 Fußstütze=footrest
 Futter
 gab=(geben) give
@@ -2133,7 +2133,7 @@ geeilt
 geentert=boarded
 Gefahr
 gefahrdrohende
-gefahren
+gefahren=run
 gefahrvollen=dangerous
 gefallen=please
 gefallenen
@@ -2142,7 +2142,7 @@ gefangen
 Gefangenen
 Gefangener=prisoner
 gefaßt=(fassen) taken
-gefaßter
+gefaßter=calmer
 Gefecht=battle
 gefeuert
 geöffnet
@@ -2207,7 +2207,7 @@ gehen
 gehend
 geheuert=(heuern) hire
 gehißt=hoisted
-Gehölz
+Gehölz=grove
 gehoben=(heben) elevated
 gehofft
 geholt=(holen) fetch
@@ -2291,7 +2291,7 @@ Gemüse
 gemütlichsten=coziest
 Gemurmel=murmur
 gemustert=patterned
-genagelt
+genagelt=nailed
 genannt
 genau=accurately
 genaue
@@ -2341,7 +2341,7 @@ gerichtet=(richten) address
 Gerichtstag
 gerieben=sly
 gerieten=came
-geriffelt
+geriffelt=corrugated
 gering
 geringe
 geringem=low
@@ -2471,7 +2471,7 @@ getauft=(taufen) baptized
 getaugt=(taugen) be good
 geteerte=tarred
 getragen=worn
-getraut
+getraut=trust
 getreten=step
 Getränken=drink
 getroffen=(treffen, Blitz) struck
@@ -2526,7 +2526,7 @@ gewundenes
 gewußt=(wissen) known
 gezeichnet
 gezeigt
-Gezeiten
+Gezeiten=tides
 gezielt=targeted
 gezogen=(ziehen) drawn
 gezogenen
@@ -2588,7 +2588,7 @@ glitten=glided
 glänzten=(glänzen) shine
 glotzen=gawk
 Gläschen=glass
-Glut=embers
+Glut=embers,glow
 Gnaden
 gnädig
 gönnen=grant
@@ -2636,7 +2636,7 @@ griff=(greifen) grab
 Griff=handle
 grimmig
 Grinsen=grin
-grinste
+grinste=grinned
 grölen
 grölend
 gräßlicher=ghastly
@@ -2652,7 +2652,7 @@ grobe
 großem
 großen
 großer
-großes
+großes=great
 Grog
 Großluke=???
 Großmast=mainmast
@@ -2670,7 +2670,7 @@ grub=(graben) dig
 Grube=pit
 gräuliche=dreadful
 gräulichen=bloody
-Grund=(auf Grund laufen) go aground
+Grund=(auf Grund laufen) go aground, (auf den Grund)  to the bottom
 grundanständig=basic decency
 Grunde=(im G.) basically
 Grundfarbe=primary color
@@ -2717,7 +2717,7 @@ Hafens
 haftenblieben=adhesive remained
 hafteten=(haften) stick, adhere
 haha
-Hahn=cock,hammer
+Hahn=cock,hammer, tap
 Hain
 Haken=hook
 halb
@@ -2786,7 +2786,7 @@ Hauses
 Hausierer=peddler,hawker
 Haustor=front door
 Haut
-Hautstreifen
+Hautstreifen=strips of skin
 Hawkins
 hübsch
 hübschen
@@ -2824,7 +2824,7 @@ heimgekehrt=returned
 Heimkehr=return
 Heimlichkeit
 Heimreise
-heimwärts
+heimwärts=home
 heiser=hoarse
 heiseren
 heiseres
@@ -2832,7 +2832,7 @@ heisse
 heißt
 heiter=cheerful
 Held=hero
-Heldentaten
+Heldentaten=heroic deeds
 helfe
 helfen=help
 Helft
@@ -2939,7 +2939,7 @@ hühnerherzigen=chicken-hearted
 höhnte
 hieß=(heissen) called, tell
 Hieb=blow
-hielt=(halten) held
+hielt=(halten) held (innehalten) pause
 hielten=(halten) (anhalten) stop
 hier
 hier
@@ -3026,10 +3026,10 @@ hob=(heben) raised (aufheben) pick up
 hoben
 hoch
 Hochebene
-hochgemut
+hochgemut=froh
 hochgewachsen=tall
 Hochwassergrenze
-hochzuklettern
+hochzuklettern=climb
 hockte=(hocken) squat
 hockten=(hocken) sit around
 hoffen
@@ -3046,7 +3046,7 @@ Hol=(holen) bring
 holen=bring, fetch
 Holt=(holen)
 holte=(holen) bring
-Holz
+Holz=wood
 Holzbein=wooden leg
 Holzkopf
 Holzstapel=woodpile
@@ -3118,7 +3118,7 @@ Indianern
 Indien
 infolgedessen=consequently
 inmitten=amidst
-inne
+inne=(innehalten) pause
 innen
 Innenseite
 Innere
@@ -3185,7 +3185,7 @@ jederzeit=any time
 jedes
 jedesmal
 jedoch
-jegliche
+jegliche=any
 jemals
 jemand
 jemanden
@@ -3364,7 +3364,7 @@ Kleider
 Kleiderfetzen
 Kleidung
 Kleidungsstücke
-Kleie
+Kleie=bran
 klein
 kleine
 kleinen
@@ -3395,7 +3395,7 @@ Kälte
 kälteste
 klug=wise
 Klüverbaum=???
-kümmerlichen
+kümmerlichen=wretched
 kümmerlichsten=most wretched
 kümmern
 kümmert
@@ -3633,7 +3633,7 @@ Lebens
 Lebensblut=lifeblood
 lebensgefährlich=life-threatening
 Lebensgeister
-lebensgroß
+lebensgroß=life-size
 Lebensmittel
 Lebensmittelvorräten
 Leber
@@ -3783,7 +3783,7 @@ löste
 läßt
 Älteste
 Öltuch=oilskin
-lud
+lud=(laden) load
 luden=???
 Läufer
 läuft=run
@@ -3938,14 +3938,14 @@ möglichstes
 M’Graw
 mögt=mögen
 Mühe=effort, (Mühe geben) make an effort
-mühelos
+mühelos=easily
 Mühle
 Mühlsteine
 mühsam=laborious
 mühselig
 mühte
 mich
-Mienenspiel
+Mienenspiel=facial expressions
 Mieter
 müßig=idle
 minder
@@ -4077,7 +4077,7 @@ Nachteulen=night Owl
 Nachtmütze=nightcap
 nachtrage
 Nachzüglern=latecomer
-nachzog
+nachzog=(nachziehen) followed suit
 nacktes
 Nadeln=needle
 nagelfest=nailed down
@@ -4227,7 +4227,7 @@ O
 ob
 oben
 oberen
-Oberfläche
+Oberfläche=surface
 oberhalb
 Oberhand=upper hand
 Oberschenkel=thigh
@@ -4322,7 +4322,7 @@ Pfanne
 Pfannen=pans
 Pfeife=whistle, pipe
 pfeifen=whistle
-Pfeil
+Pfeil=arrow
 Äpfeln=(Apfel)apples
 Pferd
 Pferde
@@ -4399,7 +4399,7 @@ Proviant
 Providence
 Prozeß=process
 Pulle
-Puls
+Puls=pulse
 Pulver
 Pulverfäßchen
 Pulverhorn
@@ -4407,7 +4407,7 @@ Pulvers
 Pulvervorräten
 Punkt
 Punkte
-Puppe
+Puppe=doll
 putzte
 Quacksalber=charlatan
 Quadrant
@@ -4420,7 +4420,7 @@ Quelle=source
 quer=diagonally
 Quere
 quälen=torture
-rabenschwarze
+rabenschwarze=pitch-dark
 Rache
 ragenden=towering
 ragte=(ragen) tower
@@ -4492,7 +4492,7 @@ redeten=talk
 redlichen=(redlich) honest
 Redruth
 regelmäßigen
-regen
+regen=(sich regen) to stir
 reglos=motionless
 regte=(sich regen) move
 Regung
@@ -4538,7 +4538,7 @@ rettungslos
 Ärger=anger
 ärgerlich=annoying
 Rheumatismus
-rühmen
+rühmen=praise
 Röhricht=reeds
 rührte=(rühren) move, stir
 riß=(wegrissen) tore away 
@@ -4654,7 +4654,7 @@ sagt
 sagte
 sagten
 Sagt’s
-sah=(aussehen) look like
+sah=(aussehen) look like (ansehen) inspect
 sahen=(sehen) saw
 salutierte=saluted
 Salve
@@ -4718,7 +4718,7 @@ schauen=look
 Schauer
 Schaufeln
 Schaukeln=swing
-Schaum
+Schaum=foam
 schaut
 schaute=(schauen) look
 schauten=watched
@@ -4755,7 +4755,7 @@ schiefgegangen
 Schießkunst=marksmanship
 Schielauge=squint eye
 schien=(scheinen) seem
-schienen
+schienen=seemed
 Schießpulver=gunpowder
 Schießscharte=loophole
 schießt
@@ -4795,7 +4795,7 @@ Schlafenden
 schlaff=slack
 Schlafplatz
 Schlafstätten=dormitories
-Schlag
+Schlag=stroke
 Schlaganfall=stroke
 schlage=(vorschlage) suggest
 schlagen
@@ -4985,13 +4985,13 @@ schwierigen
 Schwierigkeit=difficulty
 schwingen=swing
 schwirren=buzz
-schwirrte
+schwirrte=whirred
 Schwüle=sultriness
 schwoll=swelled
 schwöre=swear
 Schwärme=swarms
 Schwätzer=talker,windbag
-Schwung
+Schwung=swing
 Säcken
 südamerikanischen
 Süden
@@ -5059,7 +5059,7 @@ Sehnsucht=longing
 sehr
 seht=(sehen) look
 sei
-seicht
+seicht=shallow
 seid
 seidenes=silk
 seien
@@ -5088,7 +5088,7 @@ selben
 selber
 selbst
 Selbstbeherrschung
-selbstgefällig
+selbstgefällig=complacent
 selbstgepökeltem
 selbstverfertigt=auto manufactured
 Selbstverständlich
@@ -5097,7 +5097,7 @@ seltsamem
 seltsamen
 Seltsames=strange
 sende
-Senke
+Senke=depression, valley
 senkte=(senken) lowered
 setz
 setze
@@ -5141,7 +5141,7 @@ Silbergeld=silver
 silbernes
 Silberschiffe
 Silberstück
-Silbriges
+Silbriges=silvery
 Silver
 Silveres
 Silvers
@@ -5314,11 +5314,11 @@ Staunen=amazement
 staunte=(stauen) marvel
 Stöbern=rummage
 Stück
-Stückchen
+Stückchen=little bit
 Stücke
 Städten=cities
 städtischen=urban
-stechen
+stechen=(in See zu s.) to set sail
 stecken=put (einstecken) sheathe, stuck
 stehe
 stehen=(blieb er stehen) stopped
@@ -5355,7 +5355,7 @@ stetige=steady
 stets=always
 Steuer=helm
 steuerbord
-Steuerbordwanten
+Steuerbordwanten=Starboard riggings
 steuerlos=rudderless
 Steuermann=helmsman
 steuern/steuerte=steer, head to
@@ -5446,7 +5446,7 @@ störten
 Sträucher
 Störung=trouble
 stürzen=fall
-stürzte=fell
+stürzte=(stürzen) fell
 stürzten=(umstürzen) overthrow
 stößt=(stoßen) encounters
 stützen=support
@@ -5708,7 +5708,7 @@ umringten
 Umrisse=outline
 ums
 umsah=look around
-Umschau
+Umschau=???
 umschlotterte=???
 Umschwung
 umsegeln=sail around
@@ -5828,7 +5828,7 @@ Unverschämtheit
 unverständliche=incomprehensible
 unverträglichste=most intolerant
 unverzüglich=immediately
-unvorsichtig
+unvorsichtig=careless
 unvorstellbar=inconceivably
 unweit=not far from
 unwichtig=unimportant
@@ -5854,7 +5854,7 @@ verbinden=bind
 verbitte
 verblödete
 verblüffend=striking
-Verblüffung
+Verblüffung=amazement
 Verbündete=ally
 Verbündeten
 verborgen=hidden
@@ -5915,14 +5915,14 @@ vergebliche=wasted
 Vergehen=offense
 vergeht
 vergessen
-vergeudet
+vergeudet=misspent
 vergeudete=wasted
 Vergeudung
 vergilbtem
 verging=(vergehen) passed
 vergingen=(vergehen) go by
 Vergißt=(vergessen) forgets
-vergleichen
+vergleichen=compare
 Vergnügen=pleasure
 vergnügliche=fun
 vergraben=bury
@@ -5982,7 +5982,7 @@ verändert=changed
 veränderter
 vernehmbar=audible
 vernehmen=hear
-verängstigt
+verängstigt=frightened
 vernichtet=destroyed
 vernünftig=reasonable
 vernünftiger=reasonable
@@ -5994,7 +5994,7 @@ verprügelter=(verprügeln) spanked
 verrate
 verraten
 verrückt=crazy
-verrechnet
+verrechnet=charged
 verärgert=annoyed
 verrichtete=carry out
 verriegelt=locked
@@ -6022,8 +6022,7 @@ verschlingen=devour, engulf
 verschlungen=convoluted
 verschmiert=smudged
 verschmitzter=sly
-verschnaufen=breathe
-verschnaufte
+verschnaufen/verschnaufte=breathe,pant
 verschont
 verschrammt=scratched
 verschwamm=blurred
@@ -6165,7 +6164,7 @@ Vorbau
 vorbei=by
 vorüber=past
 vorübereilte
-Vorbereitungen
+Vorbereitungen=preparations
 vorüberkamen=passed by
 vorüberpfiff=whistled past
 vorbeugten=(vorbeugen) bend forward
@@ -6221,7 +6220,7 @@ Vorstellungskraft=imagination
 Vorteil
 vortrefflichen=excellent
 Vorwand=excuse
-Vorwürfe
+Vorwürfe=reproaches
 vorwärts=forward
 vorwärtsbrachten=brought forward
 vorwärtsgekommen=made progress
@@ -6231,7 +6230,7 @@ vorziehen
 vorzudringen=penetrate
 vorzuschlagen=propose
 vorzuziehen=preferable
-wabernde
+wabernde=flickering 
 wach
 Wache=guard
 Wachen=watch
@@ -6274,11 +6273,11 @@ wandern
 wanderte
 Wanderung=walk
 wandte=(wenden) turned
-wandten
+wandten=turned
 Wange=cheek
 Wangen=cheeks
 wann
-Wanten
+Wanten=shrouds
 war
 waren
 warf
@@ -6308,7 +6307,7 @@ wächst=grows
 Wächter=guard
 Wächtern
 Wechsel
-wechseln
+wechseln=change
 wechselnden=changing
 wechselnder=varying
 wechselte=changed
@@ -6432,10 +6431,10 @@ wie=as, when
 wieder=again
 wiedererkennen
 wiedererlangt
-Wiedereroberung
+Wiedereroberung=reconquest
 wiedererwachenden
 wiedergefunden
-wiedergefundenen
+wiedergefundenen=recovered
 wiedergewann=regained
 Wiederherstellung=restoration
 wiederholen
@@ -6518,7 +6517,7 @@ Wochen
 Wogen=surge
 woher
 wohin
-wohl=no doubt
+wohl=no doubt,well
 Wohl
 wohlbekannte
 Wohlbewaffnet=well armed
@@ -6554,7 +6553,7 @@ würde=(werden)
 würdevoll=dignified
 wäre
 wären
-Würfel
+Würfel=dice
 würgte
 Wärme
 wär’s
@@ -6679,7 +6678,7 @@ Zirpen
 Zischeln
 zischte=hissed
 zitierte=cited
-zittern=tremble
+zittern=tremble, tremor
 zündete=lit
 Zündpfanne=touch-pan
 zog=(ziehen) suck, pull (wegziehen) pull away, (vorziehen) prefer (ausziehen) remove
