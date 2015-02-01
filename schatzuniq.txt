@@ -85,7 +85,7 @@ Achtelmeile=1/8 of a mile, furlong
 achten
 Achterdeck=quarterdeck
 achtern=???
-achtete=(achten) respect
+achtete=(achten) respect, take care
 achtlos=careless
 Achtung
 Ader=vein
@@ -116,7 +116,7 @@ allen
 aller
 allerdings=admittedly
 allerhand
-allerlei
+allerlei=all kinds of
 Allerschönsten
 alles
 allesamt=all
@@ -186,7 +186,7 @@ angeregtester=(angeregt) most animated
 angerichtet
 angeschossen
 angesehen
-angespannten
+angespannten=tense
 angesprochen
 angesteckt=infected
 angestellt=made
@@ -399,7 +399,7 @@ augenblicklich
 Augenblicks
 Augenlicht=eyesight
 augenlose=eyeless
-Augenwinkel
+Augenwinkel=corner of the eye
 August
 aus=from
 Ausblick
@@ -415,13 +415,13 @@ Ausfahrt
 ausführbar
 ausfindig=(ausfindig machen) come across, detect
 Ausflug=excursion
-ausgebreitet
+ausgebreitet=outspread
 ausgeführt=(ausführen) accomplished
 ausgegangen=go out
 ausgeglichene=balanced
 ausgegraben=dig up
 ausgeheckt
-ausgehen=go out
+ausgehen=go out,finish
 ausgehändigt=handed
 ausgeplaudert=(ausplaudern) blabbed
 ausgerissen
@@ -474,11 +474,11 @@ ausstaffiert=fitted out
 ausstieß= (ausstoßen) emit, utter
 ausstrahlte
 Ausweg
-ausweichen
+ausweichen=evade
 auszudenken
 auszufahren
 auszugleichen=compensate
-auszuprobieren
+auszuprobieren=try
 auszurüsten
 auszusetzen=expose
 auszuspucken=spit
@@ -543,7 +543,7 @@ Beerdigung
 Beeren
 befahl
 befahren
-befallen
+befallen=attack,affect
 befanden=be situated
 befaßte
 Befehl=order
@@ -616,7 +616,7 @@ beiseite=apart
 Beispiel
 beistehen=assist
 beitragen
-bejahrten
+bejahrten=elderly
 bekam
 bekamen=received
 bekannten
@@ -793,7 +793,7 @@ besseres
 bestand
 bestanden
 beste
-bestehen
+bestehen=endure
 bestellt
 besten
 bester
@@ -849,7 +849,7 @@ Beweis=evidence
 bewährte=(sich bewähren) proved itself
 bewährten=(sich bewähren) proved themselves
 bewies= (beweisen) prove
-bewirkt
+bewirkt=(bewirken) achieved
 bewunderten=admire
 Bewunderung=admiration
 bewußt=conscious
@@ -870,7 +870,7 @@ Bibliothek
 Bier
 bieten
 Bild
-bildete
+bildete=(bilden) form
 Bill
 Billy
 bin
@@ -1010,7 +1010,7 @@ Breitseite=attack
 brennen
 brennende
 brennenden
-Brett
+Brett=board
 Bretter
 Brief
 Briefes
@@ -1255,7 +1255,7 @@ drüben=on the other side
 drüber
 Drücken
 drückend=heavy, oppressive
-drückte=press
+drückte=press (abdrücken) pull the trigger 
 Dreck
 dreckiges=dirty
 dreh
@@ -1270,7 +1270,7 @@ dreimal
 drein=in it
 dreinschauender
 dreizehn
-dürft=may
+dürft,dürfte=may
 dröhnen=roar, boom
 dröhnender=booming
 dröhnte=roar
@@ -1547,7 +1547,7 @@ entsetzlich=dreadful
 entsetzt=horrified
 entsinne=remember
 entsprang
-entsprechend
+entsprechend=accordingly
 entstammte=came from
 entstehen=arise
 Enttäuschung=disappointment
@@ -1607,7 +1607,7 @@ Erhängen=hanging
 erhob
 erhoben=raise
 erhoffen
-erholen
+erholen=recover
 erholt=(erholen) recovered
 erinnere
 erinnern
@@ -1699,7 +1699,7 @@ erstreckten=extend
 ersuche
 ersuchen=request
 erteilt
-erteilte
+erteilte=issued
 ertönte=resounded
 ertönten
 ertragen=bear
@@ -1770,7 +1770,7 @@ fahren
 fahrt=trip
 Fahrzeug=vehicle, vessel
 Fall
-Falle
+Falle=trap
 Falleinen
 fallen
 falsche
@@ -1881,7 +1881,7 @@ Fingerhut=thimble
 Fingern
 finsterem
 finstern=dark
-Finten
+Finten=feints
 Fisch
 Fische
 Fischerboot=fishing Boat
@@ -1940,7 +1940,7 @@ Flutgrenze
 fünf
 fünfte
 fünfunddreißig
-fünfundvierzig
+fünfundvierzig=45
 fünfzehn
 fünfzig
 Focksegel=foresail
@@ -2390,7 +2390,7 @@ geschlossen=closed
 geschlossenen
 geschlüpft=(schlüpfen) hatched
 Geschmack=taste
-geschmiert
+geschmiert=lubricated
 Geschosse=bullets
 geschossen=shot
 Geschöpf=creature
@@ -2670,7 +2670,7 @@ grub=(graben) dig
 Grube=pit
 gräuliche=dreadful
 gräulichen=bloody
-Grund
+Grund=(auf Grund laufen) go aground
 grundanständig=basic decency
 Grunde=(im G.) basically
 Grundfarbe=primary color
@@ -2717,7 +2717,7 @@ Hafens
 haftenblieben=adhesive remained
 hafteten=(haften) stick, adhere
 haha
-Hahn
+Hahn=cock,hammer
 Hain
 Haken=hook
 halb
@@ -2907,8 +2907,8 @@ hervorstöhnen=???
 hervortönte
 hervorzog
 Herwälzen
-Herz
-Herzen
+Herz=heart
+Herzen=heart
 Herzens
 herzhaftesten=heartiest
 herzlich=cordially
@@ -3233,7 +3233,7 @@ Kajütentreppe
 Kalbskopf=calf's head
 kalkuliere
 kalt
-kaltblütig
+kaltblütig=cold-blooded
 kaltblütigsten
 kalte
 Kalüte
@@ -3255,7 +3255,7 @@ Kampfgeschrei=battle cry
 Kampfhahn
 Kampfhähne=Gamecocks
 Kampftages
-kampfunfähig
+kampfunfähig=disabled
 kann
 kannst
 kannte
@@ -3389,7 +3389,7 @@ klirren=clang
 klirrten=rattle
 Kloß=meatball
 klopfen=knock
-klopfendem
+klopfendem=pounding
 klopfte=knocked
 Kälte
 kälteste
@@ -3411,7 +3411,7 @@ knallte=(knallen) bang, explode
 knallten
 knapp=almost
 knappen
-Knarren
+Knarren=creak
 knarrte=(knarren) creaked
 knatternden=rattling
 Knöchel=ankle
@@ -3424,7 +3424,7 @@ kniff=(kneifen) pinched
 König
 Könige
 Königs
-knirschte
+knirschte=(knirschen) crunch
 könne
 können
 könnt
@@ -3442,7 +3442,7 @@ Koch
 kochen
 Koje=bunk, berth
 Kojen
-kollerte
+kollerte=(kollern) tumbled
 Kombüse=caboose
 komm
 Kommando
@@ -3653,7 +3653,7 @@ leere=void
 leeren=to empty
 leerer
 leerte=(leeren) to empty
-leewärts
+leewärts=leeward (towards the side sheltered from wind)
 leg
 legen
 legst
@@ -4063,7 +4063,7 @@ nachher
 nachkam
 nachlassen
 nachlässig
-Nachlässigkeit
+Nachlässigkeit=negligence
 Nachmittags=afternoon
 nachmittägliche
 Nachricht
@@ -4337,7 +4337,7 @@ Pflicht=duty
 pflichttreuer=dutiful
 Pflichtverletzung
 Pförtnerstelle
-Pfütze
+Pfütze=puddle
 Pfund
 Pfunden
 pfundweis(e)=by the pound
@@ -4346,7 +4346,7 @@ phantasierte=fantasized
 Piaster=piastres
 pickte=(picken) peck
 piff
-Pinne
+Pinne=tiller (bar of rudder)
 Pirat
 Piraten
 Pirateninseln
@@ -4472,7 +4472,7 @@ rückte
 rückwärtige=rear
 Rückzug=retreat
 Rädelsführer=ringleaders
-reagierte
+reagierte=responded
 rechne
 rechnen=count
 rechnet
@@ -4960,7 +4960,7 @@ Schwäche=weakness
 schwächer
 schwächeren
 Schwächung
-schwebte=hover
+schwebte=(schweben) hover, impend
 Schweiß
 schweifenden=roving, rambling
 Schweigen
@@ -4969,7 +4969,7 @@ schweißglänzendes
 schweigsamer=silent
 schwelenden
 Schwelle=threshold
-schwellen
+schwellen=swell
 schwenkte=(schwenken) sway
 schwer
 schwere=severe
@@ -5230,8 +5230,7 @@ spannend=exciting
 spannendste
 Spaten
 Speck
-Speigatt=scupper
-Speigatten
+Speigatt=scupper (hole to drain water in ship)
 Speis=food
 Spektakel
 Spendier=???
@@ -5271,7 +5270,7 @@ Spring
 spritzte
 spürt
 spürte
-sprudelte
+sprudelte=bubbled
 spät
 später
 späteren=later
@@ -5346,7 +5345,7 @@ Stelle=auf der Stelle=immediately
 stellen
 stellte=(feststellen) find, discover
 Stellung=position
-stemmte
+stemmte=(stemmen) press
 Stößen
 sterben
 sterblichen
@@ -5683,14 +5682,14 @@ um
 umbringen=kill
 umbringt
 umdrehen=turn around
-umfangreich
+umfangreich=wide
 umfriedeten=enclosed
 umfuhr=circumnavigated
 umfuhren
 umgab
 umgebracht
 Umgebung=environment
-umgedreht
+umgedreht=reversed
 umgehängt
 umgekrempelt=(unkrempeln) turned upside down
 umgeworfen=overturned
@@ -5957,7 +5956,7 @@ verlaufe
 verlaufen=run
 verlegen=embarrassed
 Verlegenheit
-verlegte
+verlegte=moved
 verleiden=to put sb. off sth.
 verleiten=mislead
 verletzt
@@ -6240,7 +6239,7 @@ Wachs=wax
 wachsen
 wachsenden
 Wachstuch
-wackeln
+wackeln=shake
 wackeren=brave
 Wadenmuskeln
 Waffe
