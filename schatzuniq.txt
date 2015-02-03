@@ -102,7 +102,7 @@ ahoi
 Akt
 Alan
 Alarmzustand=alarm condition
-albern
+albern=silly
 albernem
 Alexander
 all
@@ -437,7 +437,7 @@ ausgetrunken=drunk
 ausgewählt
 ausgeworfen
 ausgezeichnete=excellent
-ausgezogen
+ausgezogen=undressed
 ausging=(ausgehen) run out
 ausgoß=(ausgießen) pour out
 Ausguck=look-out
@@ -1300,8 +1300,7 @@ Duft
 dulde=tolerate
 dumm
 Dummheiten=foolery
-Dummköpfe
-Dummköpfen
+Dummköpfe=fools
 dumpfer
 dunkel=dark
 dunkelblauem=dark blue
@@ -1630,7 +1629,7 @@ erlaubt
 erlaubte
 erleben=experience, go through
 erlebt
-erledigt=done
+erledigt=done,ruined
 erleichtert=relieved
 Erleichterung=relief
 erleidet
@@ -4674,7 +4673,7 @@ sanften=smooth
 sanfter
 sang
 sank=(sinken) drop, subside
-satt
+satt=full, fed up
 Sattel=saddle
 Satz=movement
 Satzfetzen
@@ -4861,7 +4860,7 @@ schmutzigen
 schmutziger
 schön=beautiful
 schnappe
-Schnaps
+Schnaps=booze
 schnarchen=snore
 schnarchte
 schnaubte=(schnauben) snorted
