@@ -1,7 +1,7 @@
 Abweichungen=deviation
 Anforderungen=requirements
 Anpassungs=adaptation
-Auftrag,Aufträge=contract
+Auftrag,Aufträge=contract,order
 Ausrichtung=alignment
 Auswirkungen=impact
 Begrüssung=welcome
@@ -21,12 +21,13 @@ Festlegen=set
 Gegebenheiten=circumstances
 Geltungsbereich=scope
 Geschäftsanwender=business user
+Anwender=user
 Geschäftseinbruch=decline in business
 Grundlagen=rudiments
 Im Betracht ziehen=take into consideration
 Kostenstellen=cost center
 Kundenanfragen=customer inquiries
-Kundenaufträgen=customer orders
+Kundenaufträgen=customer orderst
 Kundenbedürfnisse=customer needs
 Langfristigkeit=long term
 Markteinschätzung=market assessment
@@ -50,7 +51,7 @@ Vernachlässigung=neglect
 Verschlüsselter=encrypted
 Verzettelung=fragmentation
 Verzögerte=delayed
-Vorgaben=targets
+Vorgaben=targets, specifications
 Vorgehen=action
 Werbung=advertising
 Wettbewerbsfähigkeit=Wettbewerbsfähigkeit
@@ -102,4 +103,21 @@ Kundenbefragung=customer survey
 Problembehebungen=fixes
 bei Bedarf=on demand, if required
 vor ort=on the spot
+Lieferung=Delivery
+Verrechenbar=billable
+abwicklung=conclusion
+Lieferanten=suppliers
+beschaffung=procurement
+jahresabschluss=Financial statements
+
+Kündigung=termination
+
+
+
+Vertraulichkeit=Confidentiality
+unberechtigten=unauthorized
+Risikoeinschätzung=risk assessment
+Rechenzentrum=data center
+Genehmigung=approval
+
 
