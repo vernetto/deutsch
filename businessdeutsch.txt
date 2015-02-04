@@ -29,6 +29,7 @@ Kostenstellen=cost center
 Kundenanfragen=customer inquiries
 Kundenaufträgen=customer orderst
 Kundenbedürfnisse=customer needs
+Bedürfnisse=needs
 Langfristigkeit=long term
 Markteinschätzung=market assessment
 Marktnachfrage=market demand
@@ -119,5 +120,15 @@ unberechtigten=unauthorized
 Risikoeinschätzung=risk assessment
 Rechenzentrum=data center
 Genehmigung=approval
+Dienstleistungen=services
+Inhaltsverzeichnis=contents
+Verteiler=distributor
+Berechtigungen=permissions
+Zuteilung=Allocation
+Anfahrtszeit=travel time
 
+Anspruchsgruppen=stakeholders
+zuständig=responsible
+Sofortmassnahmen=immediate action
 
+Vorgesetzten=supervisor
