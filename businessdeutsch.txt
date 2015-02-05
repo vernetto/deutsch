@@ -223,5 +223,8 @@ Anwendungen=applications
 
 Vortrag=lecture
 
+Wertschöpfende=value adding
+
+Ergänzungen=supplements
 
 
