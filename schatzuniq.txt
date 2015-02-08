@@ -190,7 +190,7 @@ angestellt=made
 angestiftet=(anstiften) instigated
 angestrengt=strained
 angetan
-angewiesen
+angewiesen=reliant
 angewurzelt=rooted
 angezündet=lighted
 angezogen
@@ -257,7 +257,7 @@ anzuflehen
 Anzug=suit
 anzuhören=to listen
 anzuhäufen
-anzuschauen
+anzuschauen=to look at
 anzusehen
 anzustimmen=(anstimmen) begin to sing
 anzustoßen=(anstossen) touch glasses
@@ -661,7 +661,7 @@ bequemer=convenient
 überall
 Beratung=council
 Beratungen=advice
-beraubt
+beraubt=deprived
 überblickten
 überbot=surpassed
 überdies=moreover
@@ -788,7 +788,7 @@ bestand
 bestanden
 beste
 bestehen=endure
-bestellt
+bestellt=ordered
 besten
 bester
 Bestes
@@ -1706,7 +1706,7 @@ erwarte
 erwarten=expect
 erwartet
 erwartete
-erwarteten
+erwarteten=expected
 Erwartungen=expectations
 erweisen
 Erwähnung=mention
@@ -2579,7 +2579,7 @@ Gnaden
 gnädig
 gönnen=grant
 gönnt=allow
-Gänsemarsch
+Gänsemarsch=single file
 günstig
 günstigen=favourable
 günstiger
@@ -3143,7 +3143,7 @@ ja
 Jacke
 Jacken
 Jagd
-Jagdbeute
+Jagdbeute=prey
 jagten
 Jahr
 Jahre
@@ -4375,7 +4375,7 @@ private
 problematischer
 Prophetisch
 prophezeit=(prophezeien) predicted
-Proviant
+Proviant=provisions
 Providence
 Prozeß=process
 Pulle
@@ -4384,7 +4384,7 @@ Pulver
 Pulverfäßchen
 Pulverhorn
 Pulvers
-Pulvervorräten
+Pulvervorräten=powder stocks
 Punkt
 Punkte
 Puppe=doll
@@ -6604,7 +6604,7 @@ zersplitterten=split up
 zerstören
 Zerstreut=absent-minded
 zerstreuten
-Zerstörungswut
+Zerstörungswut=destructiveness
 zertreten=trod,trample
 zertrümmert=smashed
 zertrümmerten=smashed
@@ -6667,7 +6667,7 @@ zufrieden=satisfied
 Zug
 zugeben=add, concede
 zugelassen=authorized
-zugesagt
+zugesagt=promised
 zugeschworen=swore,vowed
 Zugeständnis=concession
 zugrunde=(richten) ruin
