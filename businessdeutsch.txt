@@ -111,13 +111,9 @@ abwicklung=conclusion
 Lieferanten=suppliers
 beschaffung=procurement
 jahresabschluss=Financial statements
-
 Kündigung=termination
-
 Unterlagen=documents
 Vertraulichkeitserklärung=NDA
-
-
 Vertraulichkeit=Confidentiality
 unberechtigten=unauthorized
 Risikoeinschätzung=risk assessment
@@ -129,102 +125,65 @@ Verteiler=distributor
 Berechtigungen=permissions
 Zuteilung=Allocation
 Anfahrtszeit=travel time
-
 Anspruchsgruppen=stakeholders
 zuständig=responsible
 Sofortmassnahmen=immediate action
-
 Vorgesetzten=supervisor
 Führungsverhalten=leadership
 Beurteilungsbogen=assessment sheet
 Vorgesetzter=supervisor
-
-
 Zeiterfassung=time tracking
 Treuhänder=trustee,fiduciary
 entgegenwirken=counteract
 Räume zur Verbesserung=room for improvement
 Auswertung=evaluation
 Rückmeldungen=feedback
-
 Bestellung=order
 Stückliste=BOM
 Meetingprotokoll=minutes of meeting
 Zusammenfassung=summary
-
 Entscheid=decision
 Pflichtenheft=specifications
-
 Anleitung=instructions
-
 Muss-Bedingung=mandatory condition
-
 eingerichtet=set up
 unabdingbar=essential
 USV=UPS
 Angaben=information
 Spesenrückerstattung=Expense reimbursement
-
 Allgemeine Geschäftsbedingungen=Terms and Conditions
-
 eingesetztes=employed
-
 Anhänge=attachments
 Eingabefrist=submission deadline
-
 bekanntgegeben=posted
 Störungsbearbeitung=fault handling
-Leistungserbringer=consultant,service provider=BIT
+Leistungserbringer=consultant,service provider,BIT
 Leistungsbezüger=service consumers
-
 BBL=Bundesamt fur Bauten und Logistik
 Ausschreibung=invitation of tenders
-
 Vereinbarungen=agreements
 Vorhaben=projects
 Geschäftsleitung=management
 je nach Fall=depending on the case
 Bundesverwaltung=federal government
-
 Einsatzes=use
-
 Stellenangebote=vacancies
 Berufsbildung=training
-
-
 veranstaltung=event
-
 zur Verfügung=available
-
 Dienstleistungen=services
-
 Verteilung=distribution
-
 Werkzeuge=tools
-
 Sachbearbeiter=clerk
-
 Fachleuten=professionals
 gebührenpflichtig=subject to a fee
-
 verrechnet=charged
-
 Bewerben=apply for a job
-
 Leistungsangebot=services offered
-
 Beratung=consultation
-
 Umsetzen=implement
-
 Vermittlung=negotiation
-
 Anwendungen=applications
-
 Vortrag=lecture
-
 Wertschöpfende=value adding
-
 Ergänzungen=supplements
-
-
