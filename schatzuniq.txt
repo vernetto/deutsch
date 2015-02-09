@@ -2335,7 +2335,7 @@ geringem=low
 geringerer
 geringste=least
 geringsten
-Gerippe
+Gerippe=skeleton
 Geröll=rubble
 Gerümpel=junk, lumber
 gern
@@ -5369,7 +5369,7 @@ Stocks=cane
 stockte=stopped
 stoßen=(auf) bump into
 Stoff
-Stoffresten
+Stoffresten=fabric scraps
 stolperte=stumbled
 stolz=proud
 stopft=(stopfen) stuffed
