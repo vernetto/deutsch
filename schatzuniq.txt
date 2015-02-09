@@ -79,7 +79,7 @@ abzulegen
 abzulesen
 abzusehen=(absehen von) refrain
 Ach
-Achseln
+Achseln=shoulders
 acht
 Achtelmeile=1/8 of a mile, furlong
 achten
@@ -161,7 +161,7 @@ anerkennend=appreciative
 Anerkennung=appreciation
 Anfang
 anfangs
-Angaben
+Angaben=information
 Angebot=offer
 angeboten
 angebracht=appropriate
@@ -235,7 +235,7 @@ ansehen=view
 ansehnlichen
 Ansicht=view
 Anspruch=claim
-Anstieg
+Anstieg=climb
 anständige=decent
 Anstoß=offense
 anstrengte=struggled
@@ -424,7 +424,7 @@ ausgeplaudert=(ausplaudern) blabbed
 ausgerissen=run away
 ausgeritten=(ausreiten) to ride out
 ausgerüstet=(ausrüsten) equipped
-ausgerutscht
+ausgerutscht=slipped
 ausgesetzt=exposed
 ausgesetzte
 ausgesetzten
@@ -521,7 +521,7 @@ Becken
 bedacht=concerned
 bedachte
 bedauerten=(bedauern) regretted
-bedächtig
+bedächtig=thoughtful
 bedeckt
 bedeckten
 bedenke=remember
@@ -627,7 +627,7 @@ Belagerern=besiegers
 belangen
 belauschen=overhear
 belauscht=overheard
-belebend
+belebend=invigorating
 beliebt=popular
 beliebte
 Übelkeit=nausea
@@ -903,7 +903,7 @@ Bleib
 bleiben
 bleibt
 blähen=puff,distend
-blühende
+blühende=flowering
 blähten
 übliche=usual
 Blick
@@ -1382,7 +1382,7 @@ einander
 einbeinigen
 einbüßen=forfeit
 Einbruch=break-in
-eindeutig
+eindeutig=clearly
 eindringlich=vividly
 Eindringlinge=intruders
 Eindruck=impression
@@ -1611,7 +1611,7 @@ erkannt
 erkannte=(erkennen) understand, recognize
 erkannten
 erkennen=recognize
-Erkennungszeichen
+Erkennungszeichen=identification
 erklang=(erklingen) resound
 erkläre
 erklären=declare
@@ -1630,7 +1630,7 @@ erleichtert=relieved
 Erleichterung=relief
 erleidet
 erlitten
-ermüden
+ermüden=tire
 ermessen
 ermordet
 Ermordeten
@@ -1641,7 +1641,7 @@ Ernst
 Ernstfall=case of emergency
 ernstlich=seriously
 Eroberung
-Erquickung
+Erquickung=refreshment
 erregen=provoke
 erregt=excited
 Erregung=excitation
@@ -1705,7 +1705,7 @@ erwachten
 erwarte
 erwarten=expect
 erwartet
-erwartete
+erwartete=awaited
 erwarteten=expected
 Erwartungen=expectations
 erweisen
@@ -1783,7 +1783,7 @@ fast
 faßte
 faules=(faul) rotten
 Fäßchen
-fächerförmig
+fächerförmig=fan-shaped
 Fäden
 Füße
 fechten=fight
@@ -2111,7 +2111,7 @@ gedruckt=printed
 gedruckte
 gedrungen=penetrated
 gedöst=(dözen) snoozed
-gedulden
+gedulden=(sich g.) be patient
 geduldet=tolerated
 gedunsenen=bloated
 geeigneten=suitable, appropriate
@@ -2183,7 +2183,7 @@ gehabt
 gehalten=(halten) held,carry
 gehandelt=behaved
 gehe
-Geheiß
+Geheiß=behest,order
 geheißen=be called
 geheimen
 geheimgehalten=kept secret
@@ -2215,7 +2215,7 @@ gejagt
 gekannt
 gekappt=capped
 gekauft
-Gekeuch
+Gekeuch=panting
 geklettert=climbed
 geklungen=sounded
 gekämpft
@@ -2336,7 +2336,7 @@ geringerer
 geringste=least
 geringsten
 Gerippe
-Geröll
+Geröll=rubble
 Gerümpel=junk, lumber
 gern
 gerollt=rolled
@@ -2528,7 +2528,7 @@ Gilt
 ging=(es eben ging) as possible
 ginge=(angehen) concern
 gingen
-Ginster
+Ginster=broom,shrub
 Gipfel=peak
 Gipfeln
 Gischt=foam
@@ -3009,7 +3009,7 @@ ho
 hob=(heben) raised (aufheben) pick up
 hoben
 hoch
-Hochebene
+Hochebene=plateau
 hochgemut=froh
 hochgewachsen=tall
 Hochwassergrenze
@@ -3047,7 +3047,7 @@ hör’
 höre
 hören
 hört=(hört auf=aufhören) stop
-hörte
+hörte=(aufhören) stop
 hörten
 Hörweite=earshot
 hüten=guard
@@ -3278,7 +3278,7 @@ keinem
 keinen
 keiner
 Kenne
-kennengelernt
+kennengelernt=met
 Kennermiene=air of a connoisseur
 kennst
 kennt
@@ -3645,7 +3645,7 @@ lehnten
 Lehrling=apprentice
 Leib=body
 Leibe
-Leibes
+Leibes=body (Kopf oder Zahl) Heads or Tails
 Leibeskräften=his might
 leibhaftig
 Leibhaftigen=?
@@ -3923,7 +3923,7 @@ Mühle=mill
 Mühlsteine
 mühsam=laborious
 mühselig
-mühte
+mühte=struggled
 mich
 Mienenspiel=facial expressions
 Mieter
@@ -3937,7 +3937,7 @@ mir
 mir’s
 Mischlingen
 mischte=(sich mischen) interfere
-mischten
+mischten=mixed
 Missetäter=wrongdoer
 Mist=rubbish
 Mister
@@ -4141,7 +4141,7 @@ nähern
 näherte
 näherten
 nicht
-Nichtdestoweniger
+Nichtdestoweniger=Nonetheless
 nichts
 nichtsdestoweniger=nonetheless
 nickte=(nicken) nodded
@@ -4205,7 +4205,7 @@ Nutzen=use,benefit
 nutzlos
 O
 ob
-oben
+oben=above
 oberen
 Oberfläche=surface
 oberhalb=above
@@ -4504,7 +4504,7 @@ Reiter
 Reitern
 reitest=ride
 reizenderen=(reizend) more lovely
-reizvollsten
+reizvollsten=most charming
 Reling=railing
 rennen
 Rennpferd
@@ -5258,7 +5258,7 @@ stach=(stechen) sting, pierce
 Stadt
 Stag
 Stahl
-Stamm
+Stamm=root
 stammten=(stammen) came, be derived
 Stampfen=pounding
 stampfte=pound
@@ -5271,7 +5271,7 @@ stapfen=stomp
 stapfte=(stapfen)
 starb
 stark
-Starkduftender
+Starkduftender=Highly Scented
 starke
 starken
 starker
@@ -5416,7 +5416,7 @@ Stränge
 Strohdach=thatched roof
 störte
 störten
-Sträucher
+Sträucher=shrubbery
 Störung=trouble
 stürzen=fall
 stürzte=(stürzen) fell
@@ -5854,7 +5854,7 @@ verdoppelte
 verdreht=twisted
 verdrücken=(sich verdrücken) chicken out
 verdrecktem=filthy
-verdrängten
+verdrängten=displaced
 verdrossen=reluctant
 Verdrossenheit=reluctance
 verdunkelte=darkened
@@ -6129,7 +6129,7 @@ vorauszusehen=Predictably
 Vorbau
 vorbei=by
 vorüber=past
-vorübereilte
+vorübereilte=hurried past
 Vorbereitungen=preparations
 vorüberkamen=passed by
 vorüberpfiff=whistled past
@@ -6190,7 +6190,7 @@ Vorwürfe=reproaches
 vorwärts=forward
 vorwärtsbrachten=brought forward
 vorwärtsgekommen=made progress
-vorzeitig
+vorzeitig=early
 vorzüglicher=excellent
 vorziehen
 vorzudringen=penetrate
@@ -6524,7 +6524,7 @@ Wärme
 wär’s
 wärt=would be
 Wörter
-würzigen
+würzigen=spicy
 wüst
 wüsten=waste
 wüßte=knew
@@ -6657,7 +6657,7 @@ zottig=ragged
 Zöpfen=(Zopf) braids
 zu
 Zucker
-zuckte
+zuckte=shrugged
 zudem=moreover
 zueinander=to one another
 zuerst
