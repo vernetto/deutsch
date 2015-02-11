@@ -51,7 +51,7 @@ ablaufende=discharging,running
 abnehmen=remove
 Abraham=Abraham
 Abrede=dispute
-Absatz
+Absatz=heel
 abscheulich=horrible
 Abschluß
 abschneiden=cut off
@@ -1591,7 +1591,7 @@ erhellte=illuminated
 erhielt
 erhielten
 Erhängen=hanging
-erhob
+erhob=rose
 erhoben=raise
 erhoffen=hope for
 erholen=recover
@@ -2160,7 +2160,7 @@ gegeben=given
 gegen=around
 gegenüber=with respect to,opposite
 gegenüberstanden=faced
-Gegend
+Gegend=place
 Gegenden=areas, region
 gegeneinander=against each other
 Gegensatz=contrast
@@ -2517,7 +2517,7 @@ gibt
 gibt’s
 gierig=greedy
 Gift
-Gilt
+Gilt=(gelten) apply
 ging=(es eben ging) as possible
 ginge=(angehen) concern
 gingen
@@ -2794,7 +2794,7 @@ heikle=sensitive
 heil
 heilige=saint
 heilloser=hopeless
-Heils
+Heils=salvation
 heim
 Heimat
 Heimatlandes
@@ -2828,7 +2828,7 @@ herangetreten=approached
 herankamen=came up
 heranrollten=rolling toward
 heranschlichen=sneaking
-heranschreiten=apporaching
+heranschreiten=approaching
 heranwagte=ventured
 heranzuschleichen=creep up
 herauf=up
@@ -3148,7 +3148,6 @@ Januarmorgens
 jawohl
 jawoll
 je=(wie eh und je) as ever
-Je
 jede
 jedem
 jeden
@@ -3443,8 +3442,8 @@ kosten
 kostete
 Köpfe
 Köpfen
-Käpitän
-Käpt’n
+Käpitän=captain
+Käpt’n=captain
 Krü
 krachte
 krachten=(krachen) cracked
@@ -4597,7 +4596,7 @@ rundes
 Rundhaus
 Rundherum=all around
 rundum=all around
-rutschen
+rutschen=slide, slip
 rutschte=slipped
 Ärzte
 ärztliche
@@ -6434,7 +6433,7 @@ wirkten=had
 Wirkung=effect, action
 wirkungslos=ineffective
 wir’s
-wirst
+wirst=will
 Wirt=host
 Wirtschaftsräume
 Wirtshaus
