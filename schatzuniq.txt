@@ -1407,7 +1407,7 @@ eingelassen=(sich e.) get involved
 eingelegtes=pickled
 eingenommen=einnehmen taken
 eingepökeltem=pickled
-eingerannt=(eingerannt) force open
+eingerannt=(einrennen) force open
 eingerichtet=furnished
 eingeschüchtert=awed
 eingeschlagen=taken
@@ -2706,7 +2706,7 @@ halben
 halber=sake
 halbes
 halblaut=in a low voice
-halbwegs
+halbwegs=halfway
 half= (helfen) helped
 Hallo
 Hallorufe=Hello calls
@@ -2821,7 +2821,7 @@ Henker
 her
 herab=down
 heran
-herandrohenden
+herandrohenden=impending
 herangekommen=approached
 herangeschlendert=???
 herangetreten=approached
@@ -4339,7 +4339,7 @@ plumpsen=plop
 pochte=(pochen) pulsate
 Polarstern
 Politik
-poltern=rumble,clatter
+poltern,polterten=rumble,clatter
 Portobello
 portugiesische
 Portwein
@@ -4778,7 +4778,7 @@ schlich=(schleichen) creep
 schlichen=creep
 schlicht=simple
 Schließ
-schließen
+schließen=conclude, infer
 schlief
 schließlich=after all
 schlimm=bad
@@ -4794,7 +4794,7 @@ Schlingern=roll
 Schlinggewächse=climbing plants
 Schlingpflanzen=climbing plants
 schlingst=(schlingen) loop, noose
-schloß=(schliessen) shut
+schloß=(schliessen) shut, padlock
 schlüpfte=slipped
 schlüpften=slipped
 Schlüssel
@@ -5279,7 +5279,7 @@ stecken=put (einstecken) sheathe, stuck
 stehe
 stehen=(blieb er stehen) stopped
 stehenbleiben=stand still,stop
-stehenblieb=stood still
+stehenblieb,stehenblieben=stood still
 stehengelassen=abandon
 stehenzubleiben=stand still
 stehlen=steal
@@ -5456,7 +5456,6 @@ Taschen
 Taschenkompaß
 Taschenmesser=pocket knife
 Taschentuch=handkerchief
-tastete
 tasteten=probe
 tat
 taten=tun
