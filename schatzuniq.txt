@@ -1,4 +1,4 @@
-Aal=eel
+﻿Aal=eel
 ab=from
 Abe=Abe
 abend=evening
@@ -4930,7 +4930,7 @@ schwelenden=smoldering
 Schwelle=threshold
 schwellen=swell
 schwenkte=(schwenken) sway
-schwer
+schwer=heavy
 schwere=severe
 schweren
 schwerer
