@@ -1423,7 +1423,7 @@ einigen
 einiger
 einigermaßen=fairly, to some extent
 einigte=(sich einigen) reach an agreement
-einkehrte
+einkehrte=stopped off
 einladender=welcoming
 einmal
 Einmischerei
