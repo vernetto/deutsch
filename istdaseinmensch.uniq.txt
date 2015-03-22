@@ -172,7 +172,7 @@ Anspruch
 Ansprüche
 Ansteckungsgefahr
 Ansteckungsherd
-Anstrengung
+Anstrengung=effort
 Anstrengungen
 Ansturm
 Anständigen
@@ -183,7 +183,7 @@ Antreten
 Antwort
 Antworten
 Anweisung
-Anweisungen
+Anweisungen=instructions
 Anwärter
 Anwärtern
 Anzeichen
@@ -274,7 +274,7 @@ Auflösung
 Aufmerksamkeit
 Aufnahme
 Aufrechterhaltung
-Aufrichtigkeit
+Aufrichtigkeit=sincerity
 Aufruf
 Aufruhr
 Aufseher
@@ -598,7 +598,7 @@ Bitten
 Biß
 Blase
 Blatt
-Blausäure-
+Blausäure=cyanide
 Blech
 Blechnapf
 Blechschmied
@@ -1086,7 +1086,7 @@ Erdoberfläche
 Erdreich
 Erdulden
 Ereignis
-Ereignisse
+Ereignisse=events
 Erfahrung
 Erfahrungen
 Erfinder
@@ -1232,7 +1232,7 @@ Fehler
 Feierabend
 Feiertage
 Feige
-Feigling
+Feigling=coward
 Feile
 Feilen
 Feile«
@@ -1504,7 +1504,7 @@ Geheimnis
 Geheimnisses
 Geheimtasche
 Gehilfen
-Gehorsam
+Gehorsam=obedience
 Gehorsams=obedience
 Geht
 Gehweise
@@ -2782,7 +2782,7 @@ Mit
 Mitarbeit
 Mithilfe
 Mitleid
-Mitläufer
+Mitläufer=follower
 Mitmenschen
 Mitschuldiger
 Mittag
@@ -4352,7 +4352,7 @@ Vehemenz
 Ventil
 Verachtung
 Veranlagung
-Veranstaltungen
+Veranstaltungen=events
 Verantwortung
 Verband
 Verbandsmaterial
@@ -4393,7 +4393,7 @@ Verfügungsrecht
 Verführer
 Verführers
 Vergangenheit
-Vergangenheitsaufbereitung
+Vergangenheitsaufbereitung=preparation
 Vergeblich
 Vergebung
 Vergegenwärtigung
@@ -5252,9 +5252,8 @@ attrape«
 auch
 auchte
 auf
-auf!«
 aufatmen
-aufbaut
+aufbaut=build
 aufbewahrt
 aufblicken
 aufbläst
@@ -5709,7 +5708,7 @@ bequemen
 bequemere
 beraubt
 berauschen
-berauscht
+berauscht=intoxicated
 berauschten
 berechnen
 berechnender
@@ -6855,7 +6854,7 @@ erwähnten
 erwärmen
 erzittert
 erzitterte
-erzogen
+erzogen=educated
 erzwingen
 erzwungene
 erzwungenen
@@ -8335,7 +8334,7 @@ kosten
 kostenlos
 kostet
 kostete
-kostspielige
+kostspielige=costly
 krachen
 krachend
 krampft
@@ -8518,7 +8517,7 @@ letzteren
 letzteres
 leuchtenden
 leugnen
-leugnet
+leugnet=denies
 levar
 lichten
 lichterloh
@@ -9279,7 +9278,7 @@ répak«
 röchelte
 röstet
 rücken
-rückhaltlose
+rückhaltlose=unreserved
 rücksichtslose
 rückständig
 rückte
@@ -10117,7 +10116,7 @@ unbefristete
 unbegreiflich
 unbegreifliche
 unbegreiflicher
-unbehelligt
+unbehelligt=unmolested
 unbeherrschten
 unbeholfen
 unbeholfene
@@ -10676,7 +10675,7 @@ versäumen
 vertauschen
 vertauscht
 verteidigen
-verteidigt
+verteidigt=defended
 verteilen
 verteilt
 verteilten
@@ -10694,7 +10693,7 @@ verunreinigt
 verursachen
 verursacht
 verurteilt
-vervollkommnet
+vervollkommnet=perfect
 verwandeln
 verwandelt
 verwandelte
@@ -11364,7 +11363,7 @@ zuschnappen
 zustande
 zustatten
 zustehen
-zuständig
+zuständig=responsible
 zuständigen
 zusätzliche
 zutage
@@ -11696,7 +11695,7 @@ zündeten
 Ärzten
 Äußersten
 Äußerung
-Äußerungen
+Äußerungen=statements
 Äxte
 Ödipus
 Öfen
