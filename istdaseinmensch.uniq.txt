@@ -24,14 +24,14 @@ Abgezehrtesten
 Abgrenzung
 Abhilfe
 Abkürzung
-Ablauf
+Ablauf=process
 Ablösung
 Abmarsch
 Abnehmer
 Abort
 Aborten
 Abortes
-Abscheu
+Abscheu=disgust
 Abschied
 Abschiedsformel
 Abschluß
@@ -76,7 +76,7 @@ Affe
 Agcas
 Agnostiker
 Ahnung
-Ahnung«
+Ahnung
 Akku
 Akt
 Aktion
@@ -286,7 +286,7 @@ Aufteilung
 Auftrag
 Aufwallung
 Aufwertung
-Aufzeichnung
+Aufzeichnung=recording
 Aufzeichnungen
 Aufzug
 Auge
@@ -298,7 +298,7 @@ Augenblicks
 Augenbrauen
 Augenhöhlen
 Augenlicht
-Augenmerk
+Augenmerk=attention
 Augenzeugen
 August
 Aus
@@ -334,7 +334,7 @@ Auspeitschung
 Ausrottung
 Ausruhen
 Ausrücken
-Aussagen
+Aussagen=statemets
 Ausschachtungen
 Ausschnitte
 Ausschußtabak
@@ -345,7 +345,7 @@ Aussonderungsverfahren
 Auswahl
 Auswüchse
 Auszeichnung
-Auszug
+Auszug=excerpt
 Auszugs
 Autobiographie
 Autobusse
@@ -464,7 +464,7 @@ Beistand
 Beistands
 Bekanntgabe
 Bekanntschaften
-Bekenntnisse
+Bekenntnisse=confessions
 Bekommt
 Bela
 Belang
@@ -567,7 +567,7 @@ Bewunderung
 Bewußten
 Bewußtsein
 Bewußtseins
-Bewußtseinszustände
+Bewußtseinszustände=States of consciousness
 Bewußtwerdens
 Bewährung
 Bezeichnung
@@ -977,7 +977,7 @@ Einfallen
 Einführung
 Eingang
 Eingeständnis
-Eingeständnisse
+Eingeständnisse=admissions
 Eingeweide
 Eingewiesenen
 Eingezwängt
@@ -1071,7 +1071,7 @@ Entlassung
 Entscheidung
 Entscheidungen
 Entschuldigungen
-Entsetzen
+Entsetzen=horror
 Entspannung
 Enttäuschung
 Entwurfs
@@ -1106,7 +1106,7 @@ Erhängen
 Erinnern
 Erinnerung
 Erinnerungen
-Erinnyen
+Erinnyen=furies
 Erklärung
 Erklärungen
 Erkundung
@@ -1129,7 +1129,7 @@ Erprobten
 Erregung
 Errettungen
 Errichtung
-Erscheinung
+Erscheinung=phenomenon
 Erschöpfung
 Erschöpfungstod
 Erschütterungen
@@ -1505,7 +1505,7 @@ Geheimnisses
 Geheimtasche
 Gehilfen
 Gehorsam
-Gehorsams
+Gehorsams=obedience
 Geht
 Gehweise
 Geige
@@ -1617,7 +1617,7 @@ Getränke
 Getto
 Gettos
 Gewalt
-Gewalttäter
+Gewalttäter=perpetrators of violence
 Gewalttätigkeit
 Gewand
 Gewaschenen
@@ -1716,7 +1716,7 @@ Großes
 Großmut
 Grund
 Grunde
-Grundlage
+Grundlage=basis
 Grundlegendes
 Grundprinzipien
 Gruppe
@@ -1777,7 +1777,7 @@ Handeln
 Handels
 Handelt
 Handlungen
-Handlungsablauf
+Handlungsablauf=storyline
 Handlungsweise
 Handreichung
 Handschuhe
@@ -1965,7 +1965,7 @@ Hände
 Händen
 Händewaschen
 Hände«
-Härte
+Härte=hardness
 Hätte
 Hätten
 Häufchen
@@ -2914,7 +2914,7 @@ Nachtruhe
 Nachts
 Nachtwache
 Nachtwachen
-Nachwort
+Nachwort=epilogue
 Nacken
 Nackten
 Nadel
@@ -2958,13 +2958,13 @@ Nehmen
 Neid
 Neide
 Neige
-Neigung
+Neigung=tendency
 Nein
 Nerven
 Nest
 Netzen
 Neuankömmlinge
-Neuausgaben
+Neuausgaben=revision
 Neueinstellung
 Neuen
 Neuer
@@ -3122,7 +3122,7 @@ Pause
 Pausen
 Pech
 Pein
-Peiniger
+Peiniger=torturen
 Peitsche
 Peitschenhiebe
 Pellepoix
@@ -3580,7 +3580,7 @@ Schläfer
 Schläge
 Schlägen
 Schläue
-Schmach
+Schmach=shame
 Schmerz
 Schmerzen
 Schmerzes
@@ -3723,7 +3723,7 @@ Sekundenbruchteil
 Selbst
 Selbstachtung
 Selbstbeobachtung
-Selbstbetrug
+Selbstbetrug=self-deception
 Selbstbewußtsein
 Selbstbildnis
 Selbstdisziplin
@@ -4178,7 +4178,7 @@ Träume
 Träumen
 Trübseligkeit
 Trübsinn
-Trübung
+Trübung=cloudiness
 Trümmer
 Trümmern
 Tuberkulosekranken
@@ -4232,7 +4232,7 @@ Umstände
 Umständen
 Umweg
 Unachtsamkeit
-Unbehagen
+Unbehagen=discomfort
 Unberührbare
 Unbewußten
 Unbill
@@ -4258,7 +4258,7 @@ Ungern
 Ungeschickteste
 Ungewißheit
 Ungewißheiten
-Ungleichgewicht
+Ungleichgewicht=imbalance
 Unglück
 Unglückliche
 Unglücklichen
@@ -4380,7 +4380,7 @@ Verderbens
 Verdienst
 Verdienste
 Verdienstspanne
-Verdrängungen
+Verdrängungen=displacement
 Verfahren
 Verfall
 Verfasser
@@ -4404,7 +4404,7 @@ Vergeudung
 Vergeßlichkeit
 Vergrößert
 Verhaftung
-Verhalten
+Verhalten=behaviour
 Verhältnis
 Verhältnissen
 Verhängung
@@ -4441,7 +4441,7 @@ Verrückten
 Verrückter
 Verrücktheit
 Vers
-Versagen
+Versagen=deny
 Versammlung
 Verschlechterung
 Verschleiß
@@ -4475,7 +4475,7 @@ Vertrauter
 Verurteilten
 Verwahrung
 Verwahrung«
-Verwaltungsbeamte
+Verwaltungsbeamte=administrator
 Verwandte
 Verwendung
 Verwirklichung
@@ -4525,7 +4525,7 @@ Vorbeimarsch
 Vorbild
 Vorgang
 Vorgangs
-Vorgesetzten
+Vorgesetzten=supervisor
 Vorgänger
 Vorhaltungen
 Vorhangs
@@ -4646,7 +4646,7 @@ Welchen
 Wellen
 Welt
 Weltenraumes
-Weltvertrauen
+Weltvertrauen=trust in the World
 Wem
 Wenige
 Wenn
@@ -4935,7 +4935,7 @@ abgegeben
 abgeholt
 abgeht
 abgeladen
-abgelagert
+abgelagert=deposited
 abgelegenen
 abgelegt
 abgelegte
@@ -4974,7 +4974,7 @@ abrieben
 abschaben
 abschabte
 abscheulich
-abscheuliche
+abscheuliche=heinous
 abscheulicher
 abschinden
 abschuftender
@@ -5058,7 +5058,7 @@ allmählich
 alltäglichen
 allzu
 allzugut
-allzuoft
+allzuoft=too often
 allzuviel
 alphabetischer
 als
@@ -5145,7 +5145,7 @@ angestellt
 angestrahlten
 angetan
 angetreten
-angewandt
+angewandt=applied
 angewidertem
 angewiesen
 angezeigt
@@ -5291,7 +5291,7 @@ aufgescheuchten
 aufgespart
 aufgestapelt
 aufgestapelten
-aufgestellt
+aufgestellt=placed
 aufgeteilt
 aufgetrieben
 aufgewachsen
@@ -5302,7 +5302,7 @@ aufheben
 aufhebende
 aufhält
 aufhört
-aufklärerisch
+aufklärerisch=enlightening
 auflauert
 aufleuchteten
 auflösen
@@ -5444,7 +5444,7 @@ aussteigen
 aussuchen
 aussucht
 aussuchte
-austauschbar
+austauschbar=interchangeable
 austauschen
 austauschten
 austilgen
@@ -5566,7 +5566,7 @@ befühlt
 befürchten
 begab
 begaben
-begangen
+begangen=commit
 begangene
 begangener
 begann
@@ -5577,10 +5577,10 @@ begegne
 begegnen
 begegnet
 begegnete
-begehen
+begehen=commit
 begehrt
 begehrte
-begehst
+begehst=commit
 begeistert
 begeisterte
 begibt
@@ -5665,7 +5665,7 @@ beladen
 belagern
 belanglosejagdbeute
 belastender
-belastet
+belastet=load
 belegt
 belehren
 belehrt
@@ -5685,7 +5685,7 @@ bemerkenswertes
 bemerkt
 bemerkten
 bemessen
-bemitleiden
+bemitleiden=pity
 bemühe
 bemühen
 bemüht
@@ -6082,7 +6082,7 @@ daraufhin
 daraufsteht
 daraus
 darf
-dargeboten
+dargeboten=presented
 darin
 darstellen
 darstellt
@@ -6439,7 +6439,7 @@ eingeschlafen
 eingesetzt
 eingesperrt
 eingestichelte
-eingestürzte
+eingestürzte=collapsed
 eingeteilt
 eingetreten
 eingetroffen
@@ -6650,7 +6650,7 @@ erbarmungslosen
 erbarmungsloser
 erbeben
 erblicke
-erblicken
+erblicken=see
 erblickten
 erblühte
 erbricht
@@ -6676,7 +6676,7 @@ erfolgter
 erfordert
 erfuhr
 erfuhren
-erfundenen
+erfundenen=ficticious
 erführe
 erfüllt
 ergab
@@ -6726,7 +6726,7 @@ erkrankte
 erkundigen
 erkundigt
 erkämpfen
-erlag
+erlag=be victim of, succumb
 erlangen
 erlangt
 erlauben
@@ -6785,7 +6785,7 @@ erscheinen
 erscheint
 erschien
 erschienen
-erschienenen
+erschienenen=published
 erschossen
 erschreckend
 erschreckender
@@ -6796,7 +6796,7 @@ ersetzt
 ersonnen
 erspähen
 erst
-erstarren
+erstarren=solidify
 erstarrt
 erstarrte
 erstattet
@@ -6964,7 +6964,7 @@ festhält
 festsaugenden
 festsetzen
 feststehendem
-feststellen
+feststellen=notice
 festzuhalten
 festzustellen
 fettige
@@ -7183,7 +7183,7 @@ gebrüllten
 gebunden
 gebärdet
 gebügelter
-gedeiht
+gedeiht=prosper
 gedeutet
 gedient
 gedreht
@@ -7381,7 +7381,7 @@ gerade
 gerader
 geradeso
 gerate
-gerecht
+gerecht=fair
 gerechte
 gerechtfertigt
 gereckt
@@ -7564,7 +7564,7 @@ gezeichnet
 gezeigt
 gezeugt
 gezwungen
-gezwungenermaßen
+gezwungenermaßen=forced
 gezählt
 geöffnet
 geöffnetem
@@ -7811,8 +7811,8 @@ herannahenden
 heranzugehen
 heranzumachen
 herauf
-heraufbeschworen
-heraufbeschwören
+heraufbeschworen=evoke
+heraufbeschwören=evoke
 heraufgekommen
 heraus
 herausgebildet
@@ -7958,7 +7958,7 @@ hochgewachsen
 hochhalten
 hochintelligent
 hochkommen
-hochmütig
+hochmütig=arrogant
 hochnäsiger
 hochzuhalten
 hocken
@@ -8831,7 +8831,7 @@ nebeneinander
 negativen
 nehme
 nehmen
-neigen
+neigen=tend
 neigt
 nein
 nenne
@@ -9364,7 +9364,7 @@ schielende
 schien
 schienen
 schießt
-schildern
+schildern=describe
 schimpft
 schinden
 schippt
@@ -9411,7 +9411,7 @@ schlucken
 schluckt
 schlug
 schlugen
-schlummernden
+schlummernden=dormant
 schlurfen
 schlurft
 schlußfolgern
@@ -9841,7 +9841,7 @@ stumme
 stummer
 stumpf
 stumpfen
-stumpfsinnige
+stumpfsinnige=dull
 stundenlang
 stur
 stutzig
@@ -9970,7 +9970,7 @@ transzendentaler
 trat
 traten
 traue
-trauernd
+trauernd=mourning
 traumatisch
 traumatische
 traurig
@@ -10069,7 +10069,7 @@ um
 umarmt
 umbringen
 umfangreichen
-umfangreicher
+umfangreicher=extensive
 umgeben
 umgebenden
 umgebogen
@@ -10112,7 +10112,7 @@ unausgesetzt
 unauslöschliche
 unbebaute
 unbedachtes
-unbedingt
+unbedingt=necessarily
 unbefristete
 unbegreiflich
 unbegreifliche
@@ -10199,7 +10199,7 @@ ungeheures
 ungehindert
 ungenau
 ungenießbar
-ungerecht
+ungerecht=unfair
 ungerechte
 ungeregelte
 ungereimtem
@@ -10459,7 +10459,7 @@ verfeinerten
 verfluche
 verfluchen
 verfluchte
-verflüchtigen
+verflüchtigen=evaporate
 verfolgen
 verfolgt
 verfolgte
@@ -10541,7 +10541,7 @@ verliere
 verlieren
 verliert
 verließ
-verlogenen
+verlogenen=mendacious
 verlohnt
 verloren
 verlorengehe
@@ -10728,8 +10728,8 @@ verwüstet
 verzehren
 verzehrt
 verzeihen
-verzerren
-verzerrt
+verzerren=distort
+verzerrt=distorted
 verzichtet
 verzinktem
 verzog
@@ -10803,7 +10803,7 @@ voranzutreiben
 voraus
 vorausgeschickt
 vorausgesehen
-vorausgesetzt
+vorausgesetzt=provided
 voraussehen
 voraussetzt
 vorauszusehen
@@ -11026,7 +11026,7 @@ wich
 wichtig
 wichtiger
 wichtigste
-wider
+wider=against
 widerfahren
 widerfährt
 widerlegt
@@ -11227,7 +11227,7 @@ zerschlagen
 zerschlagene
 zerschlissene
 zerschnitten
-zersetzt
+zersetzt=decompose
 zersprengte
 zerstören
 zerstört
@@ -11272,7 +11272,7 @@ zugedachte
 zugedeckt
 zugefallen
 zugefügt
-zugefügte
+zugefügte=inflicted
 zugefügten
 zugehen
 zugelegt
@@ -11307,7 +11307,7 @@ zur
 zurecht
 zurechtkamen
 zurechtlegen
-zurechtzimmern
+zurechtzimmern=construct
 zurechtzimmerten
 zurechtzufinden
 zurück
