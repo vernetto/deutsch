@@ -750,7 +750,7 @@ Besatzung
 beschaffte=procure
 beschäftigen=occupy
 beschäftigt=busy
-beschäftigten
+beschäftigten=occupy
 beschimpft=(beschimpfen) insulted
 beschleunigte=accelerated
 beschloß
@@ -1449,7 +1449,7 @@ eintönig=monotonous
 Eintragungen=entries
 eintrat=entered
 Eintritt
-Einverstanden
+Einverstanden=agreed
 Einwände=objection
 Einzelheit=detail
 Einzelheiten
@@ -2355,7 +2355,7 @@ Geschehnissen=events
 gescheiten=clever
 geschenkt=given
 gescheuert=scrubbed
-Geschäft
+Geschäft=business
 Geschäftigkeit=activity
 Geschäftsbüchern=business books
 Geschichte=story
