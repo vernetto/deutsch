@@ -261,7 +261,7 @@ Aufbau
 Aufbegehren
 Aufbewahrung
 Aufenthalt
-Aufenthalte
+Aufenthalte=stays
 Auferstehung
 Aufforderung
 Aufforderungen
@@ -468,7 +468,7 @@ Bekenntnisse=confessions
 Bekommt
 Bela
 Belang
-Belange
+Belange=issues
 Belastungsprobe
 Belegschaft
 Beleidigung
@@ -1136,7 +1136,7 @@ Erschütterungen
 Erst
 Erstarrt
 Erstaunen
-Ersterben
+Ersterben=die
 Ersticken
 Erwachen
 Erwachsenen
@@ -1160,7 +1160,7 @@ Essensrationen
 Essensschlange
 Etappen
 Etliche
-Etschtals
+Etschtals=Adige Valley
 Etwas
 Eumpen
 Euphemismen
@@ -1223,7 +1223,7 @@ Fatti
 Faust
 Fausthieben
 Faustschläge
-Faustschlägen
+Faustschlägen=punches
 Februar
 Feder
 Federball
@@ -1235,7 +1235,7 @@ Feige
 Feigling=coward
 Feile
 Feilen
-Feile«
+Feile
 Feind
 Feinde
 Feinden
@@ -1243,7 +1243,7 @@ Feindschaft
 Felde
 Felicio
 Fell
-Felshänge
+Felshänge=rocky slopes
 Fenster
 Fenstern
 Fensterscheibe
@@ -1261,8 +1261,8 @@ Fetzen
 Feuer
 Feuersäulen
 Feuerzeuge
-Feuer«
-Fichtenwälder
+Feuer
+Fichtenwälder=spruce forest
 Fieber
 Fiebernächten
 Fieber«
@@ -1405,7 +1405,7 @@ Fußlappen
 Fußnägel
 Fußrücken
 Fußtritt
-Fußtritten
+Fußtritten=kicks
 Fäden
 Fähigkeit
 Fähigkeiten
@@ -1446,7 +1446,7 @@ Gattegno
 Gattermann
 Gattung
 Gaunerei
-Gebell
+Gebell=barking
 Gebet
 Gebieten
 Gebilde
@@ -1517,7 +1517,7 @@ Gelaufe
 Geld
 Geldes
 Gelegenheit
-Geleises
+Geleises=track
 Gelenke
 Gelächter
 Geländer
@@ -1623,7 +1623,7 @@ Gewand
 Gewaschenen
 Gewebe
 Gewicht
-Gewimmel
+Gewimmel=swarm
 Gewinn
 Gewissen
 Gewissensregung
@@ -1702,7 +1702,7 @@ Grenze
 Grenzen
 Grenzfall
 Grenzfälle
-Grenzübertritt
+Grenzübertritt=Border crossing
 Greuel
 Grieche
 Griechen
@@ -1885,7 +1885,7 @@ Hinausgehenden
 Hindernis
 Hinderungsgrund
 Hingabe=devotion
-Hinnahme
+Hinnahme=acceptance
 Hinrichtungen
 Hinsicht
 Hinter
@@ -2014,7 +2014,7 @@ Infin
 Informationen
 Ingenieur
 Ingenieurs
-Ingrimms
+Ingrimms=wrath
 Inhabers
 Initiation
 Initiative
@@ -2461,7 +2461,7 @@ Lappen
 Larven
 Last
 Lastauto
-Lastautos
+Lastautos=trucks
 Lasten
 Lastwagen
 Lastwagens
@@ -2591,7 +2591,7 @@ Luftdruck
 Luftduelle
 Luftschutzräume
 Luftzug
-Luke
+Luke=hatch
 Lumpen
 Lungen
 Lungenentzündung
@@ -2953,7 +2953,7 @@ Nebeltages
 Nebelwerfer
 Neben
 Nebenbuhler
-Nebenstrecke
+Nebenstrecke=branch line
 Nehmen
 Neid
 Neide
@@ -3441,7 +3441,7 @@ Russen
 Russisch
 Ruß
 Rußland
-Räder
+Räder=wheels
 Räume
 Römer
 Rüben
@@ -3525,7 +3525,7 @@ Scheidung
 Schein
 Scheine
 Scheinwerfer
-Scheinwerfern
+Scheinwerfern=searchlights 
 Scheinwerfers
 Scheißhaus
 Scheißministern
@@ -3551,7 +3551,7 @@ Schippe
 Schlaf
 Schlafen
 Schlafenden
-Schlaflosigkeit
+Schlaflosigkeit=insomnia
 Schlafraum
 Schlafraums
 Schlafräumen
@@ -3688,7 +3688,7 @@ Schönheit
 Schöpfkelle
 Schöpfkellen
 Schöpfungstag
-Schüchtern
+Schüchtern=shy
 Schüssel
 Schüsseln
 Schützlinge
@@ -3749,7 +3749,7 @@ Sicherheit
 Sichgehenlassen
 Sichhinüberwerfen
 Sicht
-Sichtweite
+Sichtweite=visibility
 Sie
 Siebenbürgen
 Siebenbürger
@@ -3949,7 +3949,7 @@ Strecke
 Streifen
 Streifenanzug
 Streit
-Streitereien
+Streitereien=quarrels
 Strenge
 Stricke
 Strickleiter
@@ -4418,7 +4418,7 @@ Verkäufer
 Verkörperung
 Verkündigung
 Verlag
-Verlassen
+Verlassen=abandon
 Verlauf
 Verlegenheit
 Verleihen
@@ -4461,7 +4461,7 @@ Verstand
 Verstoß
 Verstummen
 Verständigung
-Versuch
+Versuch=attempt
 Versuchen
 Versuchsstation
 Verteidiger
@@ -4484,7 +4484,7 @@ Verworfensein
 Verwunderung=surprise
 Verwundet
 Verwundung
-Verwünschungen
+Verwünschungen=curses
 Verzeihung
 Verzweiflung=despair
 Verzögerung
@@ -4834,11 +4834,11 @@ Zivilisation
 Zivilist
 Zivilisten
 Zivilistenküche
-Zivilist«
+Zivilist
 Zivilsuppe
 Zorn
 Zu
-Zuckungen
+Zuckungen=spasm
 Zufall
 Zuflucht=refuge
 Zufriedenheit
@@ -4848,7 +4848,7 @@ Zugang
 Zuges
 Zugeständnis
 Zugänge
-Zuhause
+Zuhause=home
 Zuhörer
 Zuhörern
 Zuhörerschaft
@@ -5021,7 +5021,7 @@ ach
 acht
 acht-
 achtbares
-achten
+achten=respect
 achthundert
 achtzehn
 achtzig
@@ -5142,7 +5142,7 @@ angespannt
 angespannten
 angesprochen!
 angestellt
-angestrahlten
+angestrahlten=illuminated
 angetan
 angetreten
 angewandt=applied
@@ -5175,7 +5175,7 @@ annehmen
 anonyme
 anonymen
 anpassen
-anrühren
+anrühren=touch
 ans
 ansah
 ansahen
@@ -5237,7 +5237,7 @@ arischer
 armen
 armer
 armes
-armseligen
+armseligen=wretched
 armseliger
 armseligste
 aromatische
@@ -5283,7 +5283,7 @@ aufgenommen
 aufgenähten
 aufgequollene
 aufgeregt
-aufgerissen
+aufgerissen=torn
 aufgerissenen
 aufgeräumt
 aufgescheuchten
@@ -5329,7 +5329,7 @@ auftreiben
 aufweiche
 aufweisen
 aufwenden
-aufwärts
+aufwärts=up
 aufzubewahren
 aufzubrechen
 aufzufrischen
@@ -5372,7 +5372,7 @@ ausfüllt
 ausfüllte
 ausgeben
 ausgedehnte
-ausgedehnten
+ausgedehnten=vast
 ausgedörrt
 ausgefüllt=filled out
 ausgegangen
@@ -5464,7 +5464,7 @@ auszuplaudern
 auszurotten=eradicate
 auszuscheiden
 auszusetzen
-auszusteigen
+auszusteigen=get out
 auszusuchen
 auszutüfteln
 auszuweichen
@@ -5578,7 +5578,7 @@ begegnet
 begegnete
 begehen=commit
 begehrt
-begehrte
+begehrte=desired
 begehst=commit
 begeistert
 begeisterte
@@ -5862,7 +5862,7 @@ bewaffnet
 bewaffnete
 bewaffneten
 bewahren
-bewahrt
+bewahrt=preserved
 bewahrte
 bewandert
 bewanderte
@@ -6341,7 +6341,7 @@ dürfte
 düster
 düsteren
 düsterer
-düsteres
+düsteres=dark
 e
 eben
 ebendiesem
@@ -6542,7 +6542,7 @@ encore«
 enden
 endet
 endeten
-endgültig
+endgültig=final
 endgültigen=final
 endlich
 endlos
@@ -6589,7 +6589,7 @@ entkräftet
 entladen
 entlang
 entlassen
-entledigen
+entledigen=release
 entleeren
 entlegenen
 entlohnen
@@ -6695,7 +6695,7 @@ erhellte
 erhielt
 erhielten
 erhob
-erhoben
+erhoben=raised
 erhobenem
 erhobenen
 erhobener
@@ -6985,7 +6985,7 @@ finstere
 finsteren
 flachen
 fleckig
-flehentlich
+flehentlich=pleading
 fleißigen=hard working
 flicken
 flickt
@@ -7186,7 +7186,7 @@ gedeiht=prosper
 gedeutet=indicated
 gedient
 gedreht
-gedrängt
+gedrängt=packed
 gedrückt
 geduldig
 geduldige
@@ -7333,7 +7333,7 @@ gelöst
 gemacht
 gemachte
 gemachten
-gemacht«
+gemacht
 gemauerte
 gemeinen
 gemeiner
@@ -7342,7 +7342,7 @@ gemeinsame
 gemeinsten
 gemeißelt
 gemerkt
-gemildert
+gemildert=mitigated
 gemächlich
 gemäßigten=moderate
 genannt
@@ -7724,11 +7724,11 @@ halben
 halber
 halbes
 halbflüssige
-halblaut
+halblaut=in a low voice
 halbvolle
 halfen
 hallen
-hallte
+hallte=echoed
 halte
 halten
 haltlos
@@ -8143,7 +8143,7 @@ jagten
 jahrhundertealten
 jamais
 jammern
-jammerten
+jammerten=wailed
 jawohl
 je
 jede
@@ -8268,7 +8268,7 @@ klopfen
 klopft
 kluger
 kluges
-klägliche
+klägliche=pathetic
 klärt
 knapp
 knausernder
@@ -8335,7 +8335,7 @@ kostet
 kostete
 kostspielige=costly
 krachen
-krachend
+krachend=crashing
 krampft
 kramt
 krank
@@ -8389,7 +8389,7 @@ körperlichen
 körperliches
 kühne
 kümmerliche
-kümmerlichen
+kümmerlichen=miserable
 kümmern
 kümmert
 kümmerte
@@ -8851,7 +8851,7 @@ neunundzwanzig
 nicht
 nicht-menschliches
 nichtig
-nichtigen
+nichtigen=trivial
 nichtjüdischen
 nichts
 nicht«
@@ -9104,7 +9104,7 @@ questo
 qui
 quillt
 quälen
-quälend
+quälend=painful
 quält
 radebrechen
 raffiniertesten
@@ -9543,7 +9543,7 @@ schönen
 schönes
 schöpfen
 schöpft
-schüchtern
+schüchtern=shy
 schütteln
 schüttelt
 schütten
@@ -10290,7 +10290,7 @@ unteres
 untergebracht
 untergegangenen
 untergeordnete
-untergraben
+untergraben=undermine
 unterhalb
 unterhalten
 unterirdische
@@ -10324,7 +10324,7 @@ ununterbrochene=continuous
 unverhüllt
 unvermeidlich
 unvermeidliche
-unvermeidlichen
+unvermeidlichen=inevitable
 unvermeidliches
 unvermindert
 unvermittelt
@@ -10352,7 +10352,7 @@ unwiederbringlich
 unzerstörbar
 unzertrennlich
 unzufrieden
-unzulängliche
+unzulängliche=inadequate
 unzulänglichen
 unzuverlässig
 unzuverlässiges
@@ -10501,7 +10501,7 @@ verheilt
 verheiratet
 verhindern
 verhindert
-verhält
+verhält=behaves
 verhältnismäßig
 verhärmter
 verhärtetes
@@ -10813,8 +10813,8 @@ vorbeikam
 vorbeikommen
 vorbeikommt
 vorbeimarschiert
-vorbeiziehen
-vorbei«
+vorbeiziehen=go by
+vorbei
 vordersten
 vordringen
 vorerst
@@ -10842,7 +10842,7 @@ vornahm
 vorne
 vornehmer
 vornherein
-vornübergebeugt
+vornübergebeugt=leaning forward
 vorrücken
 vorschlagen
 vorschlug
@@ -11079,7 +11079,7 @@ willfähriges
 willigen
 willkürlicher
 willst
-wimmelnder
+wimmelnder=swarming
 wimmern
 winden
 windig
@@ -11174,7 +11174,7 @@ wünsche
 wünschen
 wünschenswert
 wünscht
-würde
+würde=dignity
 würden
 würdig
 wütenden
@@ -11214,7 +11214,7 @@ zerknittert
 zerlegte
 zerlumpt
 zerlumpten
-zermürbende
+zermürbende=unnerving
 zermürbt=worn down,demoralized
 zerrann
 zerreiße
@@ -11342,7 +11342,7 @@ zusammengeschmolzen
 zusammengesetzte
 zusammengestellt
 zusammengezogen
-zusammenhängende
+zusammenhängende=coherent
 zusammenlaufen
 zusammenpassen
 zusammenpassenden
