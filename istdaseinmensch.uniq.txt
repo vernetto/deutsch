@@ -126,7 +126,7 @@ Analogie
 Analyse
 Analytiker
 Anbetracht
-Anblick
+Anblick=sight
 Anbringen
 Andenken=memory
 Andere
@@ -153,7 +153,7 @@ Anker
 Ankunft=arrival
 Ankäufe
 Ankündigung
-Ankündigungen
+Ankündigungen=notifications
 Annahme=assumption
 Annehmlichkeiten
 Anpassungsfähigkeiten
@@ -167,7 +167,7 @@ Ansehen
 Ansicht
 Anspannung
 Anspielungen
-Ansprache
+Ansprache=speech
 Anspruch
 Ansprüche
 Ansteckungsgefahr
@@ -496,8 +496,8 @@ Berichts
 Beruf
 Berufsgeheimnis
 Berufsverbrecher
-Berufs«
-Berührung
+Berufs
+Berührung=touch
 Bescheidenheit
 Beschimpfungen
 Beschlagenheit
@@ -646,7 +646,7 @@ Brandasche
 Brandes
 Brauch
 Brauchbarem
-Braut
+Braut=bride
 Brechstange
 Brechstangen
 Brenner
@@ -656,7 +656,7 @@ Brief
 Briefe
 Briefen
 Brille
-Brocken
+Brocken=lump,chunk
 Brot
 Brot-Broit-chlebpane-
 Brotausgabe
@@ -667,7 +667,7 @@ Brotration
 Brotrationen
 Brotschneiden
 Brotzuteilung
-Bruchband
+Bruchband=hernia belt
 Bruchbinde
 Bruder
 Brust
@@ -907,7 +907,7 @@ Dummen
 Dummheit
 Dummkopf
 Dummköpfe
-Dunkel
+Dunkel=dark
 Dunkelheit
 Dunkeln
 Dunklen
@@ -1114,7 +1114,7 @@ Erlaubnis
 Erlaubten
 Erleben
 Erlebnis
-Erleichterung
+Erleichterung=relief
 Erloschene
 Erläuterung
 Erlös
@@ -1793,13 +1793,13 @@ Hanser
 Hasses
 Hast
 Hau
-Haufen
+Haufen=stack
 Hauptbestandteilen
 Hauptes
 Haupteslänge
 Hauptlast
 Hauptsache
-Hauptscharführer
+Hauptscharführer=???
 Hauptverpflegungsstelle
 Haus
 Hausarbeiten
@@ -1865,7 +1865,7 @@ Heulen
 Heute
 Hexen
 Hie
-Hieb
+Hieb=smash
 Hiebe
 Hieben
 Hielten
@@ -1999,7 +1999,7 @@ Illusionen
 Illustrierten
 Im
 Immer
-Immerhin
+Immerhin=anyhow
 Improvisierten
 In
 Indi
@@ -2158,8 +2158,8 @@ Kapelle
 Kapital
 Kapo
 Kapos
-Kapos«
-Kappen
+Kapos
+Kappen=caps
 Karbid
 Karbidturm
 Kardos
@@ -2190,7 +2190,7 @@ Kaufleute
 Kaufmann
 Kaum
 Kehle
-Kehrbesen
+Kehrbesen=brush
 Kehrreim
 Kein
 Keine
@@ -2463,7 +2463,7 @@ Last
 Lastauto
 Lastautos=trucks
 Lasten
-Lastwagen
+Lastwagen=truck
 Lastwagens
 Latrine
 Latrinen
@@ -2505,7 +2505,7 @@ Leere
 Legende
 Lehre
 Lehrerberuf
-Leib
+Leib=body
 Leiber
 Leiche
 Leichen
@@ -2520,7 +2520,7 @@ Leidenschaft
 Leidenschaften
 Leidenschaftlichkeit
 Leidwesen
-Leim
+Leim=glue
 Leinen
 Leinenjacke
 Leinwand
@@ -2761,7 +2761,7 @@ Methylalkohol
 Metz
 Meuterei
 Mich
-Miene
+Miene=look
 Mienen
 Mienenspiel
 Miete
@@ -3169,7 +3169,7 @@ Plackerei
 Plage
 Plage!
 Plan
-Planlos
+Planlos=???
 Platz
 Platzverlust
 Plätze
@@ -3240,7 +3240,7 @@ Prozession
 Prozeß
 Prämienschein
 Prämienschein-Notierungen
-Prämienscheine
+Prämienscheine=???
 Präzision
 Präzisionsmechaniker
 Prüfung
@@ -3459,7 +3459,7 @@ SNCF
 SS
 SS-Baracken
 SS-Einheit
-SS-Hauptscharführer
+SS-Hauptscharführer=???
 SS-Kommando
 SS-Kommandos
 SS-Lager
@@ -3558,7 +3558,7 @@ Schlafräumen
 Schlafs
 Schlag
 Schlager
-Schlaglöcher
+Schlaglöcher=???
 Schlamm
 Schlammflecken
 Schlammschicht
@@ -3798,7 +3798,7 @@ Sommer
 Sommerklamotten
 Sommers
 Sonderanfertigung
-Sonderbare
+Sonderbare=odd
 Sonderbarerweise
 Sonderkommando
 Sonderkommandos
@@ -3853,7 +3853,7 @@ Spitze
 Spitzhacke
 Splittergraben
 Splittergräben
-Spott
+Spott=mockery
 Sprach
 Sprache
 Sprachen
@@ -3916,7 +3916,7 @@ Stern
 Sternbild
 Sterne
 Sternen
-Stets
+Stets=all the time
 Stich
 Stiege
 Stiel
@@ -3933,7 +3933,7 @@ Stockwerk
 Stoff
 Stolz
 Stoppelbärten
-Stoß
+Stoß=jolt
 Strafe
 Straffung
 Strafzeit
@@ -3993,7 +3993,7 @@ Suchen
 Sulfonamid-Zuteilungen
 Sulfonamiden
 Summe
-Summen
+Summen=hum, buzz
 Suppe
 Suppe!
 Suppenausgabe
@@ -4063,7 +4063,7 @@ Tat
 Tatkraft
 Tatsache
 Tatsachen
-Taugliche
+Taugliche=suitable
 Taumel
 Tausch
 Tauschakt
@@ -4408,7 +4408,7 @@ Verhalten=behaviour
 Verhältnis
 Verhältnissen
 Verhängung=imposition
-Verhöhnung
+Verhöhnung=mockery
 Verhör
 Verhören=interrogation
 Verirrungen
@@ -4483,7 +4483,7 @@ Verwirrung
 Verworfensein
 Verwunderung=surprise
 Verwundet
-Verwundung
+Verwundung=trauma
 Verwünschungen=curses
 Verzeihung
 Verzweiflung=despair
@@ -4540,7 +4540,7 @@ Vorrecht
 Vorrechts
 Vorsatz=intention
 Vorschlag
-Vorschrift
+Vorschrift=rule,command
 Vorschriften
 Vorsehung
 Vorsichtig
@@ -4823,7 +4823,7 @@ Zigarette
 Zigaretten
 Zimmer
 Zimmergenossen
-Zinkwanne
+Zinkwanne=zinc tub
 Zionist
 Zipfel
 Zisternen
@@ -4880,7 +4880,7 @@ Zwanzig-
 Zwar
 Zweck
 Zwecke
-Zwecklosigkeit
+Zwecklosigkeit=lack of purpose
 Zweckmäßigkeit
 Zwei
 Zweideutigkeit
@@ -4966,7 +4966,7 @@ abhängt
 abkommandiert
 abladen
 ablassen
-ablegen
+ablegen=deposit
 abmarschiert
 abnehmen
 abnorme
@@ -5092,7 +5092,7 @@ anderseits
 andersgearteter
 anderswo
 anderswohin
-anderthalb
+anderthalb= 1.5
 andeutet
 andeutungsweise
 andre
@@ -5121,7 +5121,7 @@ angeführt
 angefüllt
 angehaltenem
 angeht
-angehören
+angehören=belong to
 angehörten
 angekommen
 angelangt
@@ -5311,7 +5311,7 @@ aufmerksame
 aufmunternden
 aufnehmen
 aufnimmt
-aufpassen
+aufpassen=pay attention
 aufplatzen
 aufrechten=upright
 aufrechtgehalten
@@ -5347,7 +5347,7 @@ augenblicklich
 augenblickliche
 augenblicklichen
 augenfällig
-augenfällige
+augenfällige=salient
 augenfälligen
 augenfälliges
 augenscheinlicheren
@@ -5361,7 +5361,7 @@ ausdruckslos
 ausdruckslosen
 ausdrücklich
 ausdrücklicher
-ausdrückt
+ausdrückt=express
 auseinander
 auseinandersetzen
 ausersehen
@@ -5376,7 +5376,7 @@ ausgedehnten=vast
 ausgedörrt
 ausgefüllt=filled out
 ausgegangen
-ausgegeben
+ausgegeben=distribute
 ausgehen
 ausgehobene
 ausgeht
@@ -5412,12 +5412,12 @@ ausgestreckt
 ausgestrecktem
 ausgesucht
 ausgetauscht
-ausgeteilten
+ausgeteilten=(austeilen) hand out
 ausgewählt
 ausgiebiges
 ausgingen
 ausgreifen
-aushalten
+aushalten=hold out
 ausheben
 ausleert
 ausliefert
@@ -5438,7 +5438,7 @@ aussetzte
 aussichtsreich
 aussieht
 aussprach
-ausspucken
+ausspucken=spit out
 aussteigen
 aussuchen
 aussucht
@@ -5449,9 +5449,9 @@ austauschten=exchange
 austilgen
 auswaschen
 ausweichen
-ausziehen
+ausziehen=undress
 auszogen
-auszufragen
+auszufragen=interrogate
 auszuführen
 auszufüttern
 auszuheben
@@ -5528,7 +5528,7 @@ bedingt
 bedingten
 bedrohlicheren
 bedroht
-bedrängt
+bedrängt=oppress
 bedrückt
 bedurfte
 beeinflussen
@@ -5603,7 +5603,7 @@ begreifst
 begreift
 begreift!
 begrenzten
-begriffen
+begriffen=(begreifen) realized
 begrüßen
 begrüßt
 begünstigen
@@ -5642,7 +5642,7 @@ beiwohnen
 beizeiten
 beizuwohnen
 beiße
-bejahe
+bejahe=affirm
 bekam
 bekamen
 bekannt
@@ -5669,7 +5669,7 @@ belegt
 belehren
 belehrt
 beleuchtet
-beleuchtete
+beleuchtete=illuminated
 belgischen
 beliebiger
 beliebt
@@ -5741,7 +5741,7 @@ berührte
 besagt
 besagten
 besaß
-besaßen
+besaßen=(besitzen) own, possess
 beschaffen
 bescheiden
 bescheidenes
@@ -5797,7 +5797,7 @@ bestenfalls
 bester
 bestialisch
 bestimmen
-bestimmt
+bestimmt=sure
 bestimmte
 bestimmten
 bestimmter
@@ -5816,7 +5816,7 @@ bestürmen
 bestürzender
 besuchte
 besudelt
-besäßen
+besäßen=(besitzen) possess
 beteiligt
 beteiligte
 betet
@@ -5848,7 +5848,7 @@ beugen
 beunruhigende
 beunruhigt
 beurteilen
-beurteilt
+beurteilt=judge
 bevor
 bevorstand=was imminent
 bevorstehen
@@ -5939,7 +5939,7 @@ blickte
 blieb
 blieben
 blind
-blindlings
+blindlings=blindly
 blitzartig=in a flash
 blond
 blonde
@@ -5954,7 +5954,7 @@ blutroter
 bläst
 bläulich
 blöder
-blödsinnige
+blödsinnige=stupid
 blüht
 bog
 borgen
@@ -6238,7 +6238,7 @@ drangvoller
 drauf
 draufgegangen
 draußen
-dreckig
+dreckig=filthy
 dreckigen
 dreckstarrenden
 drehe
@@ -6363,14 +6363,14 @@ eher
 ehrfurchtslose
 ehrfurchtsvoll
 ehrgeizigen
-ehrgeiziges
+ehrgeiziges=ambitious
 ehrlich
 ehrlichem
 ehrlicher
 eigen
 eigenartig
 eigenartige
-eigenartigem
+eigenartigem=peculiar
 eigenartigen
 eigenartigerweise
 eigene
@@ -6426,7 +6426,7 @@ eingegraben
 eingehende
 eingeholt
 eingelassenen
-eingeliefert
+eingeliefert=admitted
 eingemummt
 eingenickt
 eingeredet
@@ -6512,7 +6512,7 @@ eiskalten
 eiskalter
 eiternden
 eitler
-ekelhaften
+ekelhaften=evil
 ekligen
 elektrische
 elektrischen
@@ -6555,7 +6555,7 @@ englische
 englischen
 englischer
 enormen
-entartete
+entartete=degenerate
 entblößen
 entblößtem
 entblößten=bare
@@ -6629,7 +6629,7 @@ entstanden
 entsteht
 entstellt
 enttäuscht
-entwaffnend
+entwaffnend=disarming
 entweder
 entwenden
 entwendet
@@ -6639,7 +6639,7 @@ entziehen
 entzogen
 entzwei
 entzweigegangen
-entzündete
+entzündete=light
 entzündeten=ignite
 epilogue
 er
@@ -6815,7 +6815,7 @@ erstrebenswertesten
 erstreckt
 ersucht
 ertappt
-erteilt
+erteilt=(Auskunft) give information
 erteilten
 ertragen
 ertragene
@@ -6913,7 +6913,7 @@ farbige
 farblose
 faschistisch-republikanischen
 faschistischen
-fassen
+fassen=conceptualize
 fassenden
 fast
 fauchte
@@ -6925,7 +6925,7 @@ fe'
 fec'io
 federnden
 fegen
-fegt
+fegt=(fegen) sweeps
 fehle
 fehlen
 fehlt
@@ -7005,7 +7005,7 @@ folgende
 folgenden
 folgt
 folgten
-fordere
+fordere=demand, ask
 fordert=requires
 formiert
 formt
@@ -7073,7 +7073,7 @@ fristet
 frivol
 froh
 frommer
-frostige
+frostige=frigid
 fröhliche
 fröhliches
 früh
@@ -7269,8 +7269,8 @@ gehfähigen
 gehoben
 gehofft
 geholfen
-geholt
-gehorchen
+geholt=(holen) caught
+gehorchen=obey
 gehst
 geht
 geht's
@@ -7306,7 +7306,7 @@ gelang
 gelangen
 gelangt
 gelassen
-gelassene
+gelassene=calm
 gelassenen
 gelaunt
 gelb
@@ -7450,7 +7450,7 @@ geschlossensten
 geschmäht
 geschnitten
 geschoben
-geschoren
+geschoren=shorn
 geschorenen
 geschorenes
 geschossen
@@ -7492,7 +7492,7 @@ gestohlen
 gestorben
 gestoßen
 gestreckt
-gestreifte
+gestreifte=striated
 gestreiftem
 gestreiften
 gestützt
@@ -7637,7 +7637,7 @@ grausames
 grausamste
 graut
 greift
-grell
+grell=harsh
 grelle
 grenzenlos
 grenzte
@@ -7739,7 +7739,7 @@ handelte
 handelten
 handhabte
 handle
-hantieren
+hantieren=???
 hantierten
 harren
 hart
@@ -7812,7 +7812,7 @@ herauf
 heraufbeschworen=evoke
 heraufbeschwören=evoke
 heraufgekommen=come up
-heraus
+heraus=out
 herausgebildet
 herausgedrückter
 herausgefunden
@@ -7826,11 +7826,11 @@ herauszuschälen
 herbei
 herbeirennen
 herbes
-herein
+herein=in
 hereingekommen
 hereinzulassen
 hergab
-hergeben
+hergeben=give away
 hergekommen
 hergerichtet
 hergestellt
@@ -7935,7 +7935,7 @@ hinterbracht
 hinterlassen
 hinunter
 hinunterhängen
-hinunterstürzte
+hinunterstürzte=fling down
 hinwegzugehen
 hinwirft
 hinziehen
@@ -8029,7 +8029,7 @@ hörte
 hörten
 hübsche
 hünenhafter
-hüpfen
+hüpfen=hop
 hütet
 ich
 ich's
@@ -8080,7 +8080,7 @@ innerhalb
 innerlich
 innige
 ins
-insgeheim
+insgeheim=???
 insgesamt
 inspiziert
 instand
@@ -8122,7 +8122,7 @@ irgendwo
 irgendwohin
 irreal
 irrige
-irrsinnig
+irrsinnig=mad
 irrt
 ist
 ist!
@@ -8217,7 +8217,7 @@ kaum
 kaut
 kehre
 kehren
-kehrt
+kehrt=sweeps
 kehrte
 kehrten
 kein
@@ -8359,7 +8359,7 @@ kräftige
 kräftigen
 kräftiger
 kränkt
-krümmen
+krümmen=writhe, curve
 krümmt
 kuk
 kulminierten
@@ -8432,7 +8432,7 @@ lassen
 lasten
 lastenden
 lateinisch-polnische
-lau
+lau=???
 laude
 laue
 laufe
@@ -8472,7 +8472,7 @@ legte
 legten
 lehmige
 lehnen
-lehnt
+lehnt=(ablehnen) refuse
 leibliche
 leichenblassen
 leicht
@@ -8487,14 +8487,14 @@ leichtgefallen
 leichthin
 leid
 leide
-leiden
+leiden=(gut leiden möge) ???
 leidende
 leidenden
 leidender
 leidet
 leiht
 leinener
-leise
+leise=faintly
 leiser
 leistet
 leistungsfähig
@@ -8549,8 +8549,8 @@ liquidierten
 listiges
 literarische
 litt
-litten
-lit«
+litten=(leiden) suffer
+lit
 logisch
 logischen
 lohnt
@@ -8610,7 +8610,7 @@ maison
 maison«
 makabren
 mal
-malte
+malte=(ausmalen) portray
 man
 man's
 manch
@@ -8679,7 +8679,6 @@ metallisches
 methodisch
 methodischer
 metta
-metta«
 meuchlings=treacherously
 me«
 mi
@@ -8784,8 +8783,7 @@ nacheinander
 nachfolgenden
 nachgedacht
 nachgewachsen
-nachher
-nachher«
+nachher=after
 nachhänge
 nachläßt
 nachmittags
@@ -8854,7 +8852,7 @@ nichtig
 nichtigen=trivial
 nichtjüdischen
 nichts
-nicht«
+nicht
 nickt
 nie
 nieder
@@ -8924,7 +8922,7 @@ o
 ob
 oben
 oberen
-oberflächliche
+oberflächliche=superficial
 oberflächlicher
 obersten
 obgleich
@@ -8975,7 +8973,7 @@ output
 paar
 paarweise
 pachtet
-packen
+packen=grab
 packt
 padre
 pain-lechemkenyer
@@ -9114,14 +9112,14 @@ ranzig
 rasch=rapidly
 rasche
 raschen
-rasend
+rasend=enraged
 rasendem
 rasieren
 rasiert
 rasierte
 rasiertem
 rasiertes
-raste
+raste=(rasen) drive at full speed
 rastlos
 ratsam
 rauchen
@@ -9250,7 +9248,7 @@ roter
 rotes
 rotgelben
 rothaariger
-rotwelsch
+rotwelsch=???
 roule
 ruckartigen
 rufen
@@ -9313,7 +9311,7 @@ sarkastischen
 satanische
 satt
 sattessen
-sattgesehen
+sattgesehen=grow tired of seeing
 sauber
 saubere
 sauberer
@@ -9391,7 +9389,7 @@ schleppt
 schleppte
 schleppten
 schleudert
-schlicht
+schlicht=simple
 schlief
 schliefe
 schliefen
@@ -9406,7 +9404,7 @@ schlimmstenfalls
 schlossen
 schlotternd
 schlucken
-schluckt
+schluckt=swallow
 schlug
 schlugen
 schlummernden=dormant
@@ -9447,7 +9445,7 @@ schmutzige
 schmutzigem
 schmutzigen
 schmächtig
-schmähen
+schmähen=revile
 schnarchen
 schnarcht
 schnauben
@@ -9487,7 +9485,7 @@ schufen
 schuftet=toils
 schuld
 schuldig
-schwach
+schwach=faint, weak
 schwache
 schwachen
 schwammig
@@ -9532,7 +9530,7 @@ schäbigen
 schädlich
 schädliche
 schälte
-schämen
+schämen=be ashamed
 schändlichen
 schärfen
 schätzen
@@ -9688,7 +9686,7 @@ soviel
 soweit
 sowie
 sowjetischen
-sowohl
+sowohl=???
 soziale
 sozialen
 spa
@@ -9772,7 +9770,7 @@ steht
 steif
 steife
 steifem
-steifen
+steifen=stiff
 steige
 steigen
 steinernen
@@ -9800,9 +9798,9 @@ stimmt
 stimmte
 stimmt«
 stinkende
-stinkig«
+stinkig
 stirbt
-stockdunkel
+stockdunkel=pitch dark
 stocksteif
 stolpern
 stolpernd
@@ -9831,7 +9829,7 @@ strengstens
 strengster
 strengt
 streute
-strotzt
+strotzt=???
 strömen
 studiert
 stumm
@@ -9853,7 +9851,7 @@ stört
 stößt
 stülpt
 stünde
-stürzen
+stürzen=fling
 stürzt
 stützen
 subtile
@@ -10196,7 +10194,7 @@ ungeheuer
 ungeheures
 ungehindert
 ungenau
-ungenießbar
+ungenießbar=unedible
 ungerecht=unfair
 ungerechte
 ungeregelte
@@ -10323,7 +10321,7 @@ ununterbrochen
 ununterbrochene=continuous
 unverhüllt
 unvermeidlich
-unvermeidliche
+unvermeidliche=inevitable
 unvermeidlichen=inevitable
 unvermeidliches
 unvermindert
@@ -10553,7 +10551,7 @@ verlöschen
 vermag
 vermehrt
 vermeiden
-vermeidet
+vermeidet=avoid
 vermeintliche=supposed
 vermessenen
 vermied
@@ -10570,7 +10568,7 @@ vernehmen
 vernichten
 vernichtet
 vernimmt
-vernommen
+vernommen=(vernehmen) debrief, examine
 vernünftig
 vernünftige
 vernünftigerweise
@@ -10585,7 +10583,7 @@ verrichten
 verrichteten
 verriegelte=locked
 verringert
-verrinnt
+verrinnt=???
 verroht
 verrückt
 verrückte
@@ -10609,7 +10607,7 @@ verschließen
 verschlimmerte
 verschlingt
 verschlossen
-verschlossener
+verschlossener=tight-lipped
 verschloß
 verschluckte
 verschlungen
@@ -10629,7 +10627,7 @@ verschwollen
 verschwunden
 verschärften
 verschüttet
-versehen
+versehen=oversee
 versetzt
 versetzt«
 versicherte
@@ -10640,7 +10638,7 @@ versklavten
 versorgt
 verspeiste
 versperrt
-verspotten
+verspotten=mock, ridicule
 versprach
 versprengte
 verspürte
@@ -10688,7 +10686,7 @@ vertraut
 vertraute=familiar
 vertrauten
 vertrieb
-verunreinigt
+verunreinigt=contaminated
 verursachen
 verursacht
 verurteilt
@@ -10711,9 +10709,9 @@ verwertbaren
 verwertbarer
 verwiesen
 verwirklichen=achieve
-verwirrend
+verwirrend=confusing
 verwirrt
-verworfne
+verworfne=(verwerfen) rejected
 verworfner
 verworren
 verwundbar
@@ -10829,7 +10827,7 @@ vorgestreckten
 vorhanden
 vorhandenen=existing
 vorher
-vorhin
+vorhin=???
 vorhinein
 vorigen
 voriges
@@ -10953,8 +10951,8 @@ wehrlosen
 wehrt
 weiche
 weichen
-weidet
-weigert
+weidet=browse
+weigert=???
 weil
 weinen
 weinen!
@@ -11169,7 +11167,7 @@ wärmer
 wärmt
 wärmte
 wäscht
-wäßrig
+wäßrig=watery
 wünsche
 wünschen
 wünschenswert
@@ -11206,7 +11204,7 @@ zerbrochen
 zerbrochene
 zerebrale
 zerfallenen
-zerfetzt
+zerfetzt=tattered
 zerfetzten
 zerfrißt
 zerfällt
@@ -11331,7 +11329,7 @@ zurückzuhalten
 zurückzukehren
 zurückzukommen
 zusammen
-zusammenbündeln
+zusammenbündeln=roll together
 zusammenfügen
 zusammengebündelten
 zusammengedrängt
@@ -11344,7 +11342,7 @@ zusammengestellt
 zusammengezogen
 zusammenhängende=coherent
 zusammenlaufen
-zusammenpassen
+zusammenpassen=matched
 zusammenpassenden
 zusammenschließen
 zusammensetzte
@@ -11375,7 +11373,7 @@ zuvor
 zuvorgekommen
 zuvorzukommen=forestall, preempt
 zuwege
-zuweilen
+zuweilen=???
 zwanzig
 zwanzigjährige
 zwanzigjährigen
@@ -11419,11 +11417,9 @@ zählen
 zählt
 zählten
 zögern
-zögert
+zögert=hesitate
 zögerte
 zündeten
-«
-»
 »Absperre!«
 »Achtung!«
 »Alles
@@ -11851,9 +11847,9 @@ Es
 übriggelassen
 übriglassen
 übt
-›
-›Hätte
-›Jawohl!‹
+
+Hätte
+Jawohl!
 ›Jules‹
 ›die
 ›mein
