@@ -313,7 +313,7 @@ Ausfeger
 Ausfegern
 Ausflucht
 Ausführungsorgane=delivery agencies
-Ausgabe
+Ausgabe=issuance
 Ausgabestelle
 Ausgekochte
 Ausgewählten
@@ -938,7 +938,7 @@ E
 E-Häftlinge
 E-Lager
 Eben
-Ebenbild
+Ebenbild=image
 Ebene
 Ebenso
 Ecke
@@ -1597,7 +1597,7 @@ Gesichtsausdruck
 Gesichtshälfte
 Gesichtspunkten
 Gesichtsrose
-Gespenster
+Gespenster=gost
 Gespensterheeres
 Gespräch
 Gesprächspartner
@@ -1631,7 +1631,7 @@ Gewitztheit
 Gewiß
 Gewißheit
 Gewohnheit
-Gewohnheiten
+Gewohnheiten=habits
 Gewähr
 Gewöhnlich
 Gewühle
@@ -1660,7 +1660,7 @@ Gleichschritt
 Gleis
 Gleiwitz
 Glied
-Glieder
+Glieder=limbs
 Gliedern
 Gliederpuppen
 Glocke
@@ -1817,7 +1817,7 @@ Heilige
 Heiligen
 Heiliger
 Heilung
-Heim
+Heim=home
 Heimat
 Heimkehr
 Heimkehren
@@ -1922,7 +1922,7 @@ Holzmenge
 Holzpantinen
 Holzplatte
 Holzschuhen
-Holzsohle
+Holzsohle=wooden sole
 Holzsohlen
 Holzsplitter
 Holzsuche
@@ -2230,7 +2230,7 @@ Kinn
 Kissen
 Kittel
 Klage
-Klamotten
+Klamotten=rags
 Klang
 Klarheit
 Klarsichtigkeit
@@ -2469,7 +2469,7 @@ Latrine
 Latrinen
 Latrinenbaracken
 Latrineneimer
-Latschen
+Latschen=slippers
 Laub
 Lauf
 Laufen
@@ -2490,7 +2490,7 @@ Lebenskampf
 Lebensmittel
 Lebensmittelkarten
 Lebensnerv
-Lebensordnung
+Lebensordnung=order of life
 Lebenstag
 Lebensweise
 Lebenswille
@@ -2592,7 +2592,7 @@ Luftduelle
 Luftschutzräume
 Luftzug
 Luke=hatch
-Lumpen
+Lumpen=rags
 Lungen
 Lungenentzündung
 Lust
@@ -2610,7 +2610,7 @@ Läuse
 Läusekontrolle
 Läusekontrolleure
 Läusen
-Läutens
+Läutens=alarm
 Löcher
 Löchern
 Löffel
@@ -2655,7 +2655,7 @@ Mailand
 Maisbrei
 Maisfelder
 Makkaroni
-Mal
+Mal=mark
 Male
 Malebolge
 Malen
@@ -3145,7 +3145,7 @@ Pfleger
 Pflegern
 Pflicht
 Pflichteifer
-Pfriem
+Pfriem=awl (punteruolo)
 Pfütze
 Phantasie
 Phantasten
@@ -3258,7 +3258,7 @@ Putzen
 Pygmäe
 Päckchen
 Päli
-Püffen
+Püffen=???
 Quadrat
 Qual
 Qualm
@@ -3330,7 +3330,7 @@ Regens
 Regentropfen
 Regierung
 Regime
-Regung
+Regung=movement
 Regungen
 Regungslosigkeit
 Reiben
@@ -4000,7 +4000,7 @@ Suppenausgabe
 Suppenesser
 Suppenkellen
 Suppenkessel
-Suppennapf
+Suppennapf=soup bowl
 Suppenrestchen
 Suppenresten
 Suppenstangen
@@ -4058,7 +4058,7 @@ Tasche
 Taschen
 Taschenfeuerzeug
 Taschenlampe
-Taschentuch
+Taschentuch=handkerchief
 Tat
 Tatkraft
 Tatsache
@@ -4321,7 +4321,7 @@ Unterworfenen
 Unterwürfigkeit
 Untätigkeit
 Untüchtigkeit
-Unvermittelt
+Unvermittelt=sudden
 Unvermögen
 Unverschämtheit=impudence
 Unversehens
@@ -4340,7 +4340,7 @@ Ursache
 Ursachen
 Ursprungs
 Urteil
-Urteilsvermögens
+Urteilsvermögens=judgement
 Urteilsvollstrecker
 Urzustands
 Utensilien
@@ -4473,8 +4473,7 @@ Vertrauen
 Vertrauensmann
 Vertrauter
 Verurteilten
-Verwahrung
-Verwahrung«
+Verwahrung=custody
 Verwaltungsbeamte=administrator
 Verwandte
 Verwendung
@@ -4549,7 +4548,7 @@ Vorstellungen
 Vorteil
 Vorteilen
 Vorwand
-Vorzeichen
+Vorzeichen=sign
 Väter
 Völkergewirr
 Waage
@@ -4619,7 +4618,7 @@ Wasserstofflaschen
 Wasser«
 Wechselfällen
 Wechseln
-Wecken
+Wecken=wake
 Weckens
 Weckt
 Weg
@@ -5123,7 +5122,7 @@ angehaltenem
 angeht
 angehören=belong to
 angehörten
-angekommen
+angekommen=arrived
 angelangt
 angelegentlich
 angemacht
@@ -5150,7 +5149,7 @@ angewidertem
 angewiesen
 angezeigt
 angezogen
-angrenzenden
+angrenzenden=adjacent
 angrinsen
 anhaben
 anhalten
@@ -5161,7 +5160,7 @@ anhand
 anhielt
 anhing
 anhält
-anhören
+anhören=listen to
 animalische
 ankamen
 ankündigt
@@ -5209,7 +5208,7 @@ anwenden
 anwesend
 anziehen
 anzubieten
-anzublicken
+anzublicken=to look at
 anzufreunden
 anzugehen
 anzulegen
@@ -5239,7 +5238,7 @@ armer
 armes
 armseligen=wretched
 armseliger
-armseligste
+armseligste=poorest
 aromatische
 artet
 asozialen
@@ -5598,7 +5597,7 @@ begossene
 begoß
 begraben
 begreife
-begreifen
+begreifen=understand
 begreifst
 begreift
 begreift!
@@ -5757,11 +5756,10 @@ beschreibt
 beschrieben
 beschriebenen
 beschränken
-beschränkt
+beschränkt=confined
 beschränkte
 beschränkten
 beschwerlich
-beschwerlich!«
 beschwerliche
 beschwörendem
 beschädigen
@@ -5837,7 +5835,7 @@ betrieb
 betriebener
 betriebsfertig
 betrifft
-betroffen
+betroffen=affected
 betrunken
 bettelten
 betätigen
@@ -5861,7 +5859,7 @@ bewachen
 bewaffnet
 bewaffnete
 bewaffneten
-bewahren
+bewahren=preserve
 bewahrt=preserved
 bewahrte
 bewandert
@@ -5932,7 +5930,7 @@ bleibt
 bleichen
 bleierne
 blicke
-blicken
+blicken=glance
 blickend
 blickt
 blickte
@@ -5952,7 +5950,7 @@ blutenden
 blutete
 blutroter
 bläst
-bläulich
+bläulich=bluish
 blöder
 blödsinnige=stupid
 blüht
@@ -6063,8 +6061,8 @@ dalla
 damaligen
 damals
 damit
-damit«
-dampfend
+damit
+dampfend=steaming
 danach
 daneben
 dankbar
@@ -6184,7 +6182,7 @@ dich
 dicht
 dichtem
 dick
-dickbäuchiges
+dickbäuchiges=potbellied
 dicke
 dicken
 dicker
@@ -6331,7 +6329,7 @@ du«
 dächte
 dächten
 dämmerte
-dümmliches
+dümmliches=goofy
 dünne
 dünnen
 dünnste
@@ -6453,7 +6451,7 @@ einiger
 einigermaßen=to some extent
 einiges
 einladend
-einläßt
+einläßt=gets involved
 einmal
 einmaliger
 einrücken
@@ -6579,7 +6577,7 @@ entgleiten
 enthalten
 enthielten
 enthält
-enthüllt
+enthüllt=revealed
 entkleiden
 entkleidet
 entkommen
@@ -7737,7 +7735,7 @@ handeln
 handelt
 handelte
 handelten
-handhabte
+handhabte=managed
 handle
 hantieren=???
 hantierten
@@ -8020,7 +8018,7 @@ höchsten
 höchstens
 höchster
 höflich
-höhnisch
+höhnisch=scornfully
 hölzernen
 höre
 hören
@@ -8080,7 +8078,7 @@ innerhalb
 innerlich
 innige
 ins
-insgeheim=???
+insgeheim=secretly
 insgesamt
 inspiziert
 instand
@@ -8474,7 +8472,7 @@ lehmige
 lehnen
 lehnt=(ablehnen) refuse
 leibliche
-leichenblassen
+leichenblassen=deathly pale
 leicht
 leichte
 leichtem
@@ -8487,7 +8485,7 @@ leichtgefallen
 leichthin
 leid
 leide
-leiden=(gut leiden möge) ???
+leiden=(gut leiden möge) likes
 leidende
 leidenden
 leidender
@@ -8609,7 +8607,7 @@ mai
 maison
 maison«
 makabren
-mal
+mal=mark
 malte=(ausmalen) portray
 man
 man's
@@ -9420,7 +9418,7 @@ schmalen
 schmatzen
 schmeckt
 schmeckte
-schmeißen
+schmeißen=kick
 schmelzen
 schmelzenden
 schmerzbringend=painful
@@ -9437,7 +9435,7 @@ schmerzt
 schmerzvoll
 schmerzvollen
 schmieren
-schmierigen
+schmierigen=greasy
 schmiert
 schmolzen
 schmutzig
@@ -9516,7 +9514,7 @@ schwerer
 schwerfallt
 schwergefallen
 schwerkranken
-schwerlich
+schwerlich=hardly
 schwieg
 schwieriger
 schwimmen
@@ -9674,7 +9672,7 @@ sonderbarer
 sonderlich
 sondern
 sonntags
-sonst
+sonst=else
 sopra
 sorgfältig
 sorgsam
@@ -9977,7 +9975,7 @@ trauriges
 traute
 travailleurs«
 treffen
-treiben
+treiben=drive
 treibt
 trennen
 trennenden
@@ -10111,7 +10109,7 @@ unbedachtes
 unbedingt=necessarily
 unbefristete
 unbegreiflich
-unbegreifliche
+unbegreifliche=incomprehensible
 unbegreiflicher
 unbehelligt=unmolested
 unbeherrschten
@@ -10396,7 +10394,7 @@ verbissene
 verbissenen
 verbissener
 verblaßt
-verbleibe
+verbleibe=remain
 verbleiben
 verbliebe
 verbliebene
@@ -10710,7 +10708,7 @@ verwertbarer
 verwiesen
 verwirklichen=achieve
 verwirrend=confusing
-verwirrt
+verwirrt=confused
 verworfne=(verwerfen) rejected
 verworfner
 verworren
@@ -10791,7 +10789,7 @@ vom
 von
 voneinander
 vonnöten
-vonstatten
+vonstatten=proceed
 vor
 voran
 vorangegangenen
@@ -10860,7 +10858,7 @@ vorzeigt
 vorzubeugen
 vorzuschlagen
 vorzustellen
-vorzuweisen
+vorzuweisen=show
 vorüber
 vorübergehen
 vorübergehend
@@ -11073,7 +11071,7 @@ wilder
 will
 willen
 willfährig
-willfähriges
+willfähriges=submissive
 willigen
 willkürlicher
 willst
@@ -11275,7 +11273,7 @@ zugelegt
 zugeschnittenen
 zugesprochen
 zugestanden
-zugeteilt
+zugeteilt=allocated
 zugewandt
 zugewandte
 zugewiesen
@@ -11493,7 +11491,7 @@ Es
 »Ja«
 »Jüdin
 »Kameraden
-»Kartoffelschälkommando«
+»Kartoffelschälkommando«=potatoes peeling commando
 »Kazet«
 »Kein
 »Keine
@@ -11740,7 +11738,7 @@ Es
 ätzende
 ätzenden
 äußerlichen
-äußern
+äußern=express
 äußerst
 äußerste
 äußerster
