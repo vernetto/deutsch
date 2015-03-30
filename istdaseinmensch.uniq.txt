@@ -981,7 +981,7 @@ Eingeständnisse=admissions
 Eingeweide
 Eingewiesenen
 Eingezwängt
-Eingliederungsprozeß
+Eingliederungsprozeß=integration process
 Eingreifen
 Einhalt
 Einhalten
@@ -1662,7 +1662,7 @@ Gleiwitz
 Glied
 Glieder=limbs
 Gliedern
-Gliederpuppen
+Gliederpuppen=mannequins
 Glocke
 Glockenturm
 Glockenturm!
@@ -3163,7 +3163,7 @@ Pikkolo
 Pikkolo!
 Pillen
 Pinkert
-Pinseln
+Pinseln=brushes
 Pioniere
 Plackerei
 Plage
@@ -3947,7 +3947,7 @@ Straßen
 Straßenkot
 Strecke
 Streifen
-Streifenanzug
+Streifenanzug=striped suit
 Streit
 Streitereien=quarrels
 Strenge
@@ -4394,7 +4394,7 @@ Verführer
 Verführers
 Vergangenheit
 Vergangenheitsaufbereitung
-Vergeblich
+Vergeblich=in vain
 Vergebung=forgiveness
 Vergegenwärtigung
 Vergehen
@@ -5131,7 +5131,7 @@ angemessenen
 angenehm
 angenehme
 angenommen
-angenähte
+angenähte=sewn
 angeordneten
 angeschwollenen
 angesetzt
@@ -7198,7 +7198,7 @@ geeignetste
 gefahren
 gefallen
 gefangen
-gefaßt
+gefaßt=collected
 gefettet
 gefiltert
 geflochtener
@@ -7830,7 +7830,7 @@ hereinzulassen
 hergab
 hergeben=give away
 hergekommen
-hergerichtet
+hergerichtet=prepared
 hergestellt
 herlaufen
 herpendeln
@@ -10298,7 +10298,7 @@ unterm
 unternahm
 unternehmen
 unters
-untersagt
+untersagt=forbidden
 unterscheiden
 unterscheidet
 unterschieden
@@ -10478,8 +10478,8 @@ vergeht
 vergesse
 vergessen
 vergessenen
-vergessen«
-vergeuden
+vergessen
+vergeuden=waste
 vergewissernd
 vergingen
 vergleichen
@@ -11033,7 +11033,7 @@ widersinnige
 widersprechenden
 widerstandsfähig
 widerstehen
-widerstrebend
+widerstrebend=reluctant
 widerwillig
 widmen
 widmet=dedicated
@@ -11279,7 +11279,7 @@ zugewandte
 zugewiesen
 zugigen
 zugleich=likewise
-zuhauf
+zuhauf=in abundance
 zuhört
 zuhörten
 zukneifen
@@ -11803,7 +11803,7 @@ Es
 überragte
 überraschenderweise
 überrascht
-überreden
+überreden=persuade
 überreichen
 überrumpeln=take by surprise
 übers
