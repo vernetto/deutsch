@@ -273,7 +273,7 @@ Auflehnung=revolt
 Auflösung
 Aufmerksamkeit
 Aufnahme
-Aufrechterhaltung
+Aufrechterhaltung=maintaining
 Aufrichtigkeit=honesty
 Aufruf
 Aufruhr=riot
@@ -1731,7 +1731,7 @@ Gründung
 Grünen
 Grüppchen
 Gummifabrik
-Gummiknüppeln
+Gummiknüppeln=truncheons
 Gummis
 Gummischlauch
 Gummistiefeln
@@ -1741,7 +1741,7 @@ Guten
 Gutes
 Gutschein
 Gänge
-Gängen
+Gängen=corridors
 Gänze
 Göttliche
 Gültigkeit
@@ -2238,7 +2238,7 @@ Klassifizierungen
 Klaue
 Kleider
 Kleiderbügel
-Kleiderbündel
+Kleiderbündel=bundle of clothes
 Kleidung
 Kleidungsstücke
 Kleinen
@@ -3333,7 +3333,7 @@ Regime
 Regung=movement
 Regungen
 Regungslosigkeit
-Reiben
+Reiben=rubbing
 Reibung
 Reich
 Reichen
@@ -3559,7 +3559,7 @@ Schlag
 Schlager=hit
 Schlaglöcher=???
 Schlamm
-Schlammflecken
+Schlammflecken=mud stains
 Schlammschicht
 Schlange
 Schlechten«
@@ -3637,7 +3637,7 @@ Schuhe
 Schuhen
 Schuhe«
 Schuhfett
-Schuhumtausches
+Schuhumtausches=shoe change
 Schuld
 Schuldgefühl
 Schuldigen
@@ -3997,7 +3997,7 @@ Suppe
 Suppe!
 Suppenausgabe
 Suppenesser
-Suppenkellen
+Suppenkellen=ladles
 Suppenkessel
 Suppennapf=soup bowl
 Suppenrestchen
@@ -4783,7 +4783,7 @@ Zehntausend
 Zehntausende
 Zehntel
 Zeichen
-Zeichnungen
+Zeichnungen=drawings
 Zeige-
 Zeigefinger
 Zeit
@@ -4931,7 +4931,7 @@ abgefertigt
 abgeflacht
 abgegeben
 abgeholt
-abgeht
+abgeht=lacks
 abgeladen
 abgelagert=deposited
 abgelegenen=remote
@@ -6342,7 +6342,7 @@ düsteres=dark
 e
 eben
 ebendiesem
-ebendieser
+ebendieser=precisely this
 ebener
 ebenfalls
 ebenso
@@ -7424,7 +7424,7 @@ geschafften
 geschah
 geschahen
 geschehe
-geschehen
+geschehen=happen
 gescheiterte
 geschenkt
 geschichtet
@@ -8699,7 +8699,7 @@ mitgenommen
 mitgeteilt
 mitleidheischend=looking for pity
 mitleidig
-mitmachen
+mitmachen=participate
 mitsamt
 mittags
 mittellos
@@ -8779,7 +8779,7 @@ nachdenken
 nacheinander
 nachfolgenden
 nachgedacht
-nachgewachsen
+nachgewachsen=grown
 nachher=after
 nachhänge
 nachläßt=decreases
@@ -10312,7 +10312,7 @@ unterteilt=divided
 unterwegs
 unterworfen
 unterziehe
-unterziehen
+unterziehen=subject
 unterzieht
 ununterbrochen
 ununterbrochene=continuous
@@ -10685,7 +10685,7 @@ vertrauten
 vertrieb
 verunreinigt=contaminated
 verursachen
-verursacht
+verursacht=caused
 verurteilt
 vervollkommnet=perfect
 verwandeln
@@ -11679,7 +11679,7 @@ Es
 Ähnlichkeit
 Ältesten
 Ämter
-Ämtern
+Ämtern=offices
 Ängsten
 Ärmel
 Ärzte
