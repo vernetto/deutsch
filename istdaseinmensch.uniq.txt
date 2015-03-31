@@ -467,7 +467,7 @@ Bekanntschaften
 Bekenntnisse=confessions
 Bekommt
 Bela
-Belang
+Belang=importance
 Belange=issues
 Belastungsprobe
 Belegschaft
@@ -1543,7 +1543,7 @@ Genüge
 Gepeinigten
 Gepflogenheiten
 Gepäck
-Gerade
+Gerade=straight
 Gerechtigkeit
 Gerede
 Gerettete
@@ -1919,7 +1919,7 @@ Holzbaracken
 Holzenden
 Holzkante
 Holzmenge
-Holzpantinen
+Holzpantinen=wooden slippers
 Holzplatte=wood panel
 Holzschuhen
 Holzsohle=wooden sole
@@ -3413,7 +3413,7 @@ Rohrleitungen
 Rohwachs
 Rolle
 Roman
-Rostflecken
+Rostflecken=rust stains
 Roststaub
 Rote
 Rottenführer=foreman
@@ -3531,7 +3531,7 @@ Scheißministern
 Schenck
 Schenkel
 Schepschel
-Scheren
+Scheren=clip, shear
 Schermaschinen
 Scheußlichkeit
 Schicht
@@ -4296,7 +4296,7 @@ Untergrund
 Unterhaltungen
 Unterhemd
 Unterhose
-Unterhosen
+Unterhosen=underwear
 Unterkunft=quarters
 Unterkünften
 Unterlaß
@@ -4969,7 +4969,7 @@ abmarschiert
 abnehmen
 abnorme
 abrieben
-abschaben
+abschaben=scrape off
 abschabte
 abscheulich
 abscheuliche=heinous
@@ -5274,7 +5274,7 @@ aufgegangen
 aufgegangenen
 aufgegeben
 aufgegessen
-aufgeknöpfter
+aufgeknöpfter=unbuttoned
 aufgelegt
 aufgenagelten
 aufgenommen
@@ -5547,7 +5547,7 @@ befindet
 befleißigte
 befohlen
 befolgen
-befolgenden
+befolgenden=to be followed
 befolgt
 befreien
 befreien«
@@ -6510,7 +6510,7 @@ eiskalter
 eiternden
 eitler
 ekelhaften=evil
-ekligen
+ekligen=disgusting
 elektrische
 elektrischen
 elementare
@@ -6554,7 +6554,7 @@ englischer
 enormen
 entartete=degenerate
 entblößen
-entblößtem
+entblößtem=uncovered
 entblößten=bare
 entdecken
 entdeckten
@@ -7576,7 +7576,7 @@ ginge
 gingen
 girar
 giù
-glatt
+glatt=smooth
 glatte
 glaube
 glauben
@@ -9803,7 +9803,7 @@ stolpern
 stolpernd
 stolpert
 stolz
-stopfen
+stopfen=stuff
 stoßen
 strahlender
 strahlte
@@ -10435,7 +10435,7 @@ verdoppelt
 verdorrt
 verdorrter
 verdreckt
-verdreckten
+verdreckten=filthy
 verdrängen
 verdrückt
 verdächtig=suspicious
@@ -10521,7 +10521,7 @@ verladen
 verlangend
 verlangt=required
 verlangte=demanded
-verlassen
+verlassen=leave
 verlassene
 verlassenen
 verlegt
@@ -10774,7 +10774,7 @@ vollends
 voller
 vollgemacht
 vollgestopften
-vollkommen
+vollkommen=perfectly
 vollkommenen=utter
 vollkommenes
 vollschlagen
@@ -10817,7 +10817,7 @@ vorgegangen
 vorgenommen
 vorgenommenen
 vorgeschrieben
-vorgeschriebenen
+vorgeschriebenen=prescribed
 vorgesehen
 vorgestellt
 vorgestreckten
