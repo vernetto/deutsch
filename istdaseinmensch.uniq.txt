@@ -333,7 +333,7 @@ Ausnahmezeiten
 Auspeitschung
 Ausrottung
 Ausruhen
-Ausrücken
+Ausrücken=move out 
 Aussagen=statemets
 Ausschachtungen
 Ausschnitte
@@ -416,7 +416,7 @@ Bedauern
 Bedenken
 Bedenket
 Bedeutsames
-Bedeutung
+Bedeutung=importance
 Bedienung
 Bedienungskabine
 Bedingungen
@@ -523,7 +523,7 @@ Besserung
 Bestand=(bestand haben)=to last
 Bestandteile
 Bestechlichkeit
-Bestechung
+Bestechung=corruption
 Bestehen
 Bestehlen
 Besteller
@@ -913,7 +913,7 @@ Dunkeln
 Dunklen
 Dunst
 Durch
-Durcheinander
+Durcheinander=confusion
 Durchfall
 Durchführung
 Durchreise
@@ -992,7 +992,7 @@ Einkleidung
 Einlieferung
 Einmal
 Einrichtung=equipment
-Einrücken
+Einrücken=report for duty
 Einsamkeit
 Einsatzkommandos
 Einschließung
@@ -1507,7 +1507,7 @@ Gehilfen
 Gehorsam
 Gehorsams=obedience
 Geht
-Gehweise
+Gehweise=gait
 Geige=violin
 Geist
 Geistes
@@ -1598,7 +1598,7 @@ Gesichtshälfte
 Gesichtspunkten
 Gesichtsrose
 Gespenster=gost
-Gespensterheeres
+Gespensterheeres=army of ghosts
 Gespräch
 Gesprächspartner
 Gesprächsstoff
@@ -1632,7 +1632,7 @@ Gewiß
 Gewißheit
 Gewohnheit
 Gewohnheiten=habits
-Gewähr
+Gewähr=responsibility
 Gewöhnlich
 Gewühle
 Gewürm
@@ -2029,7 +2029,7 @@ Insassen
 Inschriften
 Insekten
 Insektenpulver
-Instandhaltung
+Instandhaltung=maintenance
 Instinkt
 Instrument
 Instrumenten
@@ -2319,7 +2319,7 @@ Kram
 Krampfadern
 Kranke
 Kranken
-Krankenbau
+Krankenbau=hospital
 Krankenpflege
 Krankenstation
 Kranker
@@ -2521,7 +2521,7 @@ Leidenschaften
 Leidenschaftlichkeit
 Leidwesen
 Leim=glue
-Leinen
+Leinen=canvas
 Leinenjacke
 Leinwand
 Leistungsfähigkeit
@@ -2680,7 +2680,7 @@ Marschausrüstung
 Marsches
 Marschierens
 Marschkolonne
-Marterwerkzeuge
+Marterwerkzeuge=Instruments of torture
 Maschine
 Maschinen
 Maschinenfett
@@ -2696,7 +2696,7 @@ Materialien
 Materie
 Mattigkeit
 Mauer
-Maurern
+Maurern=masons
 Maxime
 Mayer
 Maß
@@ -2714,7 +2714,7 @@ Meinen
 Meinung
 Meistens
 Meister
-Meistern
+Meistern=master
 Meisterstück
 Melamed
 Melancholie
@@ -3486,7 +3486,7 @@ Salz
 Salzburg
 Samen
 Sammellager
-Sammelsurium
+Sammelsurium=ragbag
 Sammelwort
 Sanatorium
 Sandalen
@@ -3584,7 +3584,7 @@ Schmerz
 Schmerzen
 Schmerzes
 Schmied
-Schmieden
+Schmieden=forgers
 Schmierfett
 Schmuggel
 Schmulek
@@ -5181,7 +5181,7 @@ anscheinend
 anschließend
 anschließenden=ensuing
 anschlägt
-anschwellen
+anschwellen=swell
 anschwillt
 ansieht
 anspannen
@@ -5539,7 +5539,7 @@ befallen
 befand
 befanden
 befehlen
-befehligt
+befehligt=commanded
 befestigen
 befinde
 befinden
@@ -5604,7 +5604,7 @@ begrenzten
 begriffen=(begreifen) realized
 begrüßen
 begrüßt
-begünstigen
+begünstigen=favor
 begünstigt
 behaarten
 behaglicher=homey,cozy
@@ -6099,7 +6099,7 @@ dauernden
 dauert
 dauerte
 davon
-davonlaufen
+davonlaufen=run away
 davor
 dazu
 dazugehörigen
@@ -6389,7 +6389,7 @@ einbilden
 einbringen
 einbringt
 einbüßt
-eindeutig
+eindeutig=clearly
 eindringen
 eindringlichen
 eine
@@ -6668,7 +6668,7 @@ erfinden
 erfolgen
 erfolgt
 erfolgte
-erfolgter
+erfolgter=successful
 erfordert
 erfuhr
 erfuhren
@@ -6953,7 +6953,7 @@ festgelegter=fixed
 festgenommen
 festgenommenen
 festgesetzt=set
-festgesetzten
+festgesetzten=fixed
 festgestellt
 festhalte
 festhält
@@ -7233,7 +7233,7 @@ gegebenen
 gegen
 gegenseitig
 gegenseitiger
-gegenstandslos
+gegenstandslos=pointless
 gegensätzliche
 gegenwärtig
 gegenwärtige
@@ -7413,7 +7413,7 @@ geräumt«
 geröstet
 gerösteter
 gerührt
-gerüttelt
+gerüttelt=shaken
 gesagt
 gesammelt
 gesamte
@@ -7772,7 +7772,7 @@ heilkräftig
 heillose
 heilloses=hopeless
 heimgekehrt
-heimgesucht
+heimgesucht=afflicted
 heimisch
 heimkehren
 heimkehrt
@@ -8006,7 +8006,7 @@ hätte
 hätten
 häufig
 häufige
-häufigen
+häufigen=frequent
 häufiger
 häuslich
 häusliche
@@ -8043,7 +8043,7 @@ ihrem
 ihremLagereintritt
 ihren
 ihrer
-ihrerseits
+ihrerseits=in turn
 ihres
 ihresgleichen
 ihr«
@@ -8556,7 +8556,7 @@ los
 losen=loose
 losreißen
 losschlagen
-loswerden
+loswerden=get rid of
 loszuwerden
 luden
 lume
@@ -8944,7 +8944,7 @@ offizielle
 offne
 oft
 ohne
-ohnehin
+ohnehin=anyway
 ohnmächtig
 ohnmächtige
 ohnmächtigen=impotent
@@ -10168,7 +10168,7 @@ unermüdlich
 unerträglich
 unerträgliche=unbearable
 unerträglichen
-unerträglicher
+unerträglicher=unbearable
 unerwartet
 unerwarteten
 unerwünschten
@@ -10248,7 +10248,7 @@ unruhig
 unruhiger
 uns
 unsagbar
-unsagbaren
+unsagbaren=unspeakable
 unschlüssig
 unschuldige
 unschuldigen
@@ -10284,7 +10284,7 @@ untereinander
 unteres
 untergebracht=housed
 untergegangenen
-untergeordnete
+untergeordnete=subordinate
 untergraben=undermine
 unterhalb
 unterhalten
@@ -10306,7 +10306,7 @@ unterschiedliche
 unterschiedlichen
 unterschiedslosen
 unterschätzender
-unterstehen
+unterstehen=be subject to
 untersuchen
 unterteilt=divided
 unterwegs
@@ -10341,7 +10341,7 @@ unvorhergesehener
 unvorsichtig
 unwahr
 unwahrscheinlich
-unweigerlich
+unweigerlich=inevitably
 unwiderruflich
 unwiederbringlich
 unzerstörbar
@@ -10591,7 +10591,7 @@ versammelt
 verschachern
 verschafft
 verschiebt
-verschieden
+verschieden=different
 verschiedene
 verschiedenen
 verschiedener
@@ -11282,7 +11282,7 @@ zuhauf=in abundance
 zuhört
 zuhörten
 zukneifen
-zukommt
+zukommt=plays
 zukünftige
 zulassen
 zuletzt
