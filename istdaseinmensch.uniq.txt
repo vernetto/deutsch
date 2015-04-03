@@ -264,7 +264,7 @@ Aufenthalt
 Aufenthalte=stays
 Auferstehung
 Aufforderung
-Aufforderungen
+Aufforderungen=???
 Aufgabe
 Aufgang
 Aufgebot
@@ -332,7 +332,7 @@ Ausnahmen
 Ausnahmezeiten
 Auspeitschung
 Ausrottung
-Ausruhen
+Ausruhen=rest
 Ausrücken=move out 
 Aussagen=statemets
 Ausschachtungen
@@ -343,7 +343,7 @@ Aussicht
 Aussichten
 Aussonderungsverfahren
 Auswahl
-Auswüchse
+Auswüchse=outgrowth
 Auszeichnung
 Auszug=excerpt
 Auszugs
@@ -500,13 +500,13 @@ Berufs
 Berührung=touch
 Bescheidenheit
 Beschimpfungen
-Beschlagenheit
+Beschlagenheit=proficiency
 Beschluß
 Beschreibt
 Beschreibungen
 Beschwerden
 Beschädigungen
-Beschäftigung
+Beschäftigung=occupation
 Beschützer
 Besen
 Besendiebstahls
@@ -543,7 +543,7 @@ Beteiligten
 Betreffenden
 Betreuungspersonal
 Betrieb
-Betriebsamkeit
+Betriebsamkeit=bustle
 Bett
 Betten
 Bettenbauer«
@@ -668,7 +668,7 @@ Brotrationen
 Brotschneiden
 Brotzuteilung
 Bruchband=hernia belt
-Bruchbinde
+Bruchbinde=hernia
 Bruder
 Brust=breast
 Brustkorb
@@ -771,7 +771,7 @@ Darquier
 Darum=(Es geht mir nicht darum) it is not my intention
 Darüber
 Das
-Dasein
+Dasein=existence
 Daten
 Dauer
 Dauergeräusch
@@ -1091,7 +1091,7 @@ Erfahrung
 Erfahrungen
 Erfinder
 Erfindung
-Erfolg
+Erfolg=success
 Erfolge
 Erfrierungen
 Ergebnis=result
@@ -1130,7 +1130,7 @@ Erregung
 Errettungen
 Errichtung
 Erscheinung=phenomenon
-Erschöpfung
+Erschöpfung=fatigue
 Erschöpfungstod
 Erschütterungen
 Erst
@@ -1670,7 +1670,7 @@ Glucke
 Glut
 Glutstellen
 Gläser
-Gläubiger
+Gläubiger=creditor
 Glück
 Glückliche
 Glücklicherweise
@@ -2522,7 +2522,7 @@ Leidenschaftlichkeit
 Leidwesen
 Leim=glue
 Leinen=canvas
-Leinenjacke
+Leinenjacke=linen Jacket
 Leinwand
 Leistungsfähigkeit
 Leiter
@@ -2577,7 +2577,7 @@ Lokomotive
 Lokomotivführer
 Londons
 Lorenzo
-Losung
+Losung=watchword
 Losungen=slogans
 Lothringen
 Louis
@@ -2888,7 +2888,7 @@ Münder
 Mütter
 Müttern
 Mütze
-Müßigganges
+Müßigganges=idleness
 Müßte
 Nach
 Nachbar
@@ -3033,7 +3033,7 @@ OST
 Oase
 Ob
 Oberfläche
-Oberkörper
+Oberkörper=torso
 Oberscharführer
 Oberschlesien
 Oberschlesiens
@@ -3319,7 +3319,7 @@ Rechtsanwälte
 Rechtswissenschaft
 Rede
 Reden
-Redeweise
+Redeweise=speech
 Redners
 Regel
 Regeln
@@ -3447,7 +3447,7 @@ Rüben
 Rübenscheiben
 Rüben«
 Rücken
-Rückendeckung
+Rückendeckung=support
 Rückens
 Rückhalt
 Rückkehr
@@ -3560,7 +3560,7 @@ Schlager=hit
 Schlaglöcher=???
 Schlamm
 Schlammflecken=mud stains
-Schlammschicht
+Schlammschicht=layer of mud
 Schlange
 Schlechten«
 Schleier
@@ -3641,7 +3641,7 @@ Schuhumtausches=shoe change
 Schuld
 Schuldgefühl
 Schuldigen
-Schuldner
+Schuldner=debtor
 Schule
 Schullehrer
 Schulter
@@ -3677,7 +3677,7 @@ Schwimmen
 Schwäche
 Schwächste
 Schwüre
-Schädel
+Schädel=skull
 Schädeln
 Schädelnähte
 Schädelstoß
@@ -4167,7 +4167,7 @@ Trostlosigkeit
 Trottel
 Trotz
 Trotzdem
-Trugbild
+Trugbild=illusion
 Trupp
 Trupps
 Träger
@@ -4225,7 +4225,7 @@ Umgegend
 Umkleideraum
 Umlauf
 Umschlagplatz
-Umschweife
+Umschweife=circumlocution
 Umstand
 Umstände
 Umständen
@@ -4382,7 +4382,7 @@ Verdienstspanne
 Verdrängungen=displacement
 Verfahren
 Verfall
-Verfasser
+Verfasser=writer
 Verfassung
 Verfehlung
 Verfolgungswahn=paranoia
@@ -4766,7 +4766,7 @@ Wölbungen
 Wörter
 Wünsche
 Würde
-Würfel
+Würfel=cube
 Wüten
 XXI
 Zahl
@@ -4778,7 +4778,7 @@ Zahnprothese
 Zahnweh
 Zakopane
 Zangen
-Zanken
+Zanken=quarreling
 Zehntausend
 Zehntausende
 Zehntel
@@ -4806,7 +4806,7 @@ Zerstörung
 Zettel
 Zeug
 Zeugen
-Zeugnis
+Zeugnis=witness
 Zeugnisse
 Ziegel
 Ziegeln
@@ -4885,7 +4885,7 @@ Zweideutigkeit
 Zweifel
 Zweifelsfällen
 Zweiter
-Zweizeiler
+Zweizeiler=couplet
 Zwerg
 Zwietracht
 Zwilling
@@ -4957,7 +4957,7 @@ abgewöhnt
 abgezehrten
 abgrundlosen
 abgrundtiefes
-abhanden
+abhanden=(kommen) get lost
 abhing
 abhold=averse
 abhängt
@@ -4971,7 +4971,7 @@ abnorme
 abrieben
 abschaben=scrape off
 abschabte
-abscheulich
+abscheulich=horribly
 abscheuliche=heinous
 abscheulicher=hideous
 abschinden
@@ -4999,7 +4999,7 @@ abweist
 abwenden
 abzukapseln
 abzuladen
-abzulassen
+abzulassen=desist
 abzulegen
 abzuliefern
 abzunehmen
@@ -5263,7 +5263,7 @@ aufeinanderfolgenden
 auferlegte
 auffiel=failed
 auffrischer
-auffällig
+auffällig=eye-catching
 auffälligen
 aufgebaut
 aufgeben
@@ -5308,7 +5308,7 @@ aufmerksam
 aufmerksame
 aufmunternden
 aufnehmen
-aufnimmt
+aufnimmt=receive
 aufpassen=pay attention
 aufplatzen
 aufrechten=upright
@@ -5382,7 +5382,7 @@ ausgehungert
 ausgehungerte
 ausgehungerten
 ausgehändigt
-ausgehöhlt
+ausgehöhlt=hollowed
 ausgeklügelt
 ausgeklügelten=sophistocated
 ausgekostet
@@ -6161,7 +6161,7 @@ derzufolge
 derÜberhang
 des
 descends-toi
-deshalb
+deshalb=for this reason
 desinfizieren
 desinfizierte
 desinfizierten
@@ -6424,7 +6424,7 @@ eingehende
 eingeholt
 eingelassenen
 eingeliefert=admitted
-eingemummt
+eingemummt=muffled up
 eingenickt
 eingeredet
 eingereiht
@@ -6449,7 +6449,7 @@ einigen
 einiger
 einigermaßen=to some extent
 einiges
-einladend
+einladend=attractive
 einläßt=gets involved
 einmal
 einmaliger
@@ -6482,7 +6482,7 @@ einwandfreier
 einweisen
 einzeln
 einzelne
-einzelnen
+einzelnen=individual
 einzig
 einzigartig
 einzige
@@ -6663,7 +6663,7 @@ erfahre
 erfahren
 erfahrenen
 erfassen
-erfaßt
+erfaßt=acquired
 erfinden
 erfolgen
 erfolgt
@@ -7066,7 +7066,7 @@ frieren
 frisch
 frische
 frischer
-fristet
+fristet=???
 frivol
 froh
 frommer
@@ -7187,7 +7187,7 @@ gedrängt=packed
 gedrückt
 geduldig
 geduldige
-gedunsen
+gedunsen=bloated
 geduscht
 geeignet
 geeignete
@@ -7283,7 +7283,7 @@ geirrt
 geistige
 geistigen
 geistlichen
-geistreichen
+geistreichen=witty
 gekannt
 gekauft
 gekehrt
@@ -7389,7 +7389,7 @@ gereimten
 gerettet
 gerichtet
 gerichteten
-geringe
+geringe=little
 geringem
 geringen
 geringer
@@ -7530,7 +7530,7 @@ gewickelt
 gewisse
 gewissem
 gewissen
-gewissenhaft
+gewissenhaft=conscientious
 gewissenhafte
 gewissermaßen
 gewisses
@@ -7681,7 +7681,7 @@ gründlich
 gründliche
 grünen
 grünes
-grünlicher
+grünlicher=greenish
 grüßen
 gut
 gute
@@ -7736,7 +7736,7 @@ handelte
 handelten
 handhabte=managed
 handle
-hantieren=???
+hantieren=fiddle about
 hantierten
 harren
 hart
@@ -7796,7 +7796,7 @@ her
 herab
 herabgesunken
 herabhängenden
-herabwürdigen
+herabwürdigen=belittle
 heraldisches
 heran
 herangezogen
@@ -8572,7 +8572,7 @@ lähmende
 länger
 längs
 längst
-läppisch
+läppisch=silly
 lärmend
 lästige
 läuft
@@ -9379,7 +9379,7 @@ schlechter
 schlechtes
 schlechtesten
 schlechthin
-schlendere
+schlendere=stroll
 schleppen=drag
 schleppenden
 schleppt
@@ -9902,7 +9902,7 @@ tatest«
 tatsächlich
 taub
 tauchen
-taucht
+taucht=dip
 tauchten
 tauenden
 tauglichste
@@ -10020,7 +10020,7 @@ träumten
 tröstliche=comforting
 tröstlichen
 trübe
-trüben
+trüben=dull
 trügerische
 trügerischer
 tschechische
@@ -10216,7 +10216,7 @@ unglaublicher
 ungleiche
 ungleichen
 ungläubig
-ungläubigen
+ungläubigen=incredulous
 unglücklich
 unglücklichen
 ungünstigen
@@ -10432,7 +10432,7 @@ verdienen
 verdient
 verdiente
 verdoppelt
-verdorrt
+verdorrt=withered
 verdorrter
 verdreckt
 verdreckten=filthy
@@ -10525,7 +10525,7 @@ verlassen=leave
 verlassene
 verlassenen
 verlegt
-verleitete
+verleitete=misled
 verletzbar
 verletzt
 verletzten
@@ -10596,7 +10596,7 @@ verschiedene
 verschiedenen
 verschiedener
 verschiedensten
-verschlafene
+verschlafene=sleepy
 verschlagen
 verschlangen
 verschleierten=disguised
@@ -10829,7 +10829,7 @@ vorhinein
 vorigen
 voriges
 vorkommen
-vorkommt
+vorkommt=occurs
 vorletzte
 vorliegende=present
 vorn
@@ -11012,7 +11012,7 @@ wertlos
 wertvollen
 wesensbedingt
 wesentlich
-wesentlichen
+wesentlichen=substantially
 weshalb
 wetteiferten
 wich
@@ -11072,7 +11072,7 @@ willen
 willfährig
 willfähriges=submissive
 willigen
-willkürlicher
+willkürlicher=arbitrary
 willst
 wimmelnder=swarming
 wimmern
@@ -11113,7 +11113,7 @@ wohlbekannt
 wohlbekannten
 wohlgenährt
 wohlgepflegt
-wohlgeschorenen
+wohlgeschorenen=well-shaven
 wohlige
 wohlüberlegten
 wohnt
@@ -11175,7 +11175,7 @@ würdig
 wütenden
 wüßte
 y
-zaghaft
+zaghaft=timid
 zahllose
 zahllosen
 zahlreich
@@ -11348,7 +11348,7 @@ zusammentreffen
 zusammentun
 zusammenwirft
 zusammenzufügen
-zusammenzukrampfen
+zusammenzukrampfen=cramp together
 zusammenzuprügeln
 zusammenzutun
 zusammen«
@@ -11384,7 +11384,7 @@ zwei
 zwei-
 zweideutigen
 zweifache
-zweifelhaftem
+zweifelhaftem=suspicious
 zweifellos
 zweifelt
 zweihundert
