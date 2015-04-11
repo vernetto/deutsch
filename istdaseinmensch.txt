@@ -1854,7 +1854,7 @@ Ebene bis an den Horizont; manchmal zu einer einzigen Substanz gefügt, zu einem
 Mengsei, in dem wir uns verklebt und erstickt fühlen, manchmal im Kreis marschierend, ohne 
 Anfang und Ende, in rasendem Taumel und einer Aufwallung von Übelkeit, die uns von der 
 Herzgegend zum Halse aufsteigt; bis der Hunger, die Kälte oder die volle Blase unsere Träume in 
-die üblichen Bahnen lenken. Weckt uns der Alptraum selbst oder die Pein, dann suchen wir 
+die üblichen Bahnen lenken.  Weckt uns der Alptraum selbst oder die Pein, dann suchen wir 
 vergeblich, die einzelnen Elemente herauszuschälen und sie aus unserem gegenwärtigen 
 Bewußtsein zu verbannen, damit unser Schlaf von ihrem Eindringen bewahrt bleibe. Doch kaum 
 fallen die Augen wieder zu, so merken wir auch schon, wie unser Hirn, ungeachtet jeder 
@@ -1956,6 +1956,7 @@ Leistungsfähigkeit. Die Robustesten von uns können jeweils zu zweit einige Stu
 schleppen; für mich ist es eine wahre Tortur, die Last zerschindet mir den Schulterknochen, nach 
 dem ersten Weg bin ich taub und beinahe blind vor Überanstrengung, und ich würde jede 
 Gemeinheit begehen, nur um den zweiten Weg nicht mehr machen zu müssen. 
+
 Ich will versuchen, mich mit Resnyk zusammenzutun, der allem Anschein nach ein guter Arbeiter 
 ist und außerdem wegen seiner Länge die Hauptlast tragen muß. Ich weiß, es ist ganz in der 
 Ordnung, wenn mich Resnyk voller Verachtung abweist und sich einen andern, kräftigen Menschen 
@@ -1963,6 +1964,9 @@ aussucht; so werde ich eben um Erlaubnis bitten, zur Latrine zu gehen, werde mic
 dort aufhalten und dann den Versuch machen, mich zu verstecken, bei aller Gewißheit, sofort 
 gefunden, verlacht und verprügelt zu werden. Aber das ist immer noch besser als diese Art von 
 Arbeit. 
+
+
+
 Doch nein, Resnyk ist nicht nur mit mir einverstanden, sondern nimmt auch ganz allein die Bohle 
 hoch und legt sie mir vorsichtig auf die rechte Schulter; dann packt er das andere Ende, schiebt 
 seine linke Schulter darunter, und wir ziehen los. 
@@ -1973,6 +1977,7 @@ meine Schulter schmerzt mich so, als befände sie sich in einem Schraubstock, me
 ist in Gefahr. Und bei jedem Schritt spüre ich, wie mir die Schuhe vom gierigen Schlamm 
 angesogen werden, von diesem allgegenwärtigen polnischen Schlamm, dessen monotone 
 Scheußlichkeit unsere Tage füllt. 
+
 Ich beiße mir fest auf die Lippen. Wir wissen ja, daß man seine letzten Energiereserven 
 mobilisieren kann, wenn man sich einen anderen, geringeren Schmerz zufügt. Auch die Kapos 
 wissen es; manche schlagen uns aus reiner Bestialität und Gewalttätigkeit, doch andere wieder 
@@ -2051,6 +2056,7 @@ geschlossenen Lidern erheben sich die Träume mit Vehemenz, auch sie sind immer 
 Man ist zu Hause und nimmt ein wundervolles warmes Bad; man ist zu Hause und sitzt bei Tisch; 
 man ist zu Hause und berichtet von dieser unserer Arbeit ohne Hoffnung, von diesem unserm 
 dauernden Hungern, von diesem unserm Sklavenschlaf. 
+
 Dann, mitten im Nebel der trägen Verdauungen, verdichtet sich ein schmerzhaftes Etwas und quält 
 uns, vergrößert sich, bis es die Schwelle des Bewußtseins übertreten und uns die Freude am Schlaf 
 genommen hat. »Es wird bald ein Uhr sein!« Wie ein sich rasch ausbreitender, verderblicher Krebs 
@@ -2062,6 +2068,7 @@ Da. Ein Schlag gegen die Scheibe. Meister Nogalla hat einen Schneeball an das kl
 geworfen, und nun steht er draußen, kerzengerade, und hält uns das Zifferblatt seiner Uhr entgegen. 
 Der Kapo steht auf, reckt sich und sagt leise wie einer, der nicht daran zweifelt, daß man ihm 
 gehorchen wird: »Alles raus!« 
+ZZZ
 Ach, könnte man weinen! Ach, könnte man dem Wind wie dereinst von gleich zu gleich 
 entgegentreten und nicht wie hier als seelenloser Wurm! 
 Wir sind draußen, und jeder nimmt seine Brechstange wieder auf. Resnyk klemmt den Kopf 
