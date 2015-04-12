@@ -364,7 +364,7 @@ Backenknochen
 Backsteinboden
 Bad
 Bademeistern
-Bagger
+Bagger=excavator
 Baggers
 Bahn
 Bahnen
@@ -412,7 +412,7 @@ Beatrice
 Beben
 Becken
 Bedarfsfall
-Bedauern
+Bedauern=regret
 Bedenken
 Bedenket
 Bedeutsames
@@ -1037,7 +1037,7 @@ Elsässer
 Eltern
 Emilia
 Empfang
-Empfinden
+Empfinden=perception
 Empfindung
 Empfindungsvermögen
 Emphase
@@ -1215,7 +1215,7 @@ Fanfare
 Farbe
 Farben
 Faschisten
-Faser
+Faser=fiber
 Fassungsvermögen
 Fassungsvermögens
 Fast
@@ -1636,7 +1636,7 @@ Gewähr=responsibility
 Gewöhnlich
 Gewühle=crowd
 Gewürm
-Gewürzen
+Gewürzen=spices
 Gewürzkräutern
 Gibt
 Gier
@@ -1677,7 +1677,7 @@ Glücklicherweise
 Glücks
 Glücksspieler=gambler
 Glühbirne
-Gnade
+Gnade=grace
 Gold
 Goldkronen
 Goldner
@@ -1842,7 +1842,7 @@ Henris
 Heraeus-Ofen
 Herankommen
 Herannahen
-Herausforderung
+Herausforderung=challenge
 Herbst
 Herde
 Herdentrieb
@@ -2605,7 +2605,7 @@ Lämpchens
 Ländern
 Länge
 Lärm
-Lästerung
+Lästerung=blasphemy
 Läuse
 Läusekontrolle
 Läusekontrolleure
@@ -2652,7 +2652,7 @@ Mahlzeit
 Mahre
 Maienluft
 Mailand
-Maisbrei
+Maisbrei=corn mash
 Maisfelder
 Makkaroni
 Mal=mark
@@ -2807,7 +2807,7 @@ Modell
 Modell«
 Modena
 Modulationen
-Mohrenhirse
+Mohrenhirse=sorghum
 Moischl
 Moment
 Momente
@@ -3819,7 +3819,7 @@ Sozialgefüges
 Spanien
 Spanisch
 Spann
-Spaten
+Spaten=spades
 Spatenstich
 Spaß
 Speck
@@ -3856,7 +3856,7 @@ Spott=mockery
 Sprach
 Sprache
 Sprachen
-Sprachverwirrung
+Sprachverwirrung=confusion of languages
 Sprachwissenschaft
 Sprachwissenschaftler
 Sprechweise
@@ -4071,7 +4071,7 @@ Tauschbörse
 Tauschgeschäft
 Tauschs
 Tausende
-Tauwasser
+Tauwasser=condensation
 Tauwetter
 Technik
 Teer
@@ -4170,7 +4170,7 @@ Trotzdem
 Trugbild=illusion
 Trupp
 Trupps
-Träger
+Träger=beams
 Trägheit
 Tränen
 Träume
@@ -4663,7 +4663,7 @@ Wertheimer
 Wertschwankungen
 Wertunterschied
 Wesen
-Wesenszug
+Wesenszug=trait
 Wesentliches=essential
 Weshalb
 Westen
@@ -4708,7 +4708,7 @@ Wir
 Wird
 Wirklichkeit
 Wirkung
-Wirrnis
+Wirrnis=confusion
 Wirtschaftsleben
 Wissen
 Wissens
@@ -4887,7 +4887,7 @@ Zweifelsfällen
 Zweiter
 Zweizeiler=couplet
 Zwerg
-Zwietracht
+Zwietracht=discord
 Zwilling
 Zwischenfall
 Zwischenpausen
@@ -4963,7 +4963,7 @@ abhold=averse
 abhängt
 abkommandiert
 abladen
-ablassen
+ablassen=abandon
 ablegen=deposit
 abmarschiert
 abnehmen
@@ -5130,7 +5130,7 @@ angenehm
 angenehme
 angenommen
 angenähte=sewn
-angeordneten
+angeordneten=arranged
 angeschwollenen
 angesetzt
 angesichts
@@ -5268,7 +5268,7 @@ aufgebaut
 aufgeben
 aufgebracht
 aufgebrochen
-aufgeführt
+aufgeführt=performed
 aufgegangen
 aufgegangenen
 aufgegeben=give up
@@ -5375,7 +5375,7 @@ ausgefüllt=filled out
 ausgegangen
 ausgegeben=distribute
 ausgehen
-ausgehobene
+ausgehobene=excavated
 ausgeht
 ausgehungert
 ausgehungerte
@@ -5704,7 +5704,7 @@ bequeme
 bequemen
 bequemere
 beraubt
-berauschen
+berauschen=drunk
 berauscht=intoxicated
 berauschten
 berechnen
@@ -5877,7 +5877,7 @@ bewirtschaftet
 bewohnen
 bewohnte
 bewundern
-bewundernswerten
+bewundernswerten=admirable
 bewundernswertes
 bewundert
 bewußt
@@ -6533,7 +6533,7 @@ empfing
 empfänglich
 empor
 emporsteigen
-emporsteigt
+emporsteigt=rises
 encore«
 enden
 endet
@@ -6604,7 +6604,7 @@ entscheidungsvoll
 entschieden
 entschiedene
 entschließe
-entschlossen
+entschlossen=determined
 entschlossenen
 entschlossener
 entschädigen
@@ -6681,7 +6681,7 @@ ergibt
 ergreife
 ergreifen
 ergriffen
-ergänzt
+ergänzt=complements
 erhabene
 erhalten
 erheben
@@ -6789,7 +6789,7 @@ erschwachsinnig
 erschöpft
 ersetzt
 ersonnen
-erspähen
+erspähen=spot
 erst
 erstarren=solidify
 erstarrt
@@ -6846,7 +6846,7 @@ erwähnt
 erwähnte=mentioned
 erwähnten
 erwärmen
-erzittert
+erzittert=tremble
 erzitterte
 erzogen
 erzwingen=force
@@ -6956,7 +6956,7 @@ festhalte
 festhält
 festsaugenden
 festsetzen
-feststehendem
+feststehendem=fixed
 feststellen=notice
 festzuhalten
 festzustellen
@@ -7513,7 +7513,7 @@ geträumt
 geträumten
 getätigt
 gewagt
-gewahr
+gewahr=realize
 gewaltig
 gewaltsamen
 gewalttätig
@@ -7670,7 +7670,7 @@ größten
 größtenteils
 größter
 größtes
-grübeln
+grübeln=ponder
 grün
 gründen
 gründet
@@ -8459,7 +8459,7 @@ legendären
 legt
 legte
 legten
-lehmige
+lehmige=muddy
 lehnen
 lehnt=(ablehnen) refuse
 leibliche
@@ -9356,7 +9356,7 @@ schippt
 schlafe
 schlafen
 schlafend
-schlaffen
+schlaffen=flaccid
 schlaftrunken
 schlagen
 schlagfreudige
@@ -9370,7 +9370,7 @@ schlechten
 schlechter
 schlechtes
 schlechtesten
-schlechthin
+schlechthin=par excellence
 schlendere=stroll
 schleppen=drag
 schleppenden
@@ -9489,7 +9489,7 @@ schwarzen
 schwarzweißrote
 schwatzhaft
 schwebende
-schweift
+schweift=(abschweift) digress
 schweigen
 schweigend
 schweigende
@@ -9545,7 +9545,7 @@ sechsundneunzig
 sechzehn
 sechzig
 seelengut
-seelenloser
+seelenloser=soulless
 seelischen
 seen
 seguir
@@ -9763,7 +9763,7 @@ steifen=stiff
 steige
 steigen
 steinernen
-steingewordenen
+steingewordenen=petrified
 steinhart
 stellen
 stellen«
@@ -9855,7 +9855,7 @@ suchten
 summa
 summarisch
 summarischen
-sumpfigen
+sumpfigen=swampy
 suso
 symbolischen
 sympathisch
@@ -9977,7 +9977,7 @@ trieb
 triebe
 triebhafte
 triebhafter
-triefen
+triefen=dripping
 triefend
 trifft
 trinke
@@ -10011,7 +10011,7 @@ träumt!
 träumten
 tröstliche=comforting
 tröstlichen
-trübe
+trübe=dull
 trüben=dull
 trügerische
 trügerischer
@@ -10143,7 +10143,7 @@ unendlich
 unentbehrlich
 unentwegt
 unentwirrbaren
-unerbittlich
+unerbittlich=inexorable
 unerfindlichen
 unerforschlich
 unergründlich
@@ -10213,7 +10213,7 @@ unglücklich
 unglücklichen
 ungünstigen
 unheilbar
-unheilvolle
+unheilvolle=sinister
 unklare
 unklaren
 unkorrigierbaren
@@ -10542,7 +10542,7 @@ vermehrt
 vermeiden
 vermeidet=avoid
 vermeintliche=supposed
-vermessenen
+vermessenen=measured
 vermied
 vermindern
 vermischt
@@ -10671,7 +10671,7 @@ vertrauen
 vertrauenerweckend=trustworthy
 vertrauensvoll
 vertrauensvolle
-vertraut
+vertraut=familiar
 vertraute=familiar
 vertrauten
 vertrieb
@@ -10873,7 +10873,7 @@ wagemutiger
 wagen
 waghalsige
 wahnsinnig
-wahnwitzigen
+wahnwitzigen=insane
 wahr
 wahre
 wahren
@@ -11019,7 +11019,7 @@ widerlich
 widerlichen
 widersetzen
 widersetzt
-widersinnig
+widersinnig=absurd
 widersinnige
 widersprechenden
 widerstandsfähig

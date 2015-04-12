@@ -2068,7 +2068,7 @@ Da. Ein Schlag gegen die Scheibe. Meister Nogalla hat einen Schneeball an das kl
 geworfen, und nun steht er draußen, kerzengerade, und hält uns das Zifferblatt seiner Uhr entgegen. 
 Der Kapo steht auf, reckt sich und sagt leise wie einer, der nicht daran zweifelt, daß man ihm 
 gehorchen wird: »Alles raus!« 
-ZZZ
+
 Ach, könnte man weinen! Ach, könnte man dem Wind wie dereinst von gleich zu gleich 
 entgegentreten und nicht wie hier als seelenloser Wurm! 
 Wir sind draußen, und jeder nimmt seine Brechstange wieder auf. Resnyk klemmt den Kopf 
@@ -2122,6 +2122,7 @@ Ihre Straßen und Bauten werden mit Zahlen oder Buchstaben benannt wie wir, wenn
 unmenschliche und unheilvolle Namen tragen. In diesem Bereich wächst kein Grashalm, und die 
 Erde ist getränkt mit den giftigen Säften von Kohle und Petroleum. Nichts lebt hier, nur Maschinen 
 und Sklaven: und jene mehr als diese. 
+
 Buna ist so groß wie eine Stadt. Außer dem leitenden und technischen deutschen Personal arbeiten 
 hier vierzigtausend Ausländer, fünfzehn oder zwanzig Sprachen werden hier gesprochen. 
 Alle Ausländer sind in gesonderten Lagern rings um Buna untergebracht: das Lager der englischen 
@@ -2130,6 +2131,7 @@ andere Lager, die wir nicht kennen. Unser Lager (Judenlager, Vernichtungslager, 
 zehntausend Arbeitskräfte, die aus allen europäischen Nationen kommen. Wir sind die Sklaven der 
 Sklaven, denen jedermann befehlen kann; unser Name ist die Nummer, die wir auf den Arm 
 tätowiert und auf die Brust genäht haben. 
+
 Den Karbidturm, der sich mitten in Buna erhebt und dessen Spitze im Nebel nur selten sichtbar 
 wird, haben wir errichtet. Seine Bausteine werden Ziegel, mattoni, briques, tegula, cegli, kamenny, 
 bricks, téglak genannt, Haß hat sie gefügt, Haß und Zwietracht, wie den Turm zu Babel; und so 
@@ -2142,6 +2144,7 @@ Herausforderung des Himmels gleich einer steingewordenen Lästerung.
 Wie noch zu berichten sein wird, kam niemals auch nur ein einziges Kilogramm synthetischen 
 Gummis aus der Fabrik von Buna, um die sich die Deutschen vier Jahre lang mühten und in der 
 wir, unzählbar, litten und starben. 
+
 Aber heute spiegeln die ewigen Lachen, auf denen, spektralfarben, eine dünne Haut aus Petroleum 
 erzittert, den klaren Himmel wider. Rohre, Träger und Kessel, noch kalt vom Nachtfrost, triefen vor 
 Tauwasser. Das ausgehobene Erdreich, die Kohlenhalden und Zementblöcke dünsten in leichtem 
@@ -2149,6 +2152,7 @@ Nebel die Winterfeuchtigkeit aus.
 Heute ist ein guter Tag. Wir sehen uns um wie Blinde, die das Augenlicht wiedererhalten haben, 
 sehen uns gegenseitig an. Noch nie haben wir uns in der Sonne gesehen. Einige lächeln. Wenn nur 
 der Hunger nicht wäre! 
+
 Denn so ist die menschliche Natur, daß sich zu gleicher Zeit ertragene Leiden und Schmerzen für 
 unser Empfinden nicht zu einem Ganzen zusammenfügen; sie verbergen sich, die kleineren hinter 
 den größeren, nach feststehendem Gesetz. Das ist eine Gnade, die es uns erst möglich macht, im 
@@ -2166,6 +2170,7 @@ spüren wir, daß wir Hunger haben. Und machen den gleichen Fehler und sagen heu
 der Hunger nicht wäre! 
 Aber wer könnte sich vorstellen, einmal keinen Hunger zu haben? Das Lager ist der Hunger. Wir 
 selber sind der Hunger, der lebende Hunger. 
+
 Abseits der Straße ist ein Bagger am Werk. Der an Seilen schwebende Greifer reißt seine 
 zahnbewehrten Kiefer auf, verharrt einen Augenblick, wie unschlüssig über seine Wahl, stürzt sich 
 in die lehmige, weiche Erde und packt gierig zu, während von der Bedienungskabine mit 
@@ -2174,6 +2179,7 @@ halbe Drehung, erbricht hinter sich den Bissen, den er trug, und alles beginnt v
 Auf unsere Spaten gestützt sehen wir gebannt zu. Bei jedem Biß des Greifers bewegen sich die 
 Münder, und die Adamsäpfel gleiten hinauf und hinab, erbärmlich anzusehen unter der schlaffen 
 Haut. 
+
 Wir können uns nicht losreißen vom Schauspiel des fressenden Baggers. 
 Sigi ist siebzehn Jahre alt und hungriger als alle andern, wenn er auch jeden Abend von einem 
 offenbar nicht desinteressierten Beschützer ein wenig Suppe erhält. Er begann von seinem Zuhause 
@@ -2184,6 +2190,7 @@ doch es vergehen keine zehn Minuten und Bela beschreibt uns sein Land in Ungarn 
 Maisfelder und ein Rezept, wie man süßen Maisbrei zubereitet mit gerösteter Mohrenhirse und 
 Speck und Gewürzen und ... und er wird verwünscht und geschmäht, und ein dritter fängt an zu 
 erzählen ... 
+ZZZ
 So schwach ist unser Fleisch! Ich weiß sehr wohl um die Nichtigkeit dieser Hungerphantastereien, 
 kann mich aber dem Allgemeingesetz nicht entziehen, und so tanzen mir die Makkaroni vor den 
 Augen, die Vanda, Luciana, Franco und ich im Sammellager in Italien eben zubereitet hatten, als 
