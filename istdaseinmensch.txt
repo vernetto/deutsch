@@ -2190,7 +2190,7 @@ doch es vergehen keine zehn Minuten und Bela beschreibt uns sein Land in Ungarn 
 Maisfelder und ein Rezept, wie man süßen Maisbrei zubereitet mit gerösteter Mohrenhirse und 
 Speck und Gewürzen und ... und er wird verwünscht und geschmäht, und ein dritter fängt an zu 
 erzählen ... 
-ZZZ
+
 So schwach ist unser Fleisch! Ich weiß sehr wohl um die Nichtigkeit dieser Hungerphantastereien, 
 kann mich aber dem Allgemeingesetz nicht entziehen, und so tanzen mir die Makkaroni vor den 
 Augen, die Vanda, Luciana, Franco und ich im Sammellager in Italien eben zubereitet hatten, als 
@@ -2283,7 +2283,8 @@ sichtbar sei. Die schmutzige und zerschlissene Wäsche kommt völlig durcheinand
 Lagerschneiderei, wo sie recht und schlecht zusammengeflickt wird, und danach in die 
 Dampfdesinfektion (nicht etwa in die Waschanstalt!); daraufhin gelangt sie wieder zur Ausgabe. 
 Um also die Wäsche vor den genannten Beschädigungen zu bewahren, muß der Tausch immer so 
-plötzlich wie nur irgend möglich vorgenommen werden. 
+plötzlich wie nur irgend möglich vorgenommen werden.
+
 Aber wie stets konnte man es nicht verhindern, daß einige Späherblicke unter die Leinwand des 
 Lastwagens drangen, der aus der Desinfektion kam, so daß man innerhalb weniger Minuten im 
 Lager nicht nur über den bevorstehenden Wäschetausch, sondern auch darüber informiert ist, daß es 
@@ -2294,7 +2295,9 @@ zweiten Hemdes, das gestohlen, organisiert, vielleicht auch ehrlich mit Brot gek
 vor der Kälte zu schützen oder in einem Augenblick der Prosperität Kapital zu investieren, stürzen 
 zur Börse hin und hoffen, ihr Reservehemd noch beizeiten in andere Verbrauchsgüter konvertieren 
 zu können, ehe die Schwemme der neuen Hemden, ja selbst schon die Bestimmtheit ihres 
-Eintreffens den Preis dieses Artikels unweigerlich ruiniert. 
+Eintreffens den Preis dieses Artikels unweigerlich ruiniert.
+ZZZ 
+ 
 An der Börse herrscht ununterbrochen Hochbetrieb. Obwohl jedes Tauschgeschäft (sogar jede Art 
 von Besitz) ausdrücklich verboten ist und obwohl häufige, von Kapos oder Blockältesten 
 durchgeführte Razzien die Verkäufer, Käufer und Neugierigen immer wieder in eine einzige 

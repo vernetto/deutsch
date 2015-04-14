@@ -43,10 +43,10 @@ Absonderung
 Absperrung
 Abstammung=ancestry
 Abstand
-Abstellgleis
+Abstellgleis=sidetrack
 Abstieg
 Abstufungen
-Abständen
+Abständen=intervals
 Absurde
 Absurdität
 Abtauen
@@ -101,7 +101,7 @@ Allenthalben
 Allerdings=certainly,however
 Alles
 Allgemeingesetz
-Allzu
+Allzu=too
 Almosen
 Alpen
 Alphabet
@@ -186,7 +186,7 @@ Anweisung
 Anweisungen=instructions
 Anwärter
 Anwärtern=candidates
-Anzeichen
+Anzeichen=indication
 Anziehen
 Anzug=suit
 Anzüge
@@ -323,7 +323,7 @@ Auskratzen
 Auskunft
 Ausladearbeit
 Ausleeren
-Auslegung
+Auslegung=interpretation
 Ausländer
 Ausmaß
 Ausnahme
@@ -435,7 +435,7 @@ Befund
 Beförderungsproblem
 Befürchtungen
 Begann
-Begebenheit
+Begebenheit=event
 Begebenheiten=events
 Begeisterung
 Beginn
@@ -485,7 +485,7 @@ Beppo
 Berechnungen
 Beredsamkeit
 Bereich
-Bereitschaft
+Bereitschaft=readiness
 Bergbau-Chemie
 Berge
 Bergen
@@ -531,7 +531,7 @@ Bestes
 Bestialische
 Bestialität
 Bestimmt
-Bestimmtheit
+Bestimmtheit=certainty
 Bestimmungsort
 Bestohlenen
 Bestrafung
@@ -677,7 +677,7 @@ Brutalität
 Bräuchen
 Brüche=fractures
 Brücke
-Brühe
+Brühe=broth
 Buch
 Buchstaben
 Buckel
@@ -765,7 +765,7 @@ Darauf
 Daraufhin
 Daraus
 Darin
-Darm
+Darm=intestine
 Darmentzündung=bowel inflammation
 Darquier
 Darum=(Es geht mir nicht darum) it is not my intention
@@ -1124,7 +1124,7 @@ Ernennung
 Ernst
 Ernährung
 Eroberungen
-Erpressung
+Erpressung=extortion
 Erprobten
 Erregung
 Errettungen
@@ -1216,7 +1216,7 @@ Farbe
 Farben
 Faschisten
 Faser=fiber
-Fassungsvermögen
+Fassungsvermögen=capacity
 Fassungsvermögens
 Fast
 Fatti
@@ -1229,7 +1229,7 @@ Feder
 Federball
 Fehlende
 Fehler
-Feierabend
+Feierabend=end of work
 Feiertage
 Feige
 Feigling=coward
@@ -1257,7 +1257,7 @@ Feststellung
 Festung
 Fett
 Fett-
-Fetzen
+Fetzen=rag
 Feuer
 Feuersäulen
 Feuerzeuge
@@ -1293,7 +1293,7 @@ Fleisches
 Fleischkammer
 Flesch
 Fleschs
-Flicken
+Flicken=patches
 Flickschuster
 Flickschusters
 Fliegeralarm
@@ -1409,7 +1409,7 @@ Fußtritten=kicks
 Fäden
 Fähigkeit
 Fähigkeiten
-Fährten
+Fährten=tracks
 Fälle
 Fällen
 Fälschung
@@ -1911,7 +1911,7 @@ Hoffnung
 Hoffnungen
 Hohe
 Hohen
-Hohn
+Hohn=mockery
 Holländer
 Holz
 Holzbaracke
@@ -2189,7 +2189,7 @@ Katze
 Kaufleute
 Kaufmann
 Kaum
-Kehle
+Kehle=throat
 Kehrbesen=brush
 Kehrreim=burden
 Kein
@@ -2427,7 +2427,7 @@ Lagerjargon
 Lagerküchen
 Lagerleben
 Lagerlebens
-Lagerleitung
+Lagerleitung=camp management
 Lagermarkt
 Lagermaschinerie
 Lagern
@@ -2523,7 +2523,7 @@ Leidwesen=chagrin
 Leim=glue
 Leinen=canvas
 Leinenjacke=linen Jacket
-Leinwand
+Leinwand=canvas
 Leistungsfähigkeit
 Leiter
 Leitersprosse
@@ -2935,7 +2935,7 @@ Narbe
 Narben
 Nase
 Nasendiphtherie
-Naseputzen
+Naseputzen=clean the nose
 Nationalismus
 Nationalität
 Nationalitäten
@@ -2981,7 +2981,7 @@ Neutrum
 Nicht
 Nichtangriffspakte
 Nichterinnern
-Nichtigkeit
+Nichtigkeit=vanity
 Nichtjuden
 Nichtmenschen
 Nichtprivilegierten
@@ -3256,7 +3256,7 @@ Punkt
 Pur
 Putzen
 Pygmäe
-Päckchen
+Päckchen=packet
 Päli
 Püffen=???
 Quadrat
@@ -3443,7 +3443,7 @@ Rußland
 Räder=wheels
 Räume=rooms
 Römer
-Rüben
+Rüben=beet
 Rübenscheiben
 Rüben
 Rücken=back
@@ -3664,7 +3664,7 @@ Schwefelsäure
 Schweigen
 Schweiß=sweat
 Schwelle=threshold
-Schwemme
+Schwemme=flood
 Schwerkraft
 Schwertstreiche=sword blows
 Schwester
@@ -3811,7 +3811,7 @@ Sonntage
 Sonntagen
 Sorge
 Sorget
-Sorgfalt
+Sorgfalt=care
 Sorte
 Soweit
 Sowie
@@ -3864,10 +3864,10 @@ Spreu=chaff
 Sprosse=rung
 Spräche
 Spur=track
-Späherblicke
+Späherblicke=spy view
 Später
-Spürhund
-Spürsinn
+Spürhund=sniffer dog
+Spürsinn=nose
 Spürsinns
 Staat
 Staatsbürger
@@ -4164,7 +4164,7 @@ Tripolis
 Trocknungsabteilung
 Tropfen
 Trostlosigkeit
-Trottel
+Trottel=fool
 Trotz
 Trotzdem
 Trugbild=illusion
@@ -4321,7 +4321,7 @@ Unterwürfigkeit
 Untätigkeit
 Untüchtigkeit
 Unvermittelt=sudden
-Unvermögen
+Unvermögen=disability
 Unverschämtheit=impudence
 Unversehens
 Unverständliches
@@ -4485,7 +4485,7 @@ Verwundung=trauma
 Verwünschungen=curses
 Verzeihung
 Verzweiflung=despair
-Verzögerung
+Verzögerung=delay
 Veränderungen
 Verödung
 Vichy-Regierung
@@ -4517,7 +4517,7 @@ Von
 Vor
 Vorarbeiter
 Voraussetzung
-Vorbedacht
+Vorbedacht=intent
 Vorbeiläufen
 Vorbeimarsch
 Vorbild
@@ -4723,8 +4723,8 @@ Woher
 Wohin
 Wohlberatenen
 Wohlstand
-Wohltäter
-Wohlwollen
+Wohltäter=benefactor
+Wohlwollen=benevolence
 Wohnblocks
 Wohnstatt=abode
 Wohnung
@@ -4841,7 +4841,7 @@ Zufall
 Zuflucht=refuge
 Zufriedenheit
 Zug
-Zugabe
+Zugabe=bonus
 Zugang
 Zuges
 Zugeständnis
@@ -5005,7 +5005,7 @@ abzunehmen
 abzuquälen
 abzuschinden
 abzuschließen
-abzuschneiden
+abzuschneiden=cut off
 abzuschütteln
 abzusichern
 abzustellen
@@ -5049,7 +5049,7 @@ allgegenwärtigen
 allgemein
 allgemeine
 allgemeinem
-allgemeinen
+allgemeinen=general
 alliierte
 allmählich=gradually
 alltäglichen
@@ -5109,7 +5109,7 @@ anfängt
 angeboren
 angebotene
 angebracht=placed
-angebrachte
+angebrachte=Inappropriate
 angebrachter
 angefangen
 angefangenen
@@ -5176,7 +5176,7 @@ anrühren=touch
 ans
 ansah
 ansahen
-anscheinend
+anscheinend=apparently
 anschließend
 anschließenden=ensuing
 anschlägt
@@ -5295,7 +5295,7 @@ aufgeworfen
 aufgrund
 aufhalten
 aufheben
-aufhebende
+aufhebende=canceling
 aufhält
 aufhört
 aufklärerisch=enlightening
@@ -5327,7 +5327,7 @@ aufweiche
 aufweisen
 aufwenden
 aufwärts=up
-aufzubewahren
+aufzubewahren=keep
 aufzubrechen
 aufzufrischen
 aufzugeben
@@ -5422,7 +5422,7 @@ ausländischem
 ausländischen
 ausläßt
 auslöscht
-ausnahmsweise
+ausnahmsweise=exceptionally
 ausreichen
 ausreichende
 ausreichendem
@@ -6360,7 +6360,7 @@ ehrfurchtslose
 ehrfurchtsvoll
 ehrgeizigen
 ehrgeiziges=ambitious
-ehrlich
+ehrlich=honest
 ehrlichem
 ehrlicher
 eigen
@@ -6415,7 +6415,7 @@ eingebracht
 eingedrungen
 eingedrückten
 eingefallenem=shrunken
-eingefallenen
+eingefallenen=sunken
 eingefallenes
 eingefleischtes
 eingegraben
@@ -6439,7 +6439,7 @@ eingeteilt
 eingetreten
 eingetroffen
 eingeträufelt
-eingewickeltes
+eingewickeltes=wrapped
 einheitliche
 einhelligen=unanymous
 einig
@@ -6483,7 +6483,7 @@ einzeln
 einzelne
 einzelnen=individual
 einzig
-einzigartig
+einzigartig=unique
 einzige
 einzigen
 einziger
@@ -6565,7 +6565,7 @@ entfällt
 entgangen
 entgegen
 entgegengesetzte
-entgegengesetzten
+entgegengesetzten=opposite
 entgegengesetzter=opposing
 entgegentreten
 entgegentritt=confronts
@@ -6580,7 +6580,7 @@ entkleiden
 entkleidet
 entkommen
 entkräften=debilitate
-entkräftend
+entkräftend=weakening
 entkräftet
 entladen=discharge
 entlang
@@ -6655,7 +6655,7 @@ erbärmlicher
 erbärmlicheres
 erbärmliches
 erdachten=conceived
-erdenkliche
+erdenkliche=conceivable
 erdrückt=crushed
 ereignet
 erfahre
@@ -7146,7 +7146,7 @@ garantiere
 garantiert
 geachtet
 geahndet
-geahnt!
+geahnt=suspected
 geantwortet
 gearbeitet
 gebacken
@@ -7441,7 +7441,7 @@ geschlossen
 geschlossenen
 geschlossener
 geschlossensten
-geschmäht
+geschmäht=reviled
 geschnitten
 geschoben=pushed
 geschoren=shorn
@@ -7639,7 +7639,7 @@ greulichen
 griechische
 griechischen
 grimmig
-grinst
+grinst=grins
 grob
 grobe
 groben
@@ -8051,7 +8051,7 @@ immerhin
 immun
 impertinent
 improvisierten
-imstande
+imstande=able
 in
 inbegriffen
 indem
@@ -8794,7 +8794,7 @@ nahen
 nahenden
 nahm
 nahmen
-nahrhafter
+nahrhafter=nutricious
 naiv
 nasalen
 nasse
@@ -8894,7 +8894,7 @@ nähen
 näher
 nähere
 nähern
-näherrückenden
+näherrückenden=advancing closer
 näherrückt
 nähert
 nämlich
@@ -9797,7 +9797,7 @@ stolpert=stumbles
 stolz
 stopfen=stuff
 stoßen=bump
-strahlender
+strahlender=radiant
 strahlte
 stramm=erect
 strammer=tight
@@ -10087,7 +10087,7 @@ unabhängig
 unangenehm
 unangenehme
 unangenehmen
-unangetastet
+unangetastet=untouched
 unansehnlich
 unantastbar
 unaufhörlichen=incessant
@@ -10234,7 +10234,7 @@ unnötig
 unnütz
 unpaß
 unqualifizierten
-unrechtmäßigen
+unrechtmäßigen=unlawful
 unregelmäßigen
 unruhig
 unruhiger
@@ -10486,7 +10486,7 @@ verharrten=remained
 verheilen
 verheilt
 verheiratet
-verhindern
+verhindern=prevent
 verhindert
 verhält=behaves
 verhältnismäßig=relatively
@@ -10601,7 +10601,7 @@ verschloß
 verschluckte
 verschlungen
 verschmutzte
-verschmähen
+verschmähen=disdain
 verschnaufen
 verschneiten=snowy
 verschnürt
@@ -10769,7 +10769,7 @@ vollgestopften
 vollkommen=perfectly
 vollkommenen=utter
 vollkommenes
-vollschlagen
+vollschlagen=fill our belly
 vollständige
 vollzogen
 vollzogenen
@@ -10806,7 +10806,7 @@ vordersten
 vordringen=penetrate
 vorerst
 vorgegangen
-vorgenommen
+vorgenommen=carry out
 vorgenommenen
 vorgeschrieben
 vorgeschriebenen=prescribed
@@ -11001,7 +11001,7 @@ werdendes
 werfen
 wert
 wertlos
-wertvollen
+wertvollen=valuable
 wesensbedingt
 wesentlich
 wesentlichen=substantially
@@ -11210,7 +11210,7 @@ zerrinnt=melts away
 zerschindet
 zerschlagen
 zerschlagene
-zerschlissene
+zerschlissene=tattered
 zerschnitten
 zersetzt=decompose
 zersprengte
@@ -11262,7 +11262,7 @@ zugefügten
 zugehen
 zugelegt
 zugeschnittenen
-zugesprochen
+zugesprochen=awarded
 zugestanden
 zugeteilt=allocated
 zugewandt
@@ -11322,7 +11322,7 @@ zusammenbündeln=roll together
 zusammenfügen
 zusammengebündelten
 zusammengedrängt
-zusammengeflickt
+zusammengeflickt=patched
 zusammengekrampft
 zusammengepfercht
 zusammengeschmolzen
@@ -11343,11 +11343,11 @@ zusammenzufügen
 zusammenzukrampfen=cramp together
 zusammenzuprügeln
 zusammenzutun
-zusammen«
+zusammen
 zuschließen
 zuschnappen
 zustande
-zustatten
+zustatten=(kommen) come in handy
 zustehen
 zuständig=responsible
 zuständigen
@@ -11833,7 +11833,7 @@ Es
 übrige
 übrigen
 übrigens
-übriggelassen
+übriggelassen=left over
 übriglassen
 übt
 
