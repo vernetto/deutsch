@@ -168,7 +168,7 @@ Ansicht
 Anspannung
 Anspielungen
 Ansprache=speech
-Anspruch
+Anspruch=claim
 Ansprüche
 Ansteckungsgefahr
 Ansteckungsherd
@@ -522,7 +522,7 @@ Besseres
 Besserung
 Bestand=(bestand haben)=to last
 Bestandteile
-Bestechlichkeit
+Bestechlichkeit=venality
 Bestechung=corruption
 Bestehen
 Bestehlen
@@ -1185,7 +1185,7 @@ Explosion
 Extraktion
 Extrarationen
 Eßgeschirr=mess kit
-Eßnapf
+Eßnapf=food bowl
 Eßnapfes
 Eßnapfs
 Eßnäpfe
@@ -1324,7 +1324,7 @@ Formalität
 Formation
 Formel
 Formierung
-Fortbestand
+Fortbestand=survival
 Fortgehen
 ForÜaufen
 Fossoli
@@ -1602,7 +1602,7 @@ Gespensterheeres=army of ghosts
 Gespräch
 Gesprächspartner
 Gesprächsstoff
-Gespött
+Gespött=mockery
 Gestalt
 Gestalten
 Gestank
@@ -1924,7 +1924,7 @@ Holzplatte=wood panel
 Holzschuhen
 Holzsohle=wooden sole
 Holzsohlen
-Holzsplitter
+Holzsplitter=wood splitter
 Holzsuche
 Holzwand
 Holzwände
@@ -3027,7 +3027,7 @@ Nägel
 Nähe
 Nährwert
 Nähte
-Näpfen
+Näpfen=bowls
 Nützliches
 OST
 Oase
@@ -3144,7 +3144,7 @@ Pfiff
 Pfleger
 Pflegern
 Pflicht
-Pflichteifer
+Pflichteifer=devotion to duty
 Pfriem=awl (punteruolo)
 Pfütze
 Phantasie
@@ -3487,7 +3487,7 @@ Salzburg
 Samen
 Sammellager
 Sammelsurium=ragbag
-Sammelwort
+Sammelwort=group word
 Sanatorium
 Sandalen
 Sarabande
@@ -4532,7 +4532,7 @@ Voriges
 Vorliebe
 Vormarsch
 Vormittag
-Vorrang
+Vorrang=priority
 Vorrat
 Vorrecht
 Vorrechts
@@ -4762,7 +4762,7 @@ Wärme
 Wäsche
 Wäschetausch
 Wäschetauschen
-Wölbungen
+Wölbungen=bulges
 Wörter
 Wünsche
 Würde
@@ -5149,7 +5149,7 @@ angezeigt
 angezogen
 angrenzenden=adjacent
 angrinsen=grin at
-anhaben
+anhaben=wear
 anhalten=stop
 anhaltend=persistent
 anhaltender
@@ -5391,7 +5391,6 @@ ausgeliefert
 ausgelöscht
 ausgenommen
 ausgenutzt
-ausgeprägte
 ausgeprägten=pronounced
 ausgeprägter
 ausgerechnet
@@ -5417,7 +5416,7 @@ ausgreifen
 aushalten=hold out
 ausheben
 ausleert
-ausliefert
+ausliefert=delivered
 ausländischem
 ausländischen
 ausläßt
@@ -5465,7 +5464,7 @@ auszusteigen=get out
 auszusuchen
 auszutüfteln
 auszuweichen
-auszuwertenden
+auszuwertenden=to be evaluated
 auszuziehen=take off clothes
 aus«
 ausüben=exercise
@@ -5507,7 +5506,7 @@ beben
 bebt
 bedacht
 bedachte
-bedachten
+bedachten=thoughtful
 bedanken
 bedarf
 bedauern
@@ -5830,7 +5829,7 @@ betreffende
 betreiben
 betreten=enter
 betrieb
-betriebener
+betriebener=operated
 betriebsfertig
 betrifft=concerns
 betroffen=affected
@@ -6808,7 +6807,7 @@ erstmals
 erstrebenswertesten=most desirable
 erstreckt
 ersucht
-ertappt
+ertappt=caught
 erteilt=(Auskunft) give information
 erteilten
 ertragen
@@ -7272,7 +7271,7 @@ gehämmertem
 gehässiger
 gehören
 gehörende
-gehörige
+gehörige=related, associated
 gehört
 gehörte
 gehörten
@@ -10733,7 +10732,7 @@ vielen
 vieler
 vieles
 vielfache
-vielfältigen
+vielfältigen=varied
 vielleicht
 vielmehr
 viendra
@@ -11703,7 +11702,7 @@ Es
 Überlegens=reflection
 Überlegung=consideration
 Überlegungen=deliberations, thoughts
-Überlieferungen
+Überlieferungen=traditions
 Überragenden
 Überraschung
 Überraschungen
@@ -11711,7 +11710,7 @@ Es
 Übersetzungen
 Übertreibung=exaggeration
 Überwachung
-Überwindung
+Überwindung=willpower
 Überzeugung=conviction
 Übung
 à
@@ -11825,7 +11824,7 @@ Es
 überziehen
 übler
 üblich
-übliche
+übliche=usual
 üblichen
 übrig
 übrigblieben
