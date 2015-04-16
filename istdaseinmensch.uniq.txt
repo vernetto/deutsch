@@ -119,7 +119,7 @@ Ameisen=ants
 Amery
 Amt
 Amts
-Amtsmißbrauch
+Amtsmißbrauch=abuse of power
 An
 Anachronismus
 Analogie
@@ -1118,7 +1118,7 @@ Erleichterung=relief
 Erloschene
 Erläuterung
 Erlös
-Ermangelung
+Ermangelung=absence
 Ermessen
 Ernennung
 Ernst
@@ -4252,7 +4252,7 @@ Ungarntransport
 Ungefähr
 Ungeheuerlichkeit
 Ungeheuern
-Ungerechtigkeit
+Ungerechtigkeit=injustice
 Ungern
 Ungeschickteste=clumsiest
 Ungewißheit
@@ -4660,7 +4660,7 @@ Werkzeugmagazin
 Wert
 Wertes
 Wertheimer
-Wertschwankungen
+Wertschwankungen=fluctuations in the value
 Wertunterschied
 Wesen
 Wesenszug=trait
@@ -4929,7 +4929,7 @@ abgedroschene
 abgefeimter
 abgefertigt
 abgeflacht
-abgegeben
+abgegeben=given
 abgeholt
 abgeht=lacks
 abgeladen
@@ -6373,7 +6373,7 @@ eigenen
 eigener
 eigenes
 eigens
-eigentlich
+eigentlich=actually
 eigentliche
 eigentlichen
 eigentümlich
@@ -8928,7 +8928,7 @@ offenen
 offenes
 offenhalten
 offenkundig=evident
-offenkundiger
+offenkundiger=obvious
 offensichtliche
 offiziell
 offizielle
@@ -10222,7 +10222,7 @@ unleidlich
 unmenschlich
 unmenschliche
 unmethodisch
-unmittelbar
+unmittelbar=directly
 unmittelbare
 unmittelbaren
 unmittelbares
