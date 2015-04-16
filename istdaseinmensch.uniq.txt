@@ -1899,7 +1899,7 @@ Hirn
 Historiker
 Hitler
 Hitlers
-Hochbetrieb
+Hochbetrieb=peak period
 Hochgehen
 Hochsommer
 Hochspannung
@@ -2643,7 +2643,7 @@ Magazinverwalterin
 Magazinwachen
 Magen
 Magengrube
-Magenknurren
+Magenknurren=tummy rumbles
 Magens
 Magensonden
 Magnesiumchlorid
@@ -2974,7 +2974,7 @@ Neues
 Neues«
 Neugeborenes
 Neugierde
-Neugierigen
+Neugierigen=curious
 Neuigkeiten
 Neuling
 Neutrum
@@ -3824,7 +3824,7 @@ Spatenstich
 Spaß
 Speck
 Speer
-Speichelbildung
+Speichelbildung=salivation
 Speicher
 Speise=food
 Speisen
@@ -4068,7 +4068,7 @@ Tausch
 Tauschakt
 Tauschanwärtern=exchange candidates
 Tauschbörse
-Tauschgeschäft
+Tauschgeschäft=barter
 Tauschs
 Tausende
 Tauwasser=condensation
@@ -6767,7 +6767,7 @@ erraten=guess
 erregen
 erregender
 erregt
-erregte
+erregte=excited
 erreichen=achieve
 erreicht
 erreichte
@@ -7766,7 +7766,7 @@ heil'ge
 heilen=heal
 heilige
 heilkräftig=curative
-heillose
+heillose=hopeless
 heilloses=hopeless
 heimgekehrt
 heimgesucht=afflicted
@@ -8503,7 +8503,7 @@ letztenmal
 letzter
 letzteren
 letzteres
-leuchtenden
+leuchtenden=bright
 leugnen
 leugnet=denies
 levar
@@ -10306,7 +10306,6 @@ unterworfen
 unterziehe
 unterziehen=subject
 unterzieht
-ununterbrochen
 ununterbrochene=continuous
 unverhüllt
 unvermeidlich
