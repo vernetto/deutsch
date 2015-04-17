@@ -25,7 +25,7 @@ Abgrenzung
 Abhilfe
 Abkürzung
 Ablauf=process
-Ablösung
+Ablösung=removal
 Abmarsch
 Abnehmer
 Abort
@@ -35,7 +35,7 @@ Abscheu=disgust
 Abschied
 Abschiedsformel
 Abschluß=completion
-Abschnitt
+Abschnitt=section
 Abseits=apart
 Absicht
 Absichten=intentions
@@ -151,7 +151,7 @@ Angstreste
 Ankauf
 Anker
 Ankunft=arrival
-Ankäufe
+Ankäufe=Purchases
 Ankündigung
 Ankündigungen=notifications
 Annahme=assumption
@@ -285,7 +285,7 @@ Auftauen
 Aufteilung
 Auftrag
 Aufwallung=surge
-Aufwertung
+Aufwertung=revaluation
 Aufzeichnung=recording
 Aufzeichnungen=notes
 Aufzug
@@ -470,7 +470,7 @@ Bela
 Belang=importance
 Belange=issues
 Belastungsprobe
-Belegschaft
+Belegschaft=workforce
 Beleidigung=insult
 Belgier
 Belohnung
@@ -650,7 +650,7 @@ Braut=bride
 Brechstange=crowbar
 Brechstangen
 Brenner
-Bresche
+Bresche=breach
 Bretterwand
 Brief
 Briefe
@@ -1064,7 +1064,7 @@ Entferntes
 Entfernung
 Entgegen
 Entgegenkommen=concession
-Enthaltsamkeit
+Enthaltsamkeit=abstinence
 Enthusiasmus
 Entlassenen
 Entlassung
@@ -1116,7 +1116,7 @@ Erleben
 Erlebnis
 Erleichterung=relief
 Erloschene
-Erläuterung
+Erläuterung=illustrate
 Erlös
 Ermangelung=absence
 Ermessen
@@ -1445,7 +1445,7 @@ Gasometer
 Gattegno
 Gattermann
 Gattung
-Gaunerei
+Gaunerei=roguery
 Gebell=barking
 Gebet
 Gebieten
@@ -1754,7 +1754,7 @@ Haare
 Haaren
 Habe
 Haben
-Habgier
+Habgier=greed
 Habseligkeiten=belongings
 Hacke
 Hackenknallen
@@ -1810,7 +1810,7 @@ Hebewinde
 Heck
 Hefe
 Heft
-Hehlerei
+Hehlerei=receiving
 Heidebreck
 Heil
 Heilige
@@ -1867,7 +1867,7 @@ Hexen
 Hie
 Hieb=smash
 Hiebe
-Hieben
+Hieben=blows
 Hielten
 Hier
 Hierarchie
@@ -2214,8 +2214,8 @@ Kesselwäschers
 Kette
 Khaki-Anzügen
 Khaki-Uniform
-Kiefer=jaws
-Kiefern
+Kiefer=jaw
+Kiefern=jaws
 Kilo
 Kilogramm
 Kilometer
@@ -2257,7 +2257,7 @@ Kochen
 Kohl
 Kohle
 Kohlen
-Kohlenbergwerke
+Kohlenbergwerke=Coal mines
 Kohlenhalden
 Kohlensäcken
 Kohlenwasserstoffe
@@ -2329,7 +2329,7 @@ Krankheitsgeruch
 Kraus
 Kraus!
 Krebs
-Kreditverträge
+Kreditverträge=credit agreements
 Kreis
 Krematorien
 Krematorium
@@ -2784,7 +2784,7 @@ Mithilfe
 Mitleid=compassion
 Mitläufer
 Mitmenschen
-Mitschuldiger
+Mitschuldiger=accomplice
 Mittag
 Mittags
 Mittagspause
@@ -3291,7 +3291,7 @@ Rasierseife
 Rasseln
 Rassengesetze
 Rasse«
-Raten
+Raten=rate
 Ration
 Rationen
 Ratschläge=advice
@@ -3815,7 +3815,7 @@ Sorgfalt=care
 Sorte
 Soweit
 Sowie
-Sozialgefüges
+Sozialgefüges=social structure
 Spanien
 Spanisch
 Spann
@@ -4064,7 +4064,7 @@ Tatsache
 Tatsachen
 Taugliche=suitable
 Taumel=dizziness,frenzy
-Tausch
+Tausch=exchange
 Tauschakt
 Tauschanwärtern=exchange candidates
 Tauschbörse
@@ -4396,7 +4396,7 @@ Vergangenheitsaufbereitung
 Vergeblich=in vain
 Vergebung=forgiveness
 Vergegenwärtigung
-Vergehen
+Vergehen=offense
 Vergeltung
 Vergessen
 Vergeudung
@@ -4443,7 +4443,7 @@ Vers
 Versagen=deny
 Versammlung
 Verschlechterung
-Verschleiß
+Verschleiß=wear
 Verschnaufpausen
 Verschnürungen=lacing
 Verschwitzt
@@ -4678,7 +4678,7 @@ Wie
 Wieder
 Wiederaufleben
 Wiederaufnahme=resumption
-Wiederaufwertung
+Wiederaufwertung=recycling
 Wiedereingewöhnung=re-familiarization
 Wiederholung
 Wiederkehr
@@ -4977,7 +4977,7 @@ abscheulicher=hideous
 abschinden=(sich) to toil long and hard
 abschuftender
 absetzen
-absichtlich
+absichtlich=intentionally
 absieht
 absolut
 absolute
@@ -5356,19 +5356,19 @@ ausbreitender
 ausdenken
 ausdruckslos=expressionless
 ausdruckslosen
-ausdrücklich
+ausdrücklich=explicitly
 ausdrücklicher
 ausdrückt=express
 auseinander
 auseinandersetzen
 ausersehen
 ausfiel
-ausfindig
+ausfindig=locate
 ausführlich=in detail
 ausfüllt
 ausfüllte
 ausgeben
-ausgedehnte
+ausgedehnte=extensive
 ausgedehnten=vast
 ausgedörrt
 ausgefüllt=filled out
@@ -5520,7 +5520,7 @@ bedeutete
 bedeutsame
 bedeutungsvoll
 bedient
-bedingt
+bedingt=caused
 bedingten
 bedrohlicheren
 bedroht
@@ -5709,7 +5709,7 @@ berauschten
 berechnen
 berechnender
 berechnet
-berechtigt
+berechtigt=entitle
 bereit
 bereiten
 bereitet
@@ -5825,7 +5825,7 @@ betrachtete
 betranken
 betraut
 betreffe
-betreffende
+betreffende=concerned
 betreiben
 betreten=enter
 betrieb
@@ -6496,7 +6496,7 @@ einzuschlafen
 einzuschlagen=hammer down
 einzuschmuggeln
 einzustellen=adjust
-einzuwenden
+einzuwenden=objection
 einzuwickeln
 ein«
 eisernen
@@ -6590,7 +6590,7 @@ entlegenen
 entlohnen
 entnehmen
 entnimmt
-entrichtet
+entrichtet=paid
 entronnen
 entrückte
 entsann
@@ -7135,7 +7135,7 @@ gab
 gaben
 galizischen
 galten=were
-gang
+gang=(gang und gäbe) common practice
 ganz
 ganze
 ganzen
@@ -7234,7 +7234,7 @@ gegensätzliche
 gegenwärtig=present
 gegenwärtige
 gegenwärtigen
-gegenüber
+gegenüber=with respect to
 gegenüberliegenden
 gegenüberzustellen=oppose
 gegessen
@@ -7510,7 +7510,7 @@ getrunken
 getränkt
 geträumt
 geträumten
-getätigt
+getätigt=made
 gewagt
 gewahr=realize
 gewaltig
@@ -7521,7 +7521,7 @@ gewandten
 gewaschene
 gewechselt
 gewesen
-gewichst
+gewichst=waxed
 gewickelt
 gewisse
 gewissem
@@ -7589,7 +7589,7 @@ gleichen
 gleichen!
 gleicher
 gleichförmig
-gleichgesetzt
+gleichgesetzt=equated
 gleichgültig
 gleicht
 gleichwertigen
@@ -7634,7 +7634,7 @@ grell=harsh
 grelle
 grenzenlos
 grenzte
-greulichen
+greulichen=abominable
 griechische
 griechischen
 grimmig
@@ -7886,7 +7886,7 @@ hinab
 hinabsinkt
 hinabsteige
 hinauf
-hinaus
+hinaus=out
 hinausdringen=transpire
 hinausgeschoben
 hinausschaffen
@@ -7918,7 +7918,7 @@ hinken
 hinkend
 hinkomme
 hinquälen
-hinreichend
+hinreichend=sufficient
 hinten
 hinter
 hinterbracht
@@ -9217,7 +9217,7 @@ ringsum
 ringsumher
 rinnt
 riskiert
-riß
+riß=crack
 robust
 robuste
 robuster
@@ -9388,7 +9388,7 @@ schließt
 schlimmer
 schlimmere
 schlimmste
-schlimmstenfalls
+schlimmstenfalls=at worst
 schlossen
 schlotternd
 schlucken=swallow
@@ -10061,7 +10061,7 @@ umgebracht
 umgehen
 umgekehrt
 umgekehrte=reverse
-umgekehrter
+umgekehrter=reverse
 umgetauscht
 umgingen
 umher
@@ -10133,8 +10133,7 @@ und
 undeutlich=vaguely
 undeutliche
 undeutlicherer
-undurchführbar
-und«
+undurchführbar=impracticable
 une
 uneingestandener
 unempfindlich
@@ -10301,7 +10300,7 @@ unterstehen=be subject to
 untersuchen
 unterteilt=divided
 unterwegs
-unterworfen
+unterworfen=subject
 unterziehe
 unterziehen=subject
 unterzieht
@@ -10495,7 +10494,7 @@ verhöhnt=mocked
 verkaufe
 verkaufen
 verkauft
-verkehren
+verkehren=operate
 verklebt
 verkleistert
 verknüpft
@@ -11192,7 +11191,7 @@ zerbrochene
 zerebrale
 zerfallenen
 zerfetzt=tattered
-zerfetzten
+zerfetzten=shredded
 zerfrißt
 zerfällt
 zerknittert
@@ -11403,7 +11402,7 @@ zäher
 zählen
 zählt
 zählten
-zögern
+zögern=hesitate
 zögert=hesitate
 zögerte
 zündeten
@@ -11761,7 +11760,7 @@ Es
 übereinstimmend
 überfahren
 überflüssige
-überführt
+überführt=convicted
 überfüllten
 übergab
 übergeben
@@ -11829,7 +11828,7 @@ Es
 übrig
 übrigblieben
 übrige
-übrigen
+übrigen=(im) moreover
 übrigens
 übriggelassen=left over
 übriglassen
