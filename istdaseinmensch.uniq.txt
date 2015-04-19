@@ -448,7 +448,7 @@ Behauptungen=allegations
 Behutsamkeit=care
 Behälter
 Behörde
-Behörden
+Behörden=authorities
 Bei
 Beide
 Beifallsklatschen
@@ -525,7 +525,7 @@ Bestandteile
 Bestechlichkeit=venality
 Bestechung=corruption
 Bestehen
-Bestehlen
+Bestehlen=rob
 Besteller
 Bestes
 Bestialische
@@ -590,7 +590,7 @@ Bindung
 Binnen
 Biographien
 Birkenau
-Birnen
+Birnen=bulbs
 Bis
 Bissen
 Bitte
@@ -601,8 +601,7 @@ Blatt
 Blausäure-
 Blech
 Blechnapf
-Blechschmied
-Blechschmiede
+Blechschmied=tinsmith
 Blechschüsseln=tin bowl
 Blechstück
 Blechwand
@@ -708,7 +707,7 @@ Büro
 Bürokrat
 Bürokratie
 Büros
-Bürsten
+Bürsten=brushes
 Büßen=expiate
 Cagnolati
 Carl
@@ -828,7 +827,7 @@ Diebstahl
 Diebstahlfonds
 Diebstahls
 Diebstähle
-Diebstählen
+Diebstählen=thefts
 Diejenigen
 Diena
 Dienst
@@ -849,7 +848,7 @@ Dilemma
 Ding
 Dinge
 Dingen
-Dinger
+Dinger=things
 Dingsda
 Diphtherie
 Diphtheriekranken
@@ -965,7 +964,7 @@ Eimerstuhl
 Eimerwand
 Ein
 Einaudi
-Einbuße
+Einbuße=loss
 Eindringen=intrusion
 Eindruck
 Eine
@@ -988,7 +987,7 @@ Einhalten
 Einhundertvierundsiebzigtausend
 Einige
 Einkauf
-Einkleidung
+Einkleidung=dress
 Einlieferung
 Einmal
 Einrichtung=equipment
@@ -1056,7 +1055,7 @@ Engländer
 Engländern
 Engländer«
 Enkelkindern=grandchildren
-Entbehrung
+Entbehrung=deprivation
 Entbehrungen=privations
 Entdeckung
 Enteroklysen
@@ -1117,9 +1116,9 @@ Erlebnis
 Erleichterung=relief
 Erloschene
 Erläuterung=illustrate
-Erlös
+Erlös=proceeds
 Ermangelung=absence
-Ermessen
+Ermessen=discretion
 Ernennung
 Ernst
 Ernährung
@@ -1233,8 +1232,8 @@ Feierabend=end of work
 Feiertage
 Feige
 Feigling=coward
-Feile
-Feilen
+Feile=file
+Feilen=files
 Feile
 Feind
 Feinde
@@ -1260,7 +1259,7 @@ Fett-
 Fetzen=rag
 Feuer
 Feuersäulen
-Feuerzeuge
+Feuerzeuge=Lighters
 Feuer
 Fichtenwälder=spruce forest
 Fieber
@@ -1484,7 +1483,7 @@ Gefängnissen
 Gefäß
 Gefäße
 Gefäßen
-Gefüges
+Gefüges=structure
 Gefühl
 Gefühle
 Gegebenheit
@@ -1533,7 +1532,7 @@ Genaues
 Genauigkeit
 Genesende=convalescent
 Genesenden
-Genesenen
+Genesenen=convalescent
 Genesis
 Genickschuß
 Genug
@@ -1717,7 +1716,7 @@ Großmut
 Grund
 Grunde
 Grundlage=basis
-Grundlegendes
+Grundlegendes=basic
 Grundprinzipien
 Gruppe
 Gruppen
@@ -1733,7 +1732,7 @@ Grüppchen
 Gummifabrik
 Gummiknüppeln=truncheons
 Gummis
-Gummischlauch
+Gummischlauch=rubber hose
 Gummistiefeln
 Gut
 Gute
@@ -1834,7 +1833,7 @@ Hemd
 Hemden
 Hemdes
 Hemdwaschen
-Hemmungen
+Hemmungen=inhibitions
 Henkeln
 Hennen
 Henri
@@ -1847,7 +1846,7 @@ Herbst
 Herde
 Herdentrieb
 Herkules
-Herkunft
+Herkunft=origin
 Herr
 Herren
 Herrgottsakrament
@@ -2421,7 +2420,7 @@ Lagerende
 Lagerfunktionäre
 Lagergesetzen
 Lagergewaltigen
-Lagerhandwerker
+Lagerhandwerker=craftsmen
 Lagerinsassen
 Lagerjargon
 Lagerküchen
@@ -2492,7 +2491,7 @@ Lebensmittelkarten
 Lebensnerv
 Lebensordnung=order of life
 Lebenstag
-Lebensweise
+Lebensweise=way of life
 Lebenswille
 Lebenszuckung
 Lebensäußerung
@@ -2552,7 +2551,7 @@ Lieben
 Lied
 Lieder
 Liedern
-Lieferanten
+Lieferanten=suppliers
 Liegewunden
 Ligurien
 Limbus
@@ -2613,7 +2612,7 @@ Läusen
 Läutens=alarm
 Löcher
 Löchern
-Löffel
+Löffel=spoon
 Löffelmesser
 Löffeln
 Löffels
@@ -2728,7 +2727,7 @@ Mengsei
 Mensch
 Mensch!
 Menschen
-Menschendasein
+Menschendasein=human existence
 Menschenexemplar
 Menschenfreundlichkeit
 Menschengattungen
@@ -2957,7 +2956,7 @@ Nebenstrecke=branch line
 Nehmen
 Neid
 Neide
-Neige
+Neige=low
 Neigung=tendency
 Nein
 Nerven
@@ -3004,7 +3003,7 @@ Normen
 Norwegen
 Not
 Notdurft
-Notierungen
+Notierungen=prices
 Notizbuch
 Notwendigkeit
 November
@@ -3141,7 +3140,7 @@ Pfeifen
 Pferd
 Pferden
 Pfiff
-Pfleger
+Pfleger=nurse
 Pflegern
 Pflicht
 Pflichteifer=devotion to duty
@@ -3198,7 +3197,7 @@ Posten
 Postkarte
 Potential
 Preis
-Preisschwankungen
+Preisschwankungen=Price volatility
 Prima
 Primo
 Prioritätsstreitigkeiten
@@ -3240,7 +3239,7 @@ Prozession
 Prozeß
 Prämienschein
 Prämienschein-Notierungen
-Prämienscheine=???
+Prämienscheine=bonus vouchers
 Präzision
 Präzisionsmechaniker
 Prüfung
@@ -3331,7 +3330,7 @@ Regentropfen
 Regierung
 Regime
 Regung=movement
-Regungen
+Regungen=emotions
 Regungslosigkeit
 Reiben=rubbing
 Reibung
@@ -3690,7 +3689,7 @@ Schöpfungstag
 Schüchtern=shy
 Schüssel
 Schüsseln
-Schützlinge
+Schützlinge=proteges
 Se
 Sebastian
 Sechsundneunzig
@@ -3767,7 +3766,7 @@ Sinnes
 Sinnesempfinden
 Sirene
 Sirenen
-Sitten
+Sitten=morals
 Situationen
 Sivadjan
 Skelette
@@ -4015,7 +4014,7 @@ Synthesen
 System
 Szenarium
 Szene
-Säcke
+Säcke=bags
 Säcken
 Säften
 Säleute
@@ -4039,7 +4038,7 @@ Tageslichts
 Tagesraum
 Tagesraums
 Tagesräume
-Tagessold
+Tagessold=daily pay
 Tags
 Takt=clock beat
 Tal
@@ -4348,7 +4347,7 @@ Vakuum
 Vanda
 Vater
 Vehemenz
-Ventil
+Ventil=valve
 Verachtung=disdain
 Veranlagung
 Veranstaltungen=events
@@ -4516,7 +4515,7 @@ Vom
 Von
 Vor
 Vorarbeiter
-Voraussetzung
+Voraussetzung=condition
 Vorbedacht=intent
 Vorbeiläufen
 Vorbeimarsch
@@ -4533,13 +4532,12 @@ Vorliebe
 Vormarsch
 Vormittag
 Vorrang=priority
-Vorrat
+Vorrat=provisions
 Vorrecht
 Vorrechts
 Vorsatz=intention
 Vorschlag
 Vorschrift=rule,command
-Vorschriften
 Vorsehung
 Vorsichtig
 Vorstellung
@@ -4777,7 +4775,7 @@ Zahnbürsten
 Zahnprothese
 Zahnweh
 Zakopane
-Zangen
+Zangen=pliers
 Zanken=quarreling
 Zehntausend
 Zehntausende
@@ -4951,7 +4949,7 @@ abgesehen
 abgestumpft
 abgestumpften
 abgewandelter=modified
-abgewinnen
+abgewinnen=to take pleasure in
 abgewälzt
 abgewöhnt
 abgezehrten=emaciated
@@ -5163,7 +5161,7 @@ animalische
 ankamen
 ankündigt
 anlaufen
-anlegen
+anlegen=create
 anlegt
 anmutig
 annahm
@@ -5345,7 +5343,7 @@ augenblickliche
 augenblicklichen
 augenfällig
 augenfällige=salient
-augenfälligen
+augenfälligen=obvious
 augenfälliges
 augenscheinlicheren=evident
 aujourd'hui«
@@ -5353,7 +5351,7 @@ aurweisen
 aus
 ausbleibe
 ausbreitender
-ausdenken
+ausdenken=imagine
 ausdruckslos=expressionless
 ausdruckslosen
 ausdrücklich=explicitly
@@ -5372,7 +5370,7 @@ ausgedehnte=extensive
 ausgedehnten=vast
 ausgedörrt
 ausgefüllt=filled out
-ausgegangen
+ausgegangen=run out
 ausgegeben=distribute
 ausgehen
 ausgehobene=excavated
@@ -5498,7 +5496,7 @@ basis
 bat
 bauen
 beachte
-beachtlichem
+beachtlichem=considerable
 beachtlichen=considerable
 beantwortet
 bearbeitet
@@ -5603,7 +5601,7 @@ begriffen=(begreifen) realized
 begrüßen
 begrüßt
 begünstigen=favor
-begünstigt
+begünstigt=favored
 behaarten
 behaglicher=homey,cozy
 behalten
@@ -5716,7 +5714,7 @@ bereitet
 bereitete
 bereitfinden
 bereitgefunden
-bereitgestellt
+bereitgestellt=provided
 bereits
 bergen
 berichte
@@ -5742,7 +5740,7 @@ beschaffen
 bescheiden
 bescheidenes
 beschimpft=insulted
-beschlagnahmt
+beschlagnahmt=seized
 beschließt
 beschlossen
 beschmierte
@@ -6126,7 +6124,7 @@ demnach
 demonstrativer
 demontiert
 demselben
-demzufolge
+demzufolge=consequently
 demütig
 demütigend
 den
@@ -6328,7 +6326,7 @@ dächten
 dämmerte
 dümmliches=goofy
 dünne
-dünnen
+dünnen=thin
 dünnste
 dünsten
 dürfen
@@ -6568,7 +6566,7 @@ entgegengesetzten=opposite
 entgegengesetzter=opposing
 entgegentreten
 entgegentritt=confronts
-entgehen
+entgehen=escape
 entgelten
 entgleiten=slip away
 enthalten=contain
@@ -6589,7 +6587,7 @@ entleeren
 entlegenen
 entlohnen
 entnehmen
-entnimmt
+entnimmt=take from
 entrichtet=paid
 entronnen
 entrückte
@@ -6631,7 +6629,7 @@ entwendet
 entwendete
 entwickelt
 entziehen=withdraw
-entzogen
+entzogen=withdrawn
 entzwei
 entzweigegangen
 entzündete=light
@@ -6743,7 +6741,7 @@ erloschen
 erloschenen=dead
 ermatte
 ermesse
-ermitteln
+ermitteln=determine
 ermuntern=encourage
 ermächtigte
 ermöglicht=allows
@@ -6765,7 +6763,7 @@ erprobten
 erraten=guess
 erregen
 erregender
-erregt
+erregt=excited
 erregte=excited
 erreichen=achieve
 erreicht
@@ -6838,7 +6836,7 @@ erwiesen
 erwiesenermaßen
 erwirbt
 erwischen
-erworben
+erworben=acquired
 erwäge
 erwählt
 erwähnt
@@ -7144,7 +7142,7 @@ gar
 garantiere
 garantiert
 geachtet
-geahndet
+geahndet=punished
 geahnt=suspected
 geantwortet
 gearbeitet
@@ -7181,11 +7179,11 @@ gedient
 gedreht
 gedrängt=packed
 gedrückt
-geduldig
+geduldig=patient
 geduldige
 gedunsen=bloated
 geduscht
-geeignet
+geeignet=suitable
 geeignete=right
 geeigneten
 geeigneter
@@ -7213,7 +7211,7 @@ gefährlich
 gefährliche
 gefährlicher
 gefällt
-gefördert
+gefördert=promoted
 gefügig
 gefügt
 gefühlsmäßige
@@ -7435,7 +7433,7 @@ geschilderte
 geschilderten
 geschlagen
 geschlagenen
-geschliffenem
+geschliffenem=polished
 geschlossen
 geschlossenen
 geschlossener
@@ -7527,7 +7525,6 @@ gewisse
 gewissem
 gewissen
 gewissenhaft=conscientious
-gewissenhafte
 gewissermaßen
 gewisses
 gewitzt
@@ -7772,7 +7769,7 @@ heimgesucht=afflicted
 heimisch
 heimkehren
 heimkehrt
-heimlich
+heimlich=secretly
 heisere
 heiter
 heiß=hot
@@ -8515,7 +8512,7 @@ liebevoll=lovingly
 liebevoller
 liebsten
 lief
-liefert
+liefert=supplies
 liege
 liegen
 liegend
@@ -8810,7 +8807,7 @@ ne
 nebelhaft
 neben
 nebenan
-nebenbei
+nebenbei=at the same time
 nebeneinander
 negativen
 nehme
@@ -9193,7 +9190,7 @@ revision
 rhetorische
 richten
 richtenden
-richtet
+richtet=directed
 richteten
 richtig
 richtige
@@ -9398,7 +9395,7 @@ schlugen
 schlummernden=dormant
 schlurfen=shumble
 schlurft
-schlußfolgern
+schlußfolgern=conclude
 schläft
 schlägt
 schlüssig
@@ -9765,7 +9762,6 @@ steinernen
 steingewordenen=petrified
 steinhart
 stellen
-stellen«
 stellt
 stellte
 stellten
@@ -9775,7 +9771,7 @@ stetige
 stets=always
 stieg
 stiegen
-stiehlt
+stiehlt=steals
 still
 stille
 stillen
@@ -9877,7 +9873,7 @@ tagelang
 tags
 tagsüber
 tagt
-tagtäglich
+tagtäglich=every day
 tagtägliche
 tagtäglichen
 tagtäglicher
@@ -10040,7 +10036,7 @@ tätowierte
 täuschen=deceive
 téglak
 tönenden
-töricht
+töricht=foolish
 törichtes
 töten
 tötet
@@ -10270,7 +10266,7 @@ unterbreitet
 unterbrochen
 unterdrücken
 unterdurchschnittliche
-untereinander
+untereinander=each other
 unteres
 untergebracht=housed
 untergegangenen
@@ -10431,7 +10427,7 @@ verdächtig=suspicious
 verdächtige=suspicious
 verdächtigen
 vereinbaren
-vereinbart
+vereinbart=negotiated 
 vereinigt
 vereist
 vereisten
@@ -10724,7 +10720,7 @@ verändern
 veränderte
 veränderten
 verübt
-verübten
+verübten=committed
 viel
 viele
 vielen
@@ -10783,7 +10779,7 @@ voran
 vorangegangenen
 voranzutreiben
 voraus
-vorausgeschickt
+vorausgeschickt=premised
 vorausgesehen
 vorausgesetzt=provided
 voraussehen
@@ -11389,7 +11385,7 @@ zweiter
 zweiunddreißig
 zweiundsechzig
 zweiundzwanzig
-zwielichtige
+zwielichtige=unsavoury
 zwinge
 zwingen
 zwinkern
@@ -11687,7 +11683,7 @@ Es
 Über
 Überall
 Überanstrengung
-Überbau
+Überbau=superstructure
 Überbleibsel
 Überdachung
 Überdies
@@ -11812,7 +11808,7 @@ Es
 überstrichen
 überstürzter
 übertragen
-übertreten
+übertreten=violate
 überwacht
 überwachte
 überwinden
@@ -11832,7 +11828,7 @@ Es
 übrigens
 übriggelassen=left over
 übriglassen
-übt
+übt=(ausüben) exercise
 
 Hätte
 Jawohl!

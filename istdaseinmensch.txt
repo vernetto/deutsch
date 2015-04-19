@@ -2358,7 +2358,7 @@ Es gab Zeiten, wo der Prämienschein mit einer, dann mit eineinviertel, ja sogar
 Brotration bezahlt wurde; eines Tages stand der Kurs auf einer und einer halben Ration, aber dann 
 setzte die Machorkaversorgung der Kantine aus, und so fiel das Geld in Ermangelung einer 
 Deckung ganz plötzlich auf eine Viertelration herunter. Es gab noch eine andere Periode der 
-Aufwertung, ZZZ die eine eigenartige Ursache hatte: das war die Ablösung im Frauenblock, bedingt 
+Aufwertung, die eine eigenartige Ursache hatte: das war die Ablösung im Frauenblock, bedingt 
 durch das Eintreffen eines Kontingents robuster polnischer Mädchen. Da nämlich der 
 Prämienschein (für Kriminelle und Politische, nicht aber für Juden, die im übrigen unter der 
 Enthaltsamkeit nicht leiden) zu einem Besuch im Frauenblock berechtigt, tätigten die Interessierten 
@@ -2456,7 +2456,7 @@ gewichst werden, und jeder Blockälteste ist der SS gegenüber dafür verantwort
 gesamte Belegschaft seiner Baracke diese Vorschrift befolgt. Demnach sollte man annehmen, daß 
 jede Baracke von Zeit zu Zeit Schuhfett zugeteilt bekommt. Das ist jedoch nicht der Fall; der 
 Mechanismus ist ein ganz anderer. Nun muß vorausgeschickt werden, daß jede Baracke abends ein 
-Quantum Suppe erhält, das bedeutend mehr ist als die Summe der regulären Rationen; derÜberhang wird nach dem Ermessen des Blockältesten verteilt, der ihm zunächst die Gaben für seine 
+Quantum Suppe erhält, das bedeutend mehr ist als die Summe der regulären Rationen; der Überhang wird nach dem Ermessen des Blockältesten verteilt, der ihm zunächst die Gaben für seine 
 Freunde und Schützlinge entnimmt und sodann die geschuldeten Diäten für die Ausfeger, die 
 Nachtwachen, die Läusekontrolleure und alle andern Prominentenfunktionäre der Baracke. 
 Was dann noch übrig ist (und jeder gewissenhafte Blockälteste richtet es so ein, daß immer etwas 
@@ -2483,10 +2483,7 @@ die stumme Feindschaft zwischen den SS-Kommandos und den zivilen Behörden von B
 gefördert werden, übt der KB eine Funktion ersten Grades aus. Der KB ist der Ort des geringeren 
 Widerstands, das Ventil, das es leichter macht, die Vorschriften zu übertreten und der Wachsamkeit 
 der Kapos zu entgehen. Jedermann weiß, daß gerade von den Pflegern Kleidung und Schuhe der 
-Toten oder der nackt nach Birkenau geschafften Selektionierten wieder billig in den Handel 
-
-
-gebracht werden. Pfleger und Ärzte führen die Sulfonamid-Zuteilungen nach Buna aus und 
+Toten oder der nackt nach Birkenau geschafften Selektionierten wieder billig in den Handel gebracht werden. Pfleger und Ärzte führen die Sulfonamid-Zuteilungen nach Buna aus und 
 verschachern sie dort gegen Lebensmittel an die Zivilisten. 
 Einen enormen Gewinn holen die Pfleger auch noch aus dem Handel mit Löffeln. Das Lager liefert 
 an die Neuankömmlinge keine Löffel, obwohl die halbflüssige Suppe nicht anders gegessen werden 
@@ -2494,6 +2491,7 @@ kann. Die Löffel werden in Buna heimlich und nebenbei von den Häftlingen fabri
 Spezialisten in den Kommandos der Schlosser und Blechschmiede arbeiten: unförmige und grobe 
 Dinger aus gehämmertem Blech, oft mit geschliffenem Stiel, so daß sie gleichzeitig als Messer zum 
 Brotschneiden benutzt werden können. 
+ZZZ
 Die Hersteller verkaufen sie direkt an die Neuankömmlinge; ein gewöhnlicher Löffel kostet eine 
 halbe Brotration, ein Löffelmesser eine dreiviertel Brotration. Nun darf man wohl mit dem Löffel 
 in den KB hinein, nicht aber hinaus. Im Augenblick der Entlassung, noch vor der Einkleidung, wird 
