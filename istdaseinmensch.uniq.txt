@@ -44,7 +44,7 @@ Absperrung
 Abstammung=ancestry
 Abstand
 Abstellgleis=sidetrack
-Abstieg
+Abstieg=decline
 Abstufungen
 Abständen=intervals
 Absurde
@@ -66,7 +66,7 @@ Achsen
 Achtung
 Achtzehn
 Achtzehns
-Acker
+Acker=field
 Adamsäpfel
 Addenden
 Adelsbrief
@@ -184,7 +184,7 @@ Antwort
 Antworten
 Anweisung
 Anweisungen=instructions
-Anwärter
+Anwärter=candidate
 Anwärtern=candidates
 Anzeichen=indication
 Anziehen
@@ -270,7 +270,7 @@ Aufgang
 Aufgebot
 Aufhebens=fuss
 Auflehnung=revolt
-Auflösung
+Auflösung=dissolution
 Aufmerksamkeit
 Aufnahme
 Aufrechterhaltung=maintaining
@@ -278,7 +278,7 @@ Aufrichtigkeit=honesty
 Aufruf
 Aufruhr=riot, tumult
 Aufseher
-Aufstieg
+Aufstieg=rise
 Aufständischen
 Aufsässigkeit
 Auftauen
@@ -317,7 +317,7 @@ Ausgabe=issuance
 Ausgabestelle=issuing authority
 Ausgekochte
 Ausgewählten
-Ausgleich
+Ausgleich=compensation
 Ausheben
 Auskratzen
 Auskunft
@@ -326,8 +326,8 @@ Ausleeren
 Auslegung=interpretation
 Ausländer
 Ausmaß
-Ausnahme
-Ausnahmefällen
+Ausnahme=exception
+Ausnahmefällen=exceptional cases
 Ausnahmen
 Ausnahmezeiten
 Auspeitschung
@@ -419,7 +419,7 @@ Bedeutsames
 Bedeutung=importance
 Bedienung
 Bedienungskabine
-Bedingungen
+Bedingungen=conditions
 Bedrohung
 Bedrängnis
 Bedürfnisse
@@ -483,7 +483,7 @@ Benzin
 Beobachtung
 Beppo
 Berechnungen
-Beredsamkeit
+Beredsamkeit=eloquence
 Bereich
 Bereitschaft=readiness
 Bergbau-Chemie
@@ -572,7 +572,7 @@ Bewußtwerdens=becoming conscious
 Bewährung
 Bezeichnung
 Beziehung
-Beziehungen
+Beziehungen=relations
 Bibel
 Bienen
 Bienenstock
@@ -690,7 +690,7 @@ Buna-Gürtel
 Buna-Monowitz
 Buna-Werk
 Bunker
-Bäche
+Bäche=streams
 Bänken
 Bäuche
 Börse
@@ -918,7 +918,7 @@ Durchführung
 Durchreise
 Durchschnitt
 Durchsuchung
-Durchtriebenheit
+Durchtriebenheit=shrewdness
 Durst
 Durstig
 Dusch-und
@@ -966,7 +966,7 @@ Ein
 Einaudi
 Einbuße=loss
 Eindringen=intrusion
-Eindruck
+Eindruck=impression
 Eine
 Einem
 Einen
@@ -992,7 +992,7 @@ Einlieferung
 Einmal
 Einrichtung=equipment
 Einrücken=report for duty
-Einsamkeit
+Einsamkeit=solitude
 Einsatzkommandos
 Einschließung
 Einsetzen
@@ -1076,7 +1076,7 @@ Enttäuschung
 Entwurfs
 Episoden
 Er
-Erbarmen
+Erbarmen=mercy
 Erdboden
 Erde
 Erdhügel
@@ -1130,7 +1130,7 @@ Errettungen
 Errichtung
 Erscheinung=phenomenon
 Erschöpfung=fatigue
-Erschöpfungstod
+Erschöpfungstod=death from exhaustion
 Erschütterungen
 Erst
 Erstarrt
@@ -1230,7 +1230,7 @@ Fehlende
 Fehler
 Feierabend=end of work
 Feiertage
-Feige
+Feige=cowardly
 Feigling=coward
 Feile=file
 Feilen=files
@@ -1293,7 +1293,7 @@ Fleischkammer
 Flesch
 Fleschs
 Flicken=patches
-Flickschuster
+Flickschuster=cobbler
 Flickschusters
 Fliegeralarm
 Fliegeralarms
@@ -1452,7 +1452,7 @@ Gebilde
 Gebirg
 Gebirge
 Gebot=commandment
-Geboten
+Geboten=(und verboten) dos and don'ts
 Gebrauchsgegenstände
 Gebrüll
 Gebändigte
@@ -1476,7 +1476,7 @@ Gefangenschaft
 Gefräßigkeit=greed
 Gefährten
 Gefährtin
-Gefälle
+Gefälle=slope
 Gefängnis
 Gefängnisinsassen
 Gefängnissen
@@ -2782,7 +2782,7 @@ Mitarbeit
 Mithilfe
 Mitleid=compassion
 Mitläufer
-Mitmenschen
+Mitmenschen=fellows
 Mitschuldiger=accomplice
 Mittag
 Mittags
@@ -3048,7 +3048,7 @@ Ofen
 Ofenhitze
 Ofens
 Offenbar
-Offenheit
+Offenheit=openness
 Offensichdiche
 Offensichtlich
 Offensive
@@ -4058,7 +4058,7 @@ Taschenfeuerzeug
 Taschenlampe
 Taschentuch=handkerchief
 Tat
-Tatkraft
+Tatkraft=energy
 Tatsache
 Tatsachen
 Taugliche=suitable
@@ -4318,7 +4318,7 @@ Unterwerfung
 Unterworfenen
 Unterwürfigkeit
 Untätigkeit
-Untüchtigkeit
+Untüchtigkeit=inefficiency	
 Unvermittelt=sudden
 Unvermögen=disability
 Unverschämtheit=impudence
@@ -4439,7 +4439,7 @@ Verrückten
 Verrückter
 Verrücktheit=madness
 Vers
-Versagen=deny
+Versagen=failure
 Versammlung
 Verschlechterung
 Verschleiß=wear
@@ -4620,7 +4620,7 @@ Weckens
 Weckt
 Weg
 Wegbleiben
-Wege
+Wege=way
 Wegen
 Weges
 Wegstrecke
@@ -4973,7 +4973,7 @@ abscheulich=horribly
 abscheuliche=heinous
 abscheulicher=hideous
 abschinden=(sich) to toil long and hard
-abschuftender
+abschuftender=(sich) slaving
 absetzen
 absichtlich=intentionally
 absieht
@@ -5097,7 +5097,7 @@ andächtig
 aneignen
 aneinandergefügt
 aneinandergeklammert
-anerkannt
+anerkannt=recognized
 anerzogene
 anfassen
 anfertigen
@@ -5169,7 +5169,7 @@ annehmbare=decent
 annehmen
 anonyme
 anonymen
-anpassen
+anpassen=adjust
 anrühren=touch
 ans
 ansah
@@ -5341,9 +5341,7 @@ aufzählen
 augenblicklich
 augenblickliche
 augenblicklichen
-augenfällig
-augenfällige=salient
-augenfälligen=obvious
+augenfällig=obvious
 augenfälliges
 augenscheinlicheren=evident
 aujourd'hui«
@@ -5359,7 +5357,7 @@ ausdrücklicher
 ausdrückt=express
 auseinander
 auseinandersetzen
-ausersehen
+ausersehen=accidentally
 ausfiel
 ausfindig=locate
 ausführlich=in detail
@@ -5446,7 +5444,7 @@ ausweichen=avoid
 ausziehen=undress
 auszogen
 auszufragen=interrogate
-auszuführen
+auszuführen=do
 auszufüttern=relining
 auszuheben
 auszuladen
@@ -5541,7 +5539,7 @@ befinde
 befinden
 befindet
 befleißigte
-befohlen
+befohlen=ordered
 befolgen
 befolgenden=to be followed
 befolgt
@@ -5854,7 +5852,7 @@ bewachen
 bewaffnet
 bewaffnete
 bewaffneten
-bewahren=preserve
+bewahren=preserve, save
 bewahrt=preserved
 bewahrte
 bewandert
@@ -5906,7 +5904,7 @@ biologische
 bis
 bisher
 bist
-bisweilen
+bisweilen=from time to time
 bitte
 bitten
 bitter
@@ -6298,7 +6296,7 @@ durchgeführt
 durchgeführte
 durchgekommen
 durchgesehen
-durchgestrichene
+durchgestrichene=slashed
 durchgetretenen
 durchhalten
 durchkommen=get through
@@ -6383,7 +6381,7 @@ einander
 einatmet=inhales
 einbilden
 einbringen
-einbringt
+einbringt=brings
 einbüßt
 eindeutig=clearly
 eindringen
@@ -6586,7 +6584,7 @@ entledigen=release
 entleeren
 entlegenen
 entlohnen
-entnehmen
+entnehmen=taken
 entnimmt=take from
 entrichtet=paid
 entronnen
@@ -6603,7 +6601,7 @@ entschiedene
 entschließe
 entschlossen=determined
 entschlossenen
-entschlossener
+entschlossener=determined
 entschädigen
 entschädigungsgierig=compensation greedy
 entsetzliche=terrible
@@ -6737,7 +6735,7 @@ erleuchtet
 erlitten
 erlittene
 erlittenen
-erloschen
+erloschen=extinct
 erloschenen=dead
 ermatte
 ermesse
@@ -6759,7 +6757,7 @@ ernstlich
 ernstliches
 erntet
 erobert
-erprobten
+erprobten=tested
 erraten=guess
 erregen
 erregender
@@ -7089,7 +7087,7 @@ furchtbar
 furchtbaren
 furchtbarer
 furchten
-fähig
+fähig=able
 fährt
 fällt
 fängt
@@ -7228,7 +7226,7 @@ gegen
 gegenseitig
 gegenseitiger
 gegenstandslos=pointless
-gegensätzliche
+gegensätzliche=opposite
 gegenwärtig=present
 gegenwärtige
 gegenwärtigen
@@ -7249,7 +7247,7 @@ gehaßten
 gehaßter
 geheime
 geheimen
-geheimhalten
+geheimhalten=keep secret
 geheimnisvolle
 geheimnisvollen
 geheimnisvoller
@@ -7393,7 +7391,7 @@ geringste
 geringsten
 gerinnt
 gerissen
-gerissenen
+gerissenen=cunning
 germanischen
 gern
 gerne
@@ -7424,7 +7422,7 @@ geschenkt
 geschichtet
 geschickt
 geschickten
-geschieden
+geschieden=separated
 geschiedene
 geschieht
 geschieht!
@@ -7618,7 +7616,7 @@ grauenhaften
 grauenvolle
 grauenvollen
 grauer
-grausam
+grausam=cruelly
 grausame
 grausamen=cruel
 grausamer
@@ -7634,7 +7632,7 @@ grenzte
 greulichen=abominable
 griechische
 griechischen
-grimmig
+grimmig=grim
 grinst=grins
 grob
 grobe
@@ -7880,7 +7878,7 @@ hilflos
 hin
 hin-
 hinab
-hinabsinkt
+hinabsinkt=sinks
 hinabsteige
 hinauf
 hinaus=out
@@ -8653,7 +8651,7 @@ merk
 merke
 merken
 merklich
-merklicher
+merklicher=noticeable
 merkt
 merkte
 merkwürdig
@@ -9261,7 +9259,7 @@ röchelte
 röstet
 rücken
 rückhaltlose=unreserved
-rücksichtslose
+rücksichtslose=reckless
 rückständig
 rückte
 rühmten
@@ -9370,7 +9368,7 @@ schlechthin=par excellence
 schlendere=stroll
 schleppen=drag
 schleppenden
-schleppt
+schleppt=drag
 schleppte
 schleppten
 schleudert
@@ -9472,7 +9470,7 @@ schuld
 schuldig
 schwach=faint, weak
 schwache
-schwachen
+schwachen=weak
 schwammig
 schwankend
 schwankenden
@@ -9569,7 +9567,7 @@ selbst
 selbstsicheren
 selbstverständlich
 selbstverständlichsten
-selektionsreifen
+selektionsreifen=selection-mature
 selten
 seltene
 seltsam
@@ -9798,7 +9796,7 @@ stramm=erect
 strammer=tight
 strammstehen
 strammzustehen
-strauchelt
+strauchelt=stumble
 strecke
 strecken
 streckte
@@ -10068,7 +10066,7 @@ umnebelt
 umringen
 ums
 umschlossen
-umsichtiger
+umsichtiger=prudent
 umziehen
 umzubringen
 umzudrehen=turn
@@ -10138,7 +10136,7 @@ unentbehrlich
 unentwegt
 unentwirrbaren
 unerbittlich=inexorable
-unerfindlichen
+unerfindlichen=some unknown
 unerforschlich
 unergründlich
 unerhörte
@@ -10257,7 +10255,7 @@ unsinnigen
 unsinnigerweise
 unsre
 unstete=unsettled
-untauglichen
+untauglichen=disabled
 unten
 unter
 unterbrach
@@ -10493,7 +10491,7 @@ verkauft
 verkehren=operate
 verklebt
 verkleistert
-verknüpft
+verknüpft=linked
 verkrochen
 verkrustet
 verkrümmten
@@ -10570,7 +10568,7 @@ verroht
 verrückt
 verrückte
 verrückten
-versagen
+versagen=deny
 versagt
 versammelt
 verschachern
@@ -10712,9 +10710,7 @@ verzichtet=renounce
 verzinktem
 verzog
 verzogenes
-verzweifelt
-verzweifelte=desperate
-verzweifelten
+verzweifelt=desperate
 verächtliches
 verändern
 veränderte
@@ -10832,7 +10828,7 @@ vorsorglich
 vorsorgliches
 vorstellen
 vorsätzlich
-vorteilhaften
+vorteilhaften=advantageous
 vorteilhafter
 vortrefflich
 vorweist
@@ -11287,7 +11283,7 @@ zurechtkamen
 zurechtlegen
 zurechtzimmern=construct
 zurechtzimmerten
-zurechtzufinden
+zurechtzufinden=find your way
 zurück
 zurückerhalten
 zurückfuhr!
@@ -11663,7 +11659,7 @@ Es
 »überwintern«
 Ähnlichkeit
 Ältesten
-Ämter
+Ämter=office
 Ämtern=offices
 Ängsten
 Ärmel=sleeve
@@ -11691,7 +11687,7 @@ Es
 Übereinkunft=agreement
 Übereinstimmungen=matches
 Übergang
-Überleben
+Überleben=survival
 Überlebenden
 Überlebender
 Überlegens=reflection
