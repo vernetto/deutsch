@@ -5028,7 +5028,7 @@ seine
 seinem
 seinen
 seiner
-seinerseits
+seinerseits=for its part
 seinerzeit
 seines
 Seins=his
