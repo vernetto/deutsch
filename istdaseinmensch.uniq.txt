@@ -158,7 +158,7 @@ Annahme=assumption
 Annehmlichkeiten=amenities
 Anpassungsfähigkeiten=adaptation abilities
 Anpassungsvorgang=Adaptation process
-Ansatz
+Ansatz=departure
 Anschein=apparently
 Anscheinend
 Anschlagen
@@ -283,7 +283,7 @@ Aufständischen
 Aufsässigkeit
 Auftauen
 Aufteilung
-Auftrag
+Auftrag=task
 Aufwallung=surge
 Aufwertung=revaluation
 Aufzeichnung=recording
@@ -374,7 +374,7 @@ Bahnschienen=railroad tracks
 Bahnsteig
 Bahnsteigs
 Bahre
-Balken
+Balken=bar
 Balla
 Band
 Bannkreis
@@ -603,7 +603,7 @@ Blech
 Blechnapf
 Blechschmied=tinsmith
 Blechschüsseln=tin bowl
-Blechstück
+Blechstück=sheet metal piece
 Blechwand
 Bleistift
 Bleistifte
@@ -679,9 +679,9 @@ Brücke
 Brühe=broth
 Buch
 Buchstaben
-Buckel
+Buckel=hump
 Budapest
-Bude
+Bude=hut
 Bug
 Buna
 Buna-Artikeln
@@ -833,7 +833,7 @@ Diena
 Dienst
 Dienste
 Dienstes
-Dienstleistungen
+Dienstleistungen=services
 Dienststelle
 Dies
 Diese
@@ -878,7 +878,7 @@ Drangsal=distress
 Draußen
 Dreck
 Dreckarbeit=dirty work
-Dreh
+Dreh=knack
 Drehung
 Drei
 Dreieck
@@ -956,7 +956,7 @@ Eigenart=nature
 Eigenartig
 Eigennutz
 Eigentum
-Eignung
+Eignung=aptness
 Eile
 Eimer=bucket
 Eimerdienst
@@ -1144,7 +1144,7 @@ Erwartungen
 Erwiderung
 Erwägungen=considerations
 Erwählten
-Erz
+Erz=ore
 Erziehung
 Erzählertraum
 Erzählung
@@ -1294,7 +1294,7 @@ Flesch
 Fleschs
 Flicken=patches
 Flickschuster=cobbler
-Flickschusters
+Flickschusters=cobbler
 Fliegeralarm
 Fliegeralarms
 Fluch
@@ -1474,7 +1474,7 @@ Gefangenen
 Gefangennahme
 Gefangenschaft
 Gefräßigkeit=greed
-Gefährten
+Gefährten=companions
 Gefährtin
 Gefälle=slope
 Gefängnis
@@ -1563,7 +1563,7 @@ Gerüche
 Gerücht
 Gerüchte
 Gerüchten
-Gerüste
+Gerüste=Scaffolding
 Gerüsten
 Gesagten
 Gesamtheit
@@ -1602,13 +1602,13 @@ Gespräch
 Gesprächspartner
 Gesprächsstoff
 Gespött=mockery
-Gestalt
+Gestalt=figure
 Gestalten
 Gestank
 Gestapo
 Geste
 Gestern
-Gestörten
+Gestörten=disturbed
 Gesund
 Gesunden
 Gesundheit
@@ -1618,7 +1618,7 @@ Gettos
 Gewalt
 Gewalttäter=perpetrators of violence
 Gewalttätigkeit=violence
-Gewand
+Gewand=vesture
 Gewaschenen
 Gewebe
 Gewicht
@@ -1654,7 +1654,7 @@ Gleichartigkeit
 Gleichgewicht=balance
 Gleichgültigkeit
 Gleichheit
-Gleichmacherei
+Gleichmacherei=egalitarianism
 Gleichschritt=lockstep
 Gleis
 Gleiwitz
@@ -1708,7 +1708,7 @@ Griechen
 Griechenland
 Griechisch
 Grimasse
-Grimassen
+Grimassen=grimaces
 Grollen
 Großen
 Großes
@@ -1785,7 +1785,7 @@ Handtücher
 Handumdrehen
 Handvoll
 Handwerk
-Handwerkszeug
+Handwerkszeug=tools
 Hang
 Hans
 Hanser
@@ -1932,7 +1932,7 @@ Homosexuelle
 Horizont
 Hose
 Hosen
-Hosenträger
+Hosenträger=suspenders
 Humor
 Hund
 Hund!
@@ -2209,7 +2209,7 @@ Kerzen
 Kerzenfabrik
 Kessel
 Kesselwaschen
-Kesselwäschers
+Kesselwäschers=boiler scrubber
 Kette
 Khaki-Anzügen
 Khaki-Uniform
@@ -2266,7 +2266,7 @@ Kolonne
 Kolonnen
 Kombination
 Kombinationen
-Kombinationsvermögen
+Kombinationsvermögen=combined capacity
 Kombinator
 Kommandant
 Kommando
@@ -2540,7 +2540,7 @@ Li
 Libertà
 Licht
 Lichtchen
-Lichter
+Lichter=lights
 Lichtertraube
 Lichtkegel
 Liczba
@@ -2641,7 +2641,7 @@ Magazinverwalter
 Magazinverwalterin
 Magazinwachen
 Magen
-Magengrube
+Magengrube=solar plexus
 Magenknurren=tummy rumbles
 Magens
 Magensonden
@@ -2909,7 +2909,7 @@ Nachsicht
 Nacht
 Nachtfrost
 Nachtkluft=night uniform
-Nachtruhe
+Nachtruhe=sleep
 Nachts
 Nachtwache
 Nachtwachen
@@ -2929,7 +2929,7 @@ Name
 Namen
 Namens
 Namensfolge
-Napf
+Napf=bowl
 Narbe
 Narben
 Nase
@@ -3265,7 +3265,7 @@ Quando
 Quantum
 Quell
 Quelle
-Quere
+Quere=cross
 Quintessenz
 Quotierung
 Rabbiner
@@ -3307,7 +3307,7 @@ Reagenzien
 Reaktion
 Realität
 Rebellionsgeist
-Rechnung
+Rechnung=(auf eigene Rechnung ) for his own account
 Rechnungsführung
 Recht
 Rechte
@@ -3514,7 +3514,7 @@ Schaudern=shudder
 Schauer
 Schaufel
 Schaufelwurf
-Schauspiel
+Schauspiel=spectacle
 Schauspieler
 Schauspiels
 Scheibe=glass
@@ -3618,7 +3618,7 @@ Schreibers
 Schreibtisch
 Schreien
 Schreiner=carpenter
-Schreiners
+Schreiners=carpenter
 Schrift
 Schriftgelehrter=scribe
 Schritt
@@ -3679,7 +3679,7 @@ Schwüre
 Schädel=skull
 Schädeln
 Schädelnähte
-Schädelstoß
+Schädelstoß=skull Bash
 Schäden
 Schön
 Schönheit
@@ -3728,7 +3728,7 @@ Selbstdisziplin
 Selbstkontrolle
 Selbstverständlich
 Selbstvertrauen
-Selbstüberwindung
+Selbstüberwindung=willpower
 Selektion
 Selektionen
 Selektionierten
@@ -3858,7 +3858,7 @@ Sprachen
 Sprachverwirrung=confusion of languages
 Sprachwissenschaft
 Sprachwissenschaftler
-Sprechweise
+Sprechweise=speech
 Spreu=chaff
 Sprosse=rung
 Spräche
@@ -3879,7 +3879,7 @@ Stacheldrahtzäunen
 Stacheldrähte
 Stadt
 Stahlkabel
-Stahlschrott
+Stahlschrott=steel scrap
 Stand
 Stangen
 Stangl
@@ -3970,7 +3970,7 @@ Stund
 Stunde
 Stunden
 Sturm
-Sturmbock
+Sturmbock=ram
 Sturz
 Styrol-Abteilung
 Städte
@@ -4218,7 +4218,7 @@ Ukraine
 Ukrainer
 Um
 Umfang
-Umgang
+Umgang=contact
 Umgebung
 Umgegend
 Umkleideraum
@@ -4720,7 +4720,7 @@ Wodka
 Woher
 Wohin
 Wohlberatenen
-Wohlstand
+Wohlstand=prosperity
 Wohltäter=benefactor
 Wohlwollen=benevolence
 Wohnblocks
@@ -4843,11 +4843,11 @@ Zugabe=bonus
 Zugang
 Zuges
 Zugeständnis
-Zugänge
+Zugänge=entrance
 Zuhause=home
 Zuhörer
 Zuhörern
-Zuhörerschaft
+Zuhörerschaft=audience
 Zukunft
 Zum
 Zuneigung
@@ -4861,7 +4861,7 @@ Zusage
 Zusammengekrümmt
 Zusammenhang
 Zusammenhänge
-Zusammenhängendes
+Zusammenhängendes=coherent
 Zusammenzucken
 Zuschauer
 Zuspätkommen=lateness
@@ -4884,7 +4884,7 @@ Zweifel
 Zweifelsfällen
 Zweiter
 Zweizeiler=couplet
-Zwerg
+Zwerg=dwarf
 Zwietracht=discord
 Zwilling
 Zwischenfall
@@ -4893,7 +4893,7 @@ Zwischenpersonen
 Zwischenwertungen
 Zwölf
 Zylinder
-Zähigkeit
+Zähigkeit=tenacity
 Zählt
 Zähne
 Zähnen
@@ -4947,7 +4947,7 @@ abgeschnitten
 abgeschwächt
 abgesehen
 abgestumpft
-abgestumpften
+abgestumpften=dulled
 abgewandelter=modified
 abgewinnen=to take pleasure in
 abgewälzt=passed
@@ -5015,7 +5015,7 @@ ac-qua
 ach
 acht
 acht-
-achtbares
+achtbares=honorable
 achten=respect
 achthundert
 achtzehn
@@ -5202,13 +5202,13 @@ antwortete
 anvertraut=entrusted
 anwenden
 anwesend
-anziehen
+anziehen=wear
 anzubieten
 anzublicken=to look at
 anzufreunden
 anzugehen=tackle
 anzulegen
-anzumelden
+anzumelden=register
 anzunehmen
 anzupassen
 anzuschaffen
@@ -5233,7 +5233,7 @@ armen
 armer
 armes
 armseligen=wretched
-armseliger
+armseliger=wretched
 armseligste=poorest
 aromatische
 artet
@@ -5257,7 +5257,7 @@ aufbringen
 aufdringlichen
 aufeinander
 aufeinanderfolgenden
-auferlegte
+auferlegte=imposed
 auffiel=failed
 auffrischer
 auffällig=eye-catching
@@ -5370,7 +5370,7 @@ ausgedörrt
 ausgefüllt=filled out
 ausgegangen=run out
 ausgegeben=distribute
-ausgehen
+ausgehen=finish, go out
 ausgehobene=excavated
 ausgeht
 ausgehungert
@@ -5391,7 +5391,7 @@ ausgeprägten=pronounced
 ausgeprägter
 ausgerechnet
 ausgereicht
-ausgeruht
+ausgeruht=rested
 ausgerückt=disengaged
 ausgeschieden=eliminated
 ausgeschlossen
@@ -5449,7 +5449,7 @@ auszufüttern=relining
 auszuheben
 auszuladen
 auszulegen
-auszuliefern
+auszuliefern=deliver
 auszulöschen
 auszunutzen
 auszuplaudern
@@ -5538,7 +5538,7 @@ befestigen
 befinde
 befinden
 befindet
-befleißigte
+befleißigte=(sich) to make an effort
 befohlen=ordered
 befolgen
 befolgenden=to be followed
@@ -5552,7 +5552,7 @@ befriedigt
 befunden
 befände
 befänden
-befördert
+befördert=promoted
 befühlt
 befürchten
 begab
@@ -5572,7 +5572,7 @@ begehen=commit
 begehrt
 begehrte=desired
 begehst=commit
-begeistert
+begeistert=enthusiastic
 begeisterte
 begibt
 beginne
@@ -5581,9 +5581,9 @@ beginnt
 begleiten=accompany
 begleitet=accompanying
 beglückwünscht
-begnügen
+begnügen=be content
 begnügt
-begnügte
+begnügte=contented
 begnügten
 begonnen
 begossene
@@ -5642,7 +5642,7 @@ bekannte
 bekannten
 bekanntes
 bekanntgegeben
-bekanntlich
+bekanntlich=generally known
 beklagen
 bekleidet
 bekleideten
@@ -5667,7 +5667,7 @@ beliebiger
 beliebt
 belobigt=condemned
 belogen
-belohnten
+belohnten=recompense
 belügen
 belügt=lying to
 bemalt
@@ -5716,7 +5716,7 @@ bereitgestellt=provided
 bereits
 bergen
 berichte
-berichten
+berichten=tell
 berichtet
 berichtete
 berichteten
@@ -5754,7 +5754,7 @@ beschränkte
 beschränkten
 beschwerlich
 beschwerliche
-beschwörendem
+beschwörendem=imploring
 beschädigen
 beschützt
 besessen
@@ -6038,7 +6038,7 @@ dabei
 dachte
 dachten
 dachtest
-dadurch
+dadurch=in this way
 dafür
 dageblieben
 dagegen
@@ -6065,7 +6065,7 @@ dann
 dar
 daran
 daranzuhängen
-darauf
+darauf=on that
 darauffolgenden
 daraufgewartet
 daraufhin
@@ -6363,7 +6363,7 @@ eigenartig
 eigenartige
 eigenartigem=peculiar
 eigenartigen
-eigenartigerweise
+eigenartigerweise=peculiarly
 eigene
 eigenen
 eigener
@@ -6405,13 +6405,13 @@ einfaches
 einfachste
 einflußreichen
 einflußreicher
-einfältigen
+einfältigen=foolish
 eingebracht
 eingedrungen
 eingedrückten
 eingefallenem=shrunken
 eingefallenen=sunken
-eingefallenes
+eingefallenes=sunken
 eingefleischtes
 eingegraben
 eingehende=thorough
@@ -6426,7 +6426,7 @@ eingerichtet=furnished
 eingeritzt
 eingeräumt=conceded
 eingeschlafen
-eingesetzt
+eingesetzt=used
 eingesperrt
 eingestichelte
 eingestürzte=collapsed
@@ -6557,7 +6557,7 @@ entfernt
 entfernte
 entfernten
 entfällt
-entgangen
+entgangen=escaped
 entgegen
 entgegengesetzte
 entgegengesetzten=opposite
@@ -6600,7 +6600,7 @@ entschieden
 entschiedene
 entschließe
 entschlossen=determined
-entschlossenen
+entschlossenen=resolute
 entschlossener=determined
 entschädigen
 entschädigungsgierig=compensation greedy
@@ -6618,7 +6618,7 @@ entstammt
 entstand
 entstanden=created
 entsteht
-entstellt
+entstellt=disfigured
 enttäuscht
 entwaffnend=disarming
 entweder
@@ -6808,7 +6808,7 @@ erteilt=(Auskunft) give information
 erteilten
 ertragen
 ertragene
-ertragreiche
+ertragreiche=profitable
 ertragreicher
 erträglich=bearable
 ertönt=sounds
@@ -6825,7 +6825,7 @@ erweckt
 erweichen
 erweisen
 erweist
-erwerben
+erwerben=purchase
 erwidere=reply
 erwidert
 erwiderten
@@ -7139,7 +7139,7 @@ ganzes
 gar
 garantiere
 garantiert
-geachtet
+geachtet=respected
 geahndet=punished
 geahnt=suspected
 geantwortet
@@ -7169,7 +7169,7 @@ gebrauchte
 gebrochen
 gebrüllten
 gebunden
-gebärdet
+gebärdet=behaved
 gebügelter=ironed
 gedeiht=prosper
 gedeutet=indicated
@@ -7307,7 +7307,7 @@ gelebt
 geleert
 gelegen
 gelegentlich=occasionally
-gelegentlichen
+gelegentlichen=occasional
 gelehrt
 geleitet
 gelernt
@@ -7390,7 +7390,7 @@ geringes
 geringste
 geringsten
 gerinnt
-gerissen
+gerissen=cunning
 gerissenen=cunning
 germanischen
 gern
@@ -7549,7 +7549,7 @@ gewöhnten
 gewünscht
 gezeichnet
 gezeigt
-gezeugt
+gezeugt=begotten
 gezwungen
 gezwungenermaßen=forced
 gezählt
@@ -7558,7 +7558,7 @@ geöffnetem
 geöffneten
 gibt
 gibt's
-gierig
+gierig=greedy
 gierigen=greedy
 giftigen
 gilt
@@ -7719,7 +7719,7 @@ hallen
 hallte=echoed
 halte
 halten
-haltlos
+haltlos=groundless
 haltmachen
 handeln
 handelt
@@ -7753,7 +7753,7 @@ hebt
 heftete
 heftig
 heftige
-heftigen
+heftigen=violent
 heftiger
 heiklen=delicate
 heil'ge
@@ -7847,7 +7847,7 @@ hervorragende
 hervorruft=causes
 hervorschauten
 hervorstoßend
-hervortreten
+hervortreten=emerge
 herweht
 herwiegend
 herzeigt
@@ -7908,7 +7908,7 @@ hingegen
 hingehen
 hingemacht
 hingen
-hingewiesen
+hingewiesen=noted
 hinken
 hinkend
 hinkomme
@@ -8328,14 +8328,14 @@ krasses
 kratzen=scrape
 kratzte
 kraß=glaring
-kreischend
+kreischend=screaming
 kreischten
 kriechen
 kriminellen
 kritisch
 kritteln
 kroatischen
-krumm
+krumm=crooked
 krumme=crooked
 kräftig
 kräftige
@@ -8343,7 +8343,7 @@ kräftigen
 kräftiger
 kränkt
 krümmen=writhe, curve
-krümmt
+krümmt=curve
 kuk
 kulminierten
 kulturellen
@@ -8693,7 +8693,7 @@ mitten
 mitzunehmen
 mitzuteilen
 mißbraucht
-mißgebildete
+mißgebildete=malformed
 mißgünstigen
 mißtrauisch
 mnemotechnische
@@ -8770,7 +8770,7 @@ nachher=after
 nachhänge=indulge
 nachläßt=decreases
 nachmittags
-nachsichtiger
+nachsichtiger=forgiving
 nachsteht
 nacht
 nachträglich=later
@@ -8847,7 +8847,7 @@ niederlegt=lie down
 niederringen
 niederschossen
 niederschreibt
-niederträchtig
+niederträchtig=wicked
 niedrigen
 niedriger
 niedrigste
@@ -8955,7 +8955,7 @@ organisierten
 output
 paar
 paarweise=in pairs
-pachtet
+pachtet=rent
 packen=grab
 packt
 padre
@@ -8978,11 +8978,11 @@ passive
 pauv'
 paß
 paßt
-paßte
+paßte=fit
 pedantisch
 peinlich=painful
 peinlichen
-peinlichst
+peinlichst=meticulously
 pelzigen
 pendelnde
 penetranten
@@ -9377,7 +9377,7 @@ schlief
 schliefe
 schliefen
 schließe
-schließen
+schließen=infer
 schließlich
 schließt
 schlimmer
@@ -9436,7 +9436,7 @@ schneebedeckten
 schneiden
 schneidend
 schneidern
-schneidet
+schneidet=cuts
 schneien
 schneit
 schnell
@@ -9488,7 +9488,7 @@ schweigen
 schweigend
 schweigende
 schweigenden
-schweigsam
+schweigsam=taciturn
 schweigsamer
 schweigt
 schweißnassen
@@ -9509,7 +9509,7 @@ schwitzen
 schwächer
 schwächsten
 schwärzliche
-schäbigen
+schäbigen=shabby
 schädlich
 schädliche
 schälte
@@ -9636,7 +9636,7 @@ solche
 solchen
 solcher
 solcherart
-solchermaßen
+solchermaßen=thus
 solches
 solidarisch
 solide
@@ -9723,7 +9723,7 @@ stand
 standen
 standhalten
 standzuhalten=withstand
-stapft
+stapft=trudges
 starb
 starben
 stark
@@ -9772,7 +9772,7 @@ stiegen
 stiehlt=steals
 still
 stille
-stillen
+stillen=quench
 stillschweigende=tacit
 stimme
 stimmen
@@ -9825,14 +9825,14 @@ stur=stolid
 stutzig=amazed
 stählen=toughen
 stählerne
-stämmigen
+stämmigen=stout
 ständig
 ständigen
 stärker
 stört
 stößt=pushes
 stülpt
-stünde
+stünde=would
 stürzen=fling
 stürzt
 stützen
@@ -9965,11 +9965,11 @@ trennen
 trennenden
 trennte
 trete
-treten
-trieb
+treten=(hervor) emerge
+trieb=urged
 triebe
 triebhafte
-triebhafter
+triebhafter=instinctive
 triefen=dripping
 triefend
 trifft
@@ -10038,7 +10038,7 @@ töricht=foolish
 törichtes
 töten
 tötet
-tüchtige
+tüchtige=capable
 tür
 u
 ukrainische
@@ -10079,14 +10079,14 @@ una
 unabhängig
 unangenehm
 unangenehme
-unangenehmen
+unangenehmen=unpleasant
 unangetastet=untouched
 unansehnlich
 unantastbar=untouchable
 unaufhörlichen=incessant
 unaufmerksam
 unausbleiblich
-unausgesetzt
+unausgesetzt=incessant
 unauslöschliche=indelible
 unbebaute
 unbedachtes
@@ -10316,7 +10316,7 @@ unverständlich
 unverständliche
 unverständlichen
 unverwundet
-unverzüglich
+unverzüglich=immediately
 unveränderten
 unveränderter
 unvorbereitet
@@ -10383,7 +10383,7 @@ verbliebene
 verbliebenen
 verbliebener
 verblüffend
-verblüffendes
+verblüffendes=amazing
 verbogenen
 verboten
 verbotenen
@@ -10424,7 +10424,7 @@ verdrückt
 verdächtig=suspicious
 verdächtige=suspicious
 verdächtigen
-vereinbaren
+vereinbaren=agree
 vereinbart=negotiated 
 vereinigt
 vereist
@@ -10593,7 +10593,7 @@ verschluckte
 verschlungen
 verschmutzte
 verschmähen=disdain
-verschnaufen
+verschnaufen=have a breather
 verschneiten=snowy
 verschnürt
 verschont
@@ -10657,7 +10657,7 @@ verteilen
 verteilt
 verteilten
 vertiefte
-vertilgen
+vertilgen=polish off
 vertrauen
 vertrauenerweckend=trustworthy
 vertrauensvoll
@@ -10674,7 +10674,7 @@ vervollkommnet=perfect
 verwandeln
 verwandelt
 verwandelte
-verwandte=relatives
+verwandte=used (verwenden)
 verwechselnd
 verwechselt
 verwechselten
@@ -10954,7 +10954,7 @@ weiterkonnten
 weitermachen
 weiterverfolgt
 weiterzuleben
-weiterzumachen
+weiterzumachen=keep going
 weitesten
 weither
 weiß
@@ -11082,7 +11082,7 @@ wissend
 wissenschaftlich
 wissenschaftliche
 wissenschaftliches
-witterte
+witterte=sensed
 wo
 wobei
 wofür
@@ -11116,7 +11116,7 @@ wortlos
 worüber
 wozu
 wuchs
-wuchtig
+wuchtig=powerful
 wuchtigen
 wunden
 wunder
@@ -11249,7 +11249,7 @@ zugefügt
 zugefügte=inflicted
 zugefügten
 zugehen
-zugelegt
+zugelegt=gained
 zugeschnittenen
 zugesprochen=awarded
 zugestanden
@@ -11351,7 +11351,7 @@ zuvor
 zuvorgekommen
 zuvorzukommen=forestall, preempt
 zuwege=(bringen) accomplished
-zuweilen=???
+zuweilen=occasionally
 zwanzig
 zwanzigjährige
 zwanzigjährigen
@@ -11396,7 +11396,7 @@ zählt
 zählten
 zögern=hesitate
 zögert=hesitate
-zögerte
+zögerte=hesitate
 zündeten
 Absperre! = cordon
 Achtung!
@@ -11721,7 +11721,7 @@ zweiplatzigen
 äußern=express
 äußerst
 äußerste
-äußerster
+äußerster=outermost
 ça!
 és
 öde
@@ -11780,7 +11780,7 @@ zweiplatzigen
 überpersönlich
 überqueren
 überquollen
-überragte
+überragte=towered
 überraschenderweise
 überrascht
 überreden=persuade
@@ -11809,7 +11809,7 @@ zweiplatzigen
 überwachte
 überwinden
 überwunden=overcome
-überzeugen
+überzeugen=convince
 überzeugendem
 überzeugt
 überziehen
