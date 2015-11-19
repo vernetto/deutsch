@@ -2827,7 +2827,7 @@ unverschämt und gewalttätig, unsere tägliche, stumpfsinnige Fron, wobei er si
 Besuchen und Abenteuern in wer weiß welche Abgeschiedenheiten der Baustelle verzog und mit 
 vollgestopften Taschen und häufig auch mit sichtbar vollem Magen wiederkehrte. 
 Elias ist ein natürlicher, unschuldiger Dieb, er hat die triebhafte Schläue wilder Tiere. Nie wird er 
-auffrischer Tat ertappt, weil er nur dann stiehlt, wenn sich ihm eine sichere Gelegenheit dazu bietet; 
+auf frischer Tat ertappt, weil er nur dann stiehlt, wenn sich ihm eine sichere Gelegenheit dazu bietet; 
 ist dies aber der Fall, stiehlt er ebenso unbedingt und unausbleiblich, wie ein Stein nach dem Gesetz 
 der Schwerkraft fallen muß. Und abgesehen davon, daß man ihn kaum dabei erwischen kann, wäre 
 es selbstverständlich zwecklos, ihn wegen seiner Diebstähle zu bestrafen; sie sind für ihn eine 
@@ -2838,7 +2838,7 @@ Fremdling in unserer modernen Welt, der daher in die Urbedingungen des Lagerlebe
 hineinpaßt; oder ob er nicht eben ein Produkt des Lagers ist, nämlich das, wozu wir alle einmal 
 werden, falls wir nicht im Lager sterben und das Lager selbst nicht vorher zu existieren aufhört. 
 Alle drei Vermutungen enthalten etwas Richtiges. Die Zerstörung von außen hat Elias überlebt, 
-weil er physisch unzerstörbar ist; die Zerstörung von innen hat ihn nicht berührt, weil erschwachsinnig ist. Demnach ist er vor allem ein Überlebender: der geeignetste für diese 
+weil er physisch unzerstörbar ist; die Zerstörung von innen hat ihn nicht berührt, weil er schwachsinnig ist. Demnach ist er vor allem ein Überlebender: der geeignetste für diese 
 Lebensweise, das tauglichste Menschenexemplar. 
 Bekommt Elias seine Freiheit wieder, wird er an die Grenze der menschlichen Gemeinschaft 
 verwiesen, in ein Gefängnis oder ein Irrenhaus. Aber hier im Lager gibt es keine Verbrecher und 
@@ -2870,29 +2870,23 @@ zweiundzwanzig, hochintelligent, er spricht Französisch, Deutsch, Englisch und 
 besitzt eine hervorragende wissenschaftliche und klassische Bildung. 
 Sein Bruder starb im letzten Winter in Buna, und von dem Tag an hat Henri jegliche gefühlsmäßige 
 Bindung zerschnitten. Wie in einen Panzer verschloß er sich in sich selbst, und er kämpft 
-unbeirrbar um sein Leben, mit allen Chancen, die ihm sein wacher Verstand und seine überlegte 
-Erziehung bieten. Henris Theorie zufolge gibt es drei Methoden, der Vernichtung zu entgehen, die 
-der Mensch anwenden und dabei des Namens Mensch würdig bleiben kann: organisieren, Mitleid 
-erwecken und stehlen. 
-Er selbst praktiziert alle drei. Niemand ist in der Strategie, die englischen Kriegsgefangenen 
-einzuwickeln (er sagt »kultivieren«), besser bewandert als er. Unter seinen Händen verwandeln sie 
-sich zu Hennen, die goldene Eier legen: Es sei bemerkt, daß man aus dem Tausch einer einzigen 
-englischen Zigarette im Lager so viel erhält, um sich einen Tag davon sattessen zu können. Einmal 
-ist Henri beobachtet worden, wie er ein wahrhaftiges gekochtes Ei verspeiste. 
-Der Handel mit Waren englischer Herkunft ist Henris Monopol, und soweit ist das eine 
-Angelegenheit des Organisierens; aber was ihn bei den Engländern und bei den andern zum Ziel 
-führt, ist das Mitleid. Henri ist von Gestalt und Gesicht zart und auf eine subtile Art pervers wie der 
-heilige Sebastian des Sodoma: Er hat schwarze, tiefgründige Augen, ist noch bartlos und bewegt 
-sich mit natürlich tändelnder Eleganz (wenn er auch notfalls wie eine Katze laufen und springen 
-kann und wenn auch die Kapazität seines Magens derjenigen Elias' kaum nachsteht). Henri ist sich 
-dieser seiner natürlichen Talente völlig bewußt und verwendet sie mit der kalten Kompetenz 
-dessen, der ein wissenschaftliches Instrument betätigt; die Ergebnisse sind verblüffend. Im Grunde 
-genommen handelt es sich um eine Entdeckung. Henri hat herausgefunden, daß das Mitleid als 
-primäres, unbedachtes Gefühl, wenn es geschickt eingeträufelt wird, gerade bei den primitiven 
-Gemütern jener Rohlinge gut anschlägt, die uns kommandieren, derselben Rohlinge, die sich nichts 
-daraus machen, uns grundlos mit Fäusten zusammenzuprügeln und uns noch mit Füßen zu treten, 
-wenn sie uns am Boden haben; und so ist ihm auch die große, praktische Tragweite dieser 
-Entdeckung nicht entgangen, die er sich für seine persönlichen Geschäfte zunutze macht. 
+unbeirrbar um sein Leben, mit allen Chancen, die ihm sein wacher Verstand und seine überlegte Erziehung bieten. 
+
+Henris Theorie zufolge gibt es drei Methoden, der Vernichtung zu entgehen, die der Mensch anwenden und dabei des Namens Mensch würdig bleiben kann: organisieren, Mitleid erwecken und stehlen. 
+
+Er selbst praktiziert alle drei. Niemand ist in der Strategie, die englischen Kriegsgefangenen einzuwickeln (er sagt »kultivieren«), besser bewandert als er. 
+
+Unter seinen Händen verwandeln sie sich zu Hennen, die goldene Eier legen: Es sei bemerkt, daß man aus dem Tausch einer einzigen englischen Zigarette im Lager so viel erhält, um sich einen Tag davon sattessen zu können. 
+
+Einmal ist Henri beobachtet worden, wie er ein wahrhaftiges gekochtes Ei verspeiste. 
+Der Handel mit Waren englischer Herkunft ist Henris Monopol, und soweit ist das eine Angelegenheit des Organisierens; aber was ihn bei den Engländern und bei den andern zum Ziel führt, ist das Mitleid.
+
+Henri ist von Gestalt und Gesicht zart und auf eine subtile Art pervers wie der heilige Sebastian des Sodoma: Er hat schwarze, tiefgründige Augen, ist noch bartlos und bewegt sich mit natürlich tändelnder Eleganz (wenn er auch notfalls wie eine Katze laufen und springen kann und wenn auch die Kapazität seines Magens derjenigen Elias' kaum nachsteht). 
+
+Henri ist sich dieser seiner natürlichen Talente völlig bewußt und verwendet sie mit der kalten Kompetenz dessen, der ein wissenschaftliches Instrument betätigt; die Ergebnisse sind verblüffend. 
+
+Im Grunde genommen handelt es sich um eine Entdeckung. Henri hat herausgefunden, daß das Mitleid als primäres, unbedachtes Gefühl, wenn es geschickt eingeträufelt wird, gerade bei den primitiven Gemütern jener Rohlinge gut anschlägt, die uns kommandieren, derselben Rohlinge, die sich nichts daraus machen, uns grundlos mit Fäusten zusammenzuprügeln und uns noch mit Füßen zu treten, wenn sie uns am Boden haben; und so ist ihm auch die große, praktische Tragweite dieser Entdeckung nicht entgangen, die er sich für seine persönlichen Geschäfte zunutze macht. 
+
 Ebenso wie die Schlupfwespen die großen, pelzigen Raupen mit einem Stich in das einzige 
 verwundbare Ganglion lahmen, schätzt Henri seinen Mann, »son type«, mit einem Blick ein; er 
 spricht - mit jedem in der auf ihn zugeschnittenen Redeweise - kurz mit ihm, und schon ist der 

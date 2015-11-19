@@ -4,7 +4,7 @@ Rosamunde
 ARBEIT
 Ab
 Abbau
-Abbild
+Abbild=image
 Abdriften
 Abend
 Abenddämmerung
@@ -16,9 +16,9 @@ Abenteuern
 Aber
 Abermillionen
 Abfahrt
-Abgeschiedenheiten
+Abgeschiedenheiten=isolation
 Abgeschlossen
-Abgesehen
+Abgesehen=apart
 Abgestumpftheit
 Abgezehrtesten
 Abgrenzung
@@ -140,7 +140,7 @@ Anflug
 Anforderungen
 Angebot
 Angehörigen
-Angelegenheit
+Angelegenheit=case
 Angelegenheiten
 Angesicht=face to face
 Angespanntheit
@@ -400,7 +400,7 @@ Bauplatz
 Bauplatzes
 Baus
 Bausteine
-Baustelle
+Baustelle=construction site
 Baustellen
 Bauten
 Bauwerk
@@ -451,7 +451,7 @@ Behörde
 Behörden=authorities
 Bei
 Beide
-Beifallsklatschen
+Beifallsklatschen=applause
 Beihilfe
 Beim
 Bein
@@ -785,7 +785,7 @@ Definition
 Deklamationen
 Del
 Delirium
-Demnach
+Demnach=therefore
 Den
 Denken
 Denket
@@ -1372,7 +1372,7 @@ Friedens
 Frist
 Frisörs
 Froh
-Fron
+Fron=drudgery
 Front
 Frost
 Frucht
@@ -1526,7 +1526,7 @@ Gemeinschaft
 Gemeinschaftsarbeit
 Gemüt
 Gemüter=minds
-Gemütern
+Gemütern=minds
 Gemütsart
 Genaues
 Genauigkeit
@@ -1544,7 +1544,7 @@ Gepflogenheiten=customs
 Gepäck
 Gerade=straight
 Gerechtigkeit
-Gerede
+Gerede=talk
 Gerettete
 Geretteten
 Geretteter
@@ -1565,7 +1565,7 @@ Gerüchte
 Gerüchten
 Gerüste=Scaffolding
 Gerüsten
-Gesagten
+Gesagten=what has been said
 Gesamtheit
 Gesang
 Geschehen
@@ -1573,7 +1573,7 @@ Geschehnisse
 Geschenk
 Geschichte
 Geschichten
-Geschick
+Geschick=skill
 Geschicklichkeit
 Geschlamp
 Geschlechtern
@@ -1581,8 +1581,8 @@ Geschosse
 Geschrei
 Geschwindigkeit
 Geschädigten
-Geschäft
-Geschäfte
+Geschäft=business, shop
+Geschäfte=business, shop
 Geschäftigkeit
 Gesehenen
 Gesellschaft
@@ -1775,7 +1775,7 @@ Handel
 Handeln
 Handels
 Handelt
-Handlungen
+Handlungen=actions
 Handlungsablauf=storyline
 Handlungsweise=course of action
 Handreichung
@@ -2047,7 +2047,7 @@ Intuition
 Invasion
 Inzwischen
 Irgendwie
-Irrenhaus
+Irrenhaus=madhouse
 Irrsinns
 Irrtum
 Isolierung
@@ -2494,7 +2494,7 @@ Lebenstag
 Lebensweise=way of life
 Lebenswille
 Lebenszuckung
-Lebensäußerung
+Lebensäußerung=expression of life
 Lebewesen
 Lebewesens
 Lederjacke
@@ -2779,7 +2779,7 @@ Mischung
 Mise
 Mit
 Mitarbeit
-Mithilfe
+Mithilfe=assistance
 Mitleid=compassion
 Mitläufer
 Mitmenschen=fellows
@@ -2864,7 +2864,7 @@ Mächtig-Sein
 Mächtigen
 Mädchen
 Mädchenbekanntschaften
-Mängel
+Mängel=shortcomings
 Männer
 Männern
 Männlichkeitsideal
@@ -3279,7 +3279,7 @@ Rand
 Rande
 Rangabzeichen=rank insignia
 Rangordnung
-Rasch
+Rasch=quickly
 Rascher
 Raschesten
 Rasenbeet
@@ -3295,12 +3295,12 @@ Ration
 Rationen
 Ratschläge=advice
 Rattern
-Raubtier
+Raubtier=predator
 Rauch-
 Raucher
 Rauchschwaden
 Raum
-Raupen
+Raupen=caterpillar
 Raupenketten
 Razzien
 Reagenzien
@@ -3404,7 +3404,7 @@ Robert
 Robustesten
 Rohbau=shell
 Rohling=brute
-Rohlinge
+Rohlinge=brutes
 Rohmaterial
 Rohre
 Rohren
@@ -3473,7 +3473,7 @@ Sabotagen
 Sache
 Sachen
 Sack
-Sackgasse
+Sackgasse=dead end
 Sadist
 Sag
 Sakrileg
@@ -3569,15 +3569,15 @@ Schlittenhunde
 Schlome
 Schlosser
 Schlummers
-Schlupfwespen
+Schlupfwespen=wasps
 Schlupfwinkel
 Schluß=finish
 Schlußfolgerung=conclusion
-Schlußfolgerungen
+Schlußfolgerungen=conclusions
 Schläfer
 Schläge
 Schlägen
-Schläue
+Schläue=cunning
 Schmach=shame
 Schmerz
 Schmerzen
@@ -3589,7 +3589,7 @@ Schmuggel
 Schmulek
 Schmuleks
 Schmutzflecken
-Schmähung
+Schmähung=invective
 Schmähungen
 Schnaps
 Schnarchen
@@ -4129,7 +4129,7 @@ Toulouse
 Towarowski
 Trachten
 Tradition
-Tragweite
+Tragweite=scope
 Transport
 Transportarbeiten
 Transporte
@@ -4455,7 +4455,7 @@ Verseuchung=contamination
 Versklavten
 Versorgungsmöglichkeit
 Versprechungen
-Verstand
+Verstand=mind
 Verstoß
 Verstummen
 Verständigung
@@ -4653,7 +4653,7 @@ Werkküche
 Werksküche
 Werkstatt
 Werkzeug
-Werkzeuge
+Werkzeuge=tools
 Werkzeugmagazin
 Wert
 Wertes
@@ -5295,7 +5295,7 @@ aufhalten
 aufheben
 aufhebende=canceling
 aufhält
-aufhört
+aufhört=stops
 aufklärerisch=enlightening
 auflauert
 aufleuchteten=flash
@@ -5335,7 +5335,7 @@ aufzuhören=stop
 aufzulösen
 aufzupassen
 aufzustehen
-aufzustellen
+aufzustellen=set up
 aufzutreiben=raise
 aufzählen
 augenblicklich
@@ -5832,13 +5832,13 @@ betroffen=affected
 betrunken
 bettelten
 betätigen
-betätigt
+betätigt=actuated
 betäuben=benumb
 betäubt
 beugen
 beunruhigende
 beunruhigt
-beurteilen
+beurteilen=judge
 beurteilt=judge
 bevor
 bevorstand=was imminent
@@ -5855,7 +5855,7 @@ bewaffneten
 bewahren=preserve, save
 bewahrt=preserved
 bewahrte
-bewandert
+bewandert=versed
 bewanderte
 bewegen
 bewegende
@@ -5875,7 +5875,7 @@ bewundern
 bewundernswerten=admirable
 bewundernswertes
 bewundert
-bewußt
+bewußt=sensible
 bewußte
 bewußten
 bewußter
@@ -5935,7 +5935,7 @@ blitzartig=in a flash
 blond
 blonde
 blonden
-bloße
+bloße=mere
 bloßen
 blutbeschmierte
 bluten
@@ -6127,7 +6127,7 @@ demütig
 demütigend
 den
 denen
-denjenigen
+denjenigen=those
 denkbar
 denke
 denken
@@ -6310,7 +6310,7 @@ durchsickern
 durchstecken
 durchstöbert
 durchsuchen
-durchtriebener
+durchtriebener=sly
 durchwachten=sleepless
 durchweichten
 durchzogen
@@ -6433,7 +6433,7 @@ eingestürzte=collapsed
 eingeteilt
 eingetreten
 eingetroffen
-eingeträufelt
+eingeträufelt=instilled
 eingewickeltes=wrapped
 einheitliche
 einhelligen=unanymous
@@ -6493,7 +6493,7 @@ einzuschlagen=hammer down
 einzuschmuggeln
 einzustellen=adjust
 einzuwenden=objection
-einzuwickeln
+einzuwickeln=wrap
 ein
 eisernen
 eiserner
@@ -6780,7 +6780,6 @@ erschossen
 erschreckend
 erschreckender
 erschrocken
-erschwachsinnig
 erschöpft
 ersetzt
 ersonnen=conceived
@@ -6833,7 +6832,7 @@ erwies
 erwiesen
 erwiesenermaßen
 erwirbt
-erwischen
+erwischen=catch
 erworben=acquired
 erwäge
 erwählt
@@ -7185,7 +7184,7 @@ geeignet=suitable
 geeignete=right
 geeigneten
 geeigneter=suitable
-geeignetste
+geeignetste=suitable
 gefahren
 gefallen
 gefangen
@@ -7212,7 +7211,7 @@ gefällt
 gefördert=promoted
 gefügig
 gefügt
-gefühlsmäßige
+gefühlsmäßige=emotional
 gefühlsmäßigen
 gefühlsrohen=crude
 gefühlt
@@ -7287,7 +7286,7 @@ gekochte
 gekochten
 gekochtes
 gekommen
-gekrümmten
+gekrümmten=bent
 gekämpft
 geladen
 gelandet
@@ -7372,14 +7371,14 @@ gerate
 gerecht=fair
 gerechte
 gerechtfertigt=justified
-gereckt
+gereckt=stretched
 geredet
 geregelte
 gereicht
 gereichte
 gereimten
 gerettet
-gerichtet
+gerichtet=directed
 gerichteten
 geringe=little
 geringem
@@ -7420,7 +7419,7 @@ geschehen=happen
 gescheiterte
 geschenkt
 geschichtet
-geschickt
+geschickt=cleverly
 geschickten
 geschieden=separated
 geschiedene
@@ -7511,7 +7510,7 @@ gewagt
 gewahr=realize
 gewaltig
 gewaltsamen
-gewalttätig
+gewalttätig=violent
 gewandelt=converted
 gewandten
 gewaschene
@@ -7843,7 +7842,7 @@ herunterzustürzen
 hervor
 hervorgeholt
 hervorgerufen
-hervorragende
+hervorragende=outstanding
 hervorruft=causes
 hervorschauten
 hervorstoßend
@@ -8141,7 +8140,7 @@ jedes
 jedesmal
 jedoch
 jedweder=any
-jedwedes
+jedwedes=anyone
 jegliche
 jemals
 jemand
@@ -8397,7 +8396,7 @@ lagen
 lagereigenen
 lagerten
 lagrimosa
-lahmen
+lahmen=lame
 lamentieren
 landwirtschaftliche=agricultural
 lang
@@ -8983,7 +8982,7 @@ pedantisch
 peinlich=painful
 peinlichen
 peinlichst=meticulously
-pelzigen
+pelzigen=furry
 pendelnde
 penetranten
 per
@@ -9245,7 +9244,7 @@ ruhigen
 ruhiger
 ruiniert
 rund
-runzelnd
+runzelnd=frowning
 russische
 russischen
 russischer
@@ -9293,7 +9292,7 @@ santé
 sarkastischen
 satanische
 satt
-sattessen
+sattessen=enough to eat
 sattgesehen=grow tired of seeing
 sauber
 saubere
@@ -9371,7 +9370,7 @@ schleppenden
 schleppt=drag
 schleppte
 schleppten
-schleudert
+schleudert=hurls
 schlicht=simple
 schlief
 schliefe
@@ -9471,6 +9470,7 @@ schuldig
 schwach=faint, weak
 schwache
 schwachen=weak
+schwachsinnig=imbecile
 schwammig
 schwankend
 schwankenden
@@ -9517,7 +9517,7 @@ schämen=be ashamed
 schändlichen
 schärfen
 schätzen
-schätzt
+schätzt=(einschätzt) estimate
 schön
 schöne
 schönen
@@ -9890,7 +9890,7 @@ tauchen
 taucht=dip
 tauchten
 tauenden
-tauglichste
+tauglichste=fittest
 taumeln
 tauschberechtigtes
 tauschen
@@ -9965,10 +9965,10 @@ trennen
 trennenden
 trennte
 trete
-treten=(hervor) emerge
+treten=(hervor) emerge, (mit Füsse) trample
 trieb=urged
 triebe
-triebhafte
+triebhafte=instinctive
 triebhafter=instinctive
 triefen=dripping
 triefend
@@ -10026,7 +10026,7 @@ tägliche
 täglichen
 täglicher
 tägliches
-tändelnder
+tändelnder=minor, trifling
 tätig
 tätigten
 tätowiert
@@ -10058,7 +10058,7 @@ umgekehrte=reverse
 umgekehrter=reverse
 umgetauscht
 umgingen
-umher
+umher=around
 umhin=help
 umklammern
 umliefen=circulate
@@ -10085,11 +10085,11 @@ unansehnlich
 unantastbar=untouchable
 unaufhörlichen=incessant
 unaufmerksam
-unausbleiblich
+unausbleiblich=inevitable
 unausgesetzt=incessant
 unauslöschliche=indelible
 unbebaute
-unbedachtes
+unbedachtes=thoughtless
 unbedingt=necessarily,absolutely
 unbefristete
 unbegreiflich
@@ -10100,7 +10100,7 @@ unbeherrschten
 unbeholfen
 unbeholfene
 unbeholfnen
-unbeirrbar
+unbeirrbar=unwaveringly
 unbekannt
 unbekannte
 unbekannten
@@ -10156,7 +10156,7 @@ unerträglicher=unbearable
 unerwartet
 unerwarteten
 unerwünschten
-unfaßbar
+unfaßbar=incomprehensibly
 unfaßlich
 unfehlbar=infallible
 unfruchtbare
@@ -10236,7 +10236,7 @@ unsagbaren=unspeakable
 unschlüssig
 unschuldige
 unschuldigen
-unschuldiger
+unschuldiger=innocent
 unser
 unsere
 unserem
@@ -10358,7 +10358,7 @@ verabschiedet
 verabschiedete
 verabschiedeten
 verachtet
-verankern
+verankern=anchor
 veranlaßt
 veranstalten=organize
 verantwortlich
@@ -10382,7 +10382,7 @@ verbliebe
 verbliebene
 verbliebenen
 verbliebener
-verblüffend
+verblüffend=striking
 verblüffendes=amazing
 verbogenen
 verboten
@@ -10405,7 +10405,7 @@ verdammt
 verdammte
 verdammter
 verdanken
-verdatterte
+verdatterte=befuddled
 verdaut
 verdeckt
 verderblicher=pernicious
@@ -10569,7 +10569,7 @@ verrückt
 verrückte
 verrückten
 versagen=deny
-versagt
+versagt=fails
 versammelt
 verschachern
 verschafft
@@ -10616,7 +10616,7 @@ versinkt
 versklavt
 versklavten
 versorgt=supplied
-verspeiste
+verspeiste=ate
 versperrt
 verspotten=mock, ridicule
 versprach
@@ -10687,7 +10687,7 @@ verwendet
 verwendungsfähigen=usable
 verwertbaren=usable
 verwertbarer
-verwiesen
+verwiesen=directed
 verwirklichen=achieve
 verwirrend=confusing
 verwirrt=confused
@@ -10759,7 +10759,7 @@ vollkommen=perfectly
 vollkommenen=utter
 vollkommenes
 vollschlagen=fill our belly
-vollständige
+vollständige=complete
 vollzogen
 vollzogenen
 vollzuschlagen
@@ -10768,7 +10768,7 @@ volé
 vom
 von
 voneinander
-vonnöten
+vonnöten=necessary
 vonstatten=proceed
 vor
 voran
@@ -10850,7 +10850,7 @@ völligen
 völliger
 wach
 wachen
-wacher
+wacher=alert
 wachsbleich
 wachsen
 wachsender
@@ -10922,7 +10922,7 @@ wegzuschieben=push away
 weg
 weh
 wehe
-wehren
+wehren=fight
 wehrlos=defenseless
 wehrlose
 wehrlosen
@@ -10952,7 +10952,7 @@ weitergehen
 weiterhin
 weiterkonnten
 weitermachen
-weiterverfolgt
+weiterverfolgt=pursued
 weiterzuleben
 weiterzumachen=keep going
 weitesten
@@ -11032,7 +11032,7 @@ wiederholenden
 wiederholt
 wiederholte
 wiederkehrende
-wiederkehrte
+wiederkehrte=recurred
 wiederkehrten=recur
 wiedersehen
 wiedersehen
@@ -11074,7 +11074,7 @@ wirklichen
 wirksamer
 wirkte
 wirkten
-wirren
+wirren=confused
 wischt
 wisse
 wissen
@@ -11330,7 +11330,7 @@ zusammentun
 zusammenwirft
 zusammenzufügen
 zusammenzukrampfen=cramp together
-zusammenzuprügeln
+zusammenzuprügeln=together fight
 zusammenzutun
 zusammen
 zuschließen
@@ -11358,7 +11358,7 @@ zwanzigjährigen
 zwanzigmal
 zwanzigtausend
 zwar
-zwecklos
+zwecklos=pointless
 zwecklose
 zweckmäßig
 zwei
@@ -11803,10 +11803,10 @@ zweiplatzigen
 überstiegen
 überstrichen
 überstürzter
-übertragen
+übertragen=revised
 übertreten=violate
 überwacht
-überwachte
+überwachte=supervision
 überwinden
 überwunden=overcome
 überzeugen=convince
