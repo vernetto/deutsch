@@ -1,3 +1,4 @@
+LUZERN
 Alpnachstad-Alpnachstad  (Luzern) route 291
 Mount Napf from Wolhusen (Luzern) -> Burgdorf
 Luzern to Ennetegg to Burgdorf (unesco biosphere)
@@ -5,36 +6,52 @@ Grimselpass from Luzern then go to Brig
 Rigi from Zug or Luzern
 Brienz and Ballenberg from Luzern
 
+ZUG
+Rigi from Zug or Luzern
+
+BRIG
 Lötschental (Blatten) from Brig  (Steg Hohtenn)
 
+NEUCHATEL
 Creu du Van da Neuchatel
 
+INTERLAKEN
 Bachsee from Grindelwald / Interlaken
 Adelboden from Interlaken with Engstligenfälle
 
+SPIEZ
 Niesen Kulm from Mülenen (Spiez)
 Spiez - Montreux via Saanen, Gstaad
 
+VISP
 Blatten (from Visp)
 Visp to Saas Fee to Mittelallalin (3400)
 
+LOCARNO
 Locarno-Lavertezzo (ponte dei Salti) 
 
+ST MORITZ
 Val Bregaglia (da St Moritz)
 
-
+SIERRE
 Sierre to Barrage de la Grande Dixence
 Sierre-> Anniviers, Zinal, Grimentz, Cabane du Petit Mountet
 Leukerbad valley from Sierre
 
 Riddes - St Pierre-de-Clages (Church) to Verbier to Mont Pierre Avoi
 
+SION
 Val d’Hérens from Sion, Aiguille de la Tsa, Evolène, Euseigne
 
-
+LANDQUART
 Landquart to Davos to Zernez
+
+ZERNEZ
 Zernez-Santa Maria Val Mustair-Stelvio
+
+SCHAFFAUSEN
 Rhine Falls from Schaffausen to Kostanz via Stein Am Rhein
 
+CHUR
 Chur/StMoriz/Brusio (da Chur)
 Chur/StMoriz/Silvaplana (da Chur)
