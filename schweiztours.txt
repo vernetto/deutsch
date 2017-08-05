@@ -1,13 +1,12 @@
 LUZERN
-Alpnachstad-Alpnachstad  (Luzern) route 291
+
 Mount Napf from Wolhusen (Luzern) -> Burgdorf
 Luzern to Ennetegg to Burgdorf (unesco biosphere)
 Grimselpass from Luzern then go to Brig
-Rigi from Zug or Luzern
 Brienz and Ballenberg from Luzern
 
 ZUG
-Rigi from Zug or Luzern
+
 
 BRIG
 Lötschental (Blatten) from Brig  (Steg Hohtenn)
@@ -55,3 +54,18 @@ Rhine Falls from Schaffausen to Kostanz via Stein Am Rhein
 CHUR
 Chur/StMoriz/Brusio (da Chur)
 Chur/StMoriz/Silvaplana (da Chur)
+
+
+
+__________
+
+Zurich-Wroclaw
+
+Day 1. Zurich-Dübendorf-Effretikon-Winterthur-Seuzach-Stein am Rhein-Moos (75 Km)
+Day 2: Moos-Stockach-Messkirch-Krauchenwies-Mengen-Ertingen-Unlingen-Erbach an der Donau-Ulm (135 Km)
+Day 3: Ulm-Lichtenau (154 Km)
+
+DONE
+Alpnachstad-Alpnachstad  (Luzern) route 291
+Rigi from Zug or Luzern
+

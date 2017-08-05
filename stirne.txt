@@ -1,0 +1,327 @@
+Stern
+	Dieser Artikel behandelt den Stern in der Astronomie. Für weitere Bedeutungen siehe Stern (Begriffsklärung).
+
+Unter einem Stern (lateinisch stella und astrum, ahd. sterno; Astronomisches Symbol: ?) versteht die Astronomie einen massereichen, selbstleuchtenden Himmelskörper aus sehr heißem Gas und Plasma, ähnlich der Sonne. Er wird durch die eigene Schwerkraft zusammengehalten und ist an der Oberfläche 2.200 K bis 45.000 K heiß. Weiße Zwerge können Temperaturen bis zu 100.000 K erreichen. Dass fast alle dem bloßen Auge punktförmig erscheinenden Himmelskörper weit entfernte Sonnen sind, ist eine der wichtigsten Erkenntnisse der modernen Astronomie.
+
+Über 70 Prozent der Sterne sind Teil eines Doppelstern- oder Mehrfachsystems, viele haben ein Planetensystem. In größerer Zahl bilden sie Sternhaufen (in denen meist die Sternentstehung stattfindet) und riesige, linsenförmige Galaxien. Sterne kommen in unterschiedlichsten Größen, Leuchtkräften und Farben vor und werden daher nach bestimmten Eigenschaften klassifiziert. Sie sind äußerst aktive Gasriesen, die im Innern Millionen Grad heiß und sehr turbulent sind. Von ihrer glühenden Oberfläche senden sie neben intensiver Strahlung auch geladene Plasmateilchen weit in den Raum und bilden eine Astrosphäre. Sterne und ihre Eigenschaften sind auch bei der Frage von großer Bedeutung, ob ein sie umkreisender Planet Leben tragen könnte oder nicht (siehe Habitable Zone).
+Illustration verschiedener Sterne: Bellatrix als Blauer Riese, Algol B als Roter Riese eines Doppelsystems, die Sonne, der Rote Zwerg OGLE-TR-122b, sowie die Gasriesen Jupiter und Saturn
+Größenvergleich von Himmelskörpern:
+1: Merkur < Mars < Venus < Erde
+2: Erde < Neptun < Uranus < Saturn < Jupiter
+3: Jupiter < Wolf 359 < Sonne < Sirius
+4: Sirius < Pollux < Arktur < Aldebaran
+5: Aldebaran < Rigel < Antares < Beteigeuze
+6: Beteigeuze < Granatstern (auch Mµ Cephei) < VV Cephei A < VY Canis Majoris
+
+Inhaltsverzeichnis
+
+    1 Übersicht
+    2 Sterne aus der Sicht des Menschen
+        2.1 Sternbilder und Sternbezeichnungen
+        2.2 Scheinbare Bewegung des Sternenhimmels
+        2.3 Verteilung der Sterne am Himmel
+    3 Vorkommen und Eigenschaften
+        3.1 Räumliche Verteilung und Dynamik der Sterne
+        3.2 Zustandsgrößen der Sterne
+    4 Sternentwicklung
+        4.1 Entstehung
+        4.2 Hauptreihenphase
+        4.3 Spätstadien
+            4.3.1 Letzte Brennphasen
+            4.3.2 Nukleosynthese und Metallizität
+    5 Doppelsterne
+    6 Veränderliche Sterne
+    7 Siehe auch
+    8 Literatur
+    9 Weblinks
+    10 Belege
+
+Übersicht
+
+Die meisten Sterne bestehen aus heißem Plasma (gasförmig, zu 99 % aus Wasserstoff und Helium). Ihre Strahlungsenergie wird im Sterninnern durch die stellare Kernfusion erzeugt und gelangt durch intensive Strahlung und Konvektion an die Oberfläche. Etwa 90 % der Sterne – die Hauptreihesterne – sind wie die Sonne in einem stabilen Gleichgewicht zwischen Gravitation, Strahlungs- und Gasdruck, in dem sie viele Millionen bis Milliarden Jahre verbleiben. Danach blähen sie sich zu Riesensternen auf und schrumpfen schließlich zu Weißen Zwergen, als die sie langsam abkühlen. Auch diese sehr kompakten Endstadien der Sternentwicklung sowie die noch dichteren Neutronensterne werden zu den Sternen gezählt, obwohl sie nur aufgrund ihrer Restwärme Strahlung abgeben.
+
+Der nächste und am besten erforschte Stern ist die Sonne, das Zentrum des Sonnensystems. Ohne die Wärmestrahlung der Sonne wäre auf der Erde kein Leben möglich. Noch im Mittelalter war unbekannt, dass die Sonne ein „normaler Stern“ ist, doch ahnten bereits antike Naturphilosophen, dass sie heißer als ein glühender Stein sein müsse.
+
+Die Sonne ist der einzige Stern, auf dem von der Erde aus deutlich Strukturen (Sonnenflecken und Eruptionen) zu erkennen sind. Alle anderen Sterne sind dafür zu weit entfernt. Sie erscheinen mit den zur Verfügung stehenden optischen Instrumenten als Punkte, genauer als Beugungsscheibchen. Nur einige relativ nahe Überriesen wie Beteigeuze oder Mira erscheinen in modernsten Teleskopen als winzige Scheibchen, in denen sogar riesige „Sternflecken“ nachweisbar sind.
+
+Früher wurde der Begriff Fixstern zur Abgrenzung gegenüber Wandelsternen (heute Planet) und Schweifsternen (heute Komet) verwendet. Auch Fixsterne bewegen sich messbar am Himmel, wenn auch vergleichsweise langsam. So werden in 10.000 Jahren manche der heutigen Sternbilder kaum mehr erkennbar sein.
+
+Mit bloßem Auge sind am gesamten Himmel je nach Luftgüte etwa 2000 bis 6000 Sterne zu erkennen, in Stadtnähe jedoch weniger als 1000. Der Anblick dieser scheinbar strukturlosen Lichtpunkte täuscht leicht darüber hinweg, dass Sterne nicht nur bezüglich ihrer Entfernung, sondern auch hinsichtlich der immensen Variationsbreiten von Temperaturen, Leuchtkraft, Massendichte, Volumen und Lebensdauer Wertebereiche überspannen, die man durchaus als astronomisch bezeichnen kann. So würde man die äußersten Schichten von roten Riesensternen nach den Kriterien irdischer Technik als Vakuum bezeichnen, während Neutronensterne fast zehnmal so dicht wie Atomkerne sind, sodass ein Teelöffel davon über zwei Milliarden Tonnen wiegen würde. Die herrschenden Temperaturen reichen von wenigen Tausend bis zu mehreren Milliarden Kelvin. Neben diesen extrem unterschiedlichen Erscheinungsformen von Sternen liegt oft auch ein erheblicher innerer Strukturreichtum vor. Dieser Artikel bietet einen groben Überblick und verweist auf weiterführende Artikel.
+Sterne aus der Sicht des Menschen
+
+Sterne haben in allen Kulturen eine wichtige Rolle gespielt und die menschliche Vorstellung inspiriert. Sie wurden religiös interpretiert und zur Kalenderbestimmung, später auch als Navigationssterne benutzt. In der Antike stellten sich die Naturphilosophen vor, dass die Fixsterne aus glühendem Gestein bestehen könnten, weil normales Kohlenfeuer für die auf so große Entfernung wirkende Hitze nicht auszureichen schien. Dass Sterne hingegen nur aus Gas bestehen, wurde erst vor etwa 300 Jahren erkannt – unter anderem durch verschiedene Deutungen der Sonnenflecke – und durch die im 19. Jahrhundert aufkommende Spektralanalyse bestätigt. Die ersten physikalisch fundierten Hypothesen zur Bildung von Sternen stammen von Kant und Laplace. Beide gingen von einem Urnebel aus, doch unterschieden sich ihre postulierten Bildungsvorgänge. Häufig werden beide Theorien jedoch zusammengefasst als Kant-Laplace-Theorie.
+Sternbilder und Sternbezeichnungen
+
+Die im westlichen Kulturkreis bekannten Sternbilder gehen teilweise auf die Babylonier und die griechische Antike zurück. Die zwölf Sternbilder des Tierkreises bildeten die Basis der Astrologie. Aufgrund der Präzession sind die sichtbaren Sternbilder heute jedoch gegen die astrologischen Tierkreiszeichen um etwa ein Zeichen verschoben. Viele der heute bekannten Eigennamen wie Algol, Deneb oder Regulus entstammen dem Arabischen und Lateinischen.
+
+Etwa ab 1600 nutzte die Astronomie die Sternbilder zur namentlichen Kennzeichnung der Objekte in den jeweiligen Himmelsregionen. Ein noch heute weit verbreitetes System zur Benennung der jeweils hellsten Sterne eines Sternbildes geht auf die Sternkarten des deutschen Astronomen Johann Bayer zurück. Die Bayer-Bezeichnung eines Sterns besteht aus einem griechischen Buchstaben gefolgt vom Genitiv des lateinischen Namens des Sternbilds, in dem der Stern liegt; so bezieht sich beispielsweise ? Lyrae auf den dritthellsten Stern im Sternbild Leier. Ein ähnliches System wurde vom britischen Astronomen John Flamsteed eingeführt: Die Flamsteed-Bezeichnung eines Sterns besteht aus einer vorangestellten, aufsteigend nach Rektaszension geordneten Zahl und wiederum dem Genitiv des lateinischen Namens des Sternbilds, wie zum Beispiel bei 13 Lyrae. Die Flamsteed-Bezeichnung wird oft dann gewählt, wenn für einen Stern keine Bayer-Bezeichnung existiert. Die meisten Sterne werden aber lediglich durch ihre Nummer in einem Sternkatalog identifiziert. Am gebräuchlichsten ist hiefür der SAO-Katalog mit rund 250.000 Sternen. In Buchform (100 Sterne pro Seite) umfasst er etwa 2.500 Seiten in 4 Bänden, ist aber auch als Datenbank verfügbar.
+
+Es gibt eine Reihe von Firmen und sogar einige Sternwarten, die zahlenden Kunden anbieten, Sterne nach ihnen zu benennen. Diese Namen werden jedoch von niemandem außer der registrierenden Firma und dem Kunden anerkannt. Die Internationale Astronomische Union, die offiziell für Sternbenennungen zuständige Stelle, hat sich deutlich von dieser Praxis distanziert.
+Scheinbare Bewegung des Sternenhimmels
+Blickrichtung nach Norden (Anklicken für Animation)
+
+Da sich die Erde im Laufe eines Tages einmal um sich selbst dreht und im Laufe eines Jahres einmal um die Sonne kreist, ändert sich der Anblick des Himmels mit Sternen und Sternbildern für den Beobachter auf der Erde sowohl im Verlauf einer Nacht wie auch mit den Jahreszeiten.
+
+Für den Beobachter auf der Nordhalbkugel der Erde (nördlich des Erdäquators) gilt: Bei Blickrichtung nach Norden dreht sich während der Nacht der Sternhimmel im Gegenuhrzeigersinn um den Polarstern. Bei Blickrichtung nach Süden verlaufen die scheinbaren Sternbahnen andersherum (weil der Beobachter andersherum steht): Die Sterne und der Sternhimmel bewegen sich im Uhrzeigersinn von links (Osten) nach rechts (Westen). Auch im Ablauf eines Jahres gilt die gleiche, nur 365x langsamere Bewegung, wenn man immer zur selben Uhrzeit auf den Himmel schaut: im Norden gegen den Uhrzeiger, im Süden von links nach rechts. Der Sternenhimmel kann dabei – ausgenommen die Stellungen der Planeten und des Mondes – sehr ähnliche Bilder zeigen: Beispielsweise ist der Anblick am 31. Oktober um 4:00 Uhr fast gleich dem am 31. Dezember um 24:00 Uhr oder dem am 2. März um 20:00 Uhr. Das bedeutet, dass eine Uhrzeit-Veränderung von vier Stunden (ein sechstel Tag) einer Kalender-Veränderung von rund 60 Tagen (ein sechstel Jahr) entspricht.
+
+Für den Beobachter auf der Südhalbkugel der Erde (südlich des Erdäquators) gilt: Bei Blickrichtung nach Süden dreht sich der Sternenhimmel im Uhrzeigersinn um den Himmelssüdpol. Bei Blickrichtung nach Norden verlaufen die scheinbaren Sternbahnen andersherum: Die Sterne bewegen sich im Gegenuhrzeigersinn von rechts (Osten) nach links (Westen). Auch im Verlauf eines Jahres ergibt sich bei Blick nach Süden die gleiche Bewegung, nur langsamer, im Uhrzeigersinn. Bei Blick nach Norden ist die scheinbare Bewegung wieder im Gegenuhrzeigersinn von rechts nach links.
+Bild eines Sterns bei hoher Vergrößerung (hier der etwa 330 Lj. entfernte R Leonis). Zu sehen sind neben dem unaufgelösten Bild des Sterns auch die Beugungsscheibchen der Punktquelle.
+Verteilung der Sterne am Himmel
+
+Der erdnächste Stern ist die Sonne. Der nächste Fixstern in klassischem Sinn ist Proxima Centauri, er befindet sich in einer Entfernung von 4,22 Lichtjahren. Der nach der Sonne am hellsten erscheinende Stern ist Sirius mit einer scheinbaren Helligkeit von -1,46m, gefolgt von etwa 20 Sternen erster Größe. Alle mit bloßem Auge erkennbaren Sterne gehören der Milchstraße an. Sie konzentrieren sich – zusammen mit über 100 Milliarden schwächerer, freiäugig unsichtbarer Sterne – in einem schwach leuchtenden Band quer über den Nachthimmel, das die Ebene der Milchstraße markiert.
+
+Sterne erscheinen wegen ihrer riesigen Entfernung nur als Lichtpunkte am Himmel, die bei der Abbildung durch das Auge oder Teleskop zu Beugungsscheibchen verschmieren. Je größer die Apertur, desto kleiner sind die Beugungsringe (siehe Bild). Nur die beiden recht nahen Riesensterne Beteigeuze und Mira liegen mit einem scheinbaren Durchmesser von ca. 0,03" an der Auflösungsgrenze des Hubble-Weltraumteleskops und erscheinen dort als unstrukturierte Fläche.
+
+Das Flackern der Sterne, die Szintillation, das meist beim Beobachten mit bloßem Auge sichtbar ist, beruht auf Turbulenzen in der Erdatmosphäre. Es hat nichts mit den Leuchteigenschaften der Sterne zu tun.
+
+Mit bloßem Auge sind unter optimalen Bedingungen Sterne bis zur sechsten Größenklasse erkennbar. Am irdischen Nachthimmel sind dies maximal 5000, d. h., auf der sichtbaren Himmelshälfte rund 2000. Diese Zahl gilt für völlig klare Luft und sinkt durch die industrielle und städtische Lichtverschmutzung oft auf nur 300–500, in den Stadtzentren sogar auf 50–100 Sterne.
+Vorkommen und Eigenschaften
+
+Die Astronomie hat in den letzten hundert Jahren zunehmend auf Methoden der Physik zurückgegriffen. So beruht ein großer Teil des Wissens über Sterne aus theoretischen Sternmodellen, deren Qualität an der Übereinstimmung mit den astronomischen Beobachtungen gemessen wird. Umgekehrt ist die Erforschung der Sterne aufgrund der enormen Vielfalt der Phänomene und der Spannweite der beteiligten Parameter auch für die physikalische Grundlagenforschung von großer Bedeutung.
+Räumliche Verteilung und Dynamik der Sterne
+Die Milchstraße. Allein in diesem spektakulären Feld hat die 2MASS Analyse-Software fast 10 Millionen Sterne identifiziert und ihre Eigenschaften gemessen.
+
+Fast alle Sterne finden sich in Galaxien. Galaxien bestehen aus einigen Millionen bis zu Hunderten von Milliarden Sternen und sind ihrerseits in Galaxienhaufen angeordnet. Nach Schätzungen der Astronomen gibt es im gesamten sichtbaren Universum etwa 100 Milliarden solcher Galaxien mit insgesamt etwa 70 Trilliarden (7 × 1022) Sternen. Aufgrund der Gravitation umkreisen Sterne das Zentrum ihrer Galaxie mit Geschwindigkeiten im Bereich von einigen Dutzend km/s und benötigen typischerweise für einen Umlauf mehrere 100.000 Jahre bis 200 Millionen Jahre (vgl. Galaktisches Jahr). Zum Zentrum hin stellen sich jedoch deutlich kürzere Umlaufzeiten ein. Die Sterne sind innerhalb einer Galaxie nicht völlig gleichmäßig verteilt, sondern bilden teilweise offene Sternhaufen wie beispielsweise die Plejaden, auch Siebengestirn genannt, oder Kugelsternhaufen, die sich im Halo von Galaxien befinden. Darüber hinaus stehen sie im galaktischen Zentrum deutlich dichter als in den Randbereichen.
+
+Die längste Liste von bekannten Sternen, der Tycho-Katalog [1], zählt 2.539.913 Sterne (Stand 2015) und listet deren Position, Bewegung und photometrische Information. Bis zur Magnitude +11.0 hält man den Katalog für 99,9 % vollständig. Er ist das Ergebnis der Hipparcos-Satellitenmission und deren systematischer Durchmusterung des Himmels.
+Zustandsgrößen der Sterne
+Farben-Helligkeits-Diagramm, schematisch. Die logarithmische Helligkeitsskala erstreckt sich über mehr als vier Zehnerpotenzen. Links befindet sich der blaue und rechts der rote Spektralbereich. Das eingezeichnete Linienfeld markiert Spektralklassen B0 bis M0 und Helligkeitsklassen Ia bis V.
+
+Sterne lassen sich mit wenigen Zustandsgrößen nahezu vollständig charakterisieren. Die wichtigsten nennt man fundamentale Parameter. Dazu zählen:
+
+    Oberflächentemperatur
+    Schwerebeschleunigung an der Oberfläche
+    Masse (wichtigster Parameter), meist in Einheiten der Sonnenmasse
+
+sowie, je nach Zusammenhang:
+
+    Radius
+    Dichte
+    absolute Helligkeit (Leuchtkraft)
+    Metallizität (Häufigkeit chemischer Elemente schwerer als Helium)
+    Rotationsgeschwindigkeit
+    Eigenbewegung
+
+Die Oberflächentemperatur, die Schwerebeschleunigung und die Häufigkeit der chemischen Elemente an der Sternoberfläche lassen sich unmittelbar aus dem Sternspektrum ermitteln. Ist die Entfernung eines Sterns bekannt, beispielsweise durch die Messung seiner Parallaxe, so kann man die Leuchtkraft über die scheinbare Helligkeit berechnen, die durch Fotometrie gemessen wird. Aus diesen Informationen können schließlich der Radius und die Masse des Sterns berechnet werden. Die Rotationsgeschwindigkeit v am Äquator kann nicht direkt bestimmt werden, sondern nur die projizierte Komponente v · sin ? i {\displaystyle v\cdot \sin i} v\cdot \sin i mit der Inklination i, die die Orientierung der Rotationsachse beschreibt.
+
+Mehr als 99 Prozent aller Sterne lassen sich eindeutig einer Spektralklasse sowie einer Leuchtkraftklasse zuordnen. Diese fallen innerhalb des Hertzsprung-Russell-Diagramms (HRD) oder des verwandten Farben-Helligkeits-Diagramms in relativ kleine Bereiche, deren wichtigster die Hauptreihe ist. Durch eine Eichung anhand der bekannten Zustandsgrößen einiger Sterne erhält man die Möglichkeit, die Zustandsgrößen anderer Sterne unmittelbar aus ihrer Position in diesem Diagramm abzuschätzen. Die Tatsache, dass sich fast alle Sterne so einfach einordnen lassen, bedeutet, dass das Erscheinungsbild der Sterne von nur relativ wenigen physikalischen Prinzipien bestimmt wird.
+
+Im Verlauf seiner Entwicklung bewegt sich der Stern im Hertzsprung-Russell-Diagramm. Die zugehörige Bahn eines Sternes in diesem Diagramm ist weitgehend durch eine einzige Größe festgelegt, nämlich seine anfängliche Masse. Dabei verharren die Sterne die meiste Zeit auf der Hauptreihe, entwickeln sich im Spätstadium zu Roten Riesen und enden teilweise als Weiße Zwerge. Diese Stadien werden im Abschnitt über die Sternentwicklung näher beschrieben.
+
+Der Wertebereich einiger Zustandsgrößen überdeckt viele Größenordnungen. Die Oberflächentemperaturen von Hauptreihensternen reichen von etwa 2200 K bis 45.000 K, ihre Massen von 0,07 bis 120 Sonnenmassen und ihre Radien von 0,1 bis 25 Sonnenradien. Rote Riesen sind deutlich kühler und können so groß werden, dass die komplette Erdbahn in ihnen Platz hätte. Weiße Zwerge haben Temperaturen bis zu 100.000 K, sind aber nur so klein wie die Erde, obwohl ihre Masse mit der der Sonne vergleichbar ist. Die Masse von Sternen der Hauptreihe kann durch die Masse-Leuchtkraft-Relation abgeschätzt werden.
+
+Die Eigenbewegung eines Sterns schließlich ist der Geschwindigkeitsvektor in Bezug auf die Position der Sonne. Typische Eigenbewegungen liegen zwischen 10 und 100 Kilometern pro Sekunde. Diese ist meist auch eine Eigenschaft der Umgebung des Sterns, d. h. Sterne befinden sich meist in Ruhe in ihrer eigenen Umgebung. Das rührt daher, dass Sterne in Gruppen aus großen Gaswolken entstehen. Durch zufällige Prozesse wie beispielsweise Sternbegegnungen in dichten Kugelsternhaufen oder mögliche Supernova-Explosionen in ihrer Umgebung können Sterne überdurchschnittliche Eigengeschwindigkeiten erhalten (so genannte runaway stars oder Hyperschnellläufer). Die jeweilige Geschwindigkeit geht aber nie über Werte von wenigen hundert Kilometern pro Sekunde hinaus. Die erste Entdeckung von Sternen, die aufgrund ihrer Eigenbewegung die Milchstraße verlassen werden, wurde in den letzten Jahren gemacht. Momentan sind elf dieser Sterne bekannt, die großteils durch nahe Begegnungen mit dem Schwarzen Loch im galaktischen Zentrum ihren Impuls bekommen haben.[2][3]
+Sternentwicklung
+Entstehung
+? Hauptartikel: Sternentstehung
+
+Ein großer Anteil der Sterne ist im Frühstadium des Universums vor über 10 Milliarden Jahren entstanden. Aber auch heute bilden sich noch Sterne. Die typische Sternentstehung verläuft nach folgendem Schema:
+Aufnahmen eines entstehenden Sterns: oben ein leuchtender Jet von 12 Lichtjahren Länge in einer optischen Aufnahme, in der unteren Infrarotaufnahme die Staubscheibe, deren Rand als Balken in der Mitte eines dunklen Doppelkegels erkennbar ist.
+Schematische Übersicht der Lebensphasen eines Sternes
+
+    Ausgangspunkt für die Sternentstehung ist eine Gaswolke (meist Molekülwolke), die überwiegend aus Wasserstoff besteht, und die aufgrund ihrer eigenen Schwerkraft kollabiert. Das geschieht, wenn die Schwerkraft den Gasdruck dominiert, und damit das Jeans-Kriterium erfüllt ist. Auslöser können z. B. die Druckwelle einer nahen Supernova, Dichtewellen in der interstellaren Materie oder der Strahlungsdruck bereits entstandener Jungsterne sein.
+    Durch die weitere Verdichtung der Gaswolke entstehen einzelne Globulen (räumlich eng begrenzte Staub- und Gaswolken), aus denen anschließend die Sterne hervorgehen: Dabei entstehen die Sterne selten isoliert, sondern eher in Gruppen. Die Periode der Kontraktion dauert insgesamt etwa 10 bis 15 Millionen Jahre.
+    Bei der weiteren Kontraktion der Globulen nimmt die Dichte zu und wegen der freiwerdenden Gravitationsenergie (wie des damit erhöhten Gravitationsdrucks) steigt die Temperatur weiter an (Virialsatz; die kinetische Energie der Teilchen entspricht der Temperatur). Der freie Kollaps kommt zum Stillstand, wenn die Wolke im Farben-Helligkeits-Diagramm die so genannte Hayashi-Linie erreicht, die das Gebiet abgrenzt, innerhalb dessen überhaupt stabile Sterne möglich sind. Danach bewegt sich der Stern im Farben-Helligkeits-Diagramm zunächst entlang dieser Hayashi-Linie, bevor er sich auf die Hauptreihe zubewegt, wo das sogenannte Wasserstoffbrennen einsetzt, das heißt die stellare Kernfusion von Wasserstoff zu Helium durch den Bethe-Weizsäcker-Zyklus oder die Proton-Proton-Reaktion. Als Folge des Drehimpulses der Globule bildet sich eine Scheibe aus, die den jungen Stern umkreist, und aus der er weiter Masse akkretiert. Aus dieser Akkretionsscheibe können ein oder mehrere Sterne sowie Planeten entstehen. Diese Phase der Sternentwicklung ist jedoch bisher noch nicht so gut verstanden. Aus der Ebene der Scheibe wird die Ekliptik. Bei der Akkretion aus der Scheibe bilden sich auch in beide Richtungen der Polachsen Materie-Jets (siehe Bild), die eine Länge von über 10 Lichtjahren erreichen können.
+
+Massereiche Sterne entstehen seltener als massearme. Dies wird beschrieben durch die Ursprüngliche Massenfunktion. Je nach Masse ergeben sich verschiedene Szenarien der Sternentstehung:
+
+    Oberhalb einer gewissen Grenzmasse können Sterne durch den Akkretionsprozess vermutlich gar nicht entstehen, da diese Sterne bereits im Akkretionsstadium einen dermaßen starken Sternwind produzieren würden, dass der Massenverlust die Akkretionsrate übersteigen würde. Sterne dieser Größe, wie beispielsweise die blauen Nachzügler (engl. blue stragglers), entstehen vermutlich durch Sternkollisionen.
+    Massereiche und damit heiße Sterne mit mehr als 8 Sonnenmassen kontrahieren vergleichsweise schnell. Nach der Zündung der Kernfusion treibt die UV-reiche Strahlung die umgebende Globule schnell auseinander und der Stern akkretiert keine weitere Masse. Sie gelangen deshalb sehr schnell auf die Hauptreihe im Hertzsprung-Russell-Diagramm. Der mit 265 Sonnenmassen schwerste bislang entdeckte Stern mit Kurzbezeichnung R136a1 ist etwas über eine Million Jahre alt und befindet sich in einem Sternhaufen im Tarantelnebel der Großen Magellanschen Wolke.[4] Bei seiner Entstehung könnte der Stern bis zu 320 Sonnenmassen gehabt haben.[5]
+    Sterne zwischen etwa 3 und 8 Sonnenmassen durchlaufen eine Phase, in der sie Herbig-Ae/Be-Sterne genannt werden. In dieser Phase befindet sich der Stern schon auf der Hauptreihe, akkretiert aber noch einige Zeit Masse.
+    Masseärmere Sterne zwischen 0,07 und 3 Sonnenmassen bleiben nach der Zündung der Kernfusion noch einige Zeit in die Globule eingebettet und akkretieren weiter Masse. In dieser Zeit sind sie nur im infraroten Spektralbereich erkennbar. Während sie sich der Hauptreihe annähern, durchlaufen sie das Stadium der T-Tauri-Sterne.
+    Objekte zwischen 13 und 75 Jupitermassen (oder 0,07 Sonnenmassen) erreichen ebenfalls die nötige Temperatur, um eine Kernfusion zu zünden, allerdings nicht die Fusion von Wasserstoff, sondern nur die von primordial in geringen Mengen vorhandenem Lithium und Deuterium. Diese Objekte werden Braune Zwerge genannt und sind hinsichtlich ihrer Masse zwischen den planetaren Gasriesen (bis 13 MJ) und Sternen angesiedelt. Da der Brennstoffvorrat nicht ausreicht, die Kontraktion nennenswert aufzuhalten, werden Braune Zwerge als substellare Objekte bezeichnet.[6]
+
+Aktives Sternentstehungsgebiet NGC604 mit einem Durchmesser von 1.300 Lichtjahren im Dreiecksnebel M33
+
+Aus einer Globule kann sowohl ein Doppel- oder Mehrfachsternsystem als auch ein einzelner Stern entstehen. Wenn sich Sterne in Gruppen bilden, können aber auch unabhängig voneinander entstandene Sterne durch gegenseitigen Einfang Doppel- oder Mehrfachsternsysteme bilden. Man schätzt, dass etwa zwei Drittel aller Sterne Bestandteil eines Doppel- oder Mehrfachsternsystems sind.
+
+Im Frühstadium des Universums standen für die Sternentstehung nur Wasserstoff und Helium zur Verfügung. Diese Sterne zählt man zur so genannten Population III, diese Sterne waren zu massereich und somit kurzlebig, um bis heute zu existieren. Die nächste Generation, Population-II-Sterne genannt, existieren noch heute, man findet sie vor allem im Halo der Milchstraße, aber auch in Sonnennähe wurden sie nachgewiesen. Sterne, die später entstanden sind, enthalten von Anfang an einen gewissen Anteil an schweren Elementen, die in früheren Sterngenerationen durch Kernreaktionen erzeugt wurden und beispielsweise über Supernova-Explosionen die interstellare Materie mit schweren Elementen anreicherten. Die meisten Sterne in der Scheibe der Milchstraße gehören dazu. Man bezeichnet sie als Sterne der Population I.
+
+Ein Beispiel für eine aktive Sternentstehungsregion ist NGC 3603 im Sternbild Kiel des Schiffs in einer Entfernung von 20.000 Lichtjahren. Sternentstehungsprozesse werden im Infraroten und im Röntgenbereich beobachtet, da diese Spektralbereiche durch die umgebenden Staubwolken kaum absorbiert werden, anders als das sichtbare Licht. Dazu werden Satelliten eingesetzt wie beispielsweise das Röntgenteleskop Chandra.
+Hauptreihenphase
+Das Farben-Helligkeits-Diagramm gleichzeitig entstandener Sterne unterschiedlicher Massen enthält einen Abzweigepunkt, der das Alter der Gruppe widerspiegelt. Oberhalb dieses Punktes haben sich die Sterne bereits von der Hauptreihe fortentwickelt.
+? Hauptartikel: Hauptreihe
+
+Der weitere Verlauf der Sternentwicklung wird im Wesentlichen durch die Masse bestimmt. Je größer die Masse eines Sternes ist, umso kürzer ist seine Brenndauer. Die massereichsten Sterne verbrauchen in nur wenigen hunderttausend Jahren ihren gesamten Brennstoff. Ihre Strahlungsleistung übertrifft dabei die der Sonne um das Hunderttausendfache oder mehr. Die Sonne dagegen hat nach 4,6 Milliarden Jahren noch nicht einmal die Hälfte ihrer Hauptreihenphase hinter sich gebracht. Die massenarmen Roten Zwerge entwickeln sich noch wesentlich langsamer. Da die Roten Zwerge ein Alter von mehreren 10 Milliarden bis hin zu Billionen von Jahren erreichen und das Universum erst etwa 14 Milliarden Jahre alt ist, hat von den masseärmsten Sternen auch noch kein einziger die Hauptreihe verlassen können.
+
+Neben der Masse ist der Anteil an schweren Elementen von Bedeutung. Neben seinem Einfluss auf die Brenndauer bestimmt er, ob sich beispielsweise Magnetfelder bilden können oder wie stark der Sternwind wird, der zu einem erheblichen Massenverlust im Laufe der Sternentwicklung führen kann. Die folgenden Entwicklungsszenarien beziehen sich auf Sterne mit solaren Elementhäufigkeiten, wie sie für die meisten Sterne in der Scheibe der Milchstraße üblich sind. In den magellanschen Wolken beispielsweise, zwei Zwerggalaxien in der Nachbarschaft der Milchstraße, haben die Sterne jedoch einen deutlich geringeren Anteil an schweren Elementen.
+
+Sterne verbringen nach ihrer Entstehung den größten Teil ihrer Brenndauer (etwa 90 Prozent ihrer Lebenszeit) auf der Hauptreihe. Während dieser Dauer wird im Kern der Sterne gleichmäßig Wasserstoff zu Helium fusioniert. Die schwereren Sterne sind dabei heißer und heller und befinden sich links oben im Farben-Helligkeits-Diagramm, die leichteren rechts unten bei den kühleren mit geringerer Leuchtkraft. Im Verlauf dieser Hauptreihenphase werden die Sterne langsam größer, heißer und heller und bewegen sich in Richtung der Riesensterne. Dies trifft auch auf die Sonne zu, die heute etwa 40 Prozent heller ist als bei ihrer Entstehung.
+
+Die Kernfusion von Wasserstoff zu Helium findet dabei in einem Zentralbereich des Sternes statt, der nur wenige Prozent seines Gesamtvolumens einnimmt, jedoch etwa die Hälfte seiner Masse enthält. Die Temperatur beträgt dort über 10 Millionen Kelvin. Dort sammeln sich auch die Fusionsprodukte an. Der Energietransport an die Sternoberfläche dauert mehrere hunderttausend Jahre. Er findet über Strahlungstransport, Wärmeleitung oder Konvektion statt. Den Bereich, der die Strahlung in den Weltraum abgibt, nennt man die Sternatmosphäre. Ihre Temperatur beträgt mehrere tausend bis mehrere zehntausend Kelvin. So weist beispielsweise ein Stern mit 30 Sonnenmassen eine typische Oberflächentemperatur von 40.000 K auf. Er gibt daher fast ausschließlich UV-Strahlung ab und nur etwa 3 % sichtbares Licht.
+Spätstadien
+Letzte Brennphasen
+Planetarischer Nebel Messier 57 (Ringnebel) mit einem Durchmesser von etwa einem Lichtjahr
+Nebel um den extrem massereichen Stern Eta Carinae mit einem Längsdurchmesser von etwa 0,5 Lichtjahren, entstanden durch Eruptionen vor 100 bis 150 Jahren
+
+Bei genügend hoher Temperatur und ausreichend hohem Druck beginnen die beim Wasserstoffbrennen erbrüteten Heliumkerne im Kern des Sterns zu fusionieren. Das Wasserstoffbrennen wird dabei nicht ausgesetzt, sondern läuft in einer Schale um den Helium brennenden Kern weiter. Damit einher geht, dass der Stern die Hauptreihe im Hertzsprung-Russell-Diagramm verlässt. Das Zünden des Heliumbrennens ist aber nur für Sterne hinreichender Masse möglich (ab 0,3 Sonnenmassen, siehe unten), leichtere Sterne glühen nach Abschluss des Wasserstoffbrennens aus. Die weitere Entwicklung verläuft für massearme und massereiche Sterne deutlich verschieden. Dabei bezeichnet man Sterne bis zu 2,3 Sonnenmassen als massearm.
+
+    Massearme Sterne bis zu 0,3 Sonnenmassen führen die Fusion des Wasserstoffs in einer wachsenden Schale um den erloschenen Kern fort. Sie erlöschen nach dem Ende dieses so genannten Schalenbrennens vollständig. Durch die Temperaturabnahme im Zentrum geben sie der Schwerkraft nach und kontrahieren zu Weißen Zwergen mit Durchmessern von einigen tausend Kilometern. Dadurch steigt die Oberflächentemperatur zunächst stark an. Im weiteren Verlauf kühlen die Weißen Zwerge jedoch ab und enden schließlich als Schwarze Zwerge.
+    Massearme Sterne zwischen 0,3 und 2,3 Sonnenmassen wie die Sonne selbst erreichen durch weitere Kontraktion die zum Heliumbrennen notwendige Temperatur und Dichte in ihrem Kern. Bei der Zündung des Heliumbrennens spielen sich innerhalb von Sekunden dramatische Prozesse ab, bei denen der Leistungsumsatz im Zentrum auf das 100-Milliarden-Fache der heutigen Sonnenleistung ansteigen kann, ohne dass an der Oberfläche davon etwas erkennbar ist. Diese Vorgänge bis zur Stabilisierung des Heliumbrennens werden als Heliumflash bezeichnet. Beim Heliumbrennen entstehen Elemente bis zum Sauerstoff. Gleichzeitig findet in einer Schale um den Kern noch Wasserstoffbrennen statt. Durch den Temperatur- und Leistungsanstieg expandieren die Sterne zu Roten Riesen mit Durchmessern von typischerweise dem Hundertfachen der Sonne. Dabei werden oft die äußeren Hüllen der Sterne abgestoßen und bilden Planetarische Nebel. Schließlich erlischt auch das Heliumbrennen und die Sterne werden zu Weißen Zwergen wie oben beschrieben.
+    Massereiche Sterne zwischen 2,3 und 3 Sonnenmassen erreichen nach dem Heliumbrennen das Stadium des Kohlenstoffbrennens, bei dem Elemente bis zum Eisen entstehen. Eisen ist in gewissem Sinne die Sternenasche, da aus ihm durch Fusion keine weitere Energie gewonnen werden kann. Durch Sternwind oder die Bildung Planetarischer Nebel verlieren diese Sterne jedoch einen erheblichen Teil ihrer Masse. Sie geraten so unter die kritische Grenze für eine Supernova-Explosion und werden ebenfalls zu Weißen Zwergen.
+    Massereiche Sterne über 3 Sonnenmassen verbrennen in den letzten Jahrtausenden ihres Lebenszyklus praktisch alle leichteren Elemente in ihrem Kern zu Eisen. Auch diese Sterne stoßen einen großen Teil der Masse in ihren äußeren Schichten als Sternwind ab. Die dabei entstehenden Nebel sind oft bipolare Strukturen, wie zum Beispiel der Homunkulusnebel um ? Carinae. Gleichzeitig bilden sich um den Kern im Sterninneren Schalen nach Art einer Zwiebel, in denen verschiedene Fusionsprozesse stattfinden. Die Zustände in diesen Schalen unterscheiden sich dramatisch. Das sei exemplarisch am Beispiel eines Sternes mit 18 Sonnenmassen dargestellt, der die 40.000-fache Sonnenleistung und den 50-fachen Sonnendurchmesser aufweist:
+
+  Brennmaterial   	Brennvorgang
+(Nukleosynthese)  	Temperatur in
+ Millionen Kelvin  	  Dichte (kg/cm³)   	Brenndauer
+H 	Wasserstoffbrennen 	40 	0,006 	  10 Millionen J.  
+He 	Heliumbrennen 	190 	1,1 	1 Million Jahre
+C 	Kohlenstoffbrennen 	740 	240 	10.000 Jahre
+Ne 	Neonbrennen 	1.600 	7.400 	10 Jahre
+O 	Sauerstoffbrennen 	2.100 	16.000 	5 Jahre
+Si 	Siliciumbrennen 	3.400 	50.000 	1 Woche
+Fe-Kern 	Kernfusion schwerster Elemente 	10.000 	  10.000.000   	-
+
+    Die Grenze zwischen der Helium- und der Kohlenstoffzone ist hinsichtlich des relativen Temperatur- und Dichtesprungs vergleichbar mit der Erdatmosphäre über einem Lavasee. Ein erheblicher Teil der gesamten Sternmasse konzentriert sich im Eisenkern mit einem Durchmesser von nur etwa 10.000 km. Sobald er die Chandrasekhar-Grenze von 1,44 Sonnenmassen überschreitet, kollabiert er innerhalb Sekundenbruchteilen, während die äußeren Schichten durch freigesetzte Energie in Form von Neutrinos und Strahlung abgestoßen werden und eine expandierende Explosionswolke bilden. Unter welchen Umständen als Endprodukt einer solchen Supernova vom Typ II ein Neutronenstern oder ein Schwarzes Loch entsteht, ist noch nicht genau bekannt. Dabei dürfte neben der Masse aber auch die Rotation des Vorläufersterns und dessen Magnetfeld eine besondere Rolle spielen. Möglich wäre auch die Bildung eines Quarksterns, dessen Existenz jedoch bisher lediglich hypothetisch ist. Ereignet sich die Supernova in einem Doppelsternsystem, bei dem Massetransfer von einem Roten Riesen zu einem Weißen Zwerg stattfindet (Typ Ia), können Kohlenstofffusionsprozesse den Stern sogar vollständig zerreißen.
+
+Nukleosynthese und Metallizität
+
+Elemente schwerer als Helium werden fast ausschließlich durch Kernreaktionen im späten Verlauf der Sternentwicklung erzeugt, in der so genannten Nukleosynthese. Bei den im thermischen Gleichgewicht ablaufenden Fusionsreaktionen im Plasma können alle Elemente bis zur Kernladungszahl von Eisen entstehen. Schwerere Elemente, bei denen die Bindungsenergie pro Nukleon wieder ansteigt, werden durch Einfangen von Nuklearteilchen in nichtthermischen Kernreaktionen gebildet. Hauptsächlich entstehen schwere Elemente durch Neutroneneinfang mit nachfolgendem ß-Zerfall in kohlenstoffbrennenden Riesensternen im s-Prozess oder in der ersten, explosiven Phase einer Supernova im r-Prozess. Hierbei steht s für slow und r für rapid. Neben diesen beiden häufigsten Prozessen, die im Endergebnis zu deutlich unterscheidbaren Signaturen in den Elementhäufigkeiten führen, finden auch Protoneneinfang und Spallation statt.
+
+Die entstandenen Elemente werden zum großen Teil wieder in das interstellare Medium eingespeist, aus dem weitere Sterngenerationen entstehen. Je häufiger dieser Prozess bereits durchlaufen wurde, umso mehr sind die Elemente, die schwerer als Helium sind, angereichert. Für diese Elemente hat sich in der Astronomie der Sammelbegriff Metalle eingebürgert. Da sich diese Metalle einigermaßen gleichmäßig anreichern, genügt es oft, statt der einzelnen Elementhäufigkeiten die Metallizität anzugeben. Sterne, deren relative Häufigkeitsmuster von diesem Schema abweichen, werden als chemisch pekuliar bezeichnet. Spätere Sternengenerationen haben folglich eine höhere Metallizität. Die Metallizität ist daher ein Maß für das Entstehungsalter eines Sternes.
+Doppelsterne
+? Hauptartikel: Doppelstern
+
+Ein Doppelstern oder Doppelsternsystem besteht aus zwei Sternen, die scheinbar oder tatsächlich am Himmel nahe beisammen stehen. Wenn sie gravitativ aneinander gebunden sind, bewegen sie sich periodisch um ihren gemeinsamen Schwerpunkt.
+
+Man unterscheidet folgende Arten doppelter Sterne bzw. Sternpaare:
+
+    Optische Doppelsterne (scheinbare Doppelsterne): zwei Sterne, die von der Erde aus in fast gleicher Richtung am Himmel erscheinen, die sich aber gravitativ nicht gegenseitig beeinflussen.
+    Geometrische Doppelsterne (räumliche Doppelsterne): Sterne, die einander räumlich nahe, aufgrund ihrer hohen Relativgeschwindigkeiten jedoch nicht aneinander gebunden sind.
+    Physikalische Doppelsterne oder Doppelsternsysteme sind zwei Sterne, die aufgrund ihrer räumlichen Nähe gravitativ gebunden sind und sich nach den Kepler’schen Gesetzen um einen gemeinsamen Schwerpunkt bewegen. Über die Hälfte aller Sterne im Universum sind Teil eines Doppelsternsystems.
+    Ein Mehrfachsternsystem besteht aus mehr als zwei physikalisch gebundenen Sternen.
+
+Veränderliche Sterne
+? Hauptartikel: Veränderlicher Stern
+
+Die scheinbare und oft auch die absolute Helligkeit mancher Sterne unterliegt zeitlichen Schwankungen. Man unterscheidet folgende drei Typen von veränderlichen Sternen:
+
+    Bedeckungsveränderliche. Dabei handelt es sich um Doppelsterne, die sich während ihres Umlaufs aus irdischer Perspektive zeitweise verdecken.
+    Pulsationsveränderliche. Dabei verändern sich die Zustandsgrößen mehr oder weniger periodisch und damit auch die Leuchtkraft. Die meisten Sterne durchlaufen solche instabile Phasen während ihrer Entwicklung, in der Regel aber erst nach dem Hauptreihenstadium. Man unterscheidet:
+        Cepheiden – Ihrer Periode lässt sich exakt eine bestimmte Leuchtkraft zuordnen. Sie sind daher bei der Entfernungsbestimmung als so genannte Standardkerzen von Bedeutung.
+        Mira-Sterne – Ihre Periode ist länger und unregelmäßiger als die der Cepheiden.
+        RR-Lyrae-Sterne – Sie pulsieren sehr regelmäßig mit vergleichsweise kurzer Periode und haben etwa die 90-fache Leuchtkraft der Sonne.
+        Halbregelmäßig veränderliche Sterne. Rote Riesen oder Überriesen pulsieren unregelmäßig in Helligkeit oder Periode.
+    Eruptiv Veränderliche. Sie erleiden für kurze Zeiten Ausbrüche, die sich oft in mehr oder weniger unregelmäßigen Abständen wiederholen. Man unterscheidet:
+
+    Der Supernova-Überrest Cassiopeia A
+        UV-Ceti-Sterne. Rote Zwerge mit Strahlungsausbrüchen (Flares).
+        Kataklysmisch Veränderliche. Dabei handelt es sich üblicherweise um Doppelstern­systeme, bei denen ein Massetransfer von einem Roten Riesen zu einem Weißen Zwerg stattfindet. Sie zeigen Ausbrüche in Abständen von wenigen Stunden bis zu mehreren Millionen Jahren.
+        Supernovae. Bei Supernovae gibt es mehrere Typen, von denen Typ Ia ebenfalls ein Doppelsternphänomen ist. Nur die Typen Ib, Ic und II markieren das Ende der Evolution eines massereichen Sterns.
+
+Darüber hinaus gibt es weitere Sterne, die eine zeitabhängige scheinbare Helligkeit aufweisen, jedoch nicht zu den veränderlichen Sternen gezählt werden, wie beispielsweise die Pulsare. Dabei handelt es sich um Neutronensterne, die an den magnetischen Polen schmale Strahlungskegel aussenden. Überstreicht dieser Kegel während der Rotation des Sterns die Sichtlinie zum Beobachter, so werden entsprechende Strahlungsimpulse beobachtet. Auch Schwarze Löcher können kurzzeitige sowie länger anhaltende Strahlungsausbrüche erleiden, wenn Materie in sie hineinstürzt. Ihre Strahlung variiert jedoch nicht periodisch sondern unregelmäßig.
+
+assiopeia (Sternbild)
+Sternbild
+Kassiopeia
+Legende
+Cassiopeia constellation map.png
+Karte des Sternbilds Kassiopeia
+Lateinischer Name 	Cassiopeia
+Lateinischer Genitiv 	Cassiopeiae
+Kürzel 	Cas
+Rektaszension 	22h 57m 05s bis 3h 41m 14s
+Deklination 	+46° 40' 33? bis +77° 41' 32?
+Fläche 	598 deg²
+Rang 25
+Vollständig
+sichtbar 	90° Nord bis 12° Süd
+Beobachtungszeit
+für Mitteleuropa 	ganzjährig
+Anzahl der Sterne
+heller als 3 mag 	4
+Hellster Stern
+(Größe) 	Schedir (2,24)
+Meteorströme 	
+Nachbarsternbilder
+(von Norden im
+Uhrzeigersinn) 	
+
+    Kepheus
+    Eidechse
+    Andromeda
+    Perseus
+    Giraffe
+
+Die Kassiopeia (lateinisch / fachsprachlich Cassiopeia) ist ein auffälliges Sternbild des Nordhimmels.
+
+Inhaltsverzeichnis
+
+    1 Beschreibung
+    2 Geschichte
+    3 Mythologie
+    4 Himmelsobjekte
+        4.1 Sterne
+        4.2 Doppelsterne
+        4.3 Veränderliche Sterne
+        4.4 Messier- und NGC-Objekte
+    5 Siehe auch
+    6 Weblinks
+
+Beschreibung
+Das Sternbild Kassiopeia, wie es mit dem bloßen Auge gesehen werden kann
+
+Die fünf Hauptsterne der Kassiopeia bilden ein markantes W beziehungsweise M am Himmel, daher wird sie auch als Himmels-W oder Himmels-M bezeichnet. Die Spitze in der Mitte des W zeigt ungefähr auf den Nordpolarstern, den man so mit Hilfe der Kassiopeia auffinden kann.
+
+Die Kassiopeia gehört zu den nördlichen zirkumpolaren Sternbildern, die in unseren Breiten das ganze Jahr über zu sehen sind.
+
+In der Nähe des Sterns ß Cassiopeiae (Caph), dem östlichsten Stern, verläuft der Kolur mit 0° Rektaszension – also der „Nullmeridian“ des Himmels.
+
+Die Region der Kassiopeia ist sehr sternreich, da sich die Milchstraße durch das Sternbild zieht. Mehrere offene Sternhaufen können hier beobachtet werden.
+Geschichte
+
+Die Kassiopeia gehört zu den 48 Sternbildern der antiken Astronomie, die bereits von Ptolemäus erwähnt wurden.
+
+Im Laufe der Zeit gab es Versuche, das Sternbild umzubenennen, so etwa im 17. Jahrhundert, als man sie mit der biblischen Maria Magdalena in Verbindung brachte. Diese Bestrebungen setzten sich allerdings nicht durch.
+
+Tycho Brahe beobachtete im Jahr 1572 in der Kassiopeia eine Supernova (SN 1572).
+
+In der Kassiopeia befindet sich die nach der Sonne stärkste Radioquelle am Himmel, die als Cassiopeia A bezeichnet wird. Es handelt sich um den Überrest einer Supernova, die um 1680 von der Erde aus sichtbar wurde. Aufzeichnungen hierüber sind allerdings nicht bekannt.
+Mythologie
+
+Der griechischen Mythologie nach war Kassiopeia die Gemahlin des äthiopischen Königs Kepheus und Mutter der Andromeda. Die eitle Kassiopeia zog den Zorn der Götter auf sich, da sie behauptete, noch schöner als die Nereiden, die Töchter des Meeresgottes Nereus, zu sein. Die Nereiden wandten sich ob dieser Beleidigung an Poseidon, der daraufhin ein schreckliches Meeresungeheuer aussandte, das die Gestade des Landes verwüstete. Das Land konnte einem Orakelspruch nach nur von dem Fluch befreit werden, wenn Andromeda, das einzige Kind des Königspaares, dem Ungeheuer geopfert würde. Andromeda wurde schließlich an einen Felsen gekettet und erwartete ihr grausames Schicksal. Im letzten Augenblick eilte der Held Perseus herbei und tötete das Untier. Zum Lohn erhielt er Andromeda zur Frau.
+
+Alle Gestalten der Erzählung wurden am Himmel verewigt, das Meeresungeheuer in Form des Sternbildes Walfisch.
+
+eta Cassiopeiae ist ein Doppelsternsystem in nur 19,4 Lichtjahren Entfernung. Das System besteht aus einem gelblich leuchtenden Stern der Spektralklasse G0 und einem rötlichen Begleiter der Klasse M0.
+
+Das System ? Cas ist 150 Lichtjahre entfernt und besteht aus zwei weißlich-blauen Sternen der Spektralklassen A4 und F5. ? und ? Cas sind einfach im Teleskop zu trennen.
+
+Das System f Cas ist mit 10.000 Lichtjahren wesentlich weiter von der Sonne entfernt. Seine Sterne gehören den Spektralklassen F0 und B5 an. Von der Erde aus gesehen, sind die beiden Komponenten mit 134 Bogensekunden weit voneinander entfernt und können daher schon mit einem Prismenfernglas in Einzelsterne aufgelöst werden.
+
+? Cas ist 300 Lichtjahre entfernt und besteht aus zwei Sternen der Spektralklassen B8 und B9. Von der Erde aus gesehen weisen die Komponenten einen Abstand von nur 0,6 Bogensekunden auf. Um sie in Einzelsterne zu trennen, benötigt man ein größeres Teleskop.
+
+y Cassiopeiae ist ein unregelmäßig veränderlicher Stern der Spektralklasse B0 in 800 Lichtjahren Entfernung. Im Maximum erreicht er eine Helligkeit von 1,6m und wird damit noch heller als Schedir. Der Stern ist eine starke Röntgenquelle am Himmel. Vermutlich handelt es sich um ein enges Doppelsternsystem, bestehend aus einem Riesenstern und einem Neutronenstern.
+
+SU Cas ist ein veränderlicher Stern vom Typ der Cepheiden. Mit einer regelmäßigen Periode von 1,9493 Tagen verändert sich seine Helligkeit von 5,7 bis 6,2m. Er ist 800 Lichtjahre entfernt und gehört der Spektralklasse F6 an.
+
+V509 Cassiopeiae ist ein semiregulärer gelber Überriese. Mit einem Radius von 910 Sonnenradien gehört er zu den größten Sternen der Milchstraße. V509 Cas ist der zweithellste Stern der Sternassoziation Cep OB1. Besonderes Interesse fanden auch die beiden jungen variablen Herbig-Ae/Be-Sterne V376 und V633 Cas, die von komplexen Reflexionsnebeln umgeben sind.
+
+Da sich die Milchstraße durch die Kassiopeia zieht, ist diese Region sehr sternreich und enthält einige interessante Objekte, wie offene Sternhaufen. Zwei davon nahm der französische Astronom Charles Messier in seinen Katalog nebliger Objekte auf. Der auf dem Foto sichtbare doppelte Sternhaufen h und Chi Persei gehören allerdings zum Sternbild Perseus.
+
+Der 5.000 Lichtjahre entfernte offene Sternhaufen Messier 52 wurde 1774 von Charles Messier entdeckt, als er einen in diesem Jahr sichtbaren Kometen beobachtete. M52 ist ein sehr reichhaltiger Sternhaufen, der im Fernglas als nebliger Fleck erscheint. Im Teleskop werden bei höherer Vergrößerung 80 bis 100 Sterne sichtbar.
+
+Messier 103 ist ein offener Sternhaufen in etwa 6.000 Lichtjahren Entfernung. Im Fernglas erscheint er als nebliger Fleck. Erst im Teleskop kann er in Einzelsterne aufgelöst werden.
+
+Der Emissionsnebel NGC 281 ist ca. 10.000 Lichtjahre entfernt. Im Teleskop zeigt sich, dass eine Gruppe von Sternen in den Nebel eingebettet ist. Bei dem Objekt handelt es sich, wie beim Orionnebel, um ein Sternentstehungsgebiet.
+
+Der 5.000 Lichtjahre entfernte Sternhaufen NGC 457 wurde 1787 von Wilhelm Herschel entdeckt. Im Teleskop erinnert sein Anblick an eine Eule mit ausgebreiteten Flügeln, wobei die hellsten Sterne die Augen darstellen sollen. Der hellste Stern des Haufens ist bereits mit bloßem Auge erkennbar.
+
+NGC 559 ist ca. 6.000 Lichtjahre entfernt. Im Fernglas zeigt sich ein schwacher Nebel, im Teleskop kann der Haufen in Einzelsterne aufgelöst werden.
+
+NGC 654 ist 7.000 Lichtjahre entfernt. In einem mittleren Teleskop von 6 bis 10 cm Öffnung zeigt sich ein kompakter Sternenhaufen mit vielen Zweier- und Dreiergruppen von Sternen.
+
+NGC 663 ist ebenfalls 7.000 Lichtjahre entfernt und steht etwas südlich von NGC 654. Der Sternhaufen ist bereits im Fernglas ein sehr lohnendes Objekt, das zwei sternreiche Gebiete zeigt. Im Teleskop zeigen sich mit zunehmender Vergrößerung immer weitere Sterne, darunter einige gut zu trennende Doppelsterne.
+
+Der 6.000 Lichtjahre entfernte offene Sternhaufen NGC 7789 wurde 1783 von Caroline Herschel entdeckt. Im Fernglas erscheint er als neblige Wolke. Im Teleskop wird eine Vielzahl von Sternen sichtbar. NGC 7789 ist einer der reichhaltigsten Sternenhaufen des Nordhimmels.
+
+
+Cassiopeia A (Cas A) ist ein Supernova-Überrest im Sternbild Cassiopeia in rund 11.000 Lichtjahren Entfernung, der einen Durchmesser von zirka 10 Lichtjahren hat.
+
+Er ist der Überrest einer Supernovaexplosion, die auf der Erde um das Jahr 1680 hätte beobachtet werden können, wenn sie nicht hinter Gas- und Staubwolken stattgefunden hätte.[1] Möglicherweise erschien die Supernova als ein Stern sechster Größe, den der Astronom John Flamsteed am 16. August 1680 als Stern 3 Cassiopeiae katalogisierte, der aber seither nicht mehr auffindbar ist.[2] Heute ist Cassiopeia A die stärkste extrasolare Radioquelle am Himmel. Die Radioquelle wurde 1947 entdeckt, die optische Identifizierung gelang 1950. Cassiopeia A war der jüngste bekannte Supernovaüberrest in unserer Galaxis bis zur Entdeckung von Supernovaüberrest G1.9+0.3.
+
+Anhand eines Lichtechos ist es gelungen, die historische Supernova spektral zu beobachten. Ein Lichtecho entsteht durch die Streuung an Staubteilchen der interstellaren Materie. Da der Staub außerhalb der Sichtlinie Erde zur Supernova liegt ist der Weg länger und noch heute kann der Explosionsblitz untersucht werden. Mit Hilfe des MIPS-Instruments am Hubble-Weltraumteleskop konnte das Infrarotspektrum der Supernova untersucht werden und gehört demnach zum Typ IIb. Bei Cas A handelt es sich demnach um den Supernovaüberrest einer Kernkollapssupernova eines ehemaligen Roten Überriesen, der seine wasserstoffreiche Atmosphäre durch Sternwind vor der Explosion verloren hat.[3]
+
+Bei Beobachtungen mit dem Röntgenteleskop Chandra konnte eine punktförmige Röntgenquelle nahe dem Zentrum von Cas A = 3C 461 = SNR G111.7-2.1 gefunden werden. Da weder im Optischen noch im Bereich der Röntgenstrahlung eine Variabilität der Quelle gefunden werden konnte, ist es sehr unwahrscheinlich, dass es sich um einen kataklysmischen Veränderlichen im Vordergrund oder einen aktiven galaktischen Kern im Hintergrund von Cas A handelt. Das Röntgenspektrum lässt sich am besten beschreiben als das eines Neutronensterns mit einem polaren Fleck mit einer Temperatur von circa 2,8 Millionen Kelvin[4].
+
+

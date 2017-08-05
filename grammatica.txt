@@ -13,10 +13,11 @@ der (MN) Gewißheit des (MG) Todes
 Sie rufen nach den (PD) Menschen, die (PN) für immer verloren sind 
 <br />
 an den (MA) Kern der (WG) Existenz 
+an den Kern der Dinge
 <br />
 
 <pre>
-
+<p/>
 6 different: ein einen einem eines eine einer
 
            N   A   D  G
@@ -26,11 +27,25 @@ Sächlich: ein ein einem eines
 Mehrzahl: N/A
 </pre>
 <br />
-
+nach einer (WD) Antwort suchte
 <br />
 
-<pre>
 
+
+<pre>
+6 different: mein meinen meinem meines meine meiner
+
+           N      A     D      G
+Männlich: mein meinen meinem meines
+Weiblich: meine meine meiner meiner
+Sächlich: mein  mein  meinem meines
+Mehrzahl: meine meine meinen meiner
+</pre>
+<br />
+
+
+
+<pre>
 6 different: dein deinen deinem deines deine deiner
 
            N      A     D      G
@@ -43,9 +58,23 @@ Mehrzahl: deine deine deinen deiner
 Ich möchte dein (MN) Freund sein  
 <br />
 Ich will deine (WA) Liebe 
+<p/>
+<pre>
+
+6 different: ihr ihre ihres ihrer ihrem ihren
+
+           N      A     D      G
+Männlich: ihr   ihre  ihr   ihre
+Weiblich: ihres ihrer ihres ihrer
+Sächlich: ihrem ihrer ihrem ihren
+Mehrzahl: ihren ihre  ihr   ihre
+</pre>
+<br />
+
+Jede Sitzung mit ihr bedeutete harte Arbeit. 
+<br />
+war ihr Mann bereits vier Jahre tot
+
+<br />
 
 
-ihr, ihres https://en.wiktionary.org/wiki/Ihr
-
-
-im 
