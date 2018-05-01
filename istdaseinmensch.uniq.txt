@@ -131,7 +131,6 @@ Anbringen=install
 Andenken=memory
 Andere
 Andererseits
-Andere‹
 Andeutung
 Anekdoten
 Anfang
@@ -11155,7 +11154,6 @@ würden
 würdig
 wütenden
 wüßte
-y
 zaghaft=timid
 zahllose
 zahllosen
@@ -11827,7 +11825,7 @@ zweiplatzigen
 übt=(ausüben) exercise
 
 Hätte
-Jawohl!
-›Jules‹
-›die
-›mein
+Jawohl
+Jules
+die
+mein

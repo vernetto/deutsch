@@ -8,12 +8,11 @@ Sächlich: das das dem des
 Mehrzahl: die die den der
 </pre>
 <br />
-der (MN) Gewißheit des (MG) Todes  
+der (Man-Nom) Gewißheit des (Man-Gen) Todes  
 <br />
-Sie rufen nach den (PD) Menschen, die (PN) für immer verloren sind 
+Sie rufen nach den (Meh-Dat) Menschen, die (Meh-Nom) für immer verloren sind 
 <br />
-an den (MA) Kern der (WG) Existenz 
-an den Kern der Dinge
+an den (Man-Akk) Kern der (Wei-Gen) Existenz 
 <br />
 
 <pre>

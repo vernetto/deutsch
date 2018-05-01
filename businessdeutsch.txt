@@ -187,3 +187,9 @@ Anwendungen=applications
 Vortrag=lecture
 Wertschöpfende=value adding
 Ergänzungen=supplements
+
+
+
+im Anhang finden Sie meinen Vertrag = please find in attachment
+
+

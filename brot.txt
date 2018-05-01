@@ -2,33 +2,35 @@ Das Brot
 
 Plötzlich wachte sie auf. Es war halb drei. Sie überlegte, warum sie aufgewacht war. Ach so! In der Küche hatte jemand gegen einen Stuhl gestoßen. Sie horchte nach der Küche. Es war still. Es war zu still, und als sie mit der Hand über das Bett neben sich fuhr, fand sie es leer. Das war es, was es so besonders still gemacht hatte: sein Atem fehlte. Sie stand auf und tappte durch die dunkle Wohnung zur Küche. In der Küche trafen sie sich. Die Uhr war halb drei. Sie sah etwas Weißes am Küchenschrank stehen. Sie machte Licht. Sie standen sich im Hemd gegenüber. Nachts. Um halb drei. In der Küche.
 
-wachte sie auf :  aufwachen 
-überlegte : überlegen
-gestoßen : stossen
-horchte : horchen
-fuhr: fahren
-fand: finden
-fehlte: fehlen
-stand auf: aufstehen
-tappte: tappen
-trafen: treffen
+wachte sie auf :  aufwachen : wacht sie auf
+überlegte : überlegen : überlegt
+gestoßen : stossen : stosst
+horchte : horchen : horcht 
+fuhr: fahren : fährt
+fand: finden : findet
+fehlte: fehlen : fehlt
+stand auf: aufstehen : sie steht auf
+tappte: tappen : tappt
+trafen: treffen : treffen
 standen: stehen
+sah : sehen: siehst sieht (vokalwechseln)
 
+sprechen -> sprichts
+essen -> isst
+tragen -> träget , halten -> hält
 
 
 
 
 Auf dem Küchentisch stand der Brotteller. Sie sah, dass er sich Brot abgeschnitten hatte. Das Messer lag noch neben dem Teller. Und auf der Decke lagen Brotkrümel. Wenn sie abends zu Bett gingen, machte sie immer das Tischtuch sauber. Jeden Abend. Aber nun lagen Krümel auf dem Tuch. Und das Messer lag da. Sie fühlte, wie die Kälte der Fliesen langsam an ihr hoch kroch. Und sie sah von dem Teller weg.
 
-sah: sehen
+sah: sehen : sieht
 abgeschnitten: abschneiden
 lag, lagen : liegen 
 gingen : gehen
 machte: machen
 fühlte: fühlen
 kroch: kriechen
-
-
 
 "Ich dachte, hier wäre was," sagte er und sah in der Küche umher.
 
@@ -46,15 +48,19 @@ aussah: aussehen
 
 "Du hättest Schuhe anziehen sollen. So barfuß auf den kalten Fliesen. Du erkältest dich noch."
 
+sollen : sollst
 hättest : haben
 erkältest : erkälten
 
 Sie sah ihn nicht an, weil sie nicht ertragen konnte, dass er log. Dass er log, nachdem sie neununddreißig Jahre verheiratet waren.
 
+konnte: können : kann
 log: lügen
 
 
 "Ich dachte, hier wäre was," sagte er noch einmal und sah wieder so sinnlos von einer Ecke in die andere, "ich hörte hier was. Da dachte ich, hier wäre was."
+
+hörte: hören: höre
 
 "Ich habe auch was gehört. Aber es war wohl nichts." Sie stellte den Teller vom Tisch und schnappte die Krümel von der Decke.
 
