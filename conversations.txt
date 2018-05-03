@@ -1,6 +1,6 @@
-in der gleichen Stadt (F)
-in dem gleichen Dorf (N) = im gleichen Dorf (nur M oder N)
-ein anderes Thema (N)
+in der gleichen Stadt (Fem)
+in dem gleichen Dorf (Neutrum) = im gleichen Dorf (nur M oder N)
+ein anderes Thema (Neutrum)
 
 klagen über etw (ACC) = sich beschweren 
 ich klage über die lauten Kinder
@@ -22,6 +22,17 @@ Bergrettung Dienst muss eingreifen
 Heuzutage 
 
 von aus bei mit nach seit zu -> DAT, und NUR DAT!
+für durch um gegen ohne bis (IMMER MIT AKK)
+
+das ist für dich (AKK), für den Mann, für das Kind
+komm mit mir (DAT)
+
+eine Frau ohne einen Mann (MAS), ist wie ein Fisch ohne ein Fahrrad (NEU)
+ohne dich
+durch einen Tunnel (MAS) gehen
+ich gehe um den Block (MAS)
+bis kommende Woche, bis kommenden Mittwoch (MAS) 
+
 
 bestehen aus 11 Fäche (DAT)
 
@@ -47,5 +58,35 @@ bis kommende Woche
 _____________
 
 
+ich nutze es Jeden Tag, jeden Abend, auf jeden Fall
 
+Es war ein sehr anstrengender/mühsamer Tag (der Tag, der Mann)
 
+besonders 
+mein Team besteht aus 5 Mitgliedern (DAT PLUR), 
+die andere 3 mussen die Arbeit (AKK FEM) von 5 erledigen.
+
+Firma/Firmen 
+Aufgabe=function (Hausaufgabe), Ausgabe=edition
+
+Wettbewerb
+fliessend, fachlich
+Sie wollen, dass du fliessend Deutsch sprichst
+Deutschsprechende
+Meeresort
+besorgniserregend, beunruhigend
+
+demütigend, deprimierend
+
+Reihenfolge, Ordnung
+
+meiner Meinung (F) nach (DAT)
+
+vorangestellt (preceding)
+nachgestellt (after)
+
+Meiner Ansicht nach
+in diesem Fall ("in" brauchts manchmal AKK manchmal DAT)
+
+Wetterwechsel (Wende, Veranderung)
+25 Grad
