@@ -1,10 +1,10 @@
 
 
-[eindeinihr](eindeinihr.MD)
+[eindeinihr](eindeinihr.md)
 
 
 
-[adjectivdeklination](adjectivdeklination.MD)
+[adjectivdeklination](adjectivdeklination.md)
 
 
 
