@@ -1,12 +1,14 @@
 
 6 different: der den dem des die der
 
-|        | N   |  A | D  | G |
-|-----   | -   |  - | -  | - |
-|Männlich| der |den |dem |des| 
-|Weiblich| die |die |der |der|
-|Sächlich| das |das |dem |des|
-|Mehrzahl| die |die |den |der|
+|   | MÄN | WEI | NEU | PLU |
+|-- | -   |  -  | -   | -   |
+|NOM| der |die |das |dei| 
+|AKK| den |die |das |die|
+|DAT| dem |der |dem |den|
+|GEN| des |der |des |der|
+
+
 
 
 <br />
