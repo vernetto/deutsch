@@ -17,16 +17,18 @@ Sie rufen nach den (Meh-Dat) Menschen, die (Meh-Nom) für immer verloren sind
 an den (Man-Akk) Kern der (Wei-Gen) Existenz 
 <br />
 
-<pre>
+
 <p/>
 6 different: ein einen einem eines eine einer
 
 |        | N   |  A | D  | G |
+|-----   | -   |  - | -  | - |
 |Männlich| ein| einen| einem| eines| 
 |Weiblich| eine| eine| einer| einer|
 |Sächlich| ein| ein| einem| eines|
 |Mehrzahl| N/A
-</pre>
+
+
 <br />
 nach einer (WD) Antwort suchte
 <br />
