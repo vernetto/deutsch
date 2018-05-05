@@ -1,6 +1,6 @@
 
 
-[adjectivdeklination.MD]
+[adjectivdeklination](adjectivdeklination.MD)
 
 
 
