@@ -41,12 +41,7 @@ nach einer (WD) Antwort suchte
 
 6 different: dein deinen deinem deines deine deiner
 
-|        | N   |  A | D  | G |
-|-----   | -   |  - | -  | - |
-|Männlich| dein |deinen |deinem |deines|
-|Weiblich| deine |deine |deiner |deiner|
-|Sächlich| dein  |dein  |deinem |deines|
-|Mehrzahl| deine |deine |deinen |deiner|
+
 
 |   | MÄN | WEI | NEU | PLU |
 |-- | -   |  -  | -   | -   |
