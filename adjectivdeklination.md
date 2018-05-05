@@ -35,15 +35,17 @@ nach einer (WD) Antwort suchte
 
 
 
-<pre>
+
 6 different: mein meinen meinem meines meine meiner
 
-           N      A     D      G
-Männlich: mein meinen meinem meines
-Weiblich: meine meine meiner meiner
-Sächlich: mein  mein  meinem meines
-Mehrzahl: meine meine meinen meiner
-</pre>
+|        | N   |  A | D  | G |
+|-----   | -   |  - | -  | - |
+|Männlich| mein |meinen |meinem |meines|
+|Weiblich| meine |meine |meiner |meiner|
+|Sächlich| mein  |mein  |meinem |meines|
+|Mehrzahl| meine |meine |meinen |meiner|
+
+
 <br />
 
 
@@ -51,11 +53,12 @@ Mehrzahl: meine meine meinen meiner
 <pre>
 6 different: dein deinen deinem deines deine deiner
 
-           N      A     D      G
-Männlich: dein deinen deinem deines
-Weiblich: deine deine deiner deiner
-Sächlich: dein  dein  deinem deines
-Mehrzahl: deine deine deinen deiner
+|        | N   |  A | D  | G |
+|-----   | -   |  - | -  | - |
+|Männlich| dein |deinen |deinem |deines|
+|Weiblich| deine |deine |deiner |deiner|
+|Sächlich| dein  |dein  |deinem |deines|
+|Mehrzahl| deine |deine |deinen |deiner|
 </pre>
 <br />
 Ich möchte dein (MN) Freund sein  
@@ -66,11 +69,12 @@ Ich will deine (WA) Liebe
 
 6 different: ihr ihre ihres ihrer ihrem ihren
 
-           N      A     D      G
-Männlich: ihr   ihre  ihr   ihre
-Weiblich: ihres ihrer ihres ihrer
-Sächlich: ihrem ihrer ihrem ihren
-Mehrzahl: ihren ihre  ihr   ihre
+|        | N   |  A | D  | G |
+|-----   | -   |  - | -  | - |
+|Männlich| ihr   |ihre  |ihr   |ihre|
+|Weiblich| ihres |ihrer |ihres |ihrer|
+|Sächlich| ihrem |ihrer ihrem |ihren|
+|Mehrzahl| ihren |ihre  |ihr   |ihre|
 </pre>
 <br />
 
