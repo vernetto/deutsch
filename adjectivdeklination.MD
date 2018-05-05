@@ -1,11 +1,11 @@
 <pre>
 6 different: der den dem des die der
 
-           N   A   D  G
-Männlich: der den dem des 
-Weiblich: die die der der
-Sächlich: das das dem des
-Mehrzahl: die die den der
+|        | N   |  A | D  | G |
+|Männlich| der |den |dem |des| 
+|Weiblich| die |die |der |der|
+|Sächlich| das |das |dem |des|
+|Mehrzahl| die |die |den |der|
 </pre>
 <br />
 der (Man-Nom) Gewißheit des (Man-Gen) Todes  
@@ -19,11 +19,11 @@ an den (Man-Akk) Kern der (Wei-Gen) Existenz
 <p/>
 6 different: ein einen einem eines eine einer
 
-           N   A   D  G
-Männlich: ein einen einem eines 
-Weiblich: eine eine einer einer
-Sächlich: ein ein einem eines
-Mehrzahl: N/A
+|        | N   |  A | D  | G |
+|Männlich| ein| einen| einem| eines| 
+|Weiblich| eine| eine| einer| einer|
+|Sächlich| ein| ein| einem| eines|
+|Mehrzahl| N/A
 </pre>
 <br />
 nach einer (WD) Antwort suchte
