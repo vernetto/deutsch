@@ -73,7 +73,7 @@ Ich will deine (WA) Liebe
 |-----   | -   |  - | -  | - |
 |Männlich| ihr   |ihre  |ihr   |ihre|
 |Weiblich| ihres |ihrer |ihres |ihrer|
-|Sächlich| ihrem |ihrer ihrem |ihren|
+|Sächlich| ihrem |ihrer |ihrem |ihren|
 |Mehrzahl| ihren |ihre  |ihr   |ihre|
 
 <br />
