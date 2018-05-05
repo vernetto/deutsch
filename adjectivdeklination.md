@@ -65,7 +65,7 @@ Ich möchte dein (MN) Freund sein
 <br />
 Ich will deine (WA) Liebe 
 <p/>
-<pre>
+
 
 6 different: ihr ihre ihres ihrer ihrem ihren
 
@@ -75,7 +75,7 @@ Ich will deine (WA) Liebe
 |Weiblich| ihres |ihrer |ihres |ihrer|
 |Sächlich| ihrem |ihrer ihrem |ihren|
 |Mehrzahl| ihren |ihre  |ihr   |ihre|
-</pre>
+
 <br />
 
 Jede Sitzung mit ihr bedeutete harte Arbeit. 
