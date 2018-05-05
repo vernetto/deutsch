@@ -3,7 +3,7 @@
 
 |   | MÄN | WEI | NEU | PLU |
 |-- | -   |  -  | -   | -   |
-|NOM| der |die |das |dei| 
+|NOM| der |die |das |die| 
 |AKK| den |die |das |die|
 |DAT| dem |der |dem |den|
 |GEN| des |der |des |der|
@@ -23,12 +23,14 @@ an den (Man-Akk) Kern der (Wei-Gen) Existenz
 <p/>
 6 different: ein einen einem eines eine einer
 
-|        | N   |  A | D  | G |
-|-----   | -   |  - | -  | - |
-|Männlich| ein| einen| einem| eines| 
-|Weiblich| eine| eine| einer| einer|
-|Sächlich| ein| ein| einem| eines|
-|Mehrzahl| N/A
+
+|   | MÄN | WEI | NEU | PLU |
+|-- | -   |  -  | -   | -   |
+|NOM| ein |eine |ein |N/A| 
+|AKK| einen |eine |ein |N/A|
+|DAT| einem |einer |einem |N/A|
+|GEN| eines |einer |eines |N/A|
+
 
 
 <br />
