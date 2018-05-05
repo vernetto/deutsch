@@ -2,6 +2,7 @@
 6 different: der den dem des die der
 
 |        | N   |  A | D  | G |
+|-----   | -   |  - | -  | - |
 |Männlich| der |den |dem |des| 
 |Weiblich| die |die |der |der|
 |Sächlich| das |das |dem |des|
