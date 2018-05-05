@@ -50,7 +50,7 @@ nach einer (WD) Antwort suchte
 
 
 
-<pre>
+
 6 different: dein deinen deinem deines deine deiner
 
 |        | N   |  A | D  | G |
@@ -59,7 +59,7 @@ nach einer (WD) Antwort suchte
 |Weiblich| deine |deine |deiner |deiner|
 |Sächlich| dein  |dein  |deinem |deines|
 |Mehrzahl| deine |deine |deinen |deiner|
-</pre>
+
 <br />
 Ich möchte dein (MN) Freund sein  
 <br />
