@@ -1,4 +1,4 @@
-<pre>
+
 6 different: der den dem des die der
 
 |        | N   |  A | D  | G |
@@ -6,7 +6,8 @@
 |Weiblich| die |die |der |der|
 |Sächlich| das |das |dem |des|
 |Mehrzahl| die |die |den |der|
-</pre>
+
+
 <br />
 der (Man-Nom) Gewißheit des (Man-Gen) Todes  
 <br />
