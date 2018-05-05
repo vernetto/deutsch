@@ -1,1 +1,6 @@
-# deutsch
+
+
+(adjectivdeklination.MD)
+
+
+
