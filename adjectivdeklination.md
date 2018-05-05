@@ -10,19 +10,12 @@
 
 
 
-
-<br />
 der (Man-Nom) Gewißheit des (Man-Gen) Todes  
-<br />
 Sie rufen nach den (Meh-Dat) Menschen, die (Meh-Nom) für immer verloren sind 
-<br />
 an den (Man-Akk) Kern der (Wei-Gen) Existenz 
-<br />
 
 
-<p/>
 6 different: ein einen einem eines eine einer
-
 
 |   | MÄN | WEI | NEU | PLU |
 |-- | -   |  -  | -   | -   |
@@ -31,27 +24,18 @@ an den (Man-Akk) Kern der (Wei-Gen) Existenz
 |DAT| einem |einer |einem |N/A|
 |GEN| eines |einer |eines |N/A|
 
-
-
-<br />
 nach einer (WD) Antwort suchte
-<br />
-
-
 
 
 6 different: mein meinen meinem meines meine meiner
 
-|        | N   |  A | D  | G |
-|-----   | -   |  - | -  | - |
-|Männlich| mein |meinen |meinem |meines|
-|Weiblich| meine |meine |meiner |meiner|
-|Sächlich| mein  |mein  |meinem |meines|
-|Mehrzahl| meine |meine |meinen |meiner|
 
-
-<br />
-
+|   | MÄN | WEI | NEU | PLU |
+|-- | -   |  -  | -   | -   |
+|NOM| mein |meine |mein |meine| 
+|AKK| meinen |meine |mein |meine|
+|DAT| meinem |meiner |meinem |meinen|
+|GEN| meines |meiner |meines |meiner|
 
 
 
@@ -64,28 +48,33 @@ nach einer (WD) Antwort suchte
 |Sächlich| dein  |dein  |deinem |deines|
 |Mehrzahl| deine |deine |deinen |deiner|
 
-<br />
+|   | MÄN | WEI | NEU | PLU |
+|-- | -   |  -  | -   | -   |
+|NOM| dein |deine |dein |deine| 
+|AKK| deinen |deine |dein |deine|
+|DAT| deinem |deiner |deinem |deinen|
+|GEN| deines |deiner |deines |deiner|
+
 Ich möchte dein (MN) Freund sein  
-<br />
+
 Ich will deine (WA) Liebe 
-<p/>
 
 
 6 different: ihr ihre ihres ihrer ihrem ihren
 
-|        | N   |  A | D  | G |
-|-----   | -   |  - | -  | - |
-|Männlich| ihr   |ihre  |ihr   |ihre|
-|Weiblich| ihres |ihrer |ihres |ihrer|
-|Sächlich| ihrem |ihrer |ihrem |ihren|
-|Mehrzahl| ihren |ihre  |ihr   |ihre|
 
-<br />
+|   | MÄN | WEI | NEU | PLU |
+|-- | -   |  -  | -   | -   |
+|NOM| ihr |ihres |ihrem |ihren| 
+|AKK| ihre |ihrer |ihrer |ihre|
+|DAT| ihr |ihres |ihrem |ihr|
+|GEN| ihre |ihrer |ihren |ihre|
+
+
 
 Jede Sitzung mit ihr bedeutete harte Arbeit. 
-<br />
+
 war ihr Mann bereits vier Jahre tot
 
-<br />
 
 
