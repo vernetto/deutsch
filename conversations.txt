@@ -2,7 +2,7 @@ in der gleichen Stadt (Fem)
 in dem gleichen Dorf (Neutrum) = im gleichen Dorf (nur M oder N)
 ein anderes Thema (Neutrum)
 
-klagen über etw (ACC) = sich beschweren 
+klagen über etw (ACC) = sich beschweren über 
 ich klage über die lauten Kinder
 ich gehe mit den Kindern (DAT PLUR)
 ich gehe mit den Männern (DAT PLUR)
@@ -93,4 +93,52 @@ Wetterwechsel (Wende, Veranderung)
 
 
 ich zeige dir
+
+
+show != schauen, show = zeigen
+
+
+
+unter der Sonne (F); ein Sohn, drei Söhne 
+die Sonne
+
+
+unter ist eine Wechselpräposition -> manchmal mit AKK manchmal mit DAT
+in diesem Fall, mit DAT 
+
+ich komme aus (DAT) London
+ich komme aus den (DAT PLUR) USA
+
+er trinkt Bier aus (DAT NEU) einem Glas (NEU, das Glas)
+
+für den (MASC AKK) Monat Mai
+
+herausforderung = challenge 
+
+wir gehen zu einem (MASC DAT) Freund 
+wir gehen zu einer (FEM DAT) Freundin 
+wir gehen zu Freunden (PLUR MASC)
+wir gehen zu Freundinen (PLUR FEM)
+ich gehe mit meinen Freundinen ins Kino
+
+Robert wohnt bei seiner Tante (DAT FEM)
+ich arbeite bein einer Bank (DAT FEM)
+
+was macht Robert nach (vor) dem Essen
+Richard wohnt seit einer (FEM DAT) Woche
+Sie wohnt seit einem (MAS DAT) Monat
+Sie wohnen seit einem (NEU DAT) Jahr hier 
+
+wir fahren mit einem (NEU DAT) Auto/Fahrrad nach Zürich
+
+nach dem Abort (MAS DAT), vor dem Essen (NEU DAT)
+
+er lernt mit einem Freund
+Robert geht durch einen (MAS AKK) Park 
+Ich fahre durch Frankreich nach Spanien
+
+der Übung ist schwer = ist schwierig
+Richard kauft ein Fahrrad für seinen Sohn
+
+ich kaufe einen (MAS AKK) Tisch für meinen (MAS AKK) Sohn 
 
