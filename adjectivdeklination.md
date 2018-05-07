@@ -44,6 +44,7 @@ auch nach: kein, mein, dein, sein, ihr, unser, euer, irgendein
 |GEN|roten Wein(e)s| kalter Milch| frischen Brot(e)s|
 
 ##Plural
+
 | G | E |
 |-|-|
 |NOM| alte Freunde|
