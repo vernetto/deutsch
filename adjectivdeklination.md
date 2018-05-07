@@ -11,7 +11,8 @@
 auch nach: dieser, jener, jeder, mancher, welcher
 
 ##PLURAL
-
+| | |
+|-|-|
 |NOM |die alten Freunde|
 |AKK |die alten Freunde|
 |DAT |den alten Freunden|
@@ -42,6 +43,8 @@ auch nach: kein, mein, dein, sein, ihr, unser, euer, irgendein
 |GEN|roten Wein(e)s| kalter Milch| frischen Brot(e)s|
 
 ##Plural
+| | |
+|-|-|
 |NOM| alte Freunde|
 |AKK| alte Freunde|
 |DAT| alten Freunden|
