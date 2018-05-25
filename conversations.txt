@@ -1,9 +1,9 @@
-in der gleichen Stadt (Fem)
-in dem gleichen Dorf (Neutrum) = im gleichen Dorf (nur M oder N)
-ein anderes Thema (Neutrum)
+in der gleichen Stadt (Fem Dat -> der schönen Frau)
+in dem gleichen Dorf (Neu Dat -> dem kleinen Kind) = im gleichen Dorf (nur MAS oder NEU)
+ein anderes Thema (Neu Nom -> ein kleines Kind)
 
 klagen über etw (ACC) = sich beschweren über 
-ich klage über die lauten Kinder
+ich klage über die lauten Kinder (NEU AKK PLUR) - das laute Kind (NEU AKK SING)
 ich gehe mit den Kindern (DAT PLUR)
 ich gehe mit den Männern (DAT PLUR)
 ich gehe mit den Frauen (DAT PLUR)
@@ -15,11 +15,11 @@ ab heute = from today
 Knöchel, Arme, Brust
 mir ist Übel
 25 Grad
-der Körper ist daran nicht gewönt
+der Körper ist daran nicht gewöhnt
 Berg Skifahren (pron: schi)
 Bergrettung Dienst muss eingreifen
 
-Heuzutage 
+Heutzutage 
 
 von aus bei mit nach seit zu -> DAT, und NUR DAT!
 für durch um gegen ohne bis (IMMER MIT AKK)
@@ -27,27 +27,27 @@ für durch um gegen ohne bis (IMMER MIT AKK)
 das ist für dich (AKK), für den Mann, für das Kind
 komm mit mir (DAT)
 
-eine Frau ohne einen Mann (MAS), ist wie ein Fisch ohne ein Fahrrad (NEU)
+eine Frau ohne einen Mann (MAS AKK), ist wie ein Fisch ohne ein Fahrrad (NEU AKK)
 ohne dich
 durch einen Tunnel (MAS) gehen
 ich gehe um den Block (MAS)
 bis kommende Woche (FEM AKK) , bis kommenden Mittwoch (MAS AKK) 
 
 
-bestehen aus 11 Fäche (DAT)
+bestehen aus 11 Fächer (DAT)
 
 um Almosen betteln und ich hatte Mitleid mit ihm (mit diesem Mann - mit diesem Kind - mit dieser Frau)
 
-mit dir bin ich glüchlich
-ich gehe nach Hause - ich bleibe zu Hause
+mit dir bin ich glücklich
+ich gehe nach Hause (AUSNAHME, "nach" immer mit Stadt, Land, Kontinent, oder "oben", "unten")- ich bleibe zu Hause
 
 meine ganze Körper juckt
-Pustel und Pickle
+Pustel und Pickel
 
-meine Katze (F) streitet sich immer mit meinem (DAT) Hund 
-hast du eine Katze ? Nein, keine Katze, einen Hund!
+meine Katze (F) streitet sich immer mit meinem (DAT MAS) Hund 
+hast du eine Katze (F) ? Nein, keine Katze (F), einen Hund (M) und ein Kind (N)!
 
-die Frau streitet sich immer mit (DAT) ihrem Mann über (ACC) die richtige Erziehung (F) der Kinder
+die Frau streitet sich immer mit (DAT) ihrem Mann über (ACC) die richtige Erziehung (F) der Kinder (GEN PLUR)
 
 dir=DAT, dich=ACC
 ich danke dir für die Blumen
@@ -58,7 +58,7 @@ bis kommende Woche
 _____________
 
 
-ich nutze es Jeden Tag, jeden Abend, auf jeden Fall
+ich nutze es jeden Tag, jeden Abend, auf jeden Fall
 
 Es war ein sehr anstrengender/mühsamer Tag (der Tag, der Mann)
 
@@ -67,9 +67,9 @@ mein Team besteht aus 5 Mitgliedern (DAT PLUR),
 die andere 3 mussen die Arbeit (AKK FEM) von 5 erledigen.
 
 Firma/Firmen 
-Aufgabe=function (Hausaufgabe), Ausgabe=edition
+die Aufgabe=function (Hausaufgabe), die Ausgabe=edition
 
-Wettbewerb
+der Wettbewerb=competition
 fliessend, fachlich
 Sie wollen, dass du fliessend Deutsch sprichst
 Deutschsprechende
@@ -184,4 +184,39 @@ Karen bekommt vom (=von dem) Artz Penicyllin
 Karen geht nicht mehr zur (zu der) Schule (FEM) 
 Ich fahre NACH Afrika (NACH ist für Lände oder Städte oder Kontinenten) ... aber AUSNAHME ist NACH HAUSE
 
+
+Schöne Woche noch
+
+
+
+anderthalb = 1.5 
+Nachtleben
+ich Komme aus Italien
+Mitternacht=midnight
+hinfahrt=la ida
+ruckfahrt=la vuelta
+hintereinander=in a row
+Gebühren
+Kreuzworträtsel=cruciverba
+Leckereien
+begleiten
+
+Enkel=grandchild
+der Neffe/die Nichte=nipote
+
+tagsüber=during the day
+sie wohnen bei seiner Grossmutter / bei seinem Grossvater / bein seinen Grosseltern
+
+ich gehe zu dem Fotogeschäft / zum Fotogeschäft
+
+durch (AKK MAS) den Park
+um (AKK MAS) den Bodensee
+gegen (AKK MAS) den Schmerz
+ich bekomme eine Tablette von dem (DAT MAS) Arzt
+Berlin war nach dem Krieg zertstört  
+ich habe das Geld von meiner Mutter bekommen
+ich habe das Geld von meinem Vater bekommen
+ich habe das Geld von meinen Eltern bekommen
+
+wir sind am Ende dieser Stunde, ende des Unterrichts (MAS GEN)
 
