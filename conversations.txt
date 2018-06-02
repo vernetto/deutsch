@@ -66,7 +66,7 @@ besonders
 mein Team besteht aus 5 Mitgliedern (DAT PLUR), 
 die andere 3 mussen die Arbeit (AKK FEM) von 5 erledigen.
 
-Firma/Firmen 
+Firma/Firmen (FEM) 
 die Aufgabe=function (Hausaufgabe), die Ausgabe=edition
 
 der Wettbewerb=competition
@@ -219,4 +219,84 @@ ich habe das Geld von meinem Vater bekommen
 ich habe das Geld von meinen Eltern bekommen
 
 wir sind am Ende dieser Stunde, ende des Unterrichts (MAS GEN)
+
+___________
+
+er hilft mir (helfen + DAT)
+
+du kannst dir vorstellen 
+die Buchhaltung  
+
+Sonnenbad nehmen
+
+sie schwimmen im Fluss
+
+ich wohne in der nähe, in der Schweiz (DAT FEM), aber ich fahre in die Schweiz (AKK) 
+
+bist du am Wochenende in der Schweiz gewesen?
+er nach Italien gefahren ist
+
+vor allem (haptsächlich)
+er arbeitet bei einer zweisprachigen Firma
+
+
+TE KA MO LO
+Normalerweise gehe ich jeden Tag um 8:00 Urh aus dem Haus (das Haus)
+ 
+essen (verb) -> Essen (NEUTRUM) substantiv
+
+gegenüber (DAT), dem Bahnhof (NEU) genegüber / genegüber dem Bahnhof 
+
+endung Universität immer FEM
+  
+von Bergen umgeben (surrounded by mountains)
+
+
+______________ ARTE
+
+
+abgesehen=apart
+unübersehbar=incalculable
+langfristig =long term
+Lieferung frei Bordsteinkante=Delivery free curbside
+abgeholt=picked up
+ermüdung=fatigue
+aus heiterem Himmel=out of the blue
+eignet sich hervorragend=is great
+vormachen=demonstrate
+wiederbelebung=reanimation
+betrachter=observer
+frühchen=premature child
+abdrehen=turn
+nachhelfen=help out
+Punktion =injection
+herbeigeeilt=hastened
+herzversagen=heart failure
+umgehen= workaround
+ich gerne viel von mir preisgeben=I like to reveal a lot about myself
+Beziehungsaufbau=relationship building
+
+Beschwerden=complaints
+Völlegefühl=bloating
+verschluckt=swallowed
+
+Sodbrennen=heartburn
+
+irgendwer=anyone
+alle Achtung=full respect
+in digitalen Zeitalter=in the digital age
+Medikamenten verabreichen=administer
+
+Der passt sich den Gegebenheiten an=it adapts to the circumstances
+Unbefugten=unauthorized
+ähnlich dem Verfahren=like the process
+weitestgehend=largely
+auseinanderhalten=keep apart
+
+
+Schleichend=creeping
+
+
+loswerden=get rid of
+
 
