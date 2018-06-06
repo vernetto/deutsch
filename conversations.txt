@@ -4,17 +4,17 @@ ein anderes Thema (Neu Nom -> ein kleines Kind)
 
 klagen über etw (ACC) = sich beschweren über 
 ich klage über die lauten Kinder (NEU AKK PLUR) - das laute Kind (NEU AKK SING)
-ich gehe mit den Kindern (DAT PLUR)
-ich gehe mit den Männern (DAT PLUR)
-ich gehe mit den Frauen (DAT PLUR)
-mit den Büchern (DAT PLUR)
-mit den Blättern
+ich gehe mit den Kindern (DAT PLUR, NEU)
+ich gehe mit den Männern (DAT PLUR, MAS)
+ich gehe mit den Frauen (DAT PLUR, FEM)
+mit den Büchern (DAT PLUR, NEU)
+mit den Blätter (DAT PLUR, NEU)
 
-ab heute = from today
+ab heute=from today
 
-Knöchel, Arme, Brust
+der Knöchel/die Knöchel, der Arm/die Arme, die Brust/die Brüste
 mir ist Übel
-25 Grad
+25 Grad (der Grad/die Grade)
 der Körper ist daran nicht gewöhnt
 Berg Skifahren (pron: schi)
 Bergrettung Dienst muss eingreifen
@@ -27,16 +27,22 @@ für durch um gegen ohne bis (IMMER MIT AKK)
 das ist für dich (AKK), für den Mann, für das Kind
 komm mit mir (DAT)
 
-eine Frau ohne einen Mann (MAS AKK), ist wie ein Fisch ohne ein Fahrrad (NEU AKK)
+eine Frau ohne einen Mann (MAS AKK), ist wie ein Fisch (MAS) ohne ein Fahrrad (NEU AKK)
 ohne dich
 durch einen Tunnel (MAS) gehen
-ich gehe um den Block (MAS)
+ich gehe um (AKK) den Block (MAS)
 bis kommende Woche (FEM AKK) , bis kommenden Mittwoch (MAS AKK) 
 
 
-bestehen aus 11 Fächer (DAT)
+bestehen aus 11 Fächer (das Fach/die Fächer) (DAT)
 
 um Almosen betteln und ich hatte Mitleid mit ihm (mit diesem Mann - mit diesem Kind - mit dieser Frau)
+
+(NOM) (GEN) (DAT) (AKK)
+du, deiner, dir, dich
+er , seiner , ihm , ihn 
+sie, ihrer, ihr, sie
+
 
 mit dir bin ich glücklich
 ich gehe nach Hause (AUSNAHME, "nach" immer mit Stadt, Land, Kontinent, oder "oben", "unten")- ich bleibe zu Hause
@@ -44,10 +50,10 @@ ich gehe nach Hause (AUSNAHME, "nach" immer mit Stadt, Land, Kontinent, oder "ob
 meine ganze Körper juckt
 Pustel und Pickel
 
-meine Katze (F) streitet sich immer mit meinem (DAT MAS) Hund 
+meine Katze (F) streitet sich immer mit meinem (DAT MAS) Hund (der Hund, die Hunde)
 hast du eine Katze (F) ? Nein, keine Katze (F), einen Hund (M) und ein Kind (N)!
 
-die Frau streitet sich immer mit (DAT) ihrem Mann über (ACC) die richtige Erziehung (F) der Kinder (GEN PLUR)
+die Frau streitet sich immer mit ihrem (DAT MAS) Mann über (ACC) die richtige Erziehung (F) der Kinder (GEN PLUR)
 
 dir=DAT, dich=ACC
 ich danke dir für die Blumen
@@ -58,7 +64,7 @@ bis kommende Woche
 _____________
 
 
-ich nutze es jeden Tag, jeden Abend, auf jeden Fall
+ich nutze es jeden Tag (MAS), jeden Abend, auf jeden Fall
 
 Es war ein sehr anstrengender/mühsamer Tag (der Tag, der Mann)
 
@@ -89,19 +95,12 @@ Meiner Ansicht nach
 in diesem Fall ("in" brauchts manchmal AKK manchmal DAT)
 
 Wetterwechsel (Wende, Veranderung)
-25 Grad
-
 
 ich zeige dir
 
+look! = schauen, show = zeigen
 
-show != schauen, show = zeigen
-
-
-
-unter der Sonne (F); ein Sohn, drei Söhne 
-die Sonne
-
+unter (DAT) der Sonne (FEM); ein Sohn, drei Söhne 
 
 unter ist eine Wechselpräposition -> manchmal mit AKK manchmal mit DAT
 in diesem Fall, mit DAT 
@@ -122,7 +121,7 @@ wir gehen zu Freundinen (PLUR FEM)
 ich gehe mit meinen Freundinen ins Kino
 
 Robert wohnt bei seiner Tante (DAT FEM)
-ich arbeite bein einer Bank (DAT FEM)
+ich arbeite bei einer Bank (DAT FEM)
 
 was macht Robert nach (vor) dem Essen
 Richard wohnt seit einer (FEM DAT) Woche
@@ -173,10 +172,9 @@ Bevölkerungskontrolle
 
 Libyen 
 Erzgebirge
-Zeichentrick
 
 ich gehe in die (AKK) Kirche (FEM)
-ich muss die Milch in den Kühlschrank (MAC)
+ich muss die Milch in den Kühlschrank (MAS)
 
 Karen ist beim Artz
 Karen ist seit zehn Tagen Krank (der Tag, die Tage, aber DAT ist den Tagen)
@@ -199,7 +197,7 @@ hintereinander=in a row
 Gebühren
 Kreuzworträtsel=cruciverba
 Leckereien
-begleiten
+begleiten=accompany
 
 Enkel=grandchild
 der Neffe/die Nichte=nipote
@@ -218,7 +216,7 @@ ich habe das Geld von meiner Mutter bekommen
 ich habe das Geld von meinem Vater bekommen
 ich habe das Geld von meinen Eltern bekommen
 
-wir sind am Ende dieser Stunde, ende des Unterrichts (MAS GEN)
+wir sind am Ende dieser Stunde (FEM GEN), ende des Unterrichts (MAS GEN)
 
 ___________
 
@@ -295,8 +293,130 @@ auseinanderhalten=keep apart
 
 
 Schleichend=creeping
-
-
 loswerden=get rid of
+Zahnschmelz=tooth enamel
+Geld verschwenden=waste money
+Geld ausgeben=spend money
 
+
+auf ihre Bedürfnisse einzugehen=to respond to their needs
+
+bedürfnisbefriedigung=need satisfaction
+fehlanzeige=dead loss, nil, none
+
+nach belieben=at will
+
+höchstgenau=with high precision
+
+
+Zustand=state
+angesiedelt=settled
+karg=barren
+gestaltet=designed
+Unikate=unique
+wegrand=wayside
+ähneln=be similar to
+Gehöfte=Homesteads
+verrichten=perform
+sticken, häkeln, flechten=embroider, crochet, braid
+Scheu=shy
+Gehörn=horned
+Bräuche=custome
+gesellige=sociable
+vorlage=template
+filzen=felt
+gehaltvoll=nutritious
+obhut=
+überliefert=traditional
+vorübergehend=temporarily
+verweilen=dwell
+vogelkunde=ornithology
+umhergezogen=went about
+verzehren=consume
+Grunz=oink
+Euter=udder
+unabdinglich=indispensable
+Grasland=prairie
+Hirten=shepherd
+erlegt=killed
+Geistesrichtungen=schools of thought
+auffordert=asks
+Zusammenhänge=relationships
+umgestülpt=inverted
+nachwuchs=offsprings
+
+
+https://www.arte.tv/de/videos/065301-001-A/traumrouten-des-orients/
+Elefantenrüssel=trunk
+erschließen=open up, develop
+überragend=outstanding
+ausnahmezustand=state of emergency
+
+
+Fahrtauglichkeit=driving ability
+herabsetzen=reduce
+Überholen=overtaking
+Abbiegen=turn
+abblendlicht=dimmed headlights
+Scheinwerfer=headlights
+ausweichen=avoid
+lediglich=merely
+Verzweigung=branching
+Rechtsvortritt=right of way
+Nebenstrasse=side street
+
+Anhängers=trailer
+Ankuppeln=connect
+einspuren=einordnen=place
+trübem=cloudy
+verweigern=deny
+Zufahrt=entrance
+Haftung=adhesive force,grip
+
+aufwendig=costly
+Aufwand=effort, expenditure
+Nachfrage=demand
+geschmirgelt=sanded
+griffig=firm
+prunkvoll=magnificently
+schuldigkeit=duty
+körperertüchtigung=physical training
+entrinnen=escape
+spendabel=generous
+befindlichkeit=mood
+Stechschritt=goose step
+verzichten=renounce
+gemeinsamkeiten=similarities
+verlustreiche=wasteful
+wuselige=bustling
+unumstritten=undisputed
+Zuweilen=occasionally
+mitleidenschaft gezogenen Städten=affected cities
+unbeugsam=unbending
+Gewinnspanne=margin
+
+
+mutmaßliche=supposed
+betörende=captivating
+vermächtnis=legacy
+ansehen=regard
+ertüchtigung=exercise
+Überlieferung=tradition
+nachzugehen=pursue
+belebt=busy, animated
+verdrängen=replace,repress
+fürsorgliche Betreuung=caring care
+barmherzigkeit=compassion
+verstreut=scattered
+Teig=dough
+knusprig=crispy
+Errungenschaften=achievements
+heiter=cheerful,bright
+derweil=meantime
+beleidigen=offend
+Sachgeschenke=tangible Gifts
+genascht=nibbled
+ersehnte=awaited
+erwerben=purchase
+gedeiht=flourishes
 
