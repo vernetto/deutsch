@@ -104,6 +104,7 @@ unter (DAT) der Sonne (FEM); ein Sohn, drei Söhne
 
 unter ist eine Wechselpräposition -> manchmal mit AKK manchmal mit DAT
 in diesem Fall, mit DAT 
+in dieser Zeit
 
 ich komme aus (DAT) London
 ich komme aus den (DAT PLUR) USA
@@ -136,7 +137,7 @@ er lernt mit einem Freund
 Robert geht durch einen (MAS AKK) Park 
 Ich fahre durch Frankreich nach Spanien
 
-die Übung ist schwer = ist schwierig
+der Übung ist schwer = ist schwierig
 Richard kauft ein Fahrrad für seinen Sohn
 
 ich kaufe einen (MAS AKK) Tisch für meinen (MAS AKK) Sohn 
@@ -199,7 +200,7 @@ Kreuzworträtsel=cruciverba
 Leckereien
 begleiten=accompany
 
-Enkel=grandchild
+der Enkel, die Enkelin, die Enkeln = grandchild
 der Neffe/die Nichte=nipote
 
 tagsüber=during the day
@@ -243,7 +244,7 @@ Normalerweise gehe ich jeden Tag um 8:00 Urh aus dem Haus (das Haus)
  
 essen (verb) -> Essen (NEUTRUM) substantiv
 
-gegenüber (DAT), dem Bahnhof (NEU) genegüber / genegüber dem Bahnhof 
+gegenüber (DAT), dem Bahnhof (MAS) genegüber / genegüber dem Bahnhof 
 
 endung Universität immer FEM
   
@@ -419,4 +420,40 @@ genascht=nibbled
 ersehnte=awaited
 erwerben=purchase
 gedeiht=flourishes
+
+
+
+Wiederholung macht den Meister
+
+die Vorlesung
+die Ecke
+nach dem Tod seiner Frau und seines Kindes
+
+Schmiergeld=bribe
+geisel=hostage
+
+
+
+
+seit jeher=always
+kuscheltiere=stuffed animals
+windel=diaper
+befallen=infested
+ausgelegt=designed
+Ablehnung=rejection
+mitnichten=by no means
+Gehege=reserve
+Streicheleinheiten=tender loving care
+Zuneigung=affection
+absehbar=conceivable
+züchten=breed
+vorgaukeln=lead to believe
+Vorkommen=occurrence
+
+im Schattem
+wasserVerdunstung
+
+
+Nachfahren, Vorfahren
+betreiber, betreiben
 
