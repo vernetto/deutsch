@@ -234,3 +234,26 @@ aufgeregt=excited
 verknüpfen=connect,link
 eingeschätzt=evaluated,estimated
 
+
+07
+
+abgesturzt=crashed
+anteilnahme=sympathy
+vernarbte=scarred
+Gehalt=salary
+Kumpel=pal
+notaufnahme=emergency department
+lastenaufzug=goods lift
+absichtlich=intentionally
+knistern=crackle
+abhauen=bugger off
+erhebliche=substantial
+verschleppung=spreading
+versagt=failed
+umfang=scope
+Knöchel=ankle
+kindermädchen=nannies
+Haushälter=housekeeper
+ich verlaufe mich=I am lost
+
+
