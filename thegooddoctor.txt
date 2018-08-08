@@ -140,7 +140,7 @@ Fehlgeburten=miscarriages
 schwangerschaft=pregnancy
 Dienstpläne=duty rosters
 durchsetzen=prevail
-abbruch=abort
+abbruch=abort,cancellation
 eindämmen=contain
 schamlippe=labium
 kränkungen=injuries
@@ -241,7 +241,7 @@ abgesturzt=crashed
 anteilnahme=sympathy
 vernarbte=scarred
 Gehalt=salary
-Kumpel=pal
+Kumpel=pal 
 notaufnahme=emergency department
 lastenaufzug=goods lift
 absichtlich=intentionally
@@ -255,5 +255,60 @@ Knöchel=ankle
 kindermädchen=nannies
 Haushälter=housekeeper
 ich verlaufe mich=I am lost
+Verlegung=relocation
 
+08
+Ohrenstöpsel=ear plugs
+Zwerchfell=Diafragma
+beatmen=ventilate
+Verlangt=desires
+aufgeregt=excited
+verlangt=required
+abservieren=to polish off
+
+
+09
+knötchen=nodule
+heiserkeit=hoarseness
+kehlkopf=larynx
+angenommen=assumed
+angefordert=requested
+aufgegeben=give up
+
+10
+Sackgasse=cul de sac
+Vorschlag=proposition
+vertraulich=confidential
+ratschläge=advice
+arschkriecherei=ass licking
+verdrängung=repression
+unangemessen=inadequate
+aufmüpfig=rebellious
+aufsässig=defiant
+schmarotzer=parasite
+hochachtung=esteem
+stur=stubborn
+
+
+
+11
+vorwitzig=inquisitive
+abstossung=rejection
+ablenken=distract
+siehe mich an=look at me
+überzeugen=convince
+Kater=hangover
+Schallwelle=sound wave
+anfängt=begins
+aufhört=ends
+
+12
+umwerfend=fantastic
+ich werde die kündigung einreichen=I will file the cancellation
+Ich breche ab=I cancel
+genesung=recovery
+deshalb=that's why
+gemaßregelt=reprimanded
+vergleich=comparison
+haben sie den Stecker gezogen=they pulled the plug
 

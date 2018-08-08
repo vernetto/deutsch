@@ -457,3 +457,35 @@ wasserVerdunstung
 Nachfahren, Vorfahren
 betreiber, betreiben
 
+granddaughter=Enkelin
+Schlauchboot=rubberboat
+departure point=Ausgangspunkt
+Nieselregen=drizzle
+Brände=fires
+auslösen=trigger
+Gefährte=fellow
+Trauergottesdienst=
+Nachbarinnen,Nachbarin,Nachbar,Nachbarn=neighbor(s)
+
+most of our trees=die meisten unserer Bäume (GEN)=die meisten von unseren Bäumen (DAT)
+Schwalben=rondini
+Lucciole=Glühwürmchen
+Libellen=libellule
+Unausgeglichenheit=disequilibrio
+Ökosystem=ecosystem
+balcony=Balkon
+sie kann sich (DAT) keinen Garten leisten
+ich kann mir (DAT) keinen Garten leisten
+wenn Mann einen Garten hat
+houses=Häuser
+peaches=Pfirsiche
+
+Ich arbeite in einer Bank / bei einer Bank
+Manche Kollegen dürfen gelegentlich von zu Hause aus arbeiten
+Swan=Schwan,Schwäne
+eine Gans, Gänse=ah du dumme Gans, ah du blöde kuh
+Mutter,Mütter (plur)
+der Körper kann sich nicht daran gewöhnen
+ich wünsche ihnen 
+auch ein blinder Huhn findet manchmal einen Korn
+
