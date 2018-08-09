@@ -194,7 +194,7 @@ rausgeschmissen=kicked out, in a fix
 zurechtkommen=cope
 ausschlag=rash
 Lenden=lumbar
-Vornehmen=make, carry out
+vornehmen=make, carry out
 zerrung=strain
 zange=tongs
 Brusthöhle=thoracic cavity
@@ -277,7 +277,7 @@ aufgegeben=give up
 
 10
 Sackgasse=cul de sac
-Vorschlag=proposition
+Vorschlag=proposition,suggestion
 vertraulich=confidential
 ratschläge=advice
 arschkriecherei=ass licking
@@ -288,8 +288,6 @@ aufsässig=defiant
 schmarotzer=parasite
 hochachtung=esteem
 stur=stubborn
-
-
 
 11
 vorwitzig=inquisitive
@@ -311,4 +309,24 @@ deshalb=that's why
 gemaßregelt=reprimanded
 vergleich=comparison
 haben sie den Stecker gezogen=they pulled the plug
+
+13
+unterlassen=refrain from
+fassen sie mich nicht an=don't touch me
+Veranlagung=predisposition
+stimmbänder=vocal cords
+Anastomosis=Anastomosis
+Heuchlerei=hypocrisy
+Engstirnigkeit=bigotry
+urteilsvermögen=discernment
+verreist=out of town
+abgesehen davon=apart from this
+Meerjungfrau=mermaid
+Spülung=flush
+Hoden=testicle
+Anstand=decency
+
+14
+treiben=float
+
 
