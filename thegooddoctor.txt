@@ -1,5 +1,5 @@
 01
-
+Lassen Sie ihn mich ansehen=let me look at him
 derzeit=currently
 ausüben=exert, practice
 Glas splitter
@@ -9,6 +9,7 @@ Umgang=contact
 Einwände=objection
 Vertragen=tolerate
 räumliche=spacial
+beachtlich=remarkable
 in Einsatz=operation
 Vorzüge=advantage
 unschätzbar=invaluable
@@ -39,10 +40,11 @@ Unterstellte=subordinate
 beschaffen=procure
 entweichen=escape
 einwegventil=disposable valve
-streicheln=caress
+streicheln=caress   16:10
 Ausschlag=deflection
+spannung=tension
 Vorhof=atrium
-Eiter=pus
+Eiter=pus   17:30
 vorgeschichte=prehistory
 absaugen=vacuum
 Verabreichen=administer
@@ -66,6 +68,8 @@ weitläufig=spacious
 vollständig=entirely
 dabei=there
 am Sabbern=salivating, on the drool
+aufregend=exciting 05:20
+verrichtet=perform
 fachgerecht=professional
 Nasenscheidewand=nose septum
 Nasenscheidewandverkrümmung
@@ -78,10 +82,12 @@ falschliegen=to be wrong
 vermeintlichen=supposed
 belehren=teach
 angeordnet=disposed
-gelogen=lügen=lie
+gelogen=lügen=lie  16:20
+anweisung=instruction
 vorgestellt=imagine
-erbrochenes=vomited
+erbrochenes=vomited 18:25
 freilegen=uncover
+
 zankenden=streitenden=squabbling
 aufträge=assignments
 trottel=fool
@@ -90,7 +96,9 @@ anbieten=offer
 betreuung=care, support
 aufstechen=puncture
 versprechen=promise
-beurteilen=judge
+kleingeredet=played down   27.50
+beurteilen=judge  29:30
+entnehmen=remove 30:35
 angeboren=innate,congenital
 abwimmeln=get rid of
 beharrlich=persevering
@@ -328,5 +336,80 @@ Anstand=decency
 
 14
 treiben=float
+untertreibung=understatement
 
 
+15
+Haken=catch
+geschubst=pushed
+Handschellen=handcuffs
+Steckdose=socket
+hinfallen=tumble
+voreingenommen=biased
+eine rede halten=to hold a talk
+wirkungsvoll=effective
+zugeständnisse=concessions
+Akne=acne
+
+16
+rummelplatz=fair
+Auflage=edition
+Nacken=neck
+kribbeln=tingle
+lähmung=paralysis
+bandscheibenvorfall=disk prolapse
+Absätze=heels
+flitterwochen=honeymoon
+Schwager=brother in law
+ich stelle bevorzugt Menschen mit Behinderung ein=I prefer
+
+aussuchen=choose
+
+
+17
+erbost=infuriated
+eingeredet=persuaded
+ausgeredet=dissuaded
+Süchtig=addicted
+Macken=Schrulle=quirks
+Türstopper=door stopper
+unauffällig=inconspicuous
+hinsetzen=sit down
+Molly=Ecstasy
+Aufgeben=give up
+Bildgebung=imaging
+Ermessen=judgement
+
+GLOSSARY
+
+1
+https://de.wikipedia.org/wiki/Aorta#Abschnitte Aorta Abscendens
+https://de.wikipedia.org/wiki/Herz#R%C3%A4ume_und_Gef%C3%A4%C3%9Fe  Vorhof (Atrium)
+https://de.wikipedia.org/wiki/Noradrenalin 01 17:41
+https://en.wikipedia.org/wiki/Brachiocephalic_vein  26:35
+
+2
+https://de.wikipedia.org/wiki/Angiomyolipom
+https://de.wikipedia.org/wiki/Retroperitonealraum
+https://de.wikipedia.org/wiki/Amoxicillin
+https://de.wikipedia.org/wiki/Geh%C3%B6rgang 
+https://de.wikipedia.org/wiki/Skalpell Zehner
+https://de.wikipedia.org/wiki/Leiomyosarkom
+
+
+16
+
+https://en.wikipedia.org/wiki/Spondylolisthesis#Anterolisthesis  16 00:39
+https://de.wikipedia.org/wiki/Clindamycin
+https://de.wikipedia.org/wiki/L%C3%A4cheln
+
+https://de.wikipedia.org/wiki/Omentum_minus
+https://de.wikipedia.org/wiki/Midazolam
+https://de.wikipedia.org/wiki/Natriumhydrogencarbonat
+https://de.wikipedia.org/wiki/Amphetamin
+https://de.wikipedia.org/wiki/MDMA 
+https://de.wikipedia.org/wiki/Disseminierte_intravasale_Koagulopathie  DIC
+https://de.wikipedia.org/wiki/Glioblastom 
+
+https://de.wikipedia.org/wiki/Gewebespezifischer_Plasminogenaktivator  TPA infusion
+https://de.wikipedia.org/wiki/Paroxysmale_n%C3%A4chtliche_H%C3%A4moglobinurie 
