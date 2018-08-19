@@ -1,4 +1,4 @@
-\[(\d+)\] regex for [1]
+\[(\d+)\] regex for  
 
 {BEGIN Aneurysma}
 
@@ -329,7 +329,7 @@ Bronchoalveoläre Lavage (BAL)
 Hierbei wird das Bronchoskop bis in einen Segmentbronchus weit vorgeschoben und eine Spülung so durchgeführt, dass die Lungenbläschen in einem Segment ausgewaschen werden. Diese Lavage-Flüssigkeit wird auf bestimmte Zellen und Inhaltsstoffe untersucht.
 Kryobiopsie
 
-Diese Technik wird innerhalb einer Bronchoskopie verwendet, indem die Spitze des tief eingeführten Instruments so stark abgekühlt wird, dass Lungengewebe daran festfriert und mit dem Instrument herausgezogen werden kann. Diese Gewebeproben sind in der histologischen Beurteilung oft von besserer Aussagekraft als Biopsien, die mit einer Biopsie-Zange gewonnen wurden.[1] 
+Diese Technik wird innerhalb einer Bronchoskopie verwendet, indem die Spitze des tief eingeführten Instruments so stark abgekühlt wird, dass Lungengewebe daran festfriert und mit dem Instrument herausgezogen werden kann. Diese Gewebeproben sind in der histologischen Beurteilung oft von besserer Aussagekraft als Biopsien, die mit einer Biopsie-Zange gewonnen wurden.  
 
 
 {END Bronchoskopie}
@@ -337,7 +337,7 @@ Diese Technik wird innerhalb einer Bronchoskopie verwendet, indem die Spitze des
 {BEGIN Luftröhre}
 Luftröhre
 
-Die Luftröhre oder fachsprachlich die Trachea (von altgriechisch τραχύς trachýs ‚rau‘;[1][2][Anmerkung 1] gemeint ist „der raue Schlauch“, „die grobe Arterie“ – im Gegensatz zu den feineren blutführenden Gefäßen) ist bei Wirbeltieren die Verbindung zwischen dem Kehlkopf und dem Bronchialsystem der Lunge. Sie gehört zum Atemtrakt und dient der Luftleitung. 
+Die Luftröhre oder fachsprachlich die Trachea (von altgriechisch τραχύς trachýs ‚rau‘;  [Anmerkung 1] gemeint ist „der raue Schlauch“, „die grobe Arterie“ – im Gegensatz zu den feineren blutführenden Gefäßen) ist bei Wirbeltieren die Verbindung zwischen dem Kehlkopf und dem Bronchialsystem der Lunge. Sie gehört zum Atemtrakt und dient der Luftleitung. 
 
 Entwicklung
 
@@ -378,25 +378,25 @@ Die therapeutische Embolisation ist der künstliche Verschluss von Blutgefäßen
 
 Notfallembolisationen
 
-Notfallembolisation nach Beckentrauma:[1] Blutungen meist aus dem frakturierten Beckenknochen, dem präsakralen Venenplexus und Ästen der Arteria iliaca interna.
+Notfallembolisation nach Beckentrauma:  Blutungen meist aus dem frakturierten Beckenknochen, dem präsakralen Venenplexus und Ästen der Arteria iliaca interna.
 
 Notfallembolisation Organe:
 
-    Milz:[2] je nach Ausmaß der Verletzung konservatives Vorgehen unter Überwachung, Splenektomie (operative Entfernung der Milz) oder zunehmend Embolisationstherapie (meist zentraler Verschluss der Milzarterie)
-    Leber:[3] Für den Patienten das gefährlichste Organ. Optionen zur Therapie sind die Operation (z. B. mittels des sogenanntem surgical packing. wo danach eine Embolisation sinnvoll sein kann) und die Embolisation
-    Niere:[4] je nach Ausmaß der Verletzung konservatives Vorgehen unter Überwachung, Operation (Organerhaltendes Vorgehen bis hin zur Nephrektomie) oder zunehmend Embolisationstherapie in immer instabileren Patienten, da operativ zu viele Patienten die Niere doch komplett verlieren
-    Gastrointestinale Blutungen:[5] Eine (auch initial HB-relevante) gastrointestinalen Blutung (z. B. eine Blutung aus einem Magengeschwür in das Darmlumen) ist zwar ein Notfall, jedoch sistieren die meisten dieser Blutungen wieder unter Substitution (Gabe von Blutkonserven). Bei einer Notfalloperation besteht dabei eine Mortalität von 15–40 %, die Mortalität ohne eine sofortige Therapie beträgt 10 % (meist alte, oft vorerkrankte Patienten). Indikation für eine Embolisationstherapie bei einer gastrointestinalen Blutung sind: (Pseudo-)Aneurysmata (Gefäßerweiterungen, die platzen und dann bluten können), ein blutender Gefäßstumpf nach einer Bauchoperation, Magengeschwür, Varizen, erosive Gastritis, Tumore im Bauchraum, Mallory-Weiss-Syndrom, beim Kind juveniler Polyp und Meckel-Divertikel.
+    Milz:  je nach Ausmaß der Verletzung konservatives Vorgehen unter Überwachung, Splenektomie (operative Entfernung der Milz) oder zunehmend Embolisationstherapie (meist zentraler Verschluss der Milzarterie)
+    Leber:  Für den Patienten das gefährlichste Organ. Optionen zur Therapie sind die Operation (z. B. mittels des sogenanntem surgical packing. wo danach eine Embolisation sinnvoll sein kann) und die Embolisation
+    Niere:  je nach Ausmaß der Verletzung konservatives Vorgehen unter Überwachung, Operation (Organerhaltendes Vorgehen bis hin zur Nephrektomie) oder zunehmend Embolisationstherapie in immer instabileren Patienten, da operativ zu viele Patienten die Niere doch komplett verlieren
+    Gastrointestinale Blutungen:  Eine (auch initial HB-relevante) gastrointestinalen Blutung (z. B. eine Blutung aus einem Magengeschwür in das Darmlumen) ist zwar ein Notfall, jedoch sistieren die meisten dieser Blutungen wieder unter Substitution (Gabe von Blutkonserven). Bei einer Notfalloperation besteht dabei eine Mortalität von 15–40 %, die Mortalität ohne eine sofortige Therapie beträgt 10 % (meist alte, oft vorerkrankte Patienten). Indikation für eine Embolisationstherapie bei einer gastrointestinalen Blutung sind: (Pseudo-)Aneurysmata (Gefäßerweiterungen, die platzen und dann bluten können), ein blutender Gefäßstumpf nach einer Bauchoperation, Magengeschwür, Varizen, erosive Gastritis, Tumore im Bauchraum, Mallory-Weiss-Syndrom, beim Kind juveniler Polyp und Meckel-Divertikel.
     Blutung Ulcus duodeni: die Indikation zur Angiographie besteht, wenn der endoskopische Versuch zweimalig gescheitert ist
-    Bronchialarterienembolisation:[6] Indikation bei einer Lebensbedrohenden Blutung, die sich als Hämoptyse (Bluthusten) äußert (> 250 ml Hämoptyse/24 h). Der technische Erfolg der Bronchialarterienembolisation beträgt bis 100 %, jedoch kommt es in etwa 30 % der Fälle zu einer Rezidivblutung binnen 14 Tagen (abhängig von der Grunderkrankung).
+    Bronchialarterienembolisation:  Indikation bei einer Lebensbedrohenden Blutung, die sich als Hämoptyse (Bluthusten) äußert (> 250 ml Hämoptyse/24 h). Der technische Erfolg der Bronchialarterienembolisation beträgt bis 100 %, jedoch kommt es in etwa 30 % der Fälle zu einer Rezidivblutung binnen 14 Tagen (abhängig von der Grunderkrankung).
 
 Elektive Embolisationsbehandlung
 
     Embolisation von pulmonalen AV-Fisteln
     Embolisation von AV-Malformationen (z. B. an den Extremitäten)
     Embolisation von Hämangiomen (z. B. an den Extremitäten)
-    Knochentumorembolisation[7] der Wirbelsäule (meist präoperativ vor Tumorentfernung; in Einzelfällen als palliative Therapie zur Schmerzbehandlung und Tumorreduktion): Bei Tumoren der Wirbelsäule müssen die sogenannten Lumbalarterien mindestens zwei Wirbelkörperetagen oberhalb und unterhalb des Tumors angiographisch dargestellt werden, da unbedingt Kollateralverbindungen zwischen dem Tumor und den die Wirbelsäule und das Rückenmark ernährenden Gefäßen ausgeschlossen werden müssen (Gefahr der Paraplegie und Tetraplegie als seltene Embolisationskomplikation)
+    Knochentumorembolisation  der Wirbelsäule (meist präoperativ vor Tumorentfernung; in Einzelfällen als palliative Therapie zur Schmerzbehandlung und Tumorreduktion): Bei Tumoren der Wirbelsäule müssen die sogenannten Lumbalarterien mindestens zwei Wirbelkörperetagen oberhalb und unterhalb des Tumors angiographisch dargestellt werden, da unbedingt Kollateralverbindungen zwischen dem Tumor und den die Wirbelsäule und das Rückenmark ernährenden Gefäßen ausgeschlossen werden müssen (Gefahr der Paraplegie und Tetraplegie als seltene Embolisationskomplikation)
     Knochentumorembolisation an den Extremitäten (meist präoperativ; in Einzelfällen als palliative Therapie zur Schmerzbehandlung und Tumorreduktion)
-    Uterusmyom-Embolisation:[8] eine Methode, um symptomatische Uterusmyome mittels der Injektion von sphärischen Mikropartikeln in die Arteria uterina zu behandeln.
+    Uterusmyom-Embolisation:  eine Methode, um symptomatische Uterusmyome mittels der Injektion von sphärischen Mikropartikeln in die Arteria uterina zu behandeln.
 
 Materialien
 
@@ -413,14 +413,14 @@ Als metallisches Verschlussmaterial dienen Coils, Interlocking detachable Coils 
 
 
 {BEGIN Calciumantagonist}
-Calciumantagonisten oder im engeren Sinne Calciumkanalblocker sind eine Gruppe von Arzneistoffen (Medikamenten), die den Einstrom von Calcium-Ionen ins Innere der Muskelzelle verringern. Dadurch wird die Kontraktilität der glatten Gefäßmuskelzellen von peripheren Arterien und Koronararterien herabgesetzt, was die Blutgefäße erweitert, die calciumabhängige Energiebereitstellung für die Kontraktion des Herzmuskels verringert und die Automatie des Sinusknotens und der Erregungsleitung im AV-Knoten gehemmt.[1] Dementsprechend werden Calciumantagonisten hauptsächlich zur Behandlung von Bluthochdruck, koronarer Herzkrankheit und Herzrhythmusstörungen eingesetzt.
+Calciumantagonisten oder im engeren Sinne Calciumkanalblocker sind eine Gruppe von Arzneistoffen (Medikamenten), die den Einstrom von Calcium-Ionen ins Innere der Muskelzelle verringern. Dadurch wird die Kontraktilität der glatten Gefäßmuskelzellen von peripheren Arterien und Koronararterien herabgesetzt, was die Blutgefäße erweitert, die calciumabhängige Energiebereitstellung für die Kontraktion des Herzmuskels verringert und die Automatie des Sinusknotens und der Erregungsleitung im AV-Knoten gehemmt.  Dementsprechend werden Calciumantagonisten hauptsächlich zur Behandlung von Bluthochdruck, koronarer Herzkrankheit und Herzrhythmusstörungen eingesetzt.
 
 Im weiteren Sinne zählt zu den Calciumantagonisten der Calciumoverload-Blocker Flunarizin, der vor allem in der Migräneprophylaxe eingesetzt wird. 
 
 Wirkmechanismus
 
 Seit Ende der 1960er entwickelte der Freiburger Physiologe Albrecht Fleckenstein anhand seiner Untersuchungen mit dem Phenylalkylamin Verapamil (Isoptin ©) und dem 1,4-Dihydropyridin, Bay a1040, Nifedipin (Adalat©) das pharmakologische Wirkprinzip des Calciumantagonismus. Später kam Benzothiazepin d-cis Diltiazem (Dilzem©) hinzu. Fleckenstein konnte zeigen, dass die drei chemisch verschiedenen Klassen der Calciumantagonisten (Phenylalkylamine, 1,4-Dihydropyridine und Benzothiazepine) den Calciumeinstrom über spannungsabhängige Calciumkanäle des Herzens und der glatten Muskulatur der Blutgefäße blockierten.
-1,4-Dihydropyridin- (1), Phenylalkylamin- (2) und Benzothiazepin (3) -Rezeptor Domänen der Alpha1-Untereinheit interagieren untereinander (durch reziproke Pfeile dargestellt)[2] und mit Calcium-Bindungsstellen. Die verschiedenen Gewebs-spezifischen Subtypen (Herz, Glatter Muskel, ZNS und Skelettmuskel) der L-Typ Calciumkanäle unterscheiden sich in den Dissoziationskonstanten für z. B. 1,4 Dihydropyridine, der Bindungsfestigkeit für Calcium und Wechselwirkungen untereinander.[3]
+1,4-Dihydropyridin- (1), Phenylalkylamin- (2) und Benzothiazepin (3) -Rezeptor Domänen der Alpha1-Untereinheit interagieren untereinander (durch reziproke Pfeile dargestellt)  und mit Calcium-Bindungsstellen. Die verschiedenen Gewebs-spezifischen Subtypen (Herz, Glatter Muskel, ZNS und Skelettmuskel) der L-Typ Calciumkanäle unterscheiden sich in den Dissoziationskonstanten für z. B. 1,4 Dihydropyridine, der Bindungsfestigkeit für Calcium und Wechselwirkungen untereinander. 
 
 Die Konzentration von Calciumionen (Ca2+) im Zellinneren beträgt normalerweise etwa ein Zehntausendstel der Konzentration im Extrazellularraum (10−7 mol/l im Zytoplasma vs. 10−3 mol/l). Durch äußere Reize können Calciumkanäle geöffnet werden, was den Einstrom von Calciumionen in die Zelle bewirkt. Das veränderte Membranpotential der Muskelzelle bewirkt eine Muskelkontraktion (elektromechanische Kopplung). Dies führt zu einer Verengung und damit einem höheren Druck in den Gefäßen, bzw. beim Herzen zu einer Zunahme der Schlagkraft (positiv-inotrope Wirkung). Bei den spezialisierten Zellen, die für die Erregungsausbreitung am Herzen verantwortlich sind (s. Erregungsleitungssystem), bewirkt dies eine schnellere Überleitung des Reizes (positiv-dromotrope Wirkung).
 
@@ -431,7 +431,7 @@ Die Bindung der Calciumantagonisten an die Calciumkanäle verursacht eine Vermin
 Die hauptsächlich vaskuläre Wirkung (Wirkung in den Gefäßen) der Dihydropyridine lässt sich durch eine bevorzugte Bindung an Calciumkanäle vom L-Typ erklären. Dahingegen greifen die Benzothiazepine und Phenylalkylamine unterschiedlich stark auch an Calciumkanälen vom T-Typ an, was zu einer geringen vaskulären Wirkung führt.
 Strukturtypen
 
-Den spezifischen Bindungsstellen am Calciumkanal entsprechend[4][5] unterteilt man die als Blutdrucksenker und Antiarrhythmika genutzten Calciumantagonisten in drei Typen. Sie besitzen charakteristische chemische Strukturen:
+Den spezifischen Bindungsstellen am Calciumkanal entsprechend   unterteilt man die als Blutdrucksenker und Antiarrhythmika genutzten Calciumantagonisten in drei Typen. Sie besitzen charakteristische chemische Strukturen:
 
     Dihydropyridine (Nifedipin-Typ)
     Phenylalkylamine (Verapamil-Typ)
@@ -509,7 +509,7 @@ Insgesamt ist der Nutzen von Calciumantagonisten als einziges Medikament (Monoth
 Verapamil und Diltiazem werden immer noch zur Behandlung des tachykarden Vorhofflimmerns eingesetzt, wenngleich ihre Bedeutung gegenüber Betablockern zurückgetreten ist. Auch in der Behandlung der chronischen koronaren Herzkrankheit (stabile Angina pectoris) sind die Calciumantagonisten von anderen Medikamenten (Betablockern, retardierten Nitratpräparaten und Molsidomin) teilweise verdrängt worden.
 Pharmakoepidemiologische Studien
 
-Zur Pharmakoepidemiologie der Calciumantagonisten liegen nur wenige bevölkerungsrepräsentative oder große Untersuchungsgruppen betreffende Studien vor. Genannt seien hier zwei Studien für die Bundesrepublik Deutschland[6][7] und das Königreich Bahrein.[8] 
+Zur Pharmakoepidemiologie der Calciumantagonisten liegen nur wenige bevölkerungsrepräsentative oder große Untersuchungsgruppen betreffende Studien vor. Genannt seien hier zwei Studien für die Bundesrepublik Deutschland   und das Königreich Bahrein.  
 
 	
 {END Calciumantagonist}
@@ -538,7 +538,7 @@ Einwanderung von Entzündungszellen bei einer Lungenentzündung (unten), oben no
     Lokale Durchblutungsminderung:
         Diese nur minutenlange Phase wird auch „initiale Ischämie“ genannt. Gemeint ist eine kurzzeitige lokale Durchblutungsminderung durch die Reaktion des Gefäßbindegewebes auf die Adrenalinausschüttung (arterieller Spasmus). Verbunden mit den verengten Arteriolen sind erweiterte Venolen.
         Danach folgt eine, vor allem lokale, Hyperämie, die zum einen durch den vom vegetativen Nervensystem ausgelösten Arteriolenspasmus, zum anderen von einer Verengung der Venolen ausgelöst wird. Letztere wird von diversen Mediatoren, z. B. Prostaglandinen, Kininen, ausgelöst. Diese Abflussstörung wiederum führt zur Thrombozytenaggregation, dem Sludge-Phänomen (zähflüssiges Blut), Exsudation und anderen durch Blutstase ausgelösten Folgen.
-    Die Permeabilität der Gefäßwände wird durch Gefäßmediatoren, hier Histamin, Prostaglandine, Kinine und Serotonin, für wenige Minuten gesteigert, so dass ein Blutstau entsteht.[1]
+    Die Permeabilität der Gefäßwände wird durch Gefäßmediatoren, hier Histamin, Prostaglandine, Kinine und Serotonin, für wenige Minuten gesteigert, so dass ein Blutstau entsteht. 
     Durch die erhöhte Permeabilität können nun Plasmaeiweiße (Blutplasmaexsudation) durch Lücken in den Gefäßwänden in das betroffene Gebiet einströmen. Für die Entzündungsreaktion wichtig sind hierbei vor allem neutrophile, basophile und eosinophile Granulozyten, Makrophagen und Lymphozyten. Es kommt zur Phagozytose der Fremdkörper. Außerdem werden vermehrt Mastzellen in das entzündete Gewebe angeschwemmt.
 
 Schäden durch Entzündung
@@ -620,7 +620,7 @@ Glucocorticoide haben eine verstärkende Wirkung auf die Glucagon-induzierte Exp
 In vielfach höherer Dosis, wie sie nur nach Anwendung von Medikamenten erzielt wird, treten weitere Wirkungen auf: Die Protein-Synthese wird gehemmt, die Antikörperproduktion des Immunsystems vermindert und Entzündungsvorgänge werden unterdrückt. Noch höhere Dosen, die nur bei Gabe hochwirksamer künstlicher Glucocorticoide wie Dexamethason erreicht werden, wirken dem Kreislaufschock bei lebensgefährlichen Erkrankungen und Verletzungen entgegen.
 Pathologien
 
-Das Enzym 11β-Hydroxysteroid-Dehydrogenase 1 katalysiert die Inaktivierung von Cortisol durch Dehydrierung zum Cortison. Mutationen im dafür codierenden HSD11B1-Gen sind verantwortlich für das sogenannte AME-Syndrom, eine Form des Hyperandrogenismus und seltene Erbkrankheit.[1]
+Das Enzym 11β-Hydroxysteroid-Dehydrogenase 1 katalysiert die Inaktivierung von Cortisol durch Dehydrierung zum Cortison. Mutationen im dafür codierenden HSD11B1-Gen sind verantwortlich für das sogenannte AME-Syndrom, eine Form des Hyperandrogenismus und seltene Erbkrankheit. 
 Therapeutischer Einsatz
 
 Glucocorticoid-Präparate haben entzündungshemmende Wirkung. Sie werden zur Therapie beispielsweise bei allergischem Schnupfen oder bei Asthma bronchiale verwendet. Hochwirksame Varianten werden bei akuten Notfällen (Anaphylaxie, Sepsis, Schock) eingesetzt. Andere Präparate können topisch (örtlich) eingesetzt werden, zum Beispiel auf der Haut oder in der Nase. Heute sind zahlreiche topische Glucocorticoide wie Budesonid oder Fluticasonpropionat verfügbar.
@@ -630,10 +630,10 @@ Wirkungen: An der Bronchialschleimhaut Entzündungshemmung und Abschwellung – 
 Bei drohender Frühgeburt werden Glucocorticoide zur Förderung der Lungenreifung eingesetzt.
 Nebenwirkungen
 
-In Abhängigkeit von der Stärkeklasse und Lokalisation können bei auf der Haut angewandten (topischen) Corticosteroiden bei langfristiger Applikation (Wochen bis Monate) oder bei systemischer (das heißt nicht örtlicher) Anwendung Nebenwirkungen auftreten: Wasserspeicherung im Gewebe (Ödem) und damit Gewichtszunahme, Schwächung der Immunabwehr, Förderung der Entstehung und Verstärkung eines bestehenden Diabetes mellitus, Förderung und Verstärkung eines bestehenden Knochenschwundes (Osteoporose), bei inhalativer Gabe Heiserkeit. Glucocorticoide vermindern die Umwandlung des Vitamin D3 von der inaktiven Speicherform (25OH-Cholecalciferol) in die aktive (1,25OH-Cholecalciferol). Dennoch ist bei Einnahme von systemischen Corticoiden die Einnahme von inaktivem Vitamin D dem aktiven vorzuziehen, da es bei diesem nicht zu Überdosierungen kommen kann. Nur bei Niereninsuffizienz ist aufgrund einer dadurch weitgehend fehlenden Umwandlung von der inaktiven (25OH-Cholecalciferol) in die aktive (1,25OH Cholecalciferol) Form die Gabe von „aktivem“ Vitamin D (Calcitriol) unter Kontrolle der Serum-Calcium-Spiegel indiziert. Die kurzdauernde Stoßtherapie bei akuten Erkrankungen ist nebenwirkungsarm. Es wurden auch Hinweise darauf gefunden, dass Glucocorticoide das Thromboserisiko erhöhen.[2]
+In Abhängigkeit von der Stärkeklasse und Lokalisation können bei auf der Haut angewandten (topischen) Corticosteroiden bei langfristiger Applikation (Wochen bis Monate) oder bei systemischer (das heißt nicht örtlicher) Anwendung Nebenwirkungen auftreten: Wasserspeicherung im Gewebe (Ödem) und damit Gewichtszunahme, Schwächung der Immunabwehr, Förderung der Entstehung und Verstärkung eines bestehenden Diabetes mellitus, Förderung und Verstärkung eines bestehenden Knochenschwundes (Osteoporose), bei inhalativer Gabe Heiserkeit. Glucocorticoide vermindern die Umwandlung des Vitamin D3 von der inaktiven Speicherform (25OH-Cholecalciferol) in die aktive (1,25OH-Cholecalciferol). Dennoch ist bei Einnahme von systemischen Corticoiden die Einnahme von inaktivem Vitamin D dem aktiven vorzuziehen, da es bei diesem nicht zu Überdosierungen kommen kann. Nur bei Niereninsuffizienz ist aufgrund einer dadurch weitgehend fehlenden Umwandlung von der inaktiven (25OH-Cholecalciferol) in die aktive (1,25OH Cholecalciferol) Form die Gabe von „aktivem“ Vitamin D (Calcitriol) unter Kontrolle der Serum-Calcium-Spiegel indiziert. Die kurzdauernde Stoßtherapie bei akuten Erkrankungen ist nebenwirkungsarm. Es wurden auch Hinweise darauf gefunden, dass Glucocorticoide das Thromboserisiko erhöhen. 
 Wirkungsstärke
 
-25 mg Cortisol entsprechen in etwa der täglichen Produktion der Nebennierenrinde beim Menschen. Darauf bezogen ergeben sich die Wirkungsstärke und die Äquivalenzdosis verschiedener Glucocorticoide aus der klinischen Praxis wie in der folgenden Tabelle dargestellt.[3][4] 
+25 mg Cortisol entsprechen in etwa der täglichen Produktion der Nebennierenrinde beim Menschen. Darauf bezogen ergeben sich die Wirkungsstärke und die Äquivalenzdosis verschiedener Glucocorticoide aus der klinischen Praxis wie in der folgenden Tabelle dargestellt.   
 
 
 Topische Anwendung
@@ -655,9 +655,9 @@ Klasse 4 – sehr stark wirksam
 
 Anwendungen
 
-Bei der topisch-dermalen Anwendung werden die Wirkstoffe je nach Ausgangszustand der Haut in Lösungen, Salben, Cremes oder Fettsalben eingebracht. Zur Behandlung infizierter Effloreszenzen stehen Kombinationspräparate mit antibakteriellen oder antimykotischen Wirkstoffen zur Verfügung. Ist die Hautstelle stark schuppend, so kann zur Auflösung der Schuppen Harnstoff oder Salicylsäure (3-prozentig) beigemengt werden. Dies begünstigt auch die Resorption der Glucocorticoide. Zur Wirkverstärkung kann durch einen Okklusionsverband ein Aufweichen der oberen Hautschichten erreicht werden.[5]
+Bei der topisch-dermalen Anwendung werden die Wirkstoffe je nach Ausgangszustand der Haut in Lösungen, Salben, Cremes oder Fettsalben eingebracht. Zur Behandlung infizierter Effloreszenzen stehen Kombinationspräparate mit antibakteriellen oder antimykotischen Wirkstoffen zur Verfügung. Ist die Hautstelle stark schuppend, so kann zur Auflösung der Schuppen Harnstoff oder Salicylsäure (3-prozentig) beigemengt werden. Dies begünstigt auch die Resorption der Glucocorticoide. Zur Wirkverstärkung kann durch einen Okklusionsverband ein Aufweichen der oberen Hautschichten erreicht werden. 
 
-Lokale Entzündungsreaktionen, die einer äußerlichen Corticoidapplikation nicht zugänglich sind, können mittels Depotspritze topisch behandelt werden.[5] Hierfür stehen entsprechende Kristallsuspensionen mit den Corticoiden Betamethason, Dexamethason, Triamcinolon und Prednisolon zur Verfügung. 
+Lokale Entzündungsreaktionen, die einer äußerlichen Corticoidapplikation nicht zugänglich sind, können mittels Depotspritze topisch behandelt werden.  Hierfür stehen entsprechende Kristallsuspensionen mit den Corticoiden Betamethason, Dexamethason, Triamcinolon und Prednisolon zur Verfügung. 
 
 
 
@@ -686,7 +686,7 @@ Die häufigsten Knochenbrüche infolge einer Osteoporose sind nach Häufigkeit s
     Oberarmkopfbruch (subcapitale Humerusfraktur),
     Beckenbruch.
 
-Die Osteoporose, welche erstmals 1885 von dem Innsbrucker Pathologen Gustav Adolf Pommer (1851–1935) beschrieben wurde,[1] ist die häufigste Knochenerkrankung im höheren Lebensalter. Am häufigsten (95 Prozent) ist die primäre Osteoporose, das heißt diejenige Osteoporose, die im Gegensatz zur sekundären Osteoporose nicht als Folge einer anderen Erkrankung auftritt. 80 Prozent aller Osteoporosen betreffen Frauen nach der Menopause (siehe Postmenopause), wobei vor allem kleinknochige Nordeuropäerinnen und Raucherinnen betroffen sind. 30 % aller Frauen entwickeln nach der Menopause eine klinisch relevante Osteoporose. Sekundäre Osteoporosen sind seltener (5 %), wobei Erkrankungen, die eine Behandlung mit Glukokortikoiden während einer längeren Zeitspanne erfordern und/oder zu einer Immobilisation führen, im Vordergrund stehen.
+Die Osteoporose, welche erstmals 1885 von dem Innsbrucker Pathologen Gustav Adolf Pommer (1851–1935) beschrieben wurde,  ist die häufigste Knochenerkrankung im höheren Lebensalter. Am häufigsten (95 Prozent) ist die primäre Osteoporose, das heißt diejenige Osteoporose, die im Gegensatz zur sekundären Osteoporose nicht als Folge einer anderen Erkrankung auftritt. 80 Prozent aller Osteoporosen betreffen Frauen nach der Menopause (siehe Postmenopause), wobei vor allem kleinknochige Nordeuropäerinnen und Raucherinnen betroffen sind. 30 % aller Frauen entwickeln nach der Menopause eine klinisch relevante Osteoporose. Sekundäre Osteoporosen sind seltener (5 %), wobei Erkrankungen, die eine Behandlung mit Glukokortikoiden während einer längeren Zeitspanne erfordern und/oder zu einer Immobilisation führen, im Vordergrund stehen.
    
 
 Ursachen
@@ -702,18 +702,18 @@ Die Knochenmasse nimmt etwa in den ersten drei Lebensjahrzehnten zu (in der Juge
         Hormonell: Hyperkortisolismus (Cushing-Syndrom), Hypogonadismus, Hyperparathyreoidismus, Hyperthyreose, Schwangerschaftsassoziierte Osteoporose
         Gastroenterologische Ursachen: Malnutrition, Anorexia nervosa (Magersucht), Malabsorption, renale Osteopathie
         Immobilisation (eingeschränkte Bewegung)
-        Medikamentös:[2]
+        Medikamentös: 
             Langzeittherapie mit Kortikosteroiden (Cortisol), wirkt wie ein Cushing-Syndrom
             Langzeittherapie mit Heparin (zur Hemmung der Blutgerinnung)
-            Vitamin-K-Antagonisten als Antikoagulanzien wie Phenprocoumon (Marcumar) vermindern die Knochendichte, da Vitamin K für die Reifung der Knochenmatrix notwendig ist. Hingegen gibt es keinen Hinweis, dass die Einnahme von Vitamin K einen Effekt auf die Knochendichte oder das Frakturrisiko hat.[3]
-            Magensäure blockierende Medikamente[4]
+            Vitamin-K-Antagonisten als Antikoagulanzien wie Phenprocoumon (Marcumar) vermindern die Knochendichte, da Vitamin K für die Reifung der Knochenmatrix notwendig ist. Hingegen gibt es keinen Hinweis, dass die Einnahme von Vitamin K einen Effekt auf die Knochendichte oder das Frakturrisiko hat. 
+            Magensäure blockierende Medikamente 
             Hochdosierte Therapie mit Schilddrüsenhormonen vermindert die Knochendichte ebenso wie eine Hyperthyreose.
             Gonadotropin-Releasing-Hormon-Antagonisten bei Einnahme von über einem Jahr Dauer, hemmen fast vollständig die Östrogenbildung in den Ovarien
             Aromatasehemmer hemmen ebenfalls die Östrogenbildung.
             Zytostatika
             Laxanzienabusus und Langzeittherapie mit Cholestyramin reduzieren die Resorption von Vitamin D im Verdauungstrakt.
             Lithium kann zu erhöhten Parathormonspiegeln führen und damit eine Osteoporose auslösen.
-            Unter langfristiger Einnahme von Antikonvulsiva wurden Fälle von Osteoporose bis hin zu Frakturen berichtet. Das Bundesinstitut für Arzneimittel und Medizinprodukte hat entsprechend die Fachinformationen bestimmter Arzneimittel überarbeiten lassen.[5]
+            Unter langfristiger Einnahme von Antikonvulsiva wurden Fälle von Osteoporose bis hin zu Frakturen berichtet. Das Bundesinstitut für Arzneimittel und Medizinprodukte hat entsprechend die Fachinformationen bestimmter Arzneimittel überarbeiten lassen. 
         Hereditär:
             Osteogenesis imperfecta, Hypophosphatasie, Ehlers-Danlos-Syndrom, Marfan-Syndrom, Homocystinurie, Geroderma osteodysplastica, Snyder-Robinson-Syndrom
         Neoplastische Erkrankungen:
@@ -728,8 +728,8 @@ Die Knochenmasse nimmt etwa in den ersten drei Lebensjahrzehnten zu (in der Juge
             Perniziöse Anämie, Vitamin-B12-Mangel
             Folsäuremangel
             Untergewicht
-            Fleischreiche, gemüse-/obstarme Ernährung scheint ungünstig zu sein. Es wurde unter anderem ein Zusammenhang des Knochenstoffwechsels mit dem Säure-Basen-Haushalt vermutet, der sich jedoch nicht bewahrheitet hat.[6]
-            Konsum von phosphathaltigen Colagetränken könnte ein Risiko darstellen, allerdings korreliert starker Colakonsum mit einer kalziumarmen Ernährung[7]
+            Fleischreiche, gemüse-/obstarme Ernährung scheint ungünstig zu sein. Es wurde unter anderem ein Zusammenhang des Knochenstoffwechsels mit dem Säure-Basen-Haushalt vermutet, der sich jedoch nicht bewahrheitet hat. 
+            Konsum von phosphathaltigen Colagetränken könnte ein Risiko darstellen, allerdings korreliert starker Colakonsum mit einer kalziumarmen Ernährung 
 
 Diagnostik
 Anamnese
@@ -743,7 +743,7 @@ Röntgen
 Untersuchung von Brust- und Lendenwirbelsäule zur Aufdeckung von Frakturen und Höhenminderungen.
 Biomarker
 
-Die erhöhte Ausscheidung von C-Telopeptiden des Typ I [Kollagen] über den Urin kann für die Diagnose von Osteoporose und Osteoarthritis herangezogen werden. Sowie für die Einschätzung des momentanen Krankheitsverlaufs.[8][9]
+Die erhöhte Ausscheidung von C-Telopeptiden des Typ I [Kollagen] über den Urin kann für die Diagnose von Osteoporose und Osteoarthritis herangezogen werden. Sowie für die Einschätzung des momentanen Krankheitsverlaufs.  
 Knochendichtemessung
 Maximale Knochendichte bei einem Alter von ca. 30 Jahren. Frauen verlieren schneller an Knochendichte als Männer
 
@@ -751,27 +751,27 @@ Maximale Knochendichte bei einem Alter von ca. 30 Jahren. Frauen verlieren schne
 
 Am weitesten verbreitet ist die Dual-Röntgen-Absorptiometrie (DXA oder DEXA – engl. dual-energy-x-ray-absorptiometry). Auf ihr basiert auch die Definition der WHO und mit ihrer Hilfe wird der T-Wert ermittelt. Eine weitere Methode stellt die quantitative Computertomographie (QCT bzw. pQCT) dar. Die Messung der Knochendichte mittels Ultraschalls, also mit dem sogenannten quantitativen Ultraschall (QUS), ist höchst umstritten und nur in ganz wenigen Fällen überhaupt aussagekräftig. Die Aussagekraft für DXA und QCT ist hingegen gut belegt. Die Messung der Knochendichte zur Früherkennung ist keine Leistung der gesetzlichen Kassen. Der Versicherte muss sie selbst bezahlen, wenn vor der Messung kein Knochenbruch ohne entsprechende Krafteinwirkung (ein sogenannter Ermüdungsbruch) mit Verdacht auf Osteoporose vorliegt.
 
-Die Knochendichte selbst ist jedoch nur zum Teil für das erhöhte Bruchrisiko der Knochen bei Osteoporose verantwortlich; die Bruchfestigkeit wird im Wesentlichen von der äußeren Compacta-Schicht bestimmt, während die Knochendichtemessung vor allem auch den trabekulären Knochen misst.[10]
+Die Knochendichte selbst ist jedoch nur zum Teil für das erhöhte Bruchrisiko der Knochen bei Osteoporose verantwortlich; die Bruchfestigkeit wird im Wesentlichen von der äußeren Compacta-Schicht bestimmt, während die Knochendichtemessung vor allem auch den trabekulären Knochen misst. 
 
-Ausgehend von einer Knochendichtemessung kann über den computerbasierten Algorithmus FRAX (WHO Fracture Risk Assessment Tool) die Wahrscheinlichkeit bestimmt werden, in den folgenden zehn Jahren eine osteoporotische Fraktur zu erleiden. Dies ist besonders für die Abschätzung der Notwendigkeit einer antiresorptiven Therapie bei einer Osteopenie geeignet.[11]
+Ausgehend von einer Knochendichtemessung kann über den computerbasierten Algorithmus FRAX (WHO Fracture Risk Assessment Tool) die Wahrscheinlichkeit bestimmt werden, in den folgenden zehn Jahren eine osteoporotische Fraktur zu erleiden. Dies ist besonders für die Abschätzung der Notwendigkeit einer antiresorptiven Therapie bei einer Osteopenie geeignet. 
 
-Zu beachten sind besonders beim älteren Menschen häufige Fehlerquellen bei der DXA-Messung an der Lendenwirbelsäule mit Verschleierung einer verminderten oder sogar Vortäuschung einer höheren Knochendichte: durch Sinterung von Wirbelkörpern, Skoliose, Spondylophyten oder Arterienverkalkung (Aortosklerose). Für ein verwertbares Ergebnis müssen wenigstens zwei Wirbelkörper beurteilbar sein.[12]
+Zu beachten sind besonders beim älteren Menschen häufige Fehlerquellen bei der DXA-Messung an der Lendenwirbelsäule mit Verschleierung einer verminderten oder sogar Vortäuschung einer höheren Knochendichte: durch Sinterung von Wirbelkörpern, Skoliose, Spondylophyten oder Arterienverkalkung (Aortosklerose). Für ein verwertbares Ergebnis müssen wenigstens zwei Wirbelkörper beurteilbar sein. 
 
-Wenn bereits osteoporotische Frakturen im Röntgenbild nachgewiesen wurden oder eine pertrochantäre Femurfraktur aufgetreten ist, kann auch ohne vorherige DXA-Messung die Diagnose einer Osteoporose gestellt und eine adäquate Therapie eingeleitet werden.[13]
+Wenn bereits osteoporotische Frakturen im Röntgenbild nachgewiesen wurden oder eine pertrochantäre Femurfraktur aufgetreten ist, kann auch ohne vorherige DXA-Messung die Diagnose einer Osteoporose gestellt und eine adäquate Therapie eingeleitet werden. 
 Screening
 
 Der Dachverband Osteologie empfiehlt eine Basisdiagnostik bei Frauen nach der Menopause und Männern über 60 Jahren falls
 
     bereits Knochenbrüche aufgetreten sind, die durch schwache Krafteinwirkung entstanden sind,
     Grundkrankheiten bestehen, die Einfluss auf die Knochen haben können, oder
-    Risikofaktoren für Wirbelkörperfrakturen oder Hüftfrakturen vorhanden sind (DVO-Risikomodell 2006).[14]
+    Risikofaktoren für Wirbelkörperfrakturen oder Hüftfrakturen vorhanden sind (DVO-Risikomodell 2006). 
 
 Differentialdiagnose
 
 Andere Erkrankungen, die primär mit einer verschlechterten Knochenqualität einhergehen, sind:
 
     Osteomalazie.
-    Die Hypophosphatasie ist seltener als die Osteoporose. Manche Formen der Hypophosphatasie (HPP) werden erst im erwachsenen Alter symptomatisch und könnten zur Fehldiagnose einer Osteoporose führen.[15] Eine erniedrigte Aktivität der alkalischen Phosphatase im Serum, sowie ein früher Milchzahn-Verlust und das Auftreten atypischer Frakturen (z. B. subtrochantäre laterale Femurfraktur) mit verzögerter Frakturheilung weisen auf eine HPP hin.[15] Die Unterscheidung zwischen der Osteoporose und der HPP ist wichtig, da bei der HPP die Gabe von Bisphosphonaten kontraindiziert ist.[15]
+    Die Hypophosphatasie ist seltener als die Osteoporose. Manche Formen der Hypophosphatasie (HPP) werden erst im erwachsenen Alter symptomatisch und könnten zur Fehldiagnose einer Osteoporose führen.  Eine erniedrigte Aktivität der alkalischen Phosphatase im Serum, sowie ein früher Milchzahn-Verlust und das Auftreten atypischer Frakturen (z. B. subtrochantäre laterale Femurfraktur) mit verzögerter Frakturheilung weisen auf eine HPP hin.  Die Unterscheidung zwischen der Osteoporose und der HPP ist wichtig, da bei der HPP die Gabe von Bisphosphonaten kontraindiziert ist. 
 
 Krankheitsverlauf und Prognose
 
@@ -784,16 +784,16 @@ Man geht davon aus, dass in Deutschland etwa 30 % aller Frauen nach dem Klimakte
 Behandlungsmöglichkeiten und Prävention
 Lebensweise
 
-Körperliche Aktivität schützt vor Knochenschwund. Die Kräfte, die dabei auf den Knochen wirken, regen die knochenaufbauenden Zellen an, neue Knochensubstanz zu bilden. Empfohlen werden dabei vorwiegend gewichttragende Ausdauerübungen und muskelaufbauendes Training, sowie Aerobic.[16][17] Daneben fördert ausreichende Sonnenlichtexposition, empfohlen wird mindestens eine halbe Stunde täglich,[18] die Vitamin-D-Produktion der Haut.
+Körperliche Aktivität schützt vor Knochenschwund. Die Kräfte, die dabei auf den Knochen wirken, regen die knochenaufbauenden Zellen an, neue Knochensubstanz zu bilden. Empfohlen werden dabei vorwiegend gewichttragende Ausdauerübungen und muskelaufbauendes Training, sowie Aerobic.   Daneben fördert ausreichende Sonnenlichtexposition, empfohlen wird mindestens eine halbe Stunde täglich,  die Vitamin-D-Produktion der Haut.
 Ernährung
 
-Der DVO empfiehlt als Basistherapie für Osteoporosepatienten ohne eine spezifische medikamentöse Osteoporosetherapie eine Zufuhr von 1000 bis maximal 2000 mg Calcium pro Tag mit der Nahrung. Hiervon ausgenommen sind Kinder, Jugendliche, prämenopausale Frauen und Männer bis zum 60. Lebensjahr.[19] Ein Gramm Calcium ist in einem Liter Milch oder 100 g Hartkäse enthalten. Neben Milchprodukten (hierbei vor allem Milch und Joghurt[20]) sind vor allem grüne Gemüsesorten wie Grünkohl und Broccoli sowie Samen und Nüsse sehr gute Calcium-Lieferanten.
+Der DVO empfiehlt als Basistherapie für Osteoporosepatienten ohne eine spezifische medikamentöse Osteoporosetherapie eine Zufuhr von 1000 bis maximal 2000 mg Calcium pro Tag mit der Nahrung. Hiervon ausgenommen sind Kinder, Jugendliche, prämenopausale Frauen und Männer bis zum 60. Lebensjahr.  Ein Gramm Calcium ist in einem Liter Milch oder 100 g Hartkäse enthalten. Neben Milchprodukten (hierbei vor allem Milch und Joghurt ) sind vor allem grüne Gemüsesorten wie Grünkohl und Broccoli sowie Samen und Nüsse sehr gute Calcium-Lieferanten.
 
 Wenn die empfohlene Zufuhr von Calcium mit ausgewogener Ernährung dennoch nicht erreicht werden sollte, kann eine Supplementierung, etwa in Tablettenform, durchgeführt werden. Als Bestandteil der Basistherapie empfehlen die internationalen Leitlinien die kombinierte Einnahme mit Vitamin D (Ergo- und Cholecalciferol, nicht aber Metabolite wie 1-alpha- oder 1,25-Dihydroxy-Vitamin D).
 
-Starker Alkohol- und Tabakkonsum soll vermieden werden.[18][21][22]
+Starker Alkohol- und Tabakkonsum soll vermieden werden.   
 
-Obwohl Vitamin K bei der Reifung der Knochenmatrix benötigt wird und bei langfristiger Einnahme von Vitamin-K-Antagonisten wie Marcumar das Osteoporoserisiko steigt, gibt es keinen Hinweis darauf, dass die Einnahme von Vitamin K einen positiven Effekt hat. Diesbezüglich existiert auch keine qualitative Studie. Während in sämtlichen evidenzbasierten Richtlinien die Einnahme von Vitamin D und Kalzium empfohlen wird, gibt es keine Empfehlung zur Vitamin-K-Einnahme.[23]
+Obwohl Vitamin K bei der Reifung der Knochenmatrix benötigt wird und bei langfristiger Einnahme von Vitamin-K-Antagonisten wie Marcumar das Osteoporoserisiko steigt, gibt es keinen Hinweis darauf, dass die Einnahme von Vitamin K einen positiven Effekt hat. Diesbezüglich existiert auch keine qualitative Studie. Während in sämtlichen evidenzbasierten Richtlinien die Einnahme von Vitamin D und Kalzium empfohlen wird, gibt es keine Empfehlung zur Vitamin-K-Einnahme. 
 Pharmakotherapie
 
 Nach den Leitlinien des DVO wird, unter Berücksichtigung der Knochendichte, des Lebensalters, stattgehabter Wirbelkörperfrakturen und anderer Risikofaktoren, folgende medikamentöse Therapie empfohlen:
@@ -813,33 +813,33 @@ Auch in Verwendung, jedoch nicht vom DVO empfohlen sind
     Calcitonin, kaum noch verwendet, der Nutzen ist schlecht belegt. Außerdem kommt es meistens zu schweren Allergiesymptomen bei der Behandlung.
     STH (Wachstumshormon), kein Nutzen belegt; evtl. problematische Nebenwirkungen.
     Fluoride (veraltet; entwickeln harte, aber spröde Knochen, die Stabilität wird nicht besser)
-    Östrogene werden seit der Kritik an der Hormonersatztherapie wegen Nebenwirkungen nur eingeschränkt für diese Indikation verwendet, sind (in an Schwefel- oder Glukuronsäure gekoppelter Form)[24] aber bei der postmenopausalen Frau hinsichtlich der Osteoporose-Prävention und Behandlung (Verlangsamung des Knochenschwunds) meist, be ausreichender Kalziumgabe, wirksam. Die Entscheidung Pro oder Contra muss individuell getroffen werden.
+    Östrogene werden seit der Kritik an der Hormonersatztherapie wegen Nebenwirkungen nur eingeschränkt für diese Indikation verwendet, sind (in an Schwefel- oder Glukuronsäure gekoppelter Form)  aber bei der postmenopausalen Frau hinsichtlich der Osteoporose-Prävention und Behandlung (Verlangsamung des Knochenschwunds) meist, be ausreichender Kalziumgabe, wirksam. Die Entscheidung Pro oder Contra muss individuell getroffen werden.
     Vitamin-D-Metabolite wie 1-alpha- oder 1,25-Dihydroxy-Vitamin D (Nutzen bei postmenopausaler Osteoporose nicht eindeutig belegt, teuer, problematische Nebenwirkungen; 1,25-Vitamin D (Calcitriol) ist wirksam und indiziert bei bestimmten Knochenerkrankungen im Rahmen fortgeschrittener Nierenerkrankungen).
 
-Eine neue Osteoporose-Behandlungsmöglichkeit stellt Denosumab dar. Dabei handelt es sich um einen monoklonalen Antikörper, der einmal halbjährlich als Spritze unter die Haut verabreicht wird. Am 28. Mai 2010 wurde Denosumab (mit dem Handelsnamen Prolia) für alle 27 Mitgliedsstaaten der Europäischen Union (EU) sowie in Norwegen, Island und Liechtenstein zur Behandlung der Osteoporose bei postmenopausalen Frauen mit erhöhtem Frakturrisiko und zur Behandlung eines Knochendichteverlustes durch eine hormonablative Therapie (Androgendeprivation) bei Männern mit Prostatakarzinom und erhöhtem Frakturrisiko zugelassen.[25][26]
+Eine neue Osteoporose-Behandlungsmöglichkeit stellt Denosumab dar. Dabei handelt es sich um einen monoklonalen Antikörper, der einmal halbjährlich als Spritze unter die Haut verabreicht wird. Am 28. Mai 2010 wurde Denosumab (mit dem Handelsnamen Prolia) für alle 27 Mitgliedsstaaten der Europäischen Union (EU) sowie in Norwegen, Island und Liechtenstein zur Behandlung der Osteoporose bei postmenopausalen Frauen mit erhöhtem Frakturrisiko und zur Behandlung eines Knochendichteverlustes durch eine hormonablative Therapie (Androgendeprivation) bei Männern mit Prostatakarzinom und erhöhtem Frakturrisiko zugelassen.  
 
-Die tägliche Anwendung einer nitroglycerinhaltigen Salbe erhöhte in einer Studie kanadischer Forscher die Knochendichte deutlich. Ob dadurch das Risiko von Knochenbrüchen verringert wird, wird jedoch nicht belegt. Die Wirkung wird mit der Freisetzung von Stickoxid erklärt, welches die Osteoklasten direkt hemmt.[27]
+Die tägliche Anwendung einer nitroglycerinhaltigen Salbe erhöhte in einer Studie kanadischer Forscher die Knochendichte deutlich. Ob dadurch das Risiko von Knochenbrüchen verringert wird, wird jedoch nicht belegt. Die Wirkung wird mit der Freisetzung von Stickoxid erklärt, welches die Osteoklasten direkt hemmt. 
 
 Dass eine Erhöhung der Knochendichte nicht mit einem verminderten Knochenbruchrisiko einhergehen muss, sondern es sogar erhöhen kann, zeigt das Beispiel der Fluoride, die das Bruchrisiko erhöhen können (Fluorose). Daher ist es unerlässlich, für neue Osteoporose-Mittel Studien durchzuführen, die eine Verminderung des Bruchrisikos nachweisen und die dabei auch den bereits bekannten Mitteln in ihrer Wirksamkeit nicht unterlegen sein dürfen.
 
-Es gibt keine Studien, welche die vorhandenen Bisphosphonate miteinander vergleichen, weshalb eine generelle Empfehlung bezüglich eines bestimmten Wirkstoffs noch nicht gestellt werden kann.[28] Je nach Lokalisation der Brüche, konnte das Risiko um 25 bis 70 % reduziert werden.[28] Bisphosphonate beherbergen das seltene Risiko von atypischen Brüchen des Oberschenkelknochens und Osteonekrosen der Kieferknochen.[28][29] Bei geringem Nutzen in einem Behandlungszeitraum von drei bis fünf Jahren, kann im Hinblick auf die Nebenwirkungen die Behandlung mit diesen Medikamenten ein- oder umgestellt werden.[30]
+Es gibt keine Studien, welche die vorhandenen Bisphosphonate miteinander vergleichen, weshalb eine generelle Empfehlung bezüglich eines bestimmten Wirkstoffs noch nicht gestellt werden kann.  Je nach Lokalisation der Brüche, konnte das Risiko um 25 bis 70 % reduziert werden.  Bisphosphonate beherbergen das seltene Risiko von atypischen Brüchen des Oberschenkelknochens und Osteonekrosen der Kieferknochen.   Bei geringem Nutzen in einem Behandlungszeitraum von drei bis fünf Jahren, kann im Hinblick auf die Nebenwirkungen die Behandlung mit diesen Medikamenten ein- oder umgestellt werden. 
 Verhinderung von Brüchen
 Hüftprotektoren
 
-Um osteoporotischen Oberschenkelhalsfrakturen vorzubeugen, werden Hüftprotektoren eingesetzt. Ein Cochrane-Review von 2014 kam zu dem Ergebnis, dass Hüftprotektoren das Risiko von Oberschenkelhalsfrakturen bei älteren Menschen reduzieren können.[31] Die geringe Akzeptanz und Nutzung der Protektoren schränkt ihren prophylaktischen Wert ein.
+Um osteoporotischen Oberschenkelhalsfrakturen vorzubeugen, werden Hüftprotektoren eingesetzt. Ein Cochrane-Review von 2014 kam zu dem Ergebnis, dass Hüftprotektoren das Risiko von Oberschenkelhalsfrakturen bei älteren Menschen reduzieren können.  Die geringe Akzeptanz und Nutzung der Protektoren schränkt ihren prophylaktischen Wert ein.
 
 Zur Vorbeugung bzw. unterstützenden Behandlung der Osteoporose gibt es auch verschiedene Verfahren der alternativen Medizin, die jedoch keine Wirksamkeitsnachweise nach wissenschaftlichen Kriterien erbringen konnten. Die Behandlungskosten dieser Verfahren werden entsprechend nicht von den Krankenkassen getragen.
 Basische Ernährung
 
-Eine Empfehlung, die jedoch weder wissenschaftlich abgesichert noch in den Leitlinien genannt wird, ist die der sog. basischen Ernährung oder der Einnahme von sog. Basensalzmischungen. Eine vermeintliche Übersäuerung des Körpers soll nach Angaben von Anhängern dieser Behandlungsmethode zu verstärktem Knochenschwund führen, da zur Neutralisation der Säure basische Calciumsalze (deren Existenz wissenschaftlich unbestritten ist) aus dem Knochengewebe gelöst würden (wie der Kalk aus einer Eierschale im Essigbad).[32] Bei dieser Theorie werden allerdings die weitaus bedeutenderen Puffersysteme der Blutpuffer vernachlässigt. Es werden der Verzicht auf Bohnenkaffee, Schwarztee, Alkohol, Cola- und Limonadengetränke, tierisches Eiweiß (Fleisch, Wurst, Fisch), Fast Food und Fertiggerichte, die meisten Milchprodukte, Industriezucker, Süßstoffe, Süßigkeiten, Weißmehl und Weißmehlprodukte, Erdnüsse, Paranüsse usw. empfohlen und eine säurehemmende oder basenbildende Nahrung verordnet, bestehend etwa aus Gemüse- und Fruchtsäften, Kräutertee, Gemüse und Blattsalaten sowie Früchten. Die Regeln, nach denen ein Lebensmittel in säurebildend oder basisch einzuteilen ist, sind dabei nicht immer direkt nachvollziehbar, so wirkt beispielsweise Kaffee im Blut nicht etwa säurebildend, sondern schwach basisch.
+Eine Empfehlung, die jedoch weder wissenschaftlich abgesichert noch in den Leitlinien genannt wird, ist die der sog. basischen Ernährung oder der Einnahme von sog. Basensalzmischungen. Eine vermeintliche Übersäuerung des Körpers soll nach Angaben von Anhängern dieser Behandlungsmethode zu verstärktem Knochenschwund führen, da zur Neutralisation der Säure basische Calciumsalze (deren Existenz wissenschaftlich unbestritten ist) aus dem Knochengewebe gelöst würden (wie der Kalk aus einer Eierschale im Essigbad).  Bei dieser Theorie werden allerdings die weitaus bedeutenderen Puffersysteme der Blutpuffer vernachlässigt. Es werden der Verzicht auf Bohnenkaffee, Schwarztee, Alkohol, Cola- und Limonadengetränke, tierisches Eiweiß (Fleisch, Wurst, Fisch), Fast Food und Fertiggerichte, die meisten Milchprodukte, Industriezucker, Süßstoffe, Süßigkeiten, Weißmehl und Weißmehlprodukte, Erdnüsse, Paranüsse usw. empfohlen und eine säurehemmende oder basenbildende Nahrung verordnet, bestehend etwa aus Gemüse- und Fruchtsäften, Kräutertee, Gemüse und Blattsalaten sowie Früchten. Die Regeln, nach denen ein Lebensmittel in säurebildend oder basisch einzuteilen ist, sind dabei nicht immer direkt nachvollziehbar, so wirkt beispielsweise Kaffee im Blut nicht etwa säurebildend, sondern schwach basisch.
 
-Eine basenreiche Kost sei demnach besonders förderlich für einen gesunden Knochenstoffwechsel. Es gibt zwar keine Untersuchung, die eine Minderung der Knochenbruchrate oder Steigerung der Knochendichte aufzeigt, aber es wird argumentiert, dass Studien zeigten, dass eine protein- und fleischreiche Kost den Calciumabbau aus den Knochen und die Calciumausscheidung über die Nieren fördere.[33][34][35] In diesen Studien wird allerdings mit keinem Wort von einer säure- oder basenbildenden Kost gesprochen.
+Eine basenreiche Kost sei demnach besonders förderlich für einen gesunden Knochenstoffwechsel. Es gibt zwar keine Untersuchung, die eine Minderung der Knochenbruchrate oder Steigerung der Knochendichte aufzeigt, aber es wird argumentiert, dass Studien zeigten, dass eine protein- und fleischreiche Kost den Calciumabbau aus den Knochen und die Calciumausscheidung über die Nieren fördere.    In diesen Studien wird allerdings mit keinem Wort von einer säure- oder basenbildenden Kost gesprochen.
 
-Eine weitere Aussage der basischen Ernährungslehre ist, dass eine säurereiche Kost nicht nur im kranken, sondern auch im gesunden Organismus zu einer systematischen Übersäuerung führe, die im Alter mit abnehmender Nierenfunktion zunimmt.[36] Diese postulierte Übersäuerung ist allerdings im Blut im Rahmen einer Blutgasanalyse nicht messbar. Eine Übersäuerung des Urins ist primär nur ein Zeichen dafür, dass die Blutpuffer und die Niere ihren Aufgaben nachkommen und Säuren ausscheiden.
+Eine weitere Aussage der basischen Ernährungslehre ist, dass eine säurereiche Kost nicht nur im kranken, sondern auch im gesunden Organismus zu einer systematischen Übersäuerung führe, die im Alter mit abnehmender Nierenfunktion zunimmt.  Diese postulierte Übersäuerung ist allerdings im Blut im Rahmen einer Blutgasanalyse nicht messbar. Eine Übersäuerung des Urins ist primär nur ein Zeichen dafür, dass die Blutpuffer und die Niere ihren Aufgaben nachkommen und Säuren ausscheiden.
 
-Bei zunehmender Übersäuerung erschöpften sich die Pufferreserven des Körpers, und Mineralstoffdepots in den Knochen würden verstärkt angegriffen. Zudem setze der Körper in einem sauren Milieu vermehrt entzündungsfördernde Proteine wie NF-κB, TNF-α und COX-2 frei, die den Knochenabbau beschleunigen.[37][38] Diese Übersäuerungen finden sich allerdings nicht in einem gesunden Organismus bei regulärer Nahrungsaufnahme, sondern bei einer deutlichen Einschränkung der Funktion der Blutpuffer und der Ausscheidungsfunktion der Niere.
+Bei zunehmender Übersäuerung erschöpften sich die Pufferreserven des Körpers, und Mineralstoffdepots in den Knochen würden verstärkt angegriffen. Zudem setze der Körper in einem sauren Milieu vermehrt entzündungsfördernde Proteine wie NF-κB, TNF-α und COX-2 frei, die den Knochenabbau beschleunigen.   Diese Übersäuerungen finden sich allerdings nicht in einem gesunden Organismus bei regulärer Nahrungsaufnahme, sondern bei einer deutlichen Einschränkung der Funktion der Blutpuffer und der Ausscheidungsfunktion der Niere.
 
-Um dem Verlust von Knochensubstanz entgegenzuwirken, werden sogenannte basische Substanzen wie Kaliumcitrat empfohlen. Für Kaliumcitrat sei in klinischen Studien nachgewiesen, dass es dem Calciumverlust über die Niere und dem Calciumabbau aus den Knochen entgegenwirkt.[39][40][41] So zeigte eine prospektive kontrollierte Interventionsstudie bei 161 postmenopausalen Frauen mit Osteopenie, dass die partielle Neutralisierung einer diätinduzierten Säurebelastung (mittels 30 mmol Kaliumcitrat pro Tag, entspricht 1,173 g Kalium) über einen Zeitraum von zwölf Monaten die Knochendichte signifikant erhöhe und die Knochenstruktur deutlich verbessere. Kaliumcitrat wirke dabei genauso effektiv wie Raloxifen, ein Östrogen-Rezeptor-Modulator, der bei der Behandlung und Prävention von Osteoporose bei postmenopausalen Frauen eingesetzt wird.[39] Das Kaliumcitrat solle mit den Knochenmineralien Calcium und Magnesium sowie Vitamin D zugeführt werden, weil sich der Magnesiumgehalt im Knochen laut basischer Lehre genauso stark vermindere wie der des Calciums.
+Um dem Verlust von Knochensubstanz entgegenzuwirken, werden sogenannte basische Substanzen wie Kaliumcitrat empfohlen. Für Kaliumcitrat sei in klinischen Studien nachgewiesen, dass es dem Calciumverlust über die Niere und dem Calciumabbau aus den Knochen entgegenwirkt.    So zeigte eine prospektive kontrollierte Interventionsstudie bei 161 postmenopausalen Frauen mit Osteopenie, dass die partielle Neutralisierung einer diätinduzierten Säurebelastung (mittels 30 mmol Kaliumcitrat pro Tag, entspricht 1,173 g Kalium) über einen Zeitraum von zwölf Monaten die Knochendichte signifikant erhöhe und die Knochenstruktur deutlich verbessere. Kaliumcitrat wirke dabei genauso effektiv wie Raloxifen, ein Östrogen-Rezeptor-Modulator, der bei der Behandlung und Prävention von Osteoporose bei postmenopausalen Frauen eingesetzt wird.  Das Kaliumcitrat solle mit den Knochenmineralien Calcium und Magnesium sowie Vitamin D zugeführt werden, weil sich der Magnesiumgehalt im Knochen laut basischer Lehre genauso stark vermindere wie der des Calciums.
 Physikalische Verfahren
 
     Magnetfeldtherapie: pulsierende elektromagnetische Felder sollen den Knochenaufbau stimulieren.
@@ -849,7 +849,7 @@ Wirtschaftliche Aspekte
 
 Mit jährlich etwa 2,5 bis 3 Milliarden Euro an direkten und indirekten Krankheitskosten in Deutschland hat die Osteoporose auch ein großes volkswirtschaftliches Gewicht. Deshalb wurde sie von der Weltgesundheitsorganisation (WHO) auf die Liste der zehn wichtigsten Erkrankungen gesetzt.
 
-Von Kritikern wird angeführt, dass die Neubewertung der Osteoporose in den 1990er Jahren durch die Pharmaindustrie und die Hersteller von Diagnostika gesteuert sei, die einen Absatzmarkt für neue diagnostische Geräte und Medikamente schaffen wollen (Disease Mongering).[42][43] Andererseits lässt sich erst seit etwa 1985 die Knochendichte zuverlässig messen. Erst seitdem ist es überhaupt möglich, das Krankheitsbild schon vor dem Auftreten von Knochenbrüchen adäquat zu erfassen, präventiv zu behandeln und Frakturen zu verhindern. 
+Von Kritikern wird angeführt, dass die Neubewertung der Osteoporose in den 1990er Jahren durch die Pharmaindustrie und die Hersteller von Diagnostika gesteuert sei, die einen Absatzmarkt für neue diagnostische Geräte und Medikamente schaffen wollen (Disease Mongering).   Andererseits lässt sich erst seit etwa 1985 die Knochendichte zuverlässig messen. Erst seitdem ist es überhaupt möglich, das Krankheitsbild schon vor dem Auftreten von Knochenbrüchen adäquat zu erfassen, präventiv zu behandeln und Frakturen zu verhindern. 
 
 {END Osteoporose}
 
@@ -861,7 +861,7 @@ Als McBurney-Punkt bezeichnet man in der Medizin eine Stelle, die zwischen dem �
 
 
 {BEGIN Ultraschall}
-Als Ultraschall (oft als US abgekürzt) bezeichnet man Schall mit Frequenzen oberhalb des Hörfrequenzbereichs des Menschen. Er umfasst Frequenzen ab etwa 16 kHz.[1] Schall ab einer Frequenz von etwa 1 GHz wird auch als Hyperschall bezeichnet.[1] Bei Frequenzen unterhalb des für Menschen hörbaren Frequenzbereichs spricht man dagegen von Infraschall.[1]
+Als Ultraschall (oft als US abgekürzt) bezeichnet man Schall mit Frequenzen oberhalb des Hörfrequenzbereichs des Menschen. Er umfasst Frequenzen ab etwa 16 kHz.  Schall ab einer Frequenz von etwa 1 GHz wird auch als Hyperschall bezeichnet.  Bei Frequenzen unterhalb des für Menschen hörbaren Frequenzbereichs spricht man dagegen von Infraschall. 
 
 Umgangssprachlich bezeichnet man mit "Ultraschall" auch die Sonografie, ein bildgebendes Untersuchungsverfahren in der Medizin.
 
@@ -938,7 +938,7 @@ Ultraschall-Verzögerungs­leitung (Laufzeit 64 µs) eines PAL- bzw. SECAM-Farbf
     Geräte zur Abschreckung von Mardern (Marderabwehr) und anderen Tieren, die vor Ultraschall flüchten sollen; eine Wirkung konnte wissenschaftlich bisher nicht nachgewiesen werden, dennoch scheinen Geräte mit hohem Schalldruckpegel die Tiere erfolgreich fernzuhalten.
     Hundepfeifen
     Anwendungen bei Fledermaus- und Delphinforschung, da diese sich über Ultraschall orientieren beziehungsweise damit kommunizieren
-    Die Aufzeichnung der Ultraschallvokalisation von Ratte und Maus (ultrasonic vocalization) wird in der psychopharmakologischen Forschung wie auch in der neurowissenschaftlichen Verhaltensforschung genutzt.[2][3]
+    Die Aufzeichnung der Ultraschallvokalisation von Ratte und Maus (ultrasonic vocalization) wird in der psychopharmakologischen Forschung wie auch in der neurowissenschaftlichen Verhaltensforschung genutzt.  
     Auch die Nierensteinzertrümmerung (Lithotripsie) basiert auf der Wirkung von kurzen, auf den Stein fokussierten Ultraschallimpulsen, sogenannten akustischen Stoßwellen.
     Herstellung von Proteinrohextrakten aus mikrobiologischen Proben (vor allem Bakterien, sowohl in Forschung als auch Industrie) durch Ultraschall, da die Schallwellen zur Lyse der Zellwand führen
     Doppelbogenkontrolle mit Ultraschall in der Drucktechnik
@@ -949,17 +949,17 @@ Ultraschall am Arbeitsplatz
 
 Ultraschall wird in der industriellen Produktion vielseitig eingesetzt, beispielsweise zur Reinigung, beim Bohren, Schneiden, Schweißen, in der Aufbereitungs- und Verfahrenstechnik, bei der Entgasung von Flüssigkeiten oder der zerstörungsfreien Materialprüfung. Beim Einsatz von Ultraschall können Geräuschbelastungen mit Anteilen im Ultraschall- und Hörfrequenzbereich entstehen. Besonders Ultraschall-Schweißanlagen verursachen häufig hohe und stark schwankende Schallpegel, die bedeutende Anteile im Hörfrequenzbereich aufweisen können.
 
-Für die Einwirkung von Ultraschall und seinen Begleiterscheinungen im Hochfrequenzbereich gibt es im Bereich der Normen und Richtlinien in Deutschland nur einen fast 30 Jahre alten Grenzwert in der Richtlinie VDI 2058 Blatt 2, der sich lediglich auf die 20-kHz-Terzmittenfrequenz bezieht (Stand: 2016). Entsprechend der Richtlinie VDI 3766 „Ultraschall – Arbeitsplatz – Messung, Bewertung, Beurteilung und Minderung“ wird der am Arbeitsplatz vorhandene Ultraschall mit einem Filter ausgeblendet und nur die verbleibende Hörschallexposition im Sprachfrequenzbereich über einen Richtwert beurteilt[4]. Die Richtlinie macht keine konkreten Angaben zum Schutz des Gehörs im oberen Hörfrequenzbereich und zur Vermeidung möglicher anderer gesundheitlicher Beeinträchtigungen durch Ultraschall, wie etwa Kopfschmerzen, Übelkeit oder Schwindel[5].
+Für die Einwirkung von Ultraschall und seinen Begleiterscheinungen im Hochfrequenzbereich gibt es im Bereich der Normen und Richtlinien in Deutschland nur einen fast 30 Jahre alten Grenzwert in der Richtlinie VDI 2058 Blatt 2, der sich lediglich auf die 20-kHz-Terzmittenfrequenz bezieht (Stand: 2016). Entsprechend der Richtlinie VDI 3766 „Ultraschall – Arbeitsplatz – Messung, Bewertung, Beurteilung und Minderung“ wird der am Arbeitsplatz vorhandene Ultraschall mit einem Filter ausgeblendet und nur die verbleibende Hörschallexposition im Sprachfrequenzbereich über einen Richtwert beurteilt . Die Richtlinie macht keine konkreten Angaben zum Schutz des Gehörs im oberen Hörfrequenzbereich und zur Vermeidung möglicher anderer gesundheitlicher Beeinträchtigungen durch Ultraschall, wie etwa Kopfschmerzen, Übelkeit oder Schwindel .
 
-Die Richtlinie VDI 3766 ergänzt die technischen Anforderungen der DIN 61672-1[6] für Systeme, mit denen Ultraschalleinwirkungen an Arbeitsplätzen gemessen werden soll. Derartige Messsysteme für die Praxis gibt es bisher allerdings kaum. Mit Handschallpegelmessgeräten der Genauigkeitsklasse 1[6] lässt sich zwar die unbewertete Hörschallexposition messen. Die Messdaten müssen jedoch vor der Beurteilung manuell nachbearbeitet werden, da unkontrollierbare messtechnische Fehler auftreten können. Hierfür kann die Software zur "Berechnung der Lärmexposition im Beisein von luftgeleitetem Ultraschall" verwendet werden[7].
+Die Richtlinie VDI 3766 ergänzt die technischen Anforderungen der DIN 61672-1  für Systeme, mit denen Ultraschalleinwirkungen an Arbeitsplätzen gemessen werden soll. Derartige Messsysteme für die Praxis gibt es bisher allerdings kaum. Mit Handschallpegelmessgeräten der Genauigkeitsklasse 1  lässt sich zwar die unbewertete Hörschallexposition messen. Die Messdaten müssen jedoch vor der Beurteilung manuell nachbearbeitet werden, da unkontrollierbare messtechnische Fehler auftreten können. Hierfür kann die Software zur "Berechnung der Lärmexposition im Beisein von luftgeleitetem Ultraschall" verwendet werden .
 
-Die Lärm- und Vibrations-Arbeitsschutzverordnung stellt fest, dass sie für jegliche Schalleinwirkung am Arbeitsplatz zuständig ist. Die Technischen Regeln zur Lärm-VibrArbSchV schränken den Zuständigkeitsbereich dann auf den Hörschall (16 Hz bis 16 kHz) ein und schließen Infra- und Ultraschall explizit aus. Zudem gibt es keine Angaben darüber, wie ein Tages-Lärmexpositionspegel berechnet wird, wenn Beschäftigte unterschiedliche Tätigkeiten mit und ohne Einwirkung von Ultraschall ausführen. Das Wissen über die Wirkungen von Ultraschall auf das Gehör stammt aus alten Studien, vor allem fehlen Kenntnisse zu Dosis-Wirkungs-Beziehungen. Dies spiegelt sich auch in den weltweit betrachtet sehr inhomogenen nationalen Richt- und Grenzwerten wider[8]. Aufgrund dieser Unsicherheiten, auch über die Wirksamkeit organisatorischer und persönlicher Schutzmaßnahmen, scheint es sinnvoll, Ultraschall aussendende Maschinen nur mit Kapselung zu vertreiben[4].
+Die Lärm- und Vibrations-Arbeitsschutzverordnung stellt fest, dass sie für jegliche Schalleinwirkung am Arbeitsplatz zuständig ist. Die Technischen Regeln zur Lärm-VibrArbSchV schränken den Zuständigkeitsbereich dann auf den Hörschall (16 Hz bis 16 kHz) ein und schließen Infra- und Ultraschall explizit aus. Zudem gibt es keine Angaben darüber, wie ein Tages-Lärmexpositionspegel berechnet wird, wenn Beschäftigte unterschiedliche Tätigkeiten mit und ohne Einwirkung von Ultraschall ausführen. Das Wissen über die Wirkungen von Ultraschall auf das Gehör stammt aus alten Studien, vor allem fehlen Kenntnisse zu Dosis-Wirkungs-Beziehungen. Dies spiegelt sich auch in den weltweit betrachtet sehr inhomogenen nationalen Richt- und Grenzwerten wider . Aufgrund dieser Unsicherheiten, auch über die Wirksamkeit organisatorischer und persönlicher Schutzmaßnahmen, scheint es sinnvoll, Ultraschall aussendende Maschinen nur mit Kapselung zu vertreiben .
 Ultraschall in der Tierwelt
 
-In der Tierwelt dient Ultraschall zur Orientierung (Echoortung) und Kommunikation. Die Ortungsrufe der Fledermäuse zeigen im Frequenzspektrum, je nach Art, Ultraschallanteile bis zu 200 kHz (Rundblattnasen).[9] Nachtfalter hören im Ultraschallbereich bis zu Frequenzen von 200 kHz.[10] Zahnwale, insbesondere Delfine, nutzen die Echoortung zur Orientierung und speziell auch zur Ortung ihrer Jagdbeute. Die Frequenz der Klicklaute beträgt zwischen 120 und 180 kHz.[10] Mäuse und Ratten kommunizieren mittels Rufen im Ultraschallbereich (Ultraschallvokalisationen). So lösen bei der Ratte beispielsweise prosoziale Ultraschallvokalisationen mit einer Frequenz von ca. 50 kHz soziales Annäherungsverhalten aus.[11]
+In der Tierwelt dient Ultraschall zur Orientierung (Echoortung) und Kommunikation. Die Ortungsrufe der Fledermäuse zeigen im Frequenzspektrum, je nach Art, Ultraschallanteile bis zu 200 kHz (Rundblattnasen).  Nachtfalter hören im Ultraschallbereich bis zu Frequenzen von 200 kHz.  Zahnwale, insbesondere Delfine, nutzen die Echoortung zur Orientierung und speziell auch zur Ortung ihrer Jagdbeute. Die Frequenz der Klicklaute beträgt zwischen 120 und 180 kHz.  Mäuse und Ratten kommunizieren mittels Rufen im Ultraschallbereich (Ultraschallvokalisationen). So lösen bei der Ratte beispielsweise prosoziale Ultraschallvokalisationen mit einer Frequenz von ca. 50 kHz soziales Annäherungsverhalten aus. 
 Ultraschallerzeugung in Pflanzen
 
-Bäume erzeugen bei Wassermangel Laute im Ultraschallbereich. Die Laute entstehen, wenn bei Trockenheit der Wasserstrang in den Gefäßen, welche das aufgenommene Wasser von den Wurzeln in die Baumwipfel und Blätter führen, abreißt. Dabei bilden sich Kavitationsbläschen, die die Wände der wasserführenden Gefäße kurzzeitig in Schwingung versetzen. Die Intensität der Laute ist dabei abhängig von der Gefäßgröße und vom Trockenheitsgrad.[12][13] 
+Bäume erzeugen bei Wassermangel Laute im Ultraschallbereich. Die Laute entstehen, wenn bei Trockenheit der Wasserstrang in den Gefäßen, welche das aufgenommene Wasser von den Wurzeln in die Baumwipfel und Blätter führen, abreißt. Dabei bilden sich Kavitationsbläschen, die die Wände der wasserführenden Gefäße kurzzeitig in Schwingung versetzen. Die Intensität der Laute ist dabei abhängig von der Gefäßgröße und vom Trockenheitsgrad.   
 {END Ultraschall}
 
 
@@ -985,7 +985,7 @@ Erfolgsquote
 
 Die Wahrscheinlichkeit, dass es durch eine intrauterine Insemination tatsächlich zu einer Schwangerschaft kommt, hängt von zahlreichen Faktoren ab, beispielsweise auch von einer etwaig vorliegenden gesundheitlichen Einschränkung des Mannes, die oft Grund für die Durchführung einer IUI ist.
 
-Laut Angaben der Universität Bonn schwankt die Erfolgsrate der intrauterinen Insemination abhängig von der Indikation zwischen 5 % und 10 % pro Zyklus. Die Chance einer Befruchtung nimmt demnach nach den ersten drei Versuchen ab.[1]
+Laut Angaben der Universität Bonn schwankt die Erfolgsrate der intrauterinen Insemination abhängig von der Indikation zwischen 5 % und 10 % pro Zyklus. Die Chance einer Befruchtung nimmt demnach nach den ersten drei Versuchen ab. 
 
 Laut einer Studie, die die Daten aus den Jahren 1998 bis 2010 des Kinderwunschzentrums Wiesbaden auswertete, ist das Alter der Frau ebenfalls stark maßgebend. Demnach wurden abhängig vom Alter der Frau folgende Werte für eine Schwangerschaft ermittelt: 
 {END Intrauterine Insemination}
@@ -998,8 +998,481 @@ Vielmehr ist Osteopenie folgendermaßen definiert: Die Messwerte der Knochendich
 
 Wie die Osteoporose tritt sie besonders häufig bei Frauen nach der Menopause als Folge des Östrogenmangels auf. Das Risiko steigt durch bestimmte Lebensumstände wie zu wenig Sport, übermäßigen Alkoholkonsum, Rauchen oder die Einnahme von Medikamenten, die Glucocorticoide enthalten, während einer längeren Zeitspanne, wie sie zum Beispiel gegen gewisse Atem- und Hauterkrankungen verschrieben werden.
 
-Reicht eine Umstellung der Ernährung und eine vermehrte körperliche Aktivität zur Behandlung einer Osteopenie nicht aus, können Medikamente zur Anwendung kommen. Die Wirkung der verschiedenen Präparate ist allerdings bei den Medizinern umstritten.[1] Eingesetzt werden beispielsweise Calcium- und Vitamin-D-haltige Tabletten, Natriumfluoride und Bisphosphonate.
+Reicht eine Umstellung der Ernährung und eine vermehrte körperliche Aktivität zur Behandlung einer Osteopenie nicht aus, können Medikamente zur Anwendung kommen. Die Wirkung der verschiedenen Präparate ist allerdings bei den Medizinern umstritten.  Eingesetzt werden beispielsweise Calcium- und Vitamin-D-haltige Tabletten, Natriumfluoride und Bisphosphonate.
 
 Zur Abschätzung, ob bereits bei Vorliegen einer Osteopenie eine antiresorptive Therapie z. B. mit einem Aminobisphosphonat indiziert ist, kann anhand des computergestützten Algorithmus FRAX (WHO Fracture Risc Assessment Tool) und mit den Daten einer Knochendichtemessung das Zehnjahresrisiko für einen osteoporosebedingten Knochenbruch bzw. das für einen hüftgelenknahen Knochenbruch errechnet werden. Empfehlungen für eine Therapie mit Aminobisphosphonat bestehen bei einem Zehnjahresrisiko von 20 % bzw. 
 {END Osteopenie}
+
+
+
+{BEGIN Tumor}
+Ein Tumor (Plural Tumoren, umgangssprachlich auch Tumore;  von lateinisch tumor, -oris, m. ‚Wucherung‘, ‚Geschwulst‘, ‚Schwellung‘) im weiteren Sinn ist jede Zunahme des Volumens eines Gewebes von höheren Lebewesen unabhängig von der Ursache. Synonyme in einer zweiten, engeren Bedeutung sind die Begriffe Neoplasie (‚Neubildung‘) und „Gewächs“. Tumoren treten bei allen höheren Lebewesen (auch bei Pflanzen) auf. Dieser Artikel geht aber ausschließlich auf Tumoren bei Menschen ein, also auf die humanmedizinische Bedeutung.
+Inhaltsverzeichnis
+
+    1 Begriff
+    2 Einteilung (Neoplasie)
+        2.1 Dignität (Eigenschaft)
+        2.2 Systematik
+        2.3 Nomenklatur der Tumoren
+        2.4 Klassifikation nach WHO
+    3 Entstehung
+    4 Effekte von Tumoren auf den Körper
+    5 Therapie
+    6 Epidemiologie
+    7 Literatur
+    8 Weblinks
+    9 Einzelnachweise
+
+Begriff
+
+Dementsprechend gibt es in der Medizin zwei Definitionen des Begriffs Tumor:
+
+    im weiteren Sinn jeglicher erhöhter Platzbedarf (Raumforderung) eines Gewebes (Intumeszenz) oder eine tastbare Verhärtung, z. B. auch eine Schwellung bei einer Entzündung (Ödem, Phlegmone, Abszess) oder Zyste (siehe hierzu auch Pseudotumor), oder auch eine Stuhlansammlung im Darm, die man vor dem Stuhlgang oft im linken Unterbauch tasten kann. Es ist also ein recht unscharfer Begriff.
+    im engeren Sinn Neubildungen von Körpergeweben (Neoplasien), die durch Fehlregulationen bei der Zellproliferation entstehen – womit bezüglich der Gut- oder Bösartigkeit (Dignität) der Neubildung noch nichts ausgesagt wird.
+
+Neoplasien können jegliche Art von Gewebe betreffen, sie können gutartig (benigne) oder bösartig (maligne) sein. Die maligne Variante wird umgangssprachlich auch als Krebs bezeichnet. Neoplasien können alleinstehend („solitär“) oder mehrfach an verschiedenen Stellen im Organismus („multizentrisch“ oder „multifokal“) auftreten. Üblicherweise werden Tumoren als multizentrisch bezeichnet, wenn die Distanz zwischen den einzelnen Läsionen mehr als fünf Zentimeter beträgt und als multifokal, wenn die Distanz fünf Zentimeter oder kleiner ist, allerdings existiert keine exakte radiologische Definition für diese Begriffe. Je nach Ort (Lokalisation) des Tumors und der Funktion des durch ihn geschädigten Gewebes können sie zu einer Zerstörung von Organen mit Beeinträchtigungen des Gesamtorganismus bis hin zum Tod führen.
+Einteilung (Neoplasie)
+Dignität (Eigenschaft)
+
+Tumoren sind Gewebeveränderungen, die auch vererblich, aber beim Menschen generell nicht ansteckend sind. Ihre Einteilung erfolgt nach ihrem biologischen Wachstumsverhalten und nach dem Ursprungsgewebe der Neoplasie.
+
+In Abhängigkeit von der Dignität des Tumors, also seiner Fähigkeit, Metastasen auszubilden, unterscheidet man benigne (gutartige), maligne (bösartige) und semimaligne Tumoren. Die malignen Tumoren werden nochmals in niedrig-maligne und hoch-maligne Tumoren unterteilt.
+
+    Benigne (gutartige) Tumoren verdrängen durch ihr Wachstum umliegendes Gewebe, durchwachsen (infiltrieren) es aber nicht und bilden keine Absiedlungen.
+    Maligne Tumoren sind bösartige Tumoren. Diese Tumoren werden häufig als Krebs bezeichnet. Sie sind invasiv, das heißt, sie wachsen in umgebendes Gewebe ein und zerstören es. Außerdem setzen sie durch Verbreitung über das Blut (hämatogen), über die Lymphe (lymphogen) oder durch Abtropfung beispielsweise im Bauchraum Tochtergeschwulste. Typische bösartige Tumoren sind der Dickdarmkrebs und der Lungenkrebs.
+    Semimaligne Tumoren setzen in der Regel keine Tochtergeschwulste, zerstören aber umliegendes Gewebe und wachsen in dieses hinein (Destruktion und Infiltration).
+
+	Benigne (gutartig) 	Maligne (bösartig)
+Wachstum 	langsam, verdrängend 	schnell, invasiv
+Abgrenzung zum gesunden Gewebe 	gut abgrenzbar (z. B. Kapsel, Pseudokapsel) 	schlecht abgrenzbar
+Differenzierung 	gut differenziert, homogenes Gewebe 	unreifes, heterogenes Gewebe
+Zellgehalt 	niedrig 	hoch
+Zellveränderungen 	keine oder wenige Zellveränderungen
+
+geringe mitotische Aktivität
+	Hohe Mutationsrate, viele atypische Veränderungen (Atypien), hohe Zellteilungsrate
+Verlauf 	lang dauernd, symptomarm, keine Metastasen, selten Rezidive 	kurz, häufig letal, Metastasen, häufig Rezidive
+Systematik
+
+Gutartige Tumoren und semimaligne Tumoren werden nach ihrer Herkunft weiterdifferenziert. Die Benennung erfolgt durch die angehängte Endung „-om“ an den lateinischen Namen des Ursprungsgewebes.
+
+Bösartige Tumoren werden ebenfalls – soweit das Ursprungsgewebe noch erkennbar und der Tumor nicht völlig entdifferenziert ist – nach diesem Ursprungsgewebe benannt. Allerdings wird diese Nomenklatur nicht konsequent durchgehalten, so dass auch andere Begriffe dafür verwendet werden (z. B. Siegelringzellkarzinom nach dem Aussehen der Tumorzellen). Bösartige Tumoren werden im Deutschen als Krebs bezeichnet (auch wenn Krebs die Übersetzung des Griechischen Wortes 'Καρκινος' ist, und damit nur eine – wenn auch die häufigste – Gruppe von bösartigen Tumoren bezeichnet wird).
+
+Bösartige Tumoren können sich aus noch nicht bösartigen Vorstufen, sogenannten Präkanzerosen, entwickeln. Diese werden unterteilt in fakultative und obligate Präkanzerosen.
+
+Die bösartigen Tumoren werden folgendermaßen untergliedert:
+
+    Karzinome bezeichnen bösartige Tumoren, die sich vom Epithel ableiten. Sie machen einen Großteil der Krebserkrankungen aus.
+    Sarkome (griechisch σάρξ, sarx, Fleisch), die sich aus dem Binde- und Stützgewebe ableiten, zum Beispiel
+        Rhabdomyosarkome: Krebs der quergestreiften Muskulatur
+        Angiosarkome: Krebs der Blutgefäße
+        Leiomyosarkome: Krebs der glatten Muskulatur, z. B. seltene Formen von Gebärmutterkrebs
+    neuroendokrine Tumoren, die sich aus dem Neuroektoderm ableiten, zum Beispiel
+        Phäochromozytom
+        Insulinom
+        kleinzelliges Bronchialkarzinom
+    Hämatoonkologische Malignome, die sich aus Blut- oder Blutstammzellen ableiten
+        Leukämien (die keine Tumoren sind)
+        Lymphome
+    Dysontogenetische Tumoren
+        Teratome aus embryonalem Gewebe (alle drei Keimblätter)
+        Embryonale Tumoren (entstehen während der Organentwicklung durch Gewebefehldifferenzierung)
+    Mischtumoren, die aus epithelialen und mesenchymalen Anteilen aufgebaut sind
+
+Die weitere Einteilung bösartiger Tumoren erfolgt analog der TNM-Klassifikation der UICC. Es handelt sich um eine klinisch-empirische Einteilung, welche die weitere Diagnostik, Therapie und Prognose bösartiger Tumoren bestimmt.
+Nomenklatur der Tumoren
+
+Quelle 
+gesundes Gewebe 	gutartige Tumoren (Beispiele) 	bösartige Tumoren (Beispiele)
+  	Epitheliale Tumoren
+Plattenepithel 	Plattenepithelpapillom 	Plattenepithelkarzinom
+Basalzellen 	Basalzellpapillom 	Basaliom1
+Urothel 	Übergangsepithelpapillom 	Urotheliom
+Drüsen 	Adenom, Papillom, Zystadenom 	Adenokarzinom, papilläres Adenokarzinom, villöses Adenokarzinom, Zystadenokarzinom, Siegelringkarzinom
+  	Neuroendokrine Tumoren
+endokrine Zellen in verschiedenen Organen 	  	Karzinoide
+Nebennierenmark 	Phäochromozytom 	malignes Phäochromozytom
+Nebennierenrinde 	Nebennierenrindenadenom 	Nebennierenrindenkarzinom
+endokrines Pankreas 	Insulinom 	malignes Insulinom
+Adenohypophyse 	Prolaktinom 	 
+Paraganglion 	Paragangliom 	 
+C-Zellen 	  	medulläres Karzinom
+  	Neuroektodermale Tumoren
+Gliazellen, Meningozyten 	gutartige Gliome, Meningeom 	Astrozytom, Glioblastom, anaplastisches Meningeom
+Melanozyten 	Nävus 	malignes Melanom
+  	Mesenchymale Tumoren (Sarkome)
+Bindegewebe und Derivate 	Fibrom 	Fibrosarkom
+  	  	aggressive Fibromatose1
+  	  	Myxosarkom
+  	kutanes fibröses Histiozytom 	Malignes Fibröses Histiozytom
+Fettgewebe 	Lipom 	Liposarkom
+Knorpel 	Chondrom 	Chondrosarkom
+Knochen 	Osteom 	Osteosarkom
+Synovialis 	  	Synovialkarzinom
+glatte Muskulatur 	Leiomyom 	Leiomyosarkom
+quergestreifte Muskulatur (Skelettmuskulatur) 	Rhabdomyom 	Rhabdomyosarkom2
+Gefäße 	Hämangioendotheliom, Lymphangiom 	Hämangiosarkom, Lymphangiosarkom
+periphere Nerven 	Schwannom 	maligner peripherer Nervenscheidentumor (MPNST)
+  	Neurofibrom 	 
+Mesothel 	benignes Mesotheliom 	malignes Mesotheliom
+Hirnhaut 	Meningeom 	 
+Granulosazelle 	  	Granulosazelltumor, Luteom
+  	Sonderformen mesenchymaler Tumoren
+Knochenmark 	  	akute myeloische Leukämie, chronische myeloische Leukämie
+  	  	Ewing-Sarkom
+Plasmazellen 	  	multiples Myelom
+Lymphatisches System 	  	maligne Lymphome: Hodgkin-Lymphom, Non-Hodgkin-Lymphom
+  	Sonderformen gemischt endothelial-mesenchymale Tumoren
+  	Fibroadenom der Mamma 	 
+  	Adenofibrom des Ovars 	Adenosarkom
+  	  	Adenosarkom der Gebärmutterschleimhaut
+  	  	Karzinosarkom der Gebärmutterschleimhaut
+  	Keimzelltumoren
+Keimzellen 	differenziertes Teratom 	malignes Teratom
+  	  	Seminom
+Ovar 	  	Dysgerminom
+  	Tumoren der embryonalen Gewebe
+  	  	embryonales Karzinom
+  	  	Nephroblastom
+  	  	Neuroblastom
+  	  	Medulloblastom
+  	  	Retinoblastom
+  	  	Hepatoblastom
+  	  	Chorionepitheliom
+  	Kraniopharyngeom 	 
+1 semimaligne Tumoren
+2 Rhabdomyosarkome bilden sich aus unreifen Mesenchymzellen und nicht aus der quergestreiften Muskulatur
+Klassifikation nach WHO
+
+Tumoren sind nach WHO in Grade eingeteilt (TNM-Klassifikation): T: Tumor, N: Nodus (LymphkNoten), M: Metastasen (Fernmetastasen), R: Resektion (Resttumor). G: Grading
+
+T-Klassifikation (Größe des Tumors):
+
+    T 1–3: Tumor ist auf das Ausgangsorgan beschränkt
+    T 4: Tumor infiltriert andere Organe
+
+N-Klassifikation (Lymphknoten):
+
+    Fehlen bzw. Vorhandensein von regionalen Lymphknotenmetastasen
+
+M-Klassifikation (Metastasen):
+
+    Vorhandensein oder Fehlen von Fernmetastasen 0–1
+
+R-Klassifikation (Resektion):
+
+    Resektion mikroskopisch = 0 (Kein Resttumor)
+    Resektion mikroskopisch = 1 (Resttumor vorhanden)
+    Resektion mit makroskopisch verbliebenen Tumorresten-Resten = 2
+
+G-Klassifikation (Grading):
+
+    G1 bis G4 gute Differenzierung (dem ursprünglichen Gewebe ähnlich) bis hochgradig maligne
+
+Die Lokalisation der Tumoren ist die wesentliche Grundlage der Einteilung der Neubildungen in der von der WHO herausgegebenen Internationalen statistischen Klassifikation der Krankheiten und verwandter Gesundheitsprobleme (ICD-10).
+Siehe auch: Liste der Neubildungen nach ICD-10
+Entstehung
+→ Hauptartikel: Onkogenese
+
+Tumoren entstehen durch Entartung, genauer durch eine Anhäufung von Mutationen in bestimmten Genen (engl. multiple hit model). Diese bestimmten Gene sind typischerweise Protoonkogene oder Tumorsuppressorgene. Alternativ kann eine Entartung durch Onkoviren und onkogene Bakterien erfolgen, bei denen eine fortlaufende Stimulation mit Zytokinen durch die Immunreaktion und mit Wachstumsfaktoren zum Ersetzen der zerstörten Zellen auftritt, z. B. beim Hepatitis-B-Virus. Durch eine häufige Zellteilung wird die Entstehung von Mutationen beim Kopieren des Genoms begünstigt. Bei einigen persistenten Viren (die genomisch-integrierenden Viren) erfolgt zusätzlich eine Insertionsmutation durch das Einfügen des viralen Genoms in das Genom des Wirts, was meistens in entfalteten und transkriptionsaktiven Bereichen der DNA erfolgt, z. B. bei Retroviren. In seltenen Fällen kann ein Tumor auch übertragen werden, z. B. durch eine Organtransplantation und die begleitende Immunsuppression oder – bei Hunden, Beutelteufeln und Hamstern – durch infektiöse Tumoren.
+Effekte von Tumoren auf den Körper
+
+Benigne Tumoren wachsen in der Regel langsam und beeinträchtigen den Körper nicht. Einige benigne Tumoren können aber zu malignen Tumoren mutieren. Hier sind vor allem Dickdarmpolypen (Kolonadenome) zu nennen, die sehr häufig zu Adenokarzinomen entarten (sogenannte Adenom-Karzinom-Sequenz). Hormonproduzierende Adenome können allerdings durch ihre Hormonwirkung zu schwerwiegenden Erkrankungen führen.
+
+Komplikationen benigner und maligner Tumoren sind:
+
+    Druckatrophie durch Wachstum (führt z. B. zu Hormonmangel bei Tumoren in endokrinen Drüsen).
+    Geringgradige Obstruktion von Lumina = Verlegung von Hohlorganen mit Zystenbildung.
+    Ektope Hormonproduktion z. B. von ACTH, Parathormon oder Insulin.
+
+Komplikationen maligner Tumoren sind:
+
+    Hochgradige Obstruktion von Hohlorganen, z. B.:
+        Bronchusverschluss → Atelektase, Pneumonie.
+        Ösophagusverschluss → Dysphagie = Schluckstörung.
+        Gallengangverschluss → Ikterus = Gelbsucht.
+        Darmverschluss → Ileus.
+    Tumorkachexie: Atrophie des Muskel- und Fettgewebes, Anorexie, Anämie, Schwäche. Der Energiebedarf von Tumorzellen wird oft durch Milchsäuregärung gedeckt, wodurch es zu Hypoglykämie und Azidose kommt, was wiederum die Ausschüttung von Adrenalin, Glucocorticoiden und Glucagon auslöst. Dies fördert Lipolyse sowie Proteolyse, was zu oben genannten Atrophien und schließlich zur Auszehrung führt. Vermutlich durch TNF-α und andere Zytokine mitverursacht.
+    Gewebedestruktion, häufig mit Blutungen. Adenokarzinome neigen zur Ulkusbildung durch Zerstörung des Oberflächenepithels.
+    Ödeme durch Verschluss von Venen und Lymphgefäßen.
+    Paraneoplastische Syndrome: Darunter versteht man Symptome, die nicht direkt aus der Lokalisation oder der Tumorart zu erklären sind, Erkrankungen der Nerven und Muskeln (Myasthenie), hypertrophe Osteoarthropathie (Trommelschlägelfinger, Uhrglasnägel), Thrombophlebitis usw. Bei unerklärlichem Auftreten von Paraneoplasien ist eine Tumorsuche unerlässlich.
+
+Therapie
+
+Die Tumortherapie erfolgt durch operative Tumorentfernung (Resektion, auch Wachkraniotomie bei bestimmten Hirntumoren), Bestrahlung mit ionisierenden Strahlen und/oder (Poly-)Chemotherapie. Betroffene Menschen können eine Tumorberatung besuchen.
+
+Bei einigen bestimmten bösartigen Tumoren gibt es zusätzliche, spezielle Therapieoptionen. Gegen das Maligne Melanom, den sogenannten schwarzen Hautkrebs, gibt es im Stadium der Entwicklung befindliche Krebsimmuntherapien, bei denen der Körper mit speziellen Oberflächenantigenen, also Zellmerkmalen des Malignen Melanoms, geimpft wird. Ein ähnliches Konzept wird bei einigen Tumoren, zum Beispiel den gastrointestinalen Stromatumoren, mit der Behandlung durch Immunmodulatoren verfolgt, bei denen das Immunsystem des Körpers angeregt wird, sich gegen Tumorzellen zu richten.
+
+Weitere Tumoren werden zusätzlich mit örtlicher Wärme, durch das Verkleben von blutzuführenden Gefäßen oder mit örtlich verabreichten Giften behandelt. Diese Therapieoptionen sind aber alle bestimmten bösartigen Tumoren vorbehalten und machen nur einen geringen Teil der ausgeführten Therapie aus. Bekannt ist, dass die Tumorvakzinierung gegen Melanome bei Hunden mindestens den gleichen Therapieerfolg wie eine Chemotherapie hat, dies aber bei weitaus geringeren bzw. keinen Nebenwirkungen (I. Kurzman, University of Wisconsin, Madison). Bei Pferden gibt es bereits zahlreiche positive Erfahrungen bei bösartigen Tumoren und Sarkoiden mit einer Vakzine mit dendritischen Zellen. Außerdem gibt es Behandlungsformen im Bereich der Komplementärmedizin, die die vorgenannten jedoch keinesfalls ersetzen können, sondern lediglich als ergänzende Maßnahmen zu verstehen sind.
+Epidemiologie
+→ Hauptartikel: Epidemiologie
+
+Bösartige Tumoren sind nach den Herz-Kreislauf-Erkrankungen die zweithäufigste Todesursache in den industrialisierten Ländern.
+
+Gutartige Tumoren sind sehr häufig. Die meisten Menschen besitzen mehrere gutartige Tumoren, vor allem an der Haut. Einige primär gutartige Tumoren können zu bösartigen Tumoren entarten und müssen entfernt werden. Dies ist vor allem bei Polypen der Dickdarmschleimhaut der Fall. Häufig empfinden Menschen gutartige Tumoren der Haut auch als kosmetisch störend, manchmal können diese z. B. in Körperfalten gereizt werden, so dass auch hier eine Entfernung sinnvoll erscheint. 
+
+{END Tumor}
+
+
+
+{BEGIN Leistenbruch}
+Ein Leistenbruch, auch Inguinalhernie (lat. Hernia inguinalis) genannt, ist ein Eingeweidebruch im Bereich des Leistenkanals. Muskeln, Sehnen und Bindegewebe bilden die feste äußere Hülle der Körperhöhlen, wie etwa des Bauchraums. An dieser Hülle existieren natürliche „Schwachstellen“. Eine der wichtigsten ist die, an welcher der Samenstrang in die Bauchdecke eintritt. Kommt es hier zu einer Erweiterung, tritt Gewebe aus dem Bauchraum in den Leistenkanal aus. Es entsteht ein „Bruch“ (Hernie).  Der Leistenbruch ist neben dem Nabel-, Schenkel- und Narbenbruch die häufigste Hernie. Er tritt bei Männern und Frauen aller Altersgruppen im Verhältnis Männer: Frauen = 9:1 auf. Im Kindesalter tritt er bei 1–3 % aller Kinder, bei Frühgeborenen bei etwa 5 % auf. Behandelt wird der Leistenbruch in den meisten Fällen chirurgisch. Ein Bruch wird operiert, wenn er Schmerzen verursacht oder die Gefahr einer Einklemmung mit lebensgefährlichem Absterben von Darmteilen besteht. Leistenbrüche können auch in Zusammenhang mit einer erektilen Dysfunktion („Impotenz“) stehen.  Auch bei anderen Säugetieren treten vorwiegend bei männlichen Individuen Leistenbrüche auf, vor allem nach offenen Kastrationen.
+Inhaltsverzeichnis
+
+    1 Anatomie
+    2 Klassifikation
+    3 Symptome und ihre Ursachen
+    4 Geschichte
+    5 Konservative Versorgung
+    6 Der operative Verschluss
+        6.1 Offene Verfahren (Herniotomie)
+        6.2 Minimalinvasive Verfahren
+    7 Vor- und Nachteile der Verfahren
+    8 Literatur
+    9 Weblinks
+    10 Einzelnachweise
+
+Anatomie
+
+Leistenbrüche treten im Leistenkanal auf. In diesem verlaufen neben drei Nerven (Ramus genitalis des Nervus genitofemoralis, der N. ilioinguinalis und der N. iliohypogastricus) und Lymphgefäßen bei männlichen Säugetieren der Samenstrang (Funiculus spermaticus) und bei weiblichen das Mutterband (Ligamentum teres uteri). Reicht der Bruchsack beim Mann bis in den Hodensack (Scrotum), spricht man von einem Hodensackbruch oder Hodenbruch (Hernia scrotalis oder Skrotalhernie), der eine Sonderform des Leistenbruchs ist.
+
+Der Leistenkanal hat einen Eingang und einen Ausgang:
+
+    den äußeren Leistenring (Anulus inguinalis superficialis), als Ausgang des Leistenkanals;
+    den inneren Leistenring (Anulus inguinalis profundus), als Eingang in den Leistenkanal von der Bauchhöhle her.
+
+Der äußere Leistenring ist eine schlitzförmige Öffnung in der Faszie (Muskelhaut) des äußeren schrägen Bauchmuskels (Musculus obliquus externus abdominis). Der innere Leistenring liegt zwischen dem freien Rand des inneren schrägen Bauchmuskels (Musculus obliquus internus abdominis), dem geraden Bauchmuskel (Musculus rectus abdominis) und dem Leistenband (Arcus inguinalis, auch Ligamentum inguinale).
+
+Begrenzt wird der Leistenkanal:
+
+    vorn: Aponeurose des Musculus obliquus externus abdominis;
+    hinten: Fascia transversalis abdominis;
+    Dach: Musculus transversus abdominis und Anteile des Musculus obliquus internus abdominis;
+    Boden: Ligamentum inguinale.
+
+Klassifikation
+
+Nach der Lokalisation der Bruchpforte (Durchtrittsöffnung für den Bruchsack) unterscheidet man direkte (mediale) und indirekte (laterale) Leistenbrüche. Dabei bezieht sich die Bezeichnung „direkt“ darauf, dass der Bruch direkt durch die Leistenkanalhinterwand (und nicht durch den inneren Leistenring) zieht, und medial auf die Lagebeziehung mittig zu den epigastrischen Gefäßen. Entsprechend gelangen indirekte Leistenbrüche durch den inneren Leistenring in den Leistenkanal und liegen seitlich („lateral“) der epigastrischen Gefäße. Die Einteilung der Leistenbrüche in diese zwei Formen trägt wesentlich zum Verständnis der Erkrankung bei, hat allerdings für die moderne Leistenbruchchirurgie eher geringe Bedeutung. Eine moderne Klassifikation wurde von Nyhus entwickelt und hat sich für Studienfragen bis heute am meisten bewährt.
+Symptome und ihre Ursachen
+Zufallsbefund in einer CT: Leistenbrüche beidseits
+
+Im Kindesalter entsteht der Leistenbruch durch einen Verbindungskanal, den Processus vaginalis testis (auch Proc. vaginalis peritonei,  „Scheidenhautfortsatz“). Hierbei handelt es sich um einen Teil des Bauchfells (Peritoneum), der im Laufe der Fetalentwicklung durch Wanderung des sich in der Bauchhöhle entwickelnden Hodens in den Hodensack durch den Leistenkanal gestülpt wird. Zur Geburt verschließt sich dieser Kanal üblicherweise. Bleibt dieser Verschluss aus, kann es im weiteren Verlauf zum Eindringen von Bauchorganen in den Kanal kommen. Angeborene Leistenbrüche sind somit immer indirekte (laterale) Leistenbrüche.
+
+Im Erwachsenenalter kann neben einer Veranlagung im Sinne einer Bauchwandschwäche oder eines zu weiten Leistenkanals eine Erhöhung des Bauchinnendrucks, zum Beispiel durch körperliche Schwerarbeit, chronischen Husten, starkes Pressen bei chronischer Verstopfung, die Bildung eines Bruches auslösen. Daneben treten Brüche oft auch bei Frauen in der Schwangerschaft auf. Gutachterlich wird schwere Arbeit allein nicht als Ursache eines Leistenbruches anerkannt (und entschädigt).
+
+Die Symptome für einen Leistenbruch können sein:
+
+    im Kindesalter: meist schmerzlose Schwellung in der Leiste, die oft zufällig beim Wickeln oder bei der Körperpflege entdeckt wird.
+    im Erwachsenenalter: meist sichtbare oder tastbare Schwellung im Leistenbereich, welche bei körperlichen Belastungen, Pressen oder Husten provoziert werden kann. Im Liegen kann man die „Beule“ in der Regel problemlos wieder „wegdrücken“. Starke Schmerzen sind keinesfalls die Regel, sondern meist nur ein gewisses Druckgefühl. Bei allmählich zunehmender Vergrößerung kann er bei Männern auch als eine Schwellung oder Vergrößerung des Hodensacks deutlich werden (Hodenbruch).
+    Häufig ist ein Hodenschmerz, der durch die Reizung des R. genitalis im Leistenkanal ausgelöst wird. 
+    Schmerzen im oberen Anteil der Adduktoren auf der Innenseite des Oberschenkels sind ebenfalls möglich. 
+    bei plötzlich auftretenden starken Schmerzen in der Leistengegend mit nicht wegdrückbarer Schwellung im Leistenbereich handelt es sich um einen eingeklemmten Bruch. Hier ist schnelles Handeln erforderlich und sofort ein Chirurg aufzusuchen.
+
+Brüche sind vor allem gefährlich, wenn Organe des Bauchraums – beispielsweise Teile des Darmes – im Bruch eingeklemmt bleiben (Inkarzeration). Kommt es zu dieser seltenen Komplikation treten starke Schmerzen im Bereich des Bruches und des gesamten Bauches auf, die sich in ihrem Charakter von den Beschwerden beim Vorliegen eines unkomplizierten Leistenbruches unterscheiden.  Wenn die Einklemmung eines Bruches rechtzeitig erkannt wird, lässt er sich unter Umständen reponieren. Durch die Einklemmung schwillt der eingeklemmte Darm an und schnürt sich dadurch von der Blutzufuhr ab. Der Bruch lässt sich dann nicht mehr wegdrücken. Dies wird als Inkarzeration bezeichnet und kann durch Strangulation zum Absterben (Nekrose) des eingeklemmten Organteils führen. Zudem kann es dadurch zu einem Ileus (Darmverschluss) kommen. Beide Situationen sind lebensgefährlich und erfordern eine sofortige Operation. Unter Umständen ist dann eine Darmteilentfernung (Resektion) notwendig.
+
+Brüche neigen dazu, mit der Zeit immer größer zu werden.
+
+Für die exakte Diagnose kleiner Brüche ist die Sonographie hilfreich. Die MRT ist nur als dynamische MRT geeignet einen Bruch nachzuweisen.  Ein negatives Untersuchungsergebnis schließt jedoch nicht sicher eine Hernie aus. Wichtigste Symptome eines Leistenbruches: Schmerzen beim Heben, Husten oder Betätigung der Bauchpresse, die beim Liegen rückläufig sind, sollten an einen Bruch denken lassen. Neben einem Leistenbruch verursachen auch andere Erkrankungen einen Leistenschmerz. Bei fehlender Leistenschwellung und einem negativen Ultraschall ist an Hüfterkrankungen – bei sportlich aktiven Patienten – an Erkrankungen des Schambeins, der Adduktoren, des Hüftbeugers und der unteren Wirbelsäule zu denken. Urologische Erkrankungen müssen in diesen Fällen ebenso ausgeschlossen werden, wie abdominelle Erkrankungen (Divertkulose, Appendizitis) oder urologische Erkrankungen. 
+Geschichte
+
+Leistenbrüche sind vermutlich seit etwa 2000 v. Chr. bekannt. Über lange Zeit fehlten jedoch die Kenntnisse über Grundlagen, Entstehungsweise und erfolgreiche Versorgung von Leistenbrüchen. Die Behandlungsmethoden waren über Jahrhunderte gefährlich und oft mit katastrophalen Ergebnissen behaftet. Eine chirurgische Therapie mit Abtragung des Bruchsacks unter Schonung des Hodens wurde erstmals bei Celsus im 1. Jahrhundert n. Chr. beschrieben.  Später waren für ihre chirurgische Behandlung von Leistenbrüchen etwa der Wundarzt, Ritter und Graf Hans von Toggenburg (um 1477) und der Chirurg Caspar Stromayr (um 1559) bekannt, die beide auch augenärztlich tätig waren.  Die Operation eines eingeklemmten Bruchs wurde erstmals 1556 von dem französischen Chirurgen Pierre Francou beschrieben.  In der gesetzlichen Unfallversicherung von 1884 war zunächst umstritten, ob Leistenbrüche als Arbeitsunfälle entschädigt werden konnten.  Erst 1890 wurden die Ergebnisse der operativen Behandlung durch die bahnbrechende Arbeit von Edoardo Bassini von der Königlichen Universität zu Padua entscheidend verbessert. Seitdem wurden zahlreiche Abwandlungen und auch neue Verfahren in die Therapie eingeführt.
+
+Der Leistenbruch ist eine der häufigsten chirurgischen Erkrankungen des Menschen. Er tritt besonders häufig im Kindesalter, im jungen Erwachsenenalter und dann wieder beim älteren Menschen auf. Jährlich erkranken ca. 0,5 % der Bevölkerung neu an einem Leistenbruch, davon sind 80 % Männer.
+Konservative Versorgung
+
+Als konservative Versorgungsmöglichkeit gilt bis heute die Versorgung mit einem Bruchband. Dieses sollte fachlich richtig angepasst werden. Damit werden Komplikationen ausgeschlossen. Diese Versorgungsform kommt heute bei Patienten zum Einsatz, die auf Grund ihres Alters oder anderer medizinischer Umstände nicht mehr operiert werden können.
+
+Des Weiteren lassen sich gerade jüngere Menschen, die einer schweren körperlichen Arbeit nachgehen, nach der Diagnose Leistenhernie bis zum OP-Termin mit einem Bruchband versorgen. Dieses ist sinnvoll, wenn eine zeitnahe OP nicht möglich ist.
+Der operative Verschluss
+
+Die einzige Möglichkeit, Einklemmungen von Organen und damit schwerwiegende bis lebensbedrohliche Folgen zu vermeiden, ist der operative Verschluss. Die Leistenhernie ist mit ca. 230.000 chirurgischen Eingriffen eine der am häufigsten operativ behandelten Erkrankungen in Deutschland. 
+
+Es werden offene Operationsverfahren von minimalinvasiven Verfahren („Schlüssellochmethode“) unterschieden.
+Offene Verfahren (Herniotomie)
+
+Die offenen Verfahren gehen vor allem auf Edoardo Bassini (1890) zurück, dessen Prinzip darin besteht, mittels einer bestimmten Nahttechnik die Bruchpforte zu verschließen und die Leistenkanalhinterwand zu verstärken. Etwa einhundert Jahre später wurde diese Technik durch die vom kanadischen Arzt Edward Earle Shouldice entwickelte und nach ihm benannte Leistenbruchoperation nach Shouldice verdrängt, die demselben Prinzip folgt, aber eine modifizierte Nahttechnik anwendet und besonders bei kleineren Bruchpforten und jüngeren Patienten ihre Indikation hat.
+
+Verbreitet ist zudem die offene Implantation von Kunststoffnetzen, die aus resorbierbaren und nicht-resorbierbaren oder titanbeschichteten Komponenten bestehen können und meist in der Technik nach Lichtenstein des amerikanischen Chirurgen Irving L. Lichtenstein eingebracht werden.
+
+Im Kindesalter wird der Bruchsack in der Leiste aufgesucht, der Inhalt – sofern vorhanden – in den Bauchraum zurückgeschoben, der Bruchsack dann abgetragen und verschlossen. Eine Verstärkung der Leistenkanalhinterwand wie oben angegeben wird bei kindlichen Leistenbrüchen nicht durchgeführt. Fremdmaterial wird ebenfalls nicht eingebracht, da es nicht mitwächst.
+Minimalinvasive Verfahren
+
+Bei minimalinvasiven Techniken wird die Bruchpforte immer mit einem Netz verschlossen. Hier werden wiederum zwei Verfahren unterschieden:
+
+Zum einen kann in der so genannten TAPP-Technik das Netz laparoskopisch – das heißt über eine Bauchspiegelung vom Bauchraum aus – über der Bruchpforte platziert werden. Hierbei ist das Eingehen in die Bauchhöhle erforderlich, das Bauchfell muss aufgeschnitten und am Ende der Operation wieder verschlossen werden. Die Netzfixation erfolgt durch Metallclips, resorbierbaren Clips, durch Annähen oder durch die Verwendung von Gewebekleber. Bei der TEP-Technik wird das Netz ebenfalls über minimalinvasive Zugänge nach einem vorsichtigen Auseinanderdrängen der Schichten der Bauchdecke über der Bruchpforte platziert.  Hierbei wird das Netz zwischen Bauchfell und Muskulatur ohne weitere Fixation eingelegt. Im Kindesalter wird bei den minimalinvasiven Verfahren kein Fremdmaterial (Netz) in die Leiste eingebracht, da dieses nicht mitwachsen kann. Es wird die mittels Bauchspiegelung sichtbare Bruchpforte mittels Naht verschlossen. 
+Vor- und Nachteile der Verfahren
+
+Jedes der genannten Verfahren hat seine Stärken und Schwächen. Grundsätzlich kann man nicht sagen, dass eine der Techniken das prinzipiell überlegene oder sicherere Verfahren ist. Hinzu kommt, dass die Leiste eine äußerst sensible Körperregion umfasst, in der zentrale Nervenbahnen (bzw. bei Männern auch der Samenstrang) verlaufen und somit chirurgische Eingriffe mit einem zusätzlichen Risiko verbunden sind. Verschiedene Studien weisen auf die relativ hohen Zahlen (20 %) postoperativer Beschwerden hin, von „Nervenirritationen, Missempfindungen, Schmerzen und Bewegungseinschränkungen“  bis hin zu andauernden Beschwerden beim Geschlechtsverkehr, und sogar Unfruchtbarkeit.  Es gibt allerdings auch Hinweise, dass eine solche Operation mit Netzeinbau vorbestehende Störungen der Sexualfunktionen verbessern kann.  Betroffene Patienten sollten sich intensiv beraten lassen, welches Operationsverfahren und welches Material (Kunststoff, titanisierte oder sauerstoffbeschichtete Netze) verwendet wird.
+
+Die Verfahren, die die Bruchlücke mit einem Netz überdecken (sowohl offene als auch geschlossene), werden als „spannungsfreie“ Verfahren bezeichnet und sollen sofort belastbar sein und bei größeren Bruchpforten eine niedrigere Rezidivrate haben als die Methode nach Shouldice. Netzimplantate führen je nach Material (Kunststoff oder Titanisierte Oberflächen) zu unterschiedlichen gewünschten oder aber auch zu unerwünschten Vernarbungen, die wiederum Neuralgien (Nervenschmerzen) zur Folge haben können. Minimalinvasive Techniken werden zumeist in der frühen Erholungsphase von den Patienten als schmerzärmer empfunden und sind deshalb besonders bei beidseitiger Operation in einer Sitzung indiziert. In der Spätphase werden jedoch gelegentlich schwer behandelbare Schmerzzustände beobachtet, die möglicherweise auf Metallclips zurückzuführen sind, mit denen das Netz vor allem bei der TAPP-Technik gegen Verrutschen fixiert wird. Bei der TEP-Technik kommen keine Metallclips zur Anwendung. Bei der TAPP-Technik werden immer noch vorwiegend Metallclips angewandt. Einige Operateure verwenden neuerdings stattdessen resorbierbare Clips oder Fibrinkleber, um Nervenschädigungen zu vermeiden. Bei den modernen Netzimplantaten, die mit einer sehr dünnen Schicht von Titan beschichtet sind, kommt es zu einer hydrophilen Verbindung mit dem Gewebe, so dass meistens auf die problematische Fixierung verzichtet werden kann. Bei der TEP-Technik ist – im Gegensatz zur TAPP-Technik – ein operatives Eingehen in die Bauchhöhle mit Aufschneiden und Wiedervernähen des Bauchfells nicht erforderlich, da die minimalinvasive Operation lediglich zwischen den Bauchdeckenschichten erfolgt. Eine Verletzungsgefahr für die inneren Bauchorgane ist bei der TEP-Technik daher ausgeschlossen. Bei der TAPP-Technik sind hier gelegentlich Fälle beschrieben. Insbesondere bei Voroperationen in der Bauchhöhle mit den entsprechenden Verwachsungen ist das Verletzungsrisiko bei der TAPP-Technik deutlich erhöht. Eine weitere gute Indikation zur Anwendung minimalinvasiver Techniken ist die Operation von Rezidivhernien, das heißt von Leistenbrüchen, die früher schon einmal offen operiert worden waren, jetzt jedoch wieder aufgetreten sind.
+
+Grundsätzlich gilt, tritt eine Rezidivhernie nach einer minimal invasiven Operation auf, sollte eine offene Operationstechnik gewählt werden. Wurde der Patient bereits mit einem offenen Operationsverfahren operiert, sollte eine minimal invasive Technik zur Anwendung kommen.
+
+Der Wechsel der Operationstechnik, soll die durch bestehende Vernarbungen erhöhte Komplikationsrate einer erneuten Operation reduzieren.
+
+Offene Verfahren können zumeist in örtlicher Betäubung durchgeführt werden. Narkoserisiken können hierdurch vermieden werden. Auch sind die offenen Techniken besonders für ambulante Operationen geeignet. Aber auch minimalinvasive Operationen werden in routinierter Technik zunehmend ambulant durchgeführt. Die Verfahrenswahl sollte stets individuell erfolgen.
+
+Im Kindesalter ist die Diskussion zwischen offenen und minimalinvasiven Verfahren noch nicht entschieden. 
+{END Leistenbruch}
+
+
+{BEGIN Antibiotika-assoziierte Diarrhoe}
+Die Antibiotika-assoziierte Diarrhoe bezeichnet einen durch die Einnahme von Antibiotika entstandenen Durchfall. 
+Begriffserläuterung
+
+Unter Antibiotika-assoziierte Diarrhoe werden unterschiedliche Krankheiten zusammengefasst, die alle zu einem Durchfall während oder bis zu acht Wochen nach Einnahme eines oder mehrerer Antibiotika führen.[1] Dabei spielt es keine Rolle, ob das Antibiotikum geschluckt oder als Infusion direkt in das Blut gegeben wird. Oft ist das Phänomen harmlos; selten jedoch kann die Antibiotika-assoziierte Diarrhoe lebensbedrohlich werden. Es ist durch Antibiotika allerdings auch eine bleibende Schädigung der Mikrobengemeinschaft im Darm möglich, insbesondere bei häufiger oder hochdosierter Gabe dieser Medikamente in der Kindheit.[2]
+Epidemiologie
+
+Die Wahrscheinlichkeit, eine Antibiotika-assoziierte Diarrhoe zu erleiden, liegt bei 5–35 % und ist abhängig von der Art des Antibiotikums, der Gesundheit des Patienten und ob der Patient einer Vielzahl von pathogenen Keimen ausgesetzt ist. Aufgrund des üblicherweise schlechteren Gesundheitszustandes und möglichen Krankenhauskeimen ist die Wahrscheinlichkeit bei hospitalisierten Patienten höher, eine Antibiotika-assoziierte Diarrhoe zu erleiden, als im ambulanten Bereich.[1]
+Ursachen
+
+Man unterscheidet drei verschiedene Krankheitsursachen:
+
+    MeistensBeleg fehlt! ist es eine direkte Wirkung des Antibiotikums oder von Zusätzen des Antibiotikums auf den Darm, der dadurch zu einer schnelleren Bewegung des Darminhalts, der sogenannten Peristaltik, angeregt wird, was zu einem breiartigen Durchfall führt. Dieser Effekt tritt vor allem bei Penicillinen, insbesondere in Kombination mit Clavulansäure auf. Der Effekt ist harmlos und verschwindet beim Absetzen des Antibiotikums.
+    In 10 bis 20 %Beleg fehlt! der Fälle ist es eine Infektion, die durch die Antibiotika begünstigt wurde. Dabei vernichtet das Antibiotikum einen Teil der normalerweise im Darm lebenden Bakterien (Symbionten), und zwar selektiv die für dieses Antibiotikum empfindlichen Mikroorganismen der Darmflora. Resistentere oder weniger empfindliche Keime können Durchfall verursachende Bakterien sein, die sich sodann rasch vermehren können, da weniger konkurrierende Bakterien am Ort vorhanden sind. Meist handelt es sich um einen harmlosen bis mittelschweren Durchfall. In seltenen Fällen kann es jedoch zu einem lebensbedrohlichen Verlust von Flüssigkeit und Salzen über den Darm kommen. Besonders gefürchtet ist die Infektion mit Clostridium difficile, das die pseudomembranöse Colitis verursacht. Daneben können Infektionen mit Salmonellen durch bestimmte Antibiotika begünstigt werden. Andere Keime wie Staphylococcus aureus oder Pilze wie Candida albicans werden ebenfalls als Verursacher des Durchfalls vermutet.
+    Selten kommt es im Rahmen einer allergischen oder toxischen Reaktion des Darms auf die Antibiotika zu einem Durchfall. Durch das Absterben der Darmzellen entsteht ein schwerer Durchfall. Bei der allergischen Reaktion ist jedoch meist der den gesamten Körper betreffende anaphylaktische Schock die gefährlichere Komplikation.
+
+Klinik
+
+Das Ausmaß und der Verlauf des Durchfalls hängen von seiner Ursache ab. Während eine angeregte Peristaltik harmlos ist, kann eine Infektion oder eine Allergie lebensbedrohliche Folgen haben. Neben einem massiven Verlust von Flüssigkeit und Salzen über den Darm kann es auch zu einem Eindringen von Bakterien in das Blut kommen, wo sie sich rasch vermehren können. Man spricht in diesem Fall von einer Sepsis.
+Therapie (Behandlung)
+
+    Der Verlust von Flüssigkeit und Salzen muss ausgeglichen werden. Oft braucht es dafür eine Infusion.
+    Daneben muss eine pseudomembranöse Kolitis (Überwucherung mit Clostridium difficile) antibiotisch behandelt werden – trotz der Risiken einer erneuten Antibiotika-Therapie. Hier kommen folgende Wirkstoffe zum Einsatz:
+        Erste Wahl: Metronidazol (3 × 500 mg) oral über 10 Tage
+        Zweite Wahl: Vancomycin (4 × 125 mg) oral über 10 Tage (bei schweren Verläufen eher bevorzugt)
+    Bei allergischen Reaktionen wie auch bei Infektionen muss das auslösende Antibiotikum abgesetzt werden. Bei allergischen Reaktionen muss das überschießende Immunsystem mit Immunmodulatoren wie Steroiden rasch unterdrückt werden.
+
+Prophylaxe
+
+Mehrere Studien haben ergeben, dass Probiotika das Auftreten der Antibiotika-assoziierten Diarrhoe verhindern können, indem sie prophylaktisch bzw. zeitgleich zu einer notwendigen Antibiotikatherapie verabreicht werden. So ergab zum Beispiel eine kontrollierte, randomisierte Doppelblindstudie aus dem Jahr 1999,[3] die mit 202 Kindern im Alter von 6 Monaten bis 10 Jahren durchgeführt wurde (wovon 188 in die Auswertung einflossen), dass bei 25 von 95 Kindern der Placebogruppe, aber nur bei 7 von 93 Kindern der mit Lactobacillus rhamnosus GG behandelten Kinder (= Verumgruppe) Durchfälle nach der notwendigen Antibiotikatherapie auftraten. In einer weiteren kontrollierten, randomisierten Doppelblindstudie aus dem Jahr 2005, welche mit 269 Kinder im Alter von 6 Monaten bis 14 Jahren durchgeführt wurde (wovon 246 in die Auswertung einflossen), konnte gezeigt werden, dass sich das Risiko einer Antibiotika-assoziierten Diarrhoe durch die zeitgleiche Einnahme von Saccharomyces boulardii deutlich senkte. In der Placebogruppe erkrankten 22 von 127 Kindern an einer Antibiotika-assoziierten Diarrhoe, hingegen führte die Einnahme von Saccharomyces boulardii lediglich bei 4 von 119 Kindern zu dieser Art von Durchfällen.[4] Eine weitere Studie verwendete parallel zur Antibiotikagabe eine definierte Menge Joghurt (227 g) als Nahrungsergänzung. Ergebnis: Die Gabe von Joghurt halbierte die Zahl der Patienten mit Durchfällen und reduzierte noch deutlicher die Gesamtzahl der Tage mit Durchfall: Nur 12 % (gegenüber 24 %) klagten in der Joghurtgruppe über Durchfall; und 23 Durchfall-Tagen in der Joghurtgruppe standen 60 Durchfall-Tage in der Nicht-Joghurtgruppe gegenüber.[5]
+
+Eine Metaanalyse, in der neun randomisiert kontrollierte Studien ausgewertet wurden, kommt zu dem Schluss, dass Probiotika bei der Prävention der Antibiotika-assoziierten Diarrhoe hilfreich sind. Saccharomyces boulardii und Lactobacillus sind bei dieser Indikation am wirksamsten.[6] Hierbei sollte jedoch beachtet werden, dass Bakterien (wie z. B. Lactobacillen) von Antibiotika angegriffen werden und somit eine zeitversetzte Einnahme zum Antibiotikum zu erfolgen hat. Auch die gleichzeitige Einnahme von Milchprodukten ist bei Antibiotika der Tetracyclin-Gruppe und so genannten Gyrasehemmern nicht möglich, da ansonsten die Wirkung der Antibiotika verloren geht;[7] diese genannten Antibiotika sollten deshalb immer mindestens zwei bis drei Stunden zeitversetzt zum Verzehr von Milchprodukten eingenommen werden. 
+
+
+{END Antibiotika-assoziierte Diarrhoe}
+
+
+{BEGIN Orchiektomie}
+
+Orchiektomie
+Zur Navigation springen
+Zur Suche springen
+
+Die Orchiektomie (auch Orchidektomie, Orchektomie, von griechisch ὄρχις orchis „Hoden“ und εκτομία ektomia „Herausschneiden“ und auch Ablatio testis) ist die Entfernung eines einzelnen Hodens oder beider Organe. In erster Linie ist sie eine chirurgische Maßnahme bei bösartigem Hodenkrebs. Bei Entfernung beider Hoden ist die Orchiektomie eine Form der Kastration.
+
+Die Kastration durch Orchiektomie war historisch eine religiöse Praxis der männlichen Skopzen. In Deutschland ist sie auch unter gewissen Bedingungen zur freiwilligen Therapie von Sexualstörungen erlaubt, wie im Gesetz über die freiwillige Kastration und andere Behandlungsmethoden (KastrG) vom 15. August 1969 festgelegt ist.
+Anwendung bei Prostatakrebs
+
+Die Entfernung beider Hoden wird meist im Zusammenhang mit einem fortgeschrittenen Prostatakrebs durchgeführt. Ziel der Behandlung ist hier, das weitere Wachstum dieser hormonabhängigen Erkrankung zu bremsen. Die Wirksamkeit medikamentöser Verfahren – oft als „chemische Kastration“ bezeichnete Therapieformen – ist hier der Orchiektomie nicht überlegen.[1]
+
+Als subkapsuläre oder plastische Orchiektomie wird ein operatives Verfahren bezeichnet, bei dem nur das hormonproduzierende Keimgewebe entfernt wird und Nebenhoden und Hodenhüllen stehen bleiben, was zur Folge hat, dass der Eindruck besteht, es sei ein (kleinerer) Hoden weiterhin vorhanden. Alternativ kann eine Hodenprothese implantiert werden. 
+
+{END Orchiektomie}
+
+
+{BEGIN Enterostoma}
+Das Enterostoma (griech. ἕντερον énteron, „Darm“, στὁμα stoma „Mund“ oder „Öffnung“, auch künstlicher Darmausgang, Kunstafter, Bauchafter, Anus praeternaturalis, Kurzform Anus praeter (Abkürzung AP) = „außernatürlicher After“, umgangssprachlich auch Seitenausgang) ist eine chirurgisch herbeigeführte Öffnung eines Darmteils durch die Bauchwand, die der Ausleitung der Ausscheidungen dient.
+
+Je nach verwendetem Darmabschnitt sprechen Mediziner von Ileostoma (Ausleitung vom Ileum), Coecostoma (Ausleitung vom Blinddarm, Coecum), Colostoma (Ausleitung vom Colon) oder Transversostoma (Ausleitung vom Colon transversum). Umgangssprachlich werden Coeco-, Colo- und Transversostoma häufig unter dem Begriff Colostoma zusammengefasst, da das Colon einen Großteil des Dickdarms (Intestineum crassum) ausmacht. Eine weitere Form bildet das Urostoma, was jedoch nicht als Darm-, sondern als operativ angelegter sogenannter Harnausgang angelegt wird.
+
+Mögliche zugrundeliegende Krankheiten oder Störungen für die Anlage eines Enterostomas sind Karzinome des Abdomens (72 %); entzündliche Darmerkrankungen wie Morbus Crohn, Colitis ulcerosa oder Divertikulitis (21 %), Familiäre Adenomatöse Polyposis (FAP) sowie Komplikationen im Rahmen abdominaler Operationen, Organfehlbildungen bei Neugeborenen, Unfälle und anderes (7 %).[1]
+
+Die entsprechende Operation heißt Enterostomie, in den Spezialfällen Ileostomie oder Colostomie. Betroffen sind alle Altersgruppen – nicht, wie oftmals angenommen, nur ältere Menschen. Schätzungen zufolge gibt es etwa 100.000 Stomaträger in Deutschland. 
+
+Operationsverfahren
+
+Die Operation zur Anlage und zur Rückverlegung eines Enterostomas wird unter Narkose durchgeführt. Die Betreuung der Patienten durch eine Stomafachkraft bereits vor der Operation ist ebenso wie das präoperative Anzeichnen einer optimalen Stomaposition im Sitzen, Liegen und Stehen wichtiger Bestandteil einer kompetenten Enterostomie (Ausnahme: Notfalloperation). Durch präoperatives Anzeichnen werden Fehlplatzierungen beispielsweise in Körperfalten vermieden, die zu einer schlechten Haftung der Stomaversorgung und nachfolgend verringerter Lebensqualität führen können.
+
+Die meisten Stomaanlagen erfolgen mittels Bauchschnitt (Laparotomie). In einigen Fällen, bei denen unabhängig von der Stomaanlage kein größerer Eingriff notwendig ist, kommt zunehmend auch ein minimalinvasiver operativer Eingriff während einer Bauchspiegelung (Laparoskopie) zum Einsatz. Mit Ausnahme des Coecostomas kann ein Enterostoma je nach Operationshintergrund entweder endständig oder doppelläufig (siehe weiter unten) angelegt werden. Da die Coecostomie einer Fistelbildung des Caecums zur Bauchwand gleichkommt, muss sie gesondert betrachtet werden.[2]
+
+Ein Colostoma (Anm.: umgangssprachlich Dickdarmstoma) wird leicht erhaben hervorstehend (prominent) und spannungsfrei durch den geraden Bauchmuskel (Musculus rectus abdominis) angelegt. Abknickungen nach innen an der Bauchdecke müssen vermieden werden. Zur Vermeidung innerer Hernien wird das Grimmdarmgekröse (Mesocolon descendens) an der seitlichen Bauchdecke fixiert.[3] Das Colostoma fördert vornehmlich breiige bis feste Stühle in größeren Zeitabständen.
+
+Beim Ileostoma (Anm.: umgangssprachlich Dünndarmstoma) sollte so viel wie möglich vom Dünndarm erhalten werden, um einen hohen Elektrolyt- und Wasserverlust zu vermeiden (funktionelles Kurzdarmsyndrom). Der zuführende Schenkel wird nach unten weisend (kaudal) ausgeleitet und soll durch Ausstülpung des Dünndarmes nach außen möglichst 1 bis 2 cm (andere Autoren sprechen von bis zu 6 cm[2]) über das Hautniveau hinausragen, um einen Kontakt des aggressiven Dünndarmsekretes mit der Haut zu vermeiden.[3] Das Ileostoma fördert permanent und die Ausscheidungen sind breiig bis flüssig.
+
+Eine dritte Stomaart ist das Urostoma wobei es sich um einen sog. Harnausgang oder Blasenausgang handelt, über den Urin ausgeschieden wird.
+Endständiges (Entero-)Stoma
+
+Nach vollständiger oder umfangreicher Entfernung des Dickdarms (totale/subtotale Kolektomie), nach Entfernung des Mastdarms (Rektum) und/oder des Afters (Anus) wird in der Bauchdecke eine künstliche Öffnung geschaffen, der gesunde Restdarm nach außen geführt und dort mit der Bauchdecke vernäht. Endständig bedeutet hier nicht zwangsläufig, dass ein Stoma dauerhaft angelegt wurde, sondern bezieht sich vielmehr auf die Art und Weise wie mit den beiden Darmenden nach der OP verfahren wird. Bei einem endständigen Stoma wird die zuführende, orale Schlinge in der Bauchwand eingenäht. So entsteht nur eine einzige sichtbare Öffnung. Der abführende, distale Darmschenkel wird in seiner Öffnung komplett verschlossen. Ein endständiges Stoma ist häufig auf Dauer angelegt und wird im Regelfall nicht zurückverlegt, doch ist dies bei Anlage eines Stomas mittels Hartmann-OP durchaus möglich.
+Doppelläufiges (Entero-)Stoma
+
+Die Bauchwand wird eröffnet und der zu erhaltende, funktionsfähige Bereich des Darms aus der Bauchdecke in Form einer Schlinge herausgezogen. Um das Zurückgleiten des Darms in den Bauchraum zu verhindern, wird häufig ein Reiter z. B. in Form eines flachen Kunststoffstabes unter die Schlinge geschoben. Anschließend wird der Darm von oben eingeschnitten und nach außen umgestülpt, so dass zwei sichtbare Darmöffnungen entstehen. Der stuhlfördernde Darmabschnitt (aus Richtung Magen kommend) wird als zuführende Schlinge oder oraler Schenkel, der abführende Teil (in Richtung Anus verlaufend) als abführende Schlinge oder aboraler Schenkel bezeichnet. Grund für die Anlage eines doppelläufigen Stomas (Ileostoma, Colostoma) ist meist die Entlastung eines Darmanteils bzw. einer kritischen Darmnaht (tiefe Rektumanastomose, coloanale Anastomose, Pouchanale Anastomose). Ein solches Stoma wird als protektives Stoma bezeichnet und kann meist nach wenigen Wochen wieder verschlossen (rückverlagert) werden.
+Permanentes (Entero-)Stoma
+
+Dauerhaft, nicht rückverlegbar angelegtes Stoma.
+Temporäres (Entero-)Stoma
+
+Vorübergehendes, nicht dauerhaft angelegtes Stoma.
+Rückverlegung
+
+Ist eine Rückverlegung geplant, kann sie frühestens sechs Wochen nach der Stomaanlage erfolgen. Waren Undichtigkeiten einer Darmnaht ursächlich für die Stomaanlage, kann erst dann zurückverlegt werden, wenn die Darmnaht vollständig abgeheilt ist. Dazu werden die eingenähten Darmenden aus der Bauchwand gelöst und per Naht wieder miteinander verbunden. Ein Sonderfall stellt der Anschluss an einen Pouch dar.
+Mögliche Risiken und Komplikationen
+
+Während der Operation kann es in seltenen Fällen zu Verletzungen am Darm, an Nachbarorganen oder Gefäßen kommen. Wird eine Nahtverbindung am Darm undicht, können sich schwerwiegende Folgen wie Bauchfellentzündung, Blutvergiftung, Darmlähmung (Darmatonie), Darmverschluss und anderes entwickeln. Insbesondere infolge von Infektionen können sich in seltenen Fällen Fisteln bilden.
+
+Unvorhersehbare Umstände wie ausgedehnte Verwachsungen im Bauchraum oder anatomische Besonderheiten können eine Änderung oder Erweiterung der geplanten Operation erfordern.
+
+Postoperativ ist eine Schrumpfung der Nahtverbindungen möglich. Diese Verengungen (Stenosen) werden meistens mittels Dehnung (Bougierung) geweitet. In einigen Fällen wird ein erneuter Eingriff notwendig. Verwachsungen im Bauchraum können noch Jahre später zu chronischen Schmerzen und selten auch zu einem Darmverschluss führen.
+
+Als spezielle Stoma-Komplikationen sind unter anderem der Rückzug des Stomas unter das Hautniveau (Retraktion), Vorfall des Stomas (Prolaps), Bauchbruch (Hernie) und die Stomablockade zu benennen. Hintergrund einer Stomablockade ist eine Stenose, die durch Verwachsungen im Bauchraum, durch Vernarbungen, durch festgesetzte schwer verdauliche Lebensmittel (Fasern) u. a. verursacht sein kann. Halten starke Bauchschmerzen und -krämpfe, evtl. verbunden mit Erbrechen, länger als 2 Stunden an, muss unmittelbar der Arzt oder eine ärztliche Ambulanz aufgesucht werden, da ein Darmverschluss drohen könnte.
+
+Da der Darm und dementsprechend auch ein Stoma nicht über Schmerzrezeptoren verfügt (Nozizeptor), ist hier besondere Vorsicht im Umgang mit scharfkantigen Gegenständen z. B. Rasierern, Scheren u. a. geboten, um das Stoma nicht zu verletzen. Ein Stoma ist empfindlich, so dass es bei Berührung zu einer leichten Blutung kommen kann, was nicht besorgniserregend ist. Ernsthafte Blutungen benötigen demgegenüber eine ärztliche Untersuchung. Eine Schwarzfärbung des Stomas kann auf eine beginnende Nekrose hindeuten, die sofortiger Behandlung bedarf.
+
+Nicht bedenklich ist es, wenn der Darm in der ersten Zeit nach der Operation noch unregelmäßig arbeitet. Die Ausscheidungen können anfangs auch flüssiger sein und es kann zunächst zu vermehrten Blähungen kommen.
+
+Eine regelmäßige Betreuung durch einen Enterostomatherapeuten kann helfen, Komplikationen vorzubeugen und wichtige Fragen zu klären. Entsprechende Ansprechpartner können über die Fachgesellschaft Stoma, Kontinenz und Wunde e.V. (ehemals DVET Fachverband Stoma und Inkontinenz e.V.) [4] oder über die Deutsche ILCO e.V.[1] gefunden werden.
+Die Stoma-Versorgung
+Ileostomy 2016-09-09 4158.jpg
+
+Colo- und Ileostomie-Patienten können ihren Stuhlabgang nicht mehr kontrollieren. Spezielle Stomaversorgungen dienen daher der Aufnahme von Stuhl und Gasen. Eine Stomaversorgung besteht immer aus einer auf der Bauchdecke aufzuklebenden Basisplatte und einem daran befestigten Beutel, der der Aufnahme der Ausscheidungen dient. Man unterscheidet ein- und zweiteilige Systeme. Bei den einteiligen Systemen sind Basisplatte und Beutel fest miteinander verbunden und können nur gemeinsam gewechselt werden. Zweiteilige Systeme sind dadurch gekennzeichnet, dass Basisplatte und Beutel getrennte Einheiten darstellen, was bedeutet, dass die Platte geklebt wird und der Beutel nachträglich mittels Rastring oder Klebefläche damit verbunden wird. Das zweiteilige Versorgungssystem ermöglicht einen Verbleib der Platte auf dem Bauch, wenn der Beutel aus Hygienegründen gewechselt wird. Beide Versorgungssysteme werden sowohl mit unten geschlossenem Beutel als auch mit einem sog. Ausstreifbeutel angeboten, der eine Leerung ohne Wechsel des Beutels erlaubt. In der Regel wird das Colostoma mit einem geschlossenen Beutel versorgt, da der Darm nur zeitweise Stuhl fördert. Der Beutel wird dann gewechselt, wenn sich der Darm entleert hat. Für ein Ileostoma kommt ein Ausstreifbeutel zum Einsatz, welcher jederzeit aufgrund der dauerhaften Förderung von Ausscheidungen nach Bedarf geleert werden kann ohne die komplette Stomaversorgung oder den Beutel abnehmen zu müssen.
+
+Moderne Stomasysteme sind mit einem Filter versehen, die Gasen den geruchsfreien Abgang aus dem Beutel ermöglichen.
+
+Träger eines Colostomas haben die Möglichkeit der Durchspülung (Irrigation). Ziel der Irrigation ist es, den Darm durch regelmäßige Spülungen zu entleeren und zu reinigen. Nach dieser Anwendung sind Colostoma-Träger über einen längeren Zeitraum ausscheidungsfrei und können sich mit einer kleinen Stoma-Kappe versorgen. Die Irrigation ist nur nach Absprache und Zustimmung eines Arztes möglich. Stomaträger können mit oder ohne Versorgungssystem duschen oder baden.
+Ernährung
+
+Für Stomaträger gibt es keine spezielle Diät. Gemieden werden sollten einzig stark rohfaserhaltige Lebensmittel wie Zitrusfrüchte, Spargel, Pilze, Ananas, Nüsse sowie harte Obstschalen und -kerne, weil sie das Stoma verstopfen und so zu einer „Stomablockade“ führen können. Wie bei Nichtbetroffenen auch ist die Wirkung individuell sehr verschieden. In Einzelfällen kann es nach Anlage eines Stomas zu bisher nicht gekannten Reaktionen des Körpers wie krampfartigen Bauchschmerzen auf einzelne Lebensmittel kommen. Vorteilhaft ist daher das Führen eines Ernährungstagebuches, um einen Überblick über die Wirkung einzelner Lebensmittel zu bekommen.
+
+Träger eines Ileostomas haben dünnflüssigere Ausscheidungen, da die Resorption von Flüssigkeiten ohne Dickdarm eingeschränkt ist. Der Flüssigkeitsverlust muss durch eine vermehrte Aufnahme von Getränken ausgeglichen werden. Eine mangelhafte Flüssigkeitsaufnahme bedingt ein erhöhtes Risiko für Nieren- und Gallensteine, sowie für ein prärenales Nierenversagen. Mit dem flüssigen Stuhl werden zudem die Mineralien Natrium und Kalium ausgeschwemmt, was bei der Ernährung berücksichtigt werden sollte. Ernährungsberater können hierfür spezielle Diäten empfehlen.
+
+Je nach verbliebener Länge des Dünndarmrestes kann es zu einer gestörten Aufnahme verschiedener Vitamine und Mineralstoffe und gegebenenfalls zu einem Kurzdarmsyndrom kommen. Grundsätzlich gilt, je mehr Dünndarm entfernt wurde, desto größer sind die Auswirkungen. Fehlen nur die letzten 20 cm des Dünndarms können das Vitamin B12 und die Gallensäuren nicht mehr resorbiert werden, was die häufigste Komplikation darstellt. Der Vitamin-B12-Status muss bei entsprechender Einkürzung des Dünndarms zwingend regelmäßig untersucht und der Vitamin-B12-Haushalt unter Umgehung des Darms (parenteral) ausgeglichen werden. Die fehlende Resorption der Gallensäuren kann zu einem großen Teil durch eine Mehrleistung der Leber ausgeglichen werden. Schafft die Leber den Ausgleich nicht, kommt es zu Problemen bei der Verdauung von Fetten und zur Ausscheidung von Fettstühlen.
+
+Stomaträger sollten ihren Arzt über ihren Zustand informieren. Auch einige Medikamente werden eventuell nicht mehr vollständig vom verbleibenden Darm aufgenommen und müssen möglicherweise parenteral zugeführt werden.
+
+Ein nicht besorgniserregender Aspekt des Ileostomas ist die Tatsache, dass einige Speisen in ihrer Originalfarbe ausgeschieden werden. Wer Blutrot im Beutel sieht, sollte zunächst überlegen, ob er beispielsweise Rote Bete gegessen oder einen Energydrink in der Farbe zu sich genommen hat.
+Sport, Beruf und sonstige Aktivitäten
+
+Ein gut angelegtes Stoma schränkt das Leben kaum ein. Sport, Beruf und sexuelle Aktivitäten sind ganz normal möglich. Um einer Hernie vorzubeugen, sollten jedoch nicht wesentlich mehr als 10 kg gehoben werden. Sportarten mit Körperkontakt wie beispielsweise Kampfsport gefährden das Stoma. Im Fachhandel gibt es spezielle Bauchbinden, Schutzkappen und Schwimmgürtel, die das Stoma und die Stomaversorgung bei Sport oder im Beruf zusätzlich schützen können.
+
+Eine Schwangerschaft birgt für Stomaträgerinnen die gleichen Risiken wie für jede andere Frau auch. Einschränkungen gibt es hier nur auf Grundlage der Vorerkrankung oder bei Anlage eines doppelläufigen Stomas.
+
+Unter Vorlage eines Schwerbehindertenausweises oder einer ärztlichen Bescheinigung können Stomaträger beim CBF Darmstadt e.V.[5] den sog. Euroschlüssel käuflich erwerben. Der Schlüssel passt an Autobahntoiletten, an Behinderten-Toiletten vieler Städte in der Bundesrepublik, in Österreich, der Schweiz und bereits in einigen weiteren europäischen Ländern. Ein hygienischer Plattenwechsel in sauberen sanitären Anlagen ist dadurch jederzeit möglich.
+
+Die bundesweit geltenden Parkerleichterungen nach § 46 Abs. 1 Nr. 11 Straßenverkehrs-Ordnung (StVO) (sog. Gelber Parkausweis) können auch
+
+    Schwerbehinderte mit einem wegen chronischer Dickdarm- bzw. Darmentzündung (Colitis ulcerosa bzw. Morbus Crohn) anerkannten Grad der Behinderung von mindestens 60 oder
+    Stomaträger mit doppeltem Stoma und einem hierfür anerkannten Grad der Behinderung von mindestens 70
+
+in Anspruch nehmen.
+
+Bei Fernreisen empfiehlt es sich, das vom Selbsthilfeverband der europäischen Stomaträger entworfene internationale Reise-Zertifikat[6] vom Arzt unterzeichnen zu lassen. Es klärt ausländische Behörden und das Flughafenpersonal über das Stoma auf und verhindert, dass die Stomaversorgung zwecks Kontrolle ohne Anwesenheit eines Arztes vom Bauch genommen wird.
+Geschichte
+
+Bereits aus der Antike wurde die Anlage erster Enterostomata überliefert. So hat beispielsweise Praxagoras von Kos im 4. Jahrhundert v. Chr. bei Darmverletzungen einen künstlichen Darmausgang geschaffen. Ob diese Behandlungen erfolgreich waren, wird seitens der Geschichte nicht berichtet. Paracelsus (1493–1541) wies nachdrücklich darauf hin, dass dem „Kunstafter“ unbedingt der Vorzug vor anderen Manipulationen am verletzten Darm gegeben werden solle.
+
+Schließlich gelang Jean Pillore (Frankreich 1776), die erste geplante Stomaanlage vor dem Hintergrund eines stenosierenden Sigmakarzinoms, bei der die Darmwand mit den Wundrändern vernäht wurde. Aufgrund einer Vorbehandlung mit Quecksilber verstarb der Patient allerdings. Duret legte 1793 bei einem dreitägigen Kind eine Colostomie in der Leistenregion an. Besagter Patient von Duret wurde immerhin 45 Jahre alt.
+
+Doch erst van Erckenlens zeigte 1879 in seiner Studie die Vorteile dieses Zugangs auf und verhalf so der Stomaanlage zum Durchbruch, die der heutigen am nächsten kommt. Zu der Zeit lag die Sterblichkeitsrate dieser Eingriffe noch bei 40 Prozent. 1888 veröffentlichte der Wiener Karl Maydl seine Methode, bei der er eine Darmschlinge vor die Bauchwand zog, durch einen Mesenterialschlitz einen mit Jodoformgaze umwickelten Hartgummibolzen steckte und die beiden Schenkel unterhalb des Bolzens miteinander vernähte. Bis spätestens sechs Tage danach erfolgte die quere Eröffnung des Darmes. Maydl legte damit die Grundlage für die heute noch gültige Technik der Anlage doppelläufiger Colostomien.
+
+König und Rütz entwickelten 1935 die erste aus Gummi bestehende zweiteilige Auffangvorrichtung zur Stomaversorgung, die mit einem Gürtel fixiert wurde. Diese stellte aber eine ebenso starke Geruchsbelästigung dar wie die bis dahin eher üblichen aus Metall gebördelten oder aus Gummi gefertigten, mit Tüchern ausgestopften Schalen (Pelotten), die mit Stahlfedern und Ledergürtel fixiert wurden. Die dänische Krankenschwester Elise Sörensen, deren Schwester Stomaträgerin war, hatte 1954 schließlich die Idee für eine neue Stomaversorgung in der Form eines selbstklebenden Beutels. Gemeinsam mit dem Unternehmer Louis Hansen, Fabrikant von Plastiktüten, entwickelte sie den ersten selbstklebenden Stomabeutel mit Zinkoxid-Klebefläche.
+
+1968 gründete sich in den USA die North American Association of Enterostomal Therapists, die später in International Association for Enterostomal Therapy umbenannt wurde und seit 1992 Wound, Ostomy and Continence Nurses Society (WOCN)[7] heißt. 1972 stellte sich mit der ILCO auch in Deutschland eine Selbsthilfegruppe der Stomaträger auf, was 1978 zur Gründung der ersten deutschen Schule für Enterostomatherapie führte. Seitdem wurden die Bedingungen für die Versorgung von Stomapatienten zunehmend besser. 
+
+
+{END Enterostoma}
+
+
+
+
+
 

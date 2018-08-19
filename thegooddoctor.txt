@@ -511,19 +511,53 @@ https://de.wikipedia.org/wiki/Ultraschall 05:09
 https://de.wikipedia.org/wiki/Intrauterine_Insemination IUI 05:36
 Künstlichen Befruchtung=artificial insemination 05:36
 https://de.wikipedia.org/wiki/In-vitro-Fertilisation IVF 05:37 
-treiben=float
-untertreibung=understatement
 Meerjungfrau=mermaid 07:15
 Spülung=flush 08:???
 Hoden=testicle 09:26
 https://de.wikipedia.org/wiki/Osteopenie 09:52 
-Anstand=decency
+https://de.wikipedia.org/wiki/Mikrolithiasis 10:09
+https://de.wikipedia.org/wiki/Mumps 10:09
+https://de.wikipedia.org/wiki/Hypospadie 10:11
+https://de.wikipedia.org/wiki/Leistenbruch Leistenhernie  10:14
+https://de.wikipedia.org/wiki/Leuprorelin 10:30
+https://en.wikipedia.org/wiki/Histrelin  10:30
+Segen=blessing 11:06
+Eierstock=ovary 11:15
+echt drauf=really on it 12:32
+Anstand=decency 12:34
+Laken=sheet 12:56
+Rosenblätter/Rosenblatt=rose petals
+Erreger=pathogen,germ 14:03
+https://en.wikipedia.org/wiki/Clostridium_difficile_infection 14:06
+https://de.wikipedia.org/wiki/Orchiektomie 14:19
+https://de.wikipedia.org/wiki/Enterostoma Kolostomie 16:28
+einstellung=employment 19:18
+Absage=cancellation 20:13
+mitversorgt=jointly supplied 20:15
+erwartungsgemäß=as expected 28:19
+treiben=float
+https://de.wikipedia.org/wiki/Samenstrang 31:52
+https://de.wikipedia.org/wiki/Gastrointestinaler_Stromatumor 32:31
+untertreibung=understatement 34:48
+https://de.wikipedia.org/wiki/Endokrinologie 37:14
+bescheidenheit=modesty 38:03
+mitnehmen=give a lift 40:35
 
 
 
 E15
-Haken=catch
-geschubst=pushed
+protzig=pretentious 01:03
+begabt=gifted 01:48
+unangebracht=inappropriate 01:52
+Spätzünder=late starter 01:55
+https://de.wikipedia.org/wiki/Herzektopie 03:11
+schlamper=untidy person 09:29
+zerknittert=creased 09:32
+Haken=catch 10:15
+Schlitterpfad=slippery slope 11:19
+gratwanderung=tight rope 11:19
+geschubst=pushed 12:33
+öse=loop 13:27
 Handschellen=handcuffs
 Steckdose=socket
 hinfallen=tumble
