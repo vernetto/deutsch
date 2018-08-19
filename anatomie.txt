@@ -1,0 +1,515 @@
+\[(\d+)\] regex for [1]
+
+{BEGIN Aneurysma}
+
+Das Aneurysma (von altgriechisch ἀνεύρυσμα aneúrysma /aneǔ̯rysma/ ‚Aufweitung, Erweiterung‘), Mehrzahl Aneurysmata oder Aneurysmen, auch Arterienerweiterung oder umgangssprachlich arterielle Aussackung genannt, ist eine spindel- oder sackförmige, örtlich begrenzte, permanente Erweiterung des Querschnitts von Schlagadern infolge angeborener oder erworbener Wandveränderungen. Durch diese unterscheidet sich das Aneurysma etwa von der Ektasie, einer permanenten Erweiterung von Blutgefäßen (und Hohlorganen), welche sich trotz Intaktheit aller beteiligten Wandschichten ausgebildet hat. 
+Man unterscheidet zwischen dem echten Aneurysma (Aneurysma verum), dem falschen Aneurysma (Aneurysma spurium = A. falsum) und dem dissezierenden Aneurysma (Aneurysma dissecans) als Folge einer Gefäßwanddissektion. Mit einem Aneurysma ohne weitere Angabe ist normalerweise ein Aneurysma verum gemeint. 
+Bei einem Aneurysma verum ist die gesamte Gefäßwand mit allen Schichten (Intima, Media und Adventitia) erweitert, meist als Folge von Arteriosklerose. Überwiegend sind Männer ab dem 50. Lebensjahr betroffen, vor allem Hypertoniker und Patienten mit peripherer arterieller Verschlusskrankheit. Ein Riss der Gefäßwand, der hier durch die mit der Aufweitung verbundene Schwächung des Gefäßes eintreten kann (Ruptur), kann je nach Lage des Gefäßes lebensbedrohlich sein. 
+Bei einem Aneurysma spurium (= Aneurysma falsum, auch Pseudoaneurysma) durchzieht ein Riss, dessen Entstehung meist auf eine stumpfe oder scharfe Verletzung (wie bei einer Seldinger-Punktion) zurückgeht , die Intima und die Media, die Adventitia bleibt laut Lehrbuchdefinition bestehen, wobei in der pathologischen Praxis das Hämatom oft die Adventitia durchschreitet. Um diese Gefäßwandleckage entwickelt sich ein Bluterguss (pulsierendes Hämatom). Das den Gefäßwanddefekt umgebende Gewebe, etwa das Brust- oder Bauchfell, kann die Ausdehnung des Blutergusses begrenzen und damit bei Verletzung großer Gefäße – häufig nur kurzfristig – den Verblutungstod hinauszögern. Sollte die Tamponade länger stabil bleiben, wird das pulsierende Hämatom innerhalb von vier bis sechs Wochen von einer Bindegewebskapsel umgeben. Da dieses aneurysmatoide Gebilde aber außerhalb der Gefäßwand entstanden ist, nennt man es falsches Aneurysma (Aneurysma spurium oder falsum). Eine Rupturgefahr besteht aber weiterhin. 
+Der Begriff Aneurysma dissecans ist irreführend, da die Dissektion keine unmittelbare Konsequenz eines Aneurysmas ist bzw. sein muss. Vielmehr ist eine Dissektion, zumeist der Aorta, jedoch prinzipiell jeder Arterie, die Folge einer Verletzung der Intima der Gefäßwand. Sofern die Dissektion nicht bzw. nur konservativ behandelt wird, kommt es in vielen Fällen aufgrund der chronischen Wandschwächung zu einer sekundären Erweiterung des Gefäßkalibers im Sinne eines Aneurysmas. Das Aneurysma ist in diesen Fällen also nicht Ursache, sondern Folge der Dissektion. Dennoch gibt es in verschiedenen Lehrbüchern den Begriff des Aneurysma dissecans als Bezeichnung für eine Dissektion.  Dies mag vermutlich daher rühren, dass zur Zeit der Entstehung dieses Begriffs, welche vor der Entwicklung der Computertomographie lag, in Obduktionsbefunden unbehandelter Dissektionen oftmals auch bereits eine aneurysmatische Erweiterung des Gefäßes vorgelegen hat und ein zeitlicher Verlauf nicht zu differenzieren war. Bei einer Dissektion dringt das Blut über ein sogenanntes entry in die Gefäßwand vor und zerteilt (disseziert) diese. Dadurch entsteht eine zweite, künstlich geschaffene Blutbahn, ein falsches oder Pseudolumen. Da der Fluss über das entry und über eventuelle reentries limitiert ist, kommt es zu einer Erhöhung des mittleren Gefäßdrucks im falschen Lumen gegenüber dem Druck im wahren Lumen, was zu einer Kompression des wahren Lumens führt. Die Therapie einer Dissektion zielt im Falle der Aorta auf den Verschluss des primären entrys ab, um den Druck im falschen Lumen zu Gunsten des wahren Lumens zu senken und damit die Perfusion der inneren Organe und der unteren Extremität zu verbessern. 
+
+Als Ursache stehen die degenerativen Gefäßwanderkrankungen (in über 80 % der Fälle Arteriosklerose) zahlenmäßig weit im Vordergrund. Weit seltenere Ursachen sind Traumata, Infektionen (rheumatisches Fieber, Syphilis, Lyme-Borreliose), Entzündungen und angeborene Bindegewebsschwächen (Marfan-Syndrom, Ehlers-Danlos-Syndrom). Bei etwa fünf bis sieben Prozent der Aneurysmaträger treten diese multipel an verschiedenen Körperlokalisationen auf (Morbus aneurysmaticus). Aneurysmata der Aorta betreffen nicht nur Erwachsene, sondern können als Folge eines Marfan-Syndroms oder als Spätfolgen einer Volumenbelastung der Aorta bei angeborenen Herzfehlern mit Rechts-links-Shunt oder einer shuntabhängigen Perfusion der Lungen klinisch bedeutsam werden. Des Weiteren kann es nach einer Erkrankung am Kawasaki-Syndrom zu Aneurysmen an den Herzkranzgefäßen kommen. Eine 2010 veröffentlichte Studie dokumentiert zudem ein deutlich erhöhtes Risiko für das Vorliegen von Hirnaneurysmen bei Patienten mit einer Aorta bicuspida, einer relativ häufigen angeborenen Fehlbildung der Aortenklappe.  Beim Hughes-Stovin-Syndrom geht man davon aus, dass infizierte Emboli Aneurysmata der Lungengefäße verursachen. Es ist bekannt, dass durch Headbangen eine Häufung der Fälle mit einer Arterienerweiterung der Arteria vertebralis vorkommt. 
+
+Pathogenese und Verlauf
+
+Die Brisanz zentraler Aneurysmen (etwa infrarenales Bauchaortenaneurysma) liegt in ihrer potentiell tödlichen Rupturgefahr (also Rissgefahr). Diese steigt mit zunehmendem Querdurchmesser des Aneurysmas, da sich, gemäß der Young-Laplace-Gleichung, die elastischen Rückstellkräfte der Gefäßwand umgekehrt proportional zum Radius verhalten. Mit wachsendem Radius nehmen die Kräfte daher ab.
+
+Aneurysmen der peripheren Gefäße bedrohen vor allem durch thromboembolische Gefäßverschlüsse die Gliedmaßen. In der Regel sind Aneurysmata teilweise mit Thrombenmassen, welche sich oft randständig befinden, ausgefüllt. Diese Thrombenmassen können zum Beispiel beim Aneurysma in der Kniekehle durch entsprechende Bewegungen in die periphere Zirkulation ausmassiert werden. Dies führt zu peripheren, zum Teil irreversiblen Gefäßverschlüssen mit entsprechenden Folgen. 
+
+Symptome und Befunde
+
+Ein Großteil der Bauchaorten- und Becken-Aneurysmataträger ist asymptomatisch. Die Diagnose findet meistens zufällig im Rahmen einer Routineuntersuchung oder Bauchabklärung statt. Im Ultraschall kann die Diagnose bei Bauchschlagader- oder Beckenarterien-Untersuchungen mit großer Treffsicherheit erfolgen. Werden diese Aneurysmata symptomatisch, treten Rückenschmerzen oder diffuse Abdominal-Schmerzen auf. Sie sind typisch für das expandierende Aneurysma mit Einblutung in die Wand. Die intraabdominalen Aneurysmata können frei in die Bauchhöhle rupturieren, was zur Bildung eines großen intraperitonealen Hämatoms (Hämaskos) und oft zum Verbluten des Patienten führt. Häufig kann aber das Retroperitoneum (die Gefäße liegen im Retroperitonealraum) diese Blutung noch zurückhalten. Der Patient präsentiert sich mit heftigsten Flankenschmerzen und einer Schock-Symptomatik (Differentialdiagnose: Nierenkolik, Pankreatitis). Bei den peripheren Aneurysmata steht nicht die Ruptur, sondern der thrombotische Verschluss des Aneurysmas oder der embolische Verschluss der distalen Gefäße im Vordergrund. Die Symptomatik ist häufig akut. Embolien nach distal können auch chronisch und lange Zeit oligosymptomatisch (der Patient merkt wenig oder nichts) ablaufen.
+
+Bei den cerebralen (im Gehirn gelegenen) Aneurysmata (sogenannte Hirn-Aneurysmata) kann es durch den Druck, den ein Aneurysma auf einen Nerv ausübt, zu Lähmungserscheinungen im Gesicht kommen. Bei einer Ruptur eines solchen Aneurysmas ist ein Schlaganfall oder eine Subarachnoidalblutung (Hirnblutung) die Folge. 
+
+Diagnostik
+
+Klinische Untersuchung:
+
+    Periphere Aneurysmata sind oft ohne Schwierigkeiten durch Inspektion (Betrachtung) und Palpation (Ertastung) zu erkennen.
+    Das Bauchaortenaneurysma kann bei schlanken Patienten während der Untersuchung als expansiv pulsierender Tumor im Mittelbauch palpiert (ertastet) werden. Bei adipösen (fettleibigen) Menschen ist dies allerdings selten möglich.
+
+Apparative Untersuchung:
+
+    Die Sonografie ermöglicht eine nicht-invasive und kostengünstige Aneurysma-Diagnostik. Sie eignet sich gut als Screening-Methode bei asymptomatischen Personen.
+    Die Computertomografie gibt morphologisch präzise und geometrisch reproduzierbare Messwerte des Aneurysmas an. Ebenfalls können die Art der Thrombosierung, die Wandbeschaffenheit und der Bezug des Aneurysmas zu den Nachbarorganen bildlich dargestellt werden.
+    Die Angiografie dient nicht nur dem Aneurysmanachweis, sondern wird zum Nachweis von Verschlusserkrankungen in peripheren oder zentralen Gefäßen wie etwa Nierenarterien begleitend eingesetzt.
+
+Therapie
+
+Endovaskulär, chirurgisch (zu den Details siehe auch den folgenden Abschnitt "Spezielle Aneurysmata") oder durch Ernährungsumstellung  
+Spezielle Aneurysmata
+Aortenaneurysmata
+→ Hauptartikel: Aortenaneurysma
+
+Als Aortenaneurysma wird ein Aneurysma der Hauptschlagader (Aorta) bezeichnet. Man unterscheidet Aneurysmen der Aorta in der Höhe des Brustkorbes von abdominellen Varianten. Bei fortgeschrittenem Aneurysma droht eine Ruptur mit einer hohen Sterblichkeitsrate.
+
+Als Bauchaortenaneurysma (BAA) oder abdominales Aortenaneurysma (AAA) wird eine Erweiterung der abdominalen Aorta unterhalb des Abgangs der Nierenarterien im anterioposterioren Durchmesser auf über 30 mm angesehen. Klinisch unterscheidet man zwischen asymptomatischen, symptomatischen und rupturierten Aneurysmata. Beim asymptomatischen (schmerzfreien) Aneurysma handelt es sich um einen Zufallsbefund. Beim symptomatischen Aneurysma stehen die Symptome und bei den rupturierten die Kreislaufsituation im Vordergrund.
+
+Die chirurgische Behandlungsbedürftigkeit eines thorakalen Aortenaneurysmas (TAA) hängt von der Zunahme des normalen Durchmessers von über 50 % ab, besonders beim Kind. Die kritische Größe bei Erwachsenen ist bei einem Durchmesser von 50 bis 55 mm erreicht. Dafür stehen verschiedene Operationsverfahren zur Verfügung.
+
+Als Aortendissektion bezeichnet man eine Aufspaltung der Wandschichten der Aorta.
+Zerebrales Aneurysma
+Angiografie eines zerebralen Aneurysmas an einer Gehirnarterie (Arteria cerebri media)
+
+Zerebrale Aneurysmen treten an Hirnarterien auf. Die normalisierte Krankheitshäufigkeit (Prävalenz) ist drei Prozent.  Zerebrale Aneurysmen treten verstärkt bei Menschen ab dem 40. Lebensjahr auf.  Frauen sind im Verhältnis 5:3 häufiger betroffen als Männer.  Bevorzugt treten zerebrale Aneurysmen an Gefäßbifurkationen des Circulus arteriosus cerebri auf. 
+
+Die zentrale Gefahr eines zerebralen Aneurysmas ist eine Ruptur, also ein Platzen, welches ungehinderten Blutaustritt in den Gehirnraum zur Folge hat. Eine solche Subarachnoidalblutung endet in 50 % der Fälle tödlich.  46 % der Überlebenden sind dauerhaft durch neurologische Ausfälle oder neuropsychologische Defizite in ihrer Lebensqualität eingeschränkt. 
+
+Die Ursache von zerebralen Aneurysmen ist ungeklärt. Diskutiert werden beispielsweise eine angeborene Schwäche der Zellen der Gefäßinnenwand, der sogenannten Endothel-Zellen.  Im Laufe des Lebens entsteht dann unter bestimmten Umständen, vor allem länger bestehendem Bluthochdruck, ein Aneurysma. Exogene Faktoren, die ein Entstehen begünstigen, sind Rauchen und übermäßiger Alkoholkonsum. 
+
+Die drei wichtigsten Therapien zur Behandlung von zerebralen Aneurysmen, die abhängig von ihrer Lokalisation, Form und Größe eingesetzt werden, werden im Folgenden kurz erläutert.
+
+    Bei der konservativen Therapie wird kein Eingriff vorgenommen, sondern das Aneurysma wird durch regelmäßige Kontrolle mittels bildgebenden Verfahren (normalerweise Angiografien) beobachtet. Besonders bei kleinen nicht symptomatischen Aneurysmen ist dies aufgrund des geringen Rupturrisikos eine Option.  
+    Bei der endovaskulären Therapie werden mittels eines hohlen Mikrokatheters über die Leistenarterie sogenannte Coils (Spiralen aus einer Platinlegierung) in den Aneurysmasack gebracht.  Diese Coils füllen das Aneurysma zwar nur zu etwa 10 % bis 30 % aus, verursachen aber eine Thrombenbildung und verhindern so die weitere Blutzirkulation im Aneurysma und somit eine Ruptur.  Ein Vorteil des Eingriffes ist, dass keine offene Operation am Gehirn durchgeführt werden muss.
+    Bei der neurochirurgischen Therapie wird das Aneurysma mittels einer Kraniotomie (offene Hirn-Operation) behandelt. Der Aneurysmasack wird mittels eines Clips abgeklemmt. Somit ist das Aneurysma vom Blutkreislauf ausgeschlossen.  Alternativ können auch Stents eingesetzt werden, um die Arterienwand zu verstärken oder die Flusseigenschaften zu verändern und so eine Thrombosierung zu fördern. 
+
+Medizingeschichte
+
+Die älteste schriftliche Schilderung über Aneurysmen findet sich im Papyrus Ebers aus dem Alten Ägypten. Die ersten präzisen anatomischen Beschreibungen stammen aus den Autopsiestudien von Andreas Vesalius und William Harvey aus dem 16. und 17. Jahrhundert. Antonio Scarpa unterschied als erster 1804 zwischen echten und falschen Aneurysmen. In der Antike wurde bereits empfohlen, Aneurysmen durch Kompression zu behandeln (gemäß Galenos würde der Inhalt dadurch in das normale arterielle Gefäßsystem zurückfließen). Der griechische Arzt Antyllos beschrieb um das 3. Jahrhundert n. Chr. eine Methode zur Operation der Aneurysmen durch Exstirpation, wobei die Schlagader oberhalb und unterhalb des Aneurysmas unterbunden wird und die Aussackung dann durch Schnitt entfernt wird.  Der britische Chirurg John Hunter propagierte im 18. Jahrhundert die Ligatur des betroffenen Gefäßes stromaufwärts des Aneurysmas. Noch in den 1950er Jahren wurden Aneurysmata operativ umwickelt, um die lebensbedrohlichen Blutungen zu verhindern. Im 20. Jahrhundert setzten sich schließlich Stents und Prothesen als Behandlungsmethode durch.  Spezielle Techniken zur Operation von Aortenaneurysmen und thorakalen Aneurysmen entwickelte auch der US-amerikanische Chirurg William Wayne Babcock (1872–1963).   
+
+{END Aneurysma}
+
+
+
+{BEGIN Subarachnoidalblutung}
+Die Subarachnoidalblutung (von griech. ἀραχνοειδής, „die spinnenartige Hirnhaut“, abgeleitet; siehe Spinnenhaut; SAB) ist ein krankhaftes Geschehen im Bereich des zentralen Nervensystems. Es ist dadurch gekennzeichnet, dass freies Blut in den mit Hirnflüssigkeit (Liquor cerebrospinalis) gefüllten Subarachnoidalraum gelangt.
+
+Ursache für diese spezielle Form des Schlaganfalles ist in den meisten Fällen das Platzen eines arteriellen Gefäßes aufgrund einer Missbildung. Der Zustand der freien Blutung führt zu Reizungen von Blutgefäßen des Gehirns und der Hirnhäute. Eine Anstauung von Hirnflüssigkeit mit Druckerhöhung im Schädel (Hydrocephalus) ist typisch für einen komplizierten Verlauf.
+
+Die Subarachnoidalblutung geht mit plötzlichem schwersten Kopfschmerz und Nackensteife einher. Sie kann zu kurzzeitigen Bewusstseinsstörungen, aber auch zu schweren dauerhaften Gehirnfunktionsstörungen führen. 
+
+Erkrankungshäufigkeit, Prognose
+
+Die Subarachnoidalblutung gehört zum Formenkreis der Apoplexien (Schlaganfälle). Sie ist für 6 bis 10 Prozent der Schlaganfälle verantwortlich. Nach der aktuellen Studienlage kann man davon ausgehen, dass in Industrienationen etwa 10 Personen pro 100.000 Einwohner und Jahr eine Subarachnoidalblutung erleiden (Inzidenz).    Dies entspricht ungefähr 10.000 neuen Patienten pro Jahr in Deutschland. Weltweit schwankt die Inzidenz ziemlich stark zwischen 2 (China) und 22 (Finnland) Personen pro 100.000 Einwohner und Jahr. 
+
+Die Altersverteilung der spontanen Subarachnoidalblutung unterscheidet sich von der Altersverteilung des ischämischen Schlaganfalles. Am häufigsten tritt eine SAB im Alter ab 50 Jahren auf. Sie kann aber in jedem Alter auftreten.
+
+Frauen sind etwas häufiger betroffen als Männer.
+
+40 Prozent der Erkrankten versterben innerhalb der ersten 30 Tage nach dem Ereignis.  Von den Überlebenden bleiben 25 bis 50 Prozent schwer behindert.  Die Sterblichkeit bei Rezidivblutungen (siehe Abschnitt „klinisches Bild und Schweregradeinteilung“) beträgt 50 bis 70 Prozent. 
+Definition
+Anatomische Grundlagen
+Schema der Hirnhäute im Bereich des Interhemisphärenspaltes (Größenverhältnisse nicht proportional dargestellt)
+
+Der Subarachnoidalraum umgibt Gehirn und Rückenmark wie ein flüssigkeitsgefülltes Kissen, in dem das Gehirn regelrecht in der Gehirnflüssigkeit, dem Liquor cerebrospinalis, schwimmt. Das Gehirn ist damit so gelagert, dass es weitgehend vor Schäden durch Erschütterungen geschützt ist.
+
+Die Wände des Subarachnoidalraumes bilden außen die Spinnenhaut (lat.: Arachnoidea) und innen die weiche Hirnhaut (Pia mater).
+
+Die Arachnoidea liegt der harten Hirnhaut (Dura mater) innen an. Sie spannt sich über die Oberfläche des Gehirns, zieht aber, mit Ausnahme des Interhemisphärenspalts, nicht in die einzelnen Hirnfurchen (Sulci) hinein. Von der Arachnoidea aus stülpen sich kleine gefäßreiche Aussackungen (Granulationes arachnoideae; Pacchioni-Granulationen, benannt nach dem italienischen Anatom Antonio Pacchioni, der sie 1705 erstmals beschrieben  hatte) in die mit venösem Blut gefüllten Sinus der harten Hirnhaut. Sie dienen der Regulation der Liquormenge und nehmen überschüssigen Liquor auf. Die Arachnoidea ist mit feinen Fäden mit der Pia mater verbunden.
+
+Die Pia mater liegt unmittelbar der Gehirnoberfläche auf und folgt ihr in alle Furchen.
+
+Der Subarachnoidalraum beherbergt auch die versorgenden Blutgefäße (Arterien und Venen). Es handelt sich um einen schmalen Spaltraum, der an einigen Stellen (zum Beispiel im Bereich der Hirnbasis) zu Zisternen erweitert ist. In den Erweiterungen des Subarachnoidalraums und im Interhemisphärenspalt sammelt sich das Blut häufig und ist dann mit bildgebenden Verfahren (Computertomografie) an typischen Mustern erkennbar.
+Ursache, Risiken und Verlauf der Blutung
+
+Eine Blutung im sonst gesunden Gehirn entsteht in der Regel an besonderen Schwachstellen des Gefäßsystems. Das sind vor allem Aneurysmen. Es handelt sich dabei um sackförmige Aufweitungen arterieller Gefäßwände, die zu einer Wandverdünnung im betroffenen Bereich führen.
+
+Zumeist sind Aneurysmen angeboren. Sie treten dann vorwiegend an Orten erhöhter Belastung durch den Blutstrom auf. Insbesondere Gabelungsstellen von Arterien sind aufgrund von Wirbelbildungen und ähnlichen hämodynamischen Faktoren gefährdet. Betroffen sind dann vor allem Gefäßabschnitte, die durch Arteriosklerose oder entzündliche Arterienkrankheiten verändert sind. Deutlich seltener können Aneurysmen auch im Laufe des Lebens erworben werden. Ein gehäuftes Auftreten findet man bei fibromuskulärer Dysplasie, polyzystischer Nierenerkrankung sowie bei Bindegewebserkrankungen wie dem Marfansyndrom.
+Schema des Circulus arteriosus cerebri mit Markierung häufiger Lokalisationen von arteriellen Aneurysmen
+
+Im Falle einer Subarachnoidalblutung hält dieser dünne Wandabschnitt der Belastung eines sonst durchaus tolerierten Blutdruckanstieges nicht mehr stand und das Gefäß platzt an dieser Stelle.
+
+Hauptsächlich sind Gefäße betroffen, die den Circulus arteriosus cerebri (Willis) bilden. Dieses Gefäßsystem an der Gehirnbasis verbindet die größten hirnversorgenden Arterien miteinander.
+
+Rupturen (Einrisse) von Aneurysmen der Hirnbasis sind bei 80 % der Erkrankungen Ursache der Subarachnoidalblutung; außerdem kommen Angiome (gutartige Gefäßmissbildungen) und arteriovenöse Fehlbildungen vor. In 5-10 % aller Fälle kann keine Blutungsquelle gefunden werden. 
+
+Die Blutungen treten gewöhnlich nach Situationen mit kurzzeitiger Blutdruckerhöhung auf, etwa Defäkation (Absetzen des Stuhles), körperliche Anstrengung, Heben schwerer Lasten oder Geschlechtsverkehr. Allerdings können Aneurysmarupturen auch in völliger Ruhe und spontan geschehen. Subarachnoidalblutungen treten gehäuft im höheren Lebensalter und bei Schwangerschaften auf. Als erwiesene Risikofaktoren für eine Ruptur sind ein erhöhter Blutdruck sowie das Rauchen anerkannt.
+
+Im Unterschied zur Erstblutung, die nur anhand ihrer Ergebnisse bekannt wird, sind wiederkehrende Blutungen einer ursächlichen Therapie zugänglich. Die Vermeidung dieser Rezidivblutungen ist das Ziel der schnellen Diagnostik und operativen Therapie.
+
+In einigen Fällen führen Unfälle (Schädel-Hirn-Traumata) zu einer Subarachnoidalblutung. Dabei ist aber derzeit nicht mit Sicherheit zu sagen, ob die Ursache der Blutung nicht auch hier im Einreißen einer Missbildung (zum Beispiel Aneurysma) liegt. Im November 2014 verstarb der australische Cricketprofi Philip Hughes an den Folgen einer Subarachnoidalblutung, ausgelöst durch einen Riss der Arteria vertebralis, nachdem er während eines Cricketspiels von einem Ball am Kopf getroffen wurde. 
+Komplikationen
+
+Die gefürchteten Folgen einer Subarachnoidalblutung sind:
+
+    wiederholte Blutung (so genannte Rezidivblutung)
+    lokale Gefäßverengungen (Vasospasmus)
+    Hydrocephalus
+    Hyponatriämie
+    epileptische Anfälle
+    Hirnödem
+
+Rezidivblutung
+
+Die meisten schweren Subarachnoidalblutungen beruhen auf Mehrfachereignissen. Starken Blutungen gehen meist kleinere voraus; jeder Blutung können weitere folgen. Die Ursache für diese Rezidivblutungen liegt in der Tatsache begründet, dass die Gefäßmissbildung, die zu der vorhergehenden Blutung geführt hat, weiter existiert, sofern keine entsprechende Therapie durchgeführt wurde. Etwa 35 % der Nachblutungen treten in den ersten drei Stunden auf, bis zu 49 % innerhalb der ersten sechs Stunden. 60 % der Patienten, die eine Nachblutung erlitten, starben in den ersten drei Monaten. Am häufigsten treten Nachblutungen innerhalb der ersten drei Tage nach dem Initialereignis auf. Ihre Häufigkeit liegt bei optimaler medizinischer Versorgung bei rund 7 %. 
+Vasospasmus
+
+Die Subarachnoidalblutung führt zu einer Reizung von Blutgefäßen. Das Resultat ist eine aktive Verengung (Gefäß- oder Vasospasmus) der betroffenen Gefäße (vor allem vermittelt durch lokal sezernierte vasoaktive Substanzen wie Serotonin oder Prostaglandin). Damit kommt es zu einer Minderversorgung des Hirngewebes mit Sauerstoff. Die Folge kann einerseits ein ischämischer Schlaganfall sein, der in Abhängigkeit von Dauer und Größe des betroffenen Bereiches zu bleibenden Hirnfunktionsschädigungen führt. Auf der anderen Seite führen später einsetzende, generalisierte Vasospasmen zur Mangelversorgung des gesamten Gehirns.
+
+Der Vasospasmus ist die bestimmende Einflussgröße auf das Behandlungsergebnis. Er tritt mit einer Häufigkeit von 40 bis 60 Prozent bei Subarachnoidalblutungen auf. 1/3 der Spasmen wird erst an seinen Folgen sichtbar (DIND = delayed ischemic neurological deficit).  Der Früherkennung dieser Zustände dient die transkranielle Dopplersonografie (siehe unten). Vasospasmen treten in der Regel innerhalb von 4 bis 14 Tagen – mit einem häufigen Peak zwischen Tag 8 und 12 – nach dem Initialereignis auf.
+
+Die Ursache des Vasospasmus ist bisher nicht eindeutig geklärt. Zum einen wird er auf die Wirkung von Substanzen zurückgeführt, die beim Zerfall der roten Blutkörperchen (Erythrozyten) freiwerden. Diese Substanzen sollen gefäßverengend (vasokonstriktorisch) auf gesunde Gefäße wirken (Endotheline, Prostaglandine). Es ist aber auch eine Wirkung im Sinne der Blockade gefäßerweiternder (vasodilatierender) Stoffe (Substanz P) vorstellbar. Eine wichtige Rolle spielt das freiwerdende Hämoglobin, das das zur Aufrechterhaltung des normalen Gefäßkalibers notwendige NO bindet. Diese Eigenschaft wird als NO-scavenging bezeichnet. Der resultierende NO-Mangel trägt zur Verengung der Arterien bei. Zum anderen werden auch örtliche Entzündungsreaktionen verantwortlich gemacht, wofür die Aktivierung des Komplementsystems spricht.
+
+Wenn das Blut auch die Pia mater (weiche Hirnhaut) durchdringt (etwa durch einen Einriss), dann entsteht zusätzlich eine Einblutung in das Hirngewebe (so genannte parenchymatöse Einblutung). Der Krankheitsverlauf wird dadurch noch komplizierter, ein Dauerschaden wahrscheinlicher und größer.
+Hydrocephalus
+
+Durch die Funktionsstörung der Pacchioni-Granulationen (Granulationes arachnoideae), den Verschluss des Aquaeductus und der Austrittsstellen des IV. Ventrikels kann es zur Anstauung der Hirnflüssigkeit (Hydrocephalus, „Wasserkopf“) kommen. Da der Liquor dauernd nachgebildet wird, kommt es einerseits zu einem Missverhältnis zwischen dem Raumbedarf von Hirnmasse, normalem Blutvolumen und Hirnflüssigkeit und andererseits dem Raumangebot des knöchernen Schädels. Dadurch steigt der Druck in der Schädelhöhle, was zu komplexen Hirnschäden (zum Beispiel durch Einklemmungen von Hirnteilen an den Falten [falx] der Dura mater) führen kann. Je nach Ursache unterscheidet man einen aresorptiven (Pacchioni-Granulationen) und occlusiven (Aquaeductus, Austrittsstellen des IV. Ventrikels) Hydrocephalus. 
+
+Der Hydrocephalus entsteht manchmal sofort nach subarachnoidaler Einblutung, manchmal aber auch Tage später. Er ist im Computertomogramm (CT) sehr gut darstellbar. Da ein Hydrocephalus sehr gefährlich ist, muss bei dieser Verdachtsdiagnose sofort ein CT angefertigt werden. Ein Hydrocephalus entwickelt sich innerhalb der ersten 3 Wochen nach dem Initialereignis.
+Hyponatriämie
+
+Bei 30 % der Patienten kommt es über eine erhöhte Natriumausscheidung zu einem Natriummangel im Blut (Hyponatriämie). Die Ursache ist wahrscheinlich die mechanische Irritation des Hypothalamus mit der Folge erhöhter Sekretion von antidiuretischem Hormon (SIADH). Bei Werten unter 125 mmol/l Serum treten reversible neurologische Symptome auf. Antidiuretisches Hormon führt zur Na+ Sekretion und H2O Rückresorption in der Niere und somit zu einer Verdünnungshyponatriämie.
+
+Das Problem liegt in der Behandlung der Hyponatriämie. Ein zu rascher Ausgleich der Natriumwerte kann zur zentralen pontinen Myelinolyse mit Verlust von Nervengewebe im Bereich von Hirnstammstrukturen führen. Größte Gefahr für die Entwicklung einer Hyponatriämie besteht zwischen dem 4. und 14. Tag nach Initialereignis.
+Klinisches Bild und Schweregradeinteilung
+
+Die drei Leitsymptome der Subarachnoidalblutung sind:
+
+    plötzlich einsetzender vernichtender Kopfschmerz (sog. „Donnerschlag-Kopfschmerz“)
+    gefolgt von kurzer oder länger anhaltender Bewusstseinsstörung bis Bewusstlosigkeit (50 % der Fälle)
+    Nackensteifigkeit (Meningismus)
+
+Das Gehirn an sich ist nicht schmerzempfindlich, dafür die Arterien und die Hirnhäute. Der typische plötzliche, als vernichtend empfundene Kopfschmerz lässt sich durch die Ruptur des Gefäßes und die Reizung der benachbarten Gefäße sowie der Hirnhäute erklären.
+
+Der Schmerz kann sich auch an anderen Stellen manifestieren. So zeigt er sich in seltenen Fällen im Bereich der Brust, der Wirbelsäule oder auch der Beine. Wahrscheinlich ist dafür die Ausbreitung des Blutes im Subarachnoidalraum verantwortlich.
+
+Die Bewusstseinsstörungen und die Bewusstlosigkeit sind dagegen eher unspezifische Reaktionen des Gehirns auf den Stimulus. Ausfallserscheinungen von Hirnnerven oder fokale (auf eine bestimmte Region des Gehirns bezogene) epileptische Anfälle sind in der akuten Situation selten. Solche Varianten sind aber Auslöser gelegentlicher Fehldiagnosen.
+
+Der Meningismus, als drittes Leitsymptom, ist Ausdruck der Reizung der Hirnhäute. Dabei reagiert die Dura mater des Halsbereiches schmerzhaft auf Dehnung, was durch passive Neigung des Kopfes geprüft werden kann. Bei schweren Verläufen kommt es zu einer spontanen Kopfüberstreckung nackenwärts und Hohlrückenbildung (Opisthotonus).
+
+Eine Sehverschlechterung wird beim Terson-Syndrom beobachtet, eine Glaskörpereinblutung, die 10 bis 20 Prozent der Patienten betrifft.
+
+Bei einer Subarachnoidalblutung treten auch gehäuft Herzsymptome auf. EKG-Veränderungen sowie Herzrhythmusstörungen sind vielfach neurogen verursacht, d. h. dass die Schädigung des Gehirns eine fehlerhafte Regulation der Herzaktion bewirkt. Überdurchschnittlich häufig werden auch Einblutungen in den Herzmuskel sowie Herzinfarkte gefunden. Vermutet wird dabei eine Funktionsstörung des Hypothalamus, einem wichtigen Regulationszentrum im Gehirn. Diese Änderungen führen zu einer vermehrten Ausschüttung von Katecholaminen, was eine Verengung von Gefäßen bewirkt. Im Herzmuskel kommt es dadurch zu einer Minderversorgung mit Sauerstoff und den genannten Folgen. 
+Warnblutung
+
+Bei ungefähr 25 Prozent der Patienten mit einer schweren Subarachnoidalblutung können auch Warnblutungen nachgewiesen werden. Die betroffenen Patienten berichten üblicherweise von plötzlich auftretenden, äußerst starken Kopfschmerzen („wie noch nie“), die vielfach auch angstauslösend sein können. Nach kurzer Zeit gehen sie in einen andauernden Kopf- oder Nackenschmerz über, der in der Regel nicht weiter bedrohlich empfunden wird. Die Schmerzen werden von einer gering ausgeprägten Nackensteifigkeit begleitet. Diese Art von Warnblutung entspricht dem Grad I nach Hunt und Hess (siehe Tabelle unten).
+
+Das Problem dieser Warnblutungen besteht in erster Linie im richtigen Erkennen. Vielfach werden die Beschwerden von Patienten, aber auch von Ärzten als Migräne, außerordentliche psychische Belastung oder gar als Wirbelsäulenschmerz fehlgedeutet und auch falsch behandelt. Innerhalb von 14 Tagen folgt meistens eine deutlich schwerere Rezidiv-Subarachnoidalblutung.
+
+Frühzeitig und richtig erkannt, könnte in vielen Fällen den Patienten rechtzeitig und effizienter geholfen werden.
+Schweregradeinteilung
+	
+Klinische Schweregradeinteilung nach WFNS (World Federation of Neurological Surgeons), HUNT und HESS in Relation mit Glasgow Coma Scale Grade von WFNS oder HUNT und HESS 	entspricht Glasgow Coma Scale
+I 	leichter Kopfschmerz und/oder Meningismus (Nackensteifigkeit), keine neurologischen Ausfälle 	15
+II 	mäßiger bis schwerer Kopfschmerz/Meningismus, keine neurologischen Ausfälle außer Hirnnervenstörungen (hier in Kombination!), keine Bewusstseinsveränderungen 	13–14
+III 	Somnolenz oder Verwirrtheit und/oder neurologische Ausfälle 	13–14
+IV 	Sopor, schwere neurologische Ausfälle, vegetative Störungen 	7–12
+V 	Koma (Bewusstlosigkeit), Strecksynergismen, moribunder Patient 	3–6
+	
+
+Die Schweregradeinteilung der Subarachnoidalblutung erfolgt gemäß der Einteilung der WFNS (World Federation of Neurological Surgeons) oder nach HUNT und HESS (siehe Tabelle), die gut mit dem weiteren Krankheitsverlauf korreliert.
+
+Bei der Glasgow Coma Scale handelt es sich um eine Schweregradeinteilung bei Schädel-Hirn-Verletzungen. Es ist vorteilhaft, beide Schweregradeinteilungen gegenüberzustellen, da die Glasgow Coma Scale im Gegensatz zur WFNS im Notdienst sehr häufig angewendet und die Korrelation dadurch offensichtlich wird.
+
+Entscheidend für die Schwere einer Subarachnoidalblutung ist die Dauer der Bewusstlosigkeit. In den meisten Fällen erwachen die Patienten nach kürzerer Zeit. 15 bis 20 Prozent der Patienten verbleiben jedoch im Koma.
+Diagnostik
+
+Grundlage der Diagnostik ist wie bei jeder anderen Erkrankung die Beurteilung des klinischen Bildes einschließlich der Schweregradeinschätzung.
+
+Als technische Hilfsmittel haben sich die bildgebenden Verfahren
+
+    Computertomografie und
+    Angiografie
+
+bewährt.
+
+Außerdem sind die
+
+    Sonografie (als transkranielles Dopplerverfahren) und die
+    Lumbalpunktion
+
+etabliert. Die beiden zuletzt genannten Methoden liefern Funktionsbeschreibungen.
+Computertomografie
+Subarachnoidale Blutung in der Computertomographie. Man erkennt das Blut hell in den basalen Zisternen.
+Subarachnoidale Blutung neben der Falx (rechtes Bild), links gleicher Patient zu einem früheren Zeitpunkt ohne Blutung
+
+Die Computertomografie (CT) des Kopfes (cCT) ist die derzeit schnellste Methode zur Diagnose einer Subarachnoidalblutung. Sie hat die höchste Sensitivität (100 Prozent am ersten Tag der Blutung ) und Spezifität aller bildgebenden Verfahren und ist unter modernen Bedingungen – unter Verwendung eines Spiral-CT mit geringen Belastungen – für den Patienten schnell und sicher durchführbar. In 70 Prozent der Fälle lässt sich schon in einer ersten Aufnahme die Blutungsquelle vermuten. CT-Untersuchungen sollten sofort erfolgen. Bei derartigem Vorgehen wird rasches therapeutisches Handeln ermöglicht, da eine Nachblutung lebensgefährlich wäre und deshalb vermieden werden muss. Die Einteilung nach Fisher  erlaubt eine Klassifikation der computertomografischen Morphologie:
+
+    Grad 1: kein Hinweis auf Blutung
+    Grad 2: Subarachnoidalblutung von weniger als 1 mm Breite
+    Grad 3: Subarachnoidalblutung von mehr als 1 mm Breite, jedoch ohne Ventrikeleinbruch
+    Grad 4: Subarachnoidalblutung jeder Breite mit Ventrikeleinbruch (IVH) oder Ausdehnung ins Gehirnparenchym
+
+Angiografie
+Aneurysma der A. cerebri media in der Computertomographie, 3D-Rekonstruktion (Volumen rendering).
+
+Die zerebrale Angiografie wird als Standardmethode geführt; sie ist ein an Kontrastmittel gebundenes Verfahren der Gefäßdarstellung unter Einsatz von Röntgenstrahlung. Bei hoher Sensitivität muss sie aber in den ersten Stunden durchgeführt werden, da anschließend das Aneurysma als Blutungsquelle verschlossen werden muss, um einen therapeutischen Nutzen zu erlangen. Diese seit langem ausgereifte Methode gilt in ihrer Sonderform, der digitalen Subtraktionsangiografie, den virtuellen Gefäßdarstellungsverfahren von Computertomografie und Kernspin in der diagnostischen Aussagekraft derzeit noch überlegen. Letztere sind jedoch meist schneller erhältlich und für den Patienten weniger belastend.
+Sonografie
+
+Dem Ziel der Einschätzung des Vasospasmus dient die transkranielle Dopplersonografie. Die Methode ist als Ultraschallverfahren so gut wie frei von Nebenwirkungen. Sie soll in den ersten zehn Tagen nach der akuten Blutung täglich zum Einsatz kommen, um auch Vasospasmen zu erkennen, die anfänglich symptomfrei verlaufen (DIND – siehe oben). 
+
+Im Dopplerverfahren wird anhand der Reflexion an den sich bewegenden Blutzellen die Fließgeschwindigkeit des Blutes ermittelt. Während Fließgeschwindigkeiten unter 100 cm/s als normal gelten, werden Werte über 160 cm/s als kritisch eingeschätzt.
+Lumbalpunktion
+
+Die klassische Lumbalpunktion mit Entnahme von Liquor ist hoch sensitiv. Schon nach Minuten ist bei einer Subarachnoidalblutung im Gehirn Blut im Liquor im Bereich der Lendenwirbelsäule nachweisbar. Dieser Befund beweist die Subarachnoidalblutung rein qualitativ, die Lokalisation der Blutung ist damit nicht ermittelbar.
+
+Bei dieser invasiven Methode besteht das Risiko, dass durch die Manipulation (Leck in der lumbalen Dura mater) und deren Folgen unkontrolliert Liquor verloren geht. In der Folge kann es zu einem Unterdruck in den Hirnkammern kommen. Dieses Druckverlustsyndrom ist mit weiteren Schädigungsmöglichkeiten des Gehirns verbunden. Eine Lumbalpunktion sollte deshalb nur dann erfolgen, wenn das Computertomogramm kein Ergebnis bringt, die Symptome des Patienten aber eindeutig auf eine Subarachnoidalblutung hinweisen.
+
+Zu beachten ist weiterhin, dass während der Lumbalpunktion selbst kleine Blutungen auftreten können, die aber unwesentlich sind. Sie können jedoch den Liquor blutig verfärben und eine Subarachnoidalblutung vortäuschen. Die roten Blutkörperchen (Erythrozyten) zerfallen im Liquor und geben damit das sonst an sie gebundene Hämoglobin frei. Dieser Vorgang ist abhängig von der abgelaufenen Zeit. Erythrozyten, die im Falle einer Subarachnoidalblutung im Schädel freigesetzt werden sind im Liquor des Lumbalbereiches nicht mehr nachweisbar, dafür aber ihre Farbstoffe. Um Blut aus einem geplatzten Hirngefäß von frischem Blut (bei der Punktion entstanden) zu unterscheiden, muss der blutige Liquor zentrifugiert werden, um alle zellulären Bestandteile entfernen zu können. Sollte der Liquor danach noch eine Verfärbung aufweisen (sog. xanthochromer Überstand) wäre die Diagnose bestätigt.
+Therapie
+Erste Hilfe
+
+Im Folgenden werden nur Therapierichtlinien beschrieben, die in ihrer wissenschaftlichen Ausgereiftheit den Kriterien der evidenzbasierten Medizin genügen oder in die Leitlinien der medizinisch-wissenschaftlichen Gesellschaften aufgenommen wurden. Damit handelt es sich um diejenigen Methoden, die das Überleben und das Outcome eines betroffenen Patienten nachweisbar und wirkungsvoll verbessern. Sie stellen den gegenwärtigen Stand der medizinischen Handlungsroutine dar.
+
+Die Subarachnoidalblutung erfordert meistens Beobachtungs- und Behandlungsmethoden der Intensivmedizin.
+
+Primär folgt die Therapie den unspezifischen Zielen der Stabilisierung des Allgemeinzustandes. Von Seiten der Atmung muss eine Hyperkapnie (CO2-Erhöhung im Blut durch unzureichende Atmung) vermieden werden, da sie zur Hirndruckerhöhung führen kann. Deshalb wird die Entscheidung für eine Beatmung großzügig getroffen.
+
+Zielgerichtete Verfahren verfolgen die Ziele:
+
+    Vermeidung einer Rezidivblutung
+    Behandlung des Hydrocephalus
+    Vorbeugung und Behandlung des Vasospasmus
+
+Vermeidung einer Rezidivblutung
+
+Es haben sich das Clipping und das Coiling bewährt. Die Methodenwahl hängt neben der Verfügbarkeit vor allem von den spezifischen Gegebenheiten des jeweiligen Aneurysmas (Erreichbarkeit, Form, Weite des Aneurysmahalses, Ursprung von Gefäßen) ab:
+
+    Clipping (Verschluss durch eine Klemme) des Aneurysmas als neurochirurgischer Eingriff, um ein Nachbluten zu unterbinden
+    Coiling des Aneurysmas als interventionelle radiologische Methode über einen intravasalen Katheter. Beim Coiling wird eine feine Platinspirale in den Aneurysmasack eingeführt. Damit werden Gerinnungsvorgänge initiiert, die über die Fibrinbildung und bindegewebige Umwandlung zu einer Verödung des Aneurysmas führen.
+
+OP-Befund bei Clipping
+Aneurysma (Pfeil)
+	
+Zustand nach Clipping
+
+Beide Methoden, Clipping oder Coiling, erfolgen für gewöhnlich in den ersten 72 Stunden nach Blutung oder erst 10 Tage später, da die Gefäße in der Zwischenzeit besonders empfindlich reagieren und die Entwicklung von Gefäßspasmen wahrscheinlich ist.
+
+Die chirurgische Therapie ist mit hoher Evidenz zur Prophylaxe von Rezidivblutungen geeignet. 
+
+Das Coiling bietet den Vorteil, dass man für den Patienten schonender zu den betroffenen Gefäßstellen vordringen kann, ohne dass, abhängig von der Lage des Aneurysmas, der Schädel eröffnet und Hirngewebe verletzt oder entfernt werden muss. Es ist auch zur Prophylaxe von asymptomatischen Aneurysmen geeignet.
+Vorbeugung und Behandlung des Vasospasmus
+
+In den aktuellen Leitlinien zur Behandlung der SAB wird bei allen Patienten die Gabe des Kalziumantagonisten Nimodipin empfohlen.   Calcium-Antagonisten relaxieren präkapilläre Sphinkteren, also muskelstarke Teile von arteriellen Gefäßen. Sie wirken damit dem Vasospasmus bei der Subarachnoidalblutung entgegen. Der Calcium-Antagonist Nimodipin reichert sich durch seine besonders hohe Fettlöslichkeit stark im Gehirn an und ist deshalb zur Behandlung der Subarachnoidalblutung geeignet. Bei prophylaktischer Gabe wird Nimodipin idealerweise in Tablettenform verabreicht. Ein Zermörsern zur Gabe über eine Magensonde schränkt die Wirkung ein. Falls nicht anders möglich kann Nimodipin auch intravenös verabreicht werden.  
+
+Der Blutdruck sollte bei nicht-versorgter Aneurysmablutung bei einem arteriellen Mitteldruck von 60 bis 90 mmHg gehalten werden, was einem hoch-normalen Blutdruck entspricht. Weiterhin ist ein normaler Flüssigkeitshaushalt anzustreben (Normovolämie). Körpertemperatur, Blutzuckerwerte und Blutsalze sollten im Normbereich gehalten werden.
+Methode und Ziel der 3H-Therapie  Hydroxyäthylstärke (HAES 130 10 % 500–1000 ml/die) und kristalloide Lösung 3000–10000 ml/Tag (!) 	Hämodilution (Blutverdünnung) und Hypervolamie (Erhöhung des Blutvolumens) um die Viskosität des Blutes zu senken. Das dünnflüssigere Blut soll die „Engstelle“ im Bereich der Vasokonstriktion besser überwinden können.
+inotrope Substanzen (Dopaminhydrochlorid 3–30 µg/kg/min oder Noradrenalin) 	Hypertonie um den inneren Druck der Gefäße (Perfusionsdruck) zu erhöhen, mit dem Ziel, die „Engstelle“ von innen aufzudrücken, damit Blut in die kapillären Gefäßbereiche gelangen kann. Es werden systolische (obere) Blutdruckwerte von bis zu 240 mmHg bei geclipptem Aneurysma angestrebt.
+		
+
+Die sog. Triple-H-Therapie wird nach den aktuellen Leitlinien nur dann empfohlen, wenn trotz der vorbeugenden Maßnahmen, Vasospasmen mit neurologischen Ausfällen entstehen:
+
+    Hypervolämie
+    Hypertonie
+    Hämodilution
+
+Die 3H-Therapie verfolgt das Ziel, die gestörte Durchblutung des geschädigten Hirngewebes mittels eines hohen inneren Gefäßdurchsatzes zu verbessern. Dazu wird der Fluss (Hypervolämie) sowie der innere Druck der Gefäße erhöht (Hypertonie) und die Viskosität (Zähigkeit) des Blutes durch Verminderung des Erythrozytenvolumens („Blutverdünnung“ (Hämodilution)) erniedrigt. Das Verfahren erfordert strengste Überwachung, um eine Überwässerung des Organismus mit Auswirkungen auf Gasaustausch (Atmung, Lungenfunktion) und Kreislaufsystem in vertretbaren Grenzen zu halten.
+
+Weiterhin kann versucht werden mittels Angiographie die Vasospasmen darzustellen und durch Ballondilatation und/oder intraarterielle Gabe von gefäßerweiternden Substanzen die Vasospasmen zu verringern. Diese Verfahren werden aber nicht generell für alle Patienten empfohlen, so dass in jedem einzelnen Fall durch erfahrene Behandler anhand von Ort und Ausmaß der Spasmen darüber entschieden werden muss.
+
+Nach aktuellem Stand der Forschung haben folgende Therapien keine erwiesene Wirkung und sollten nicht mehr bzw. noch nicht eingesetzt werden: Blutplättchenhemmer, Tirilazad, Magnesium, Kortikosteroide, Erythropoietin und Clazosentan. Statine befinden sich noch weiterhin in der Erprobung. 
+Behandlung des Hydrocephalus
+
+Außer regelrechter intensivmedizinischer Versorgung mit Sicherung des Gasaustausches (Beatmung) bleibt die Anlage eines Ventrikelkatheters Methode der Wahl. Mit dem Katheter wird überschüssiger Liquor aus dem Ventrikelsystem (Gehirnkammern) nach außen abgeleitet.
+
+30 % der Patienten leiden auch später unter Hydrocephalus. In diesen Fällen kann der Liquor über ein dauerhaft implantiertes Shunt-System zum Beispiel in das Bauchfell abgeleitet werden. 
+
+
+
+{END Subarachnoidalblutung}
+
+{BEGIN Bronchoskopie}
+Die Bronchoskopie („Betrachtung der Bronchien“, auch als Lungenspiegelung bezeichnet) ist ein medizinisches Untersuchungs- und Therapieverfahren. Dabei wird ein Endoskop über Mund oder Nase eingeführt und durch die Trachea in die Bronchien der Lunge vorgeschoben. Erstmals gelang es 1897 dem deutschen HNO-Arzt Gustav Killian, mit einem optischen Gerät die Luftröhre einzusehen und einen Fremdkörper zu entfernen. Der Japaner Shigeto Ikeda (1925–2001) stellte 1966 ein erstes flexibles Bronchoskop vor.
+
+Starre Bronchoskopie
+
+Die starre Bronchoskopie wird in Narkose durchgeführt. Die Verletzungsgefahr ist höher als bei der flexiblen Bronchoskopie, das größere Lumen erlaubt aber auch umfangreichere Eingriffe. Bei anhaltenden Lungenblutungen und bei der Bronchoskopie von Kindern ist sie das bevorzugte Verfahren. Darüber hinaus wird sie häufig noch bei der Diagnostik von Lungentumoren, der Entfernung von Fremdkörpern, beim Einsatz von Laserskalpellen oder Argon-Ionen-Lasern sowie dem Einsetzen eines Stents in die Luftröhre verwendet.
+Zeitgenössische Durchführung einer starren Bronchoskopie an einem anästhesierten Patienten (nach Gustav Killian)
+Flexible Bronchoskopie
+
+In der täglichen Routine hat die flexible Bronchoskopie heute die starre Bronchoskopie weitgehend verdrängt. Außer einigen wenigen Spezialanwendungen können alle Aufgaben der starren Bronchoskopie mit den flexiblen Instrumenten schneller, bequemer und für den Patienten schonender (keine Narkose) erreicht werden. Flexible Bronchoskope haben heute nur noch einen Durchmesser von zwei bis drei Millimetern und können damit auch bei sehr kleinen Kindern eingesetzt werden. Sie können tiefer eingeführt werden als ein starres Bronchoskop, haben eine geringere Verletzungsgefahr und der Patient kann wach oder nur leicht sediert sein.
+
+    Diagnostischer Einsatz bei
+        Suche nach Lungentumoren
+        Entnahme von Probenmaterial, Biopsie, Durchführung einer Bronchiallavage, Probenentnahme zur mikrobiologischen Untersuchung auf Keime (Bakterien, Pilze, Parasiten).
+        Planen der lokalen Behandlung eines Tumors, lokale Strahlentherapie
+        Diagnostik von Fremdkörpern, wobei deren Entfernung dennoch immer wieder den zusätzlichen Einsatz starrer Instrumente nötig macht.
+        Abklärung von Einengungen der Atemwege
+        Feststellung von Minderbelüftungen der Lunge (Atelektasen), z. B. nach einer größeren Operation
+
+    Therapeutischer Einsatz
+        Freispülen und Absaugen eines Schleimpfropfs aus den Bronchien, auch mit liegendem Beatmungsschlauch (Tubus), siehe auch: Bronchoalveoläre Lavage
+        Korrektur der Lage des Beatmungsschlauchs
+        Fiberoptische Intubation bzw. Unterstützung bei der Punktionstracheotomie
+
+Darstellung der flexiblen Bronchoskopie. Nach Shigeto Ikeda (1925–2001)
+Bronchoalveoläre Lavage (BAL)
+
+Hierbei wird das Bronchoskop bis in einen Segmentbronchus weit vorgeschoben und eine Spülung so durchgeführt, dass die Lungenbläschen in einem Segment ausgewaschen werden. Diese Lavage-Flüssigkeit wird auf bestimmte Zellen und Inhaltsstoffe untersucht.
+Kryobiopsie
+
+Diese Technik wird innerhalb einer Bronchoskopie verwendet, indem die Spitze des tief eingeführten Instruments so stark abgekühlt wird, dass Lungengewebe daran festfriert und mit dem Instrument herausgezogen werden kann. Diese Gewebeproben sind in der histologischen Beurteilung oft von besserer Aussagekraft als Biopsien, die mit einer Biopsie-Zange gewonnen wurden.[1] 
+
+
+{END Bronchoskopie}
+
+{BEGIN Luftröhre}
+Luftröhre
+
+Die Luftröhre oder fachsprachlich die Trachea (von altgriechisch τραχύς trachýs ‚rau‘;[1][2][Anmerkung 1] gemeint ist „der raue Schlauch“, „die grobe Arterie“ – im Gegensatz zu den feineren blutführenden Gefäßen) ist bei Wirbeltieren die Verbindung zwischen dem Kehlkopf und dem Bronchialsystem der Lunge. Sie gehört zum Atemtrakt und dient der Luftleitung. 
+
+Entwicklung
+
+Entwicklungsgeschichtlich tritt die Luftröhre zuerst bei den Amphibien auf. Daher kann angenommen werden, dass dieses Organ vor rund 350 Millionen Jahren entwickelt wurde. Die längsten Luftröhren gab es bei einigen Dinosauriern mit rund 10 m Länge.
+
+Wie die gesamten unteren Atemwege entsteht die Luftröhre beim Embryo aus einer Aussprossung des Vorderdarms. 
+
+Anatomie bei Säugetieren
+
+Die Luftröhre ist ein elastisches Rohr und beginnt am Kehlkopf. Hier liegt sie zunächst bauchwärts (ventral) der Speiseröhre und zieht dann am Hals rechts von ihr zum Brustkorb. Innerhalb des Brustkorbes liegt sie wieder bauchwärts der Speiseröhre und teilt sich in Höhe des 4. bis 5. Brustwirbels in der Luftröhrengabel (Bifurcatio tracheae) in die zwei Hauptbronchien (Bronchi principales).
+
+Beim erwachsenen Menschen ist sie 10–12 cm lang und durch 16 bis 20 hufeisenförmige hyaline Knorpel (Cartilagines tracheales) in ihrer Vorderwand verstärkt, sodass sie auch beim Einatmen nicht kollabieren kann. Die Knorpelspangen selbst sind durch Bänder – die Ligamenta anularia – miteinander verbunden, während die Hinterwand (Paries membranaceus) aus bindegewebigen und muskulären (Trachealmuskel, Musculus trachealis) Strukturen besteht. Durch diese muskuläre Komponente kann das Lumen der Luftröhre um ein Viertel verengt werden.
+
+Die Knorpelhaut der Knorpelspangen strahlt in die Ligamenta anularia ein. Die Schleimhaut der Luftröhre ist fest mit der Knorpelhaut verwachsen, im in der Hinterwand anliegenden Teil jedoch frei verschieblich, so dass sich bei der Kontraktion des Trachealmuskels Längsfalten bilden können. Zwischen diesen Falten münden Drüsen (Glandulae tracheales), die ein seromuköses Sekret bilden. Über die geordnete Tätigkeit des mehrreihigen Flimmerepithels (respiratorisches Epithel) werden Schleim und Staubteilchen nach oben befördert und abgehustet oder abgeräuspert.
+
+In dieser Schleimhaut, die die gesamte Innenwand der Luftröhre auskleidet, sind zudem Becherzellen und neuroendokrine Zellen verteilt, wobei letztere als neuroepitheliale Körperchen zusammenliegen können und zum APUD-System gehören. Diese dienen ebenso wie diejenigen in den Bronchien als Chemorezeptoren zur Überwachung der Atemgase. 
+
+Klinik
+
+In die Luftröhre gelangte Fremdkörper lösen den Hustenreflex aus. Können sie nicht abgehustet werden, kann die Fremdkörperaspiration bis zum Ersticken führen.
+
+Eine Entzündung der Luftröhre nennt man Tracheitis. Sie kann infektiös, allergisch oder durch chemische Reize entstehen. Häufig ist sie mit einer Kehlkopfentzündung (Laryngitis) kombiniert (Laryngotracheitis). Eine Erweichung der Knorpelringe (Tracheomalazie) führt dazu, dass die Luftröhre vor allem in der Phase der Einatmung kollabiert (siehe auch Trachealkollaps des Hundes). Eine Einengung der Luftröhre kann auch durch raumfordernde Prozesse in der Umgebung der Luftröhre (Säbelscheidentrachea) und durch Luftröhrenkrebs entstehen. Verengungen der Luftröhre (Trachealstenosen) führen meist zu einem Brummgeräusch, das als Stridor trachealis bezeichnet wird.
+Vorderansicht des Herzens und der Lungen.
+
+Die chirurgische Eröffnung der Luftröhre (Tracheotomie) ist eine Notfallmaßnahme bei Verlegungen der oberen Atemwege. Bei Narkosen wird zur Aufrechterhaltung des Luftstroms und der Vermeidung des Einatmens von Fremdmaterial in die Luftröhre ein Endotrachealtubus gelegt (endotracheale Intubation).
+
+Eine Malazie der Luftröhre kann angeboren oder (nach längerer Beatmung) erworben auftreten und wird als Tracheomalazie bezeichnet.
+
+Als angeborene Fehlbildung (oder erworbene Erkrankung) ist die Tracheo-ösophageale Fistel und die Tracheomalazie zu nennen.
+
+Bei Vögeln ist die Luftröhre Sitz des Luftröhrenwurms. 
+
+
+{END Luftröhre}
+
+{BEGIN Embolisation}
+Die therapeutische Embolisation ist der künstliche Verschluss von Blutgefäßen durch Verabreichung von z. B. flüssigen Kunststoffen, Kunststoffkügelchen oder Fibrinschwämmen über einen Katheter. Sie wird in der Regel durch einen auf die interventionelle Radiologie spezialisierten Radiologen in einer sogenannten Angiographie-Suite unter Durchleuchtungskontrolle durchgeführt. Man unterscheidet zwischen Notfallembolisationen mit einer Indikationsstellung aufgrund einer schwer stillbaren, lebensbedrohlichen Blutung sowie einer elektiven (geplanten) Embolisation bei z. B. einer Gefäßfehlbildung oder Tumorbehandlung. 
+
+Notfallembolisationen
+
+Notfallembolisation nach Beckentrauma:[1] Blutungen meist aus dem frakturierten Beckenknochen, dem präsakralen Venenplexus und Ästen der Arteria iliaca interna.
+
+Notfallembolisation Organe:
+
+    Milz:[2] je nach Ausmaß der Verletzung konservatives Vorgehen unter Überwachung, Splenektomie (operative Entfernung der Milz) oder zunehmend Embolisationstherapie (meist zentraler Verschluss der Milzarterie)
+    Leber:[3] Für den Patienten das gefährlichste Organ. Optionen zur Therapie sind die Operation (z. B. mittels des sogenanntem surgical packing. wo danach eine Embolisation sinnvoll sein kann) und die Embolisation
+    Niere:[4] je nach Ausmaß der Verletzung konservatives Vorgehen unter Überwachung, Operation (Organerhaltendes Vorgehen bis hin zur Nephrektomie) oder zunehmend Embolisationstherapie in immer instabileren Patienten, da operativ zu viele Patienten die Niere doch komplett verlieren
+    Gastrointestinale Blutungen:[5] Eine (auch initial HB-relevante) gastrointestinalen Blutung (z. B. eine Blutung aus einem Magengeschwür in das Darmlumen) ist zwar ein Notfall, jedoch sistieren die meisten dieser Blutungen wieder unter Substitution (Gabe von Blutkonserven). Bei einer Notfalloperation besteht dabei eine Mortalität von 15–40 %, die Mortalität ohne eine sofortige Therapie beträgt 10 % (meist alte, oft vorerkrankte Patienten). Indikation für eine Embolisationstherapie bei einer gastrointestinalen Blutung sind: (Pseudo-)Aneurysmata (Gefäßerweiterungen, die platzen und dann bluten können), ein blutender Gefäßstumpf nach einer Bauchoperation, Magengeschwür, Varizen, erosive Gastritis, Tumore im Bauchraum, Mallory-Weiss-Syndrom, beim Kind juveniler Polyp und Meckel-Divertikel.
+    Blutung Ulcus duodeni: die Indikation zur Angiographie besteht, wenn der endoskopische Versuch zweimalig gescheitert ist
+    Bronchialarterienembolisation:[6] Indikation bei einer Lebensbedrohenden Blutung, die sich als Hämoptyse (Bluthusten) äußert (> 250 ml Hämoptyse/24 h). Der technische Erfolg der Bronchialarterienembolisation beträgt bis 100 %, jedoch kommt es in etwa 30 % der Fälle zu einer Rezidivblutung binnen 14 Tagen (abhängig von der Grunderkrankung).
+
+Elektive Embolisationsbehandlung
+
+    Embolisation von pulmonalen AV-Fisteln
+    Embolisation von AV-Malformationen (z. B. an den Extremitäten)
+    Embolisation von Hämangiomen (z. B. an den Extremitäten)
+    Knochentumorembolisation[7] der Wirbelsäule (meist präoperativ vor Tumorentfernung; in Einzelfällen als palliative Therapie zur Schmerzbehandlung und Tumorreduktion): Bei Tumoren der Wirbelsäule müssen die sogenannten Lumbalarterien mindestens zwei Wirbelkörperetagen oberhalb und unterhalb des Tumors angiographisch dargestellt werden, da unbedingt Kollateralverbindungen zwischen dem Tumor und den die Wirbelsäule und das Rückenmark ernährenden Gefäßen ausgeschlossen werden müssen (Gefahr der Paraplegie und Tetraplegie als seltene Embolisationskomplikation)
+    Knochentumorembolisation an den Extremitäten (meist präoperativ; in Einzelfällen als palliative Therapie zur Schmerzbehandlung und Tumorreduktion)
+    Uterusmyom-Embolisation:[8] eine Methode, um symptomatische Uterusmyome mittels der Injektion von sphärischen Mikropartikeln in die Arteria uterina zu behandeln.
+
+Materialien
+
+Flüssige Embolisate sind Histoacryl, Ethibloc, Ethylen-Vinylalkohol-Copolymer, Ethanol und Lipiodol. Sie sind sehr effektiv bei der Embolisation und funktionieren unabhängig vom Gerinnungsstatus des Patienten (sehr wichtig, wenn der Patient z. B. nach einem Verkehrsunfall mehrere Liter Blut verloren hat und seine Gerinnung trotz Massentransfusionen noch nicht wieder adäquat funktioniert). Einige flüssige Embolisate haben ein erhöhtes Komplikationsrisiko, da sie ähnlich einem Sekundenkleber blitzschnell wirken.
+
+Partikuläre Embolisate sind Gelfoam, Polyvinylalkohol (PVA) und neuentwickelte sphärische Mikropartikel aus Gelatine oder Plastik. Sie haben teilweise eine nur temporäre Wirkung, die embolisierten Gefäße eröffnen sich wieder. Die sphärischen Mikropartikel bieten durch ihr Vorliegen in multiplen Größenstufen (zwischen 40 und 900 Mikrometer in Abstufungen von etwa 100 µm) die Möglichkeit, ein passendes Embolisat für das jeweilige Gefäß oder parenchymatöse Organ auszusuchen.
+
+Als metallisches Verschlussmaterial dienen Coils, Interlocking detachable Coils (IDC) und gitterartige Verschlusssysteme. Bei den Coils und Interlocking detachable Coils handelt es sich um teilweise steuerbare, metallische Mikrospiralen mit aufgearbeiteten thrombogenen Fäden. Microcoils und IDC's benötigen eine funktionierende Gerinnung, um ein großes blutendes Gefäß effektiv verschließen zu können. 
+
+
+{END Embolisation}
+
+
+
+
+{BEGIN Calciumantagonist}
+Calciumantagonisten oder im engeren Sinne Calciumkanalblocker sind eine Gruppe von Arzneistoffen (Medikamenten), die den Einstrom von Calcium-Ionen ins Innere der Muskelzelle verringern. Dadurch wird die Kontraktilität der glatten Gefäßmuskelzellen von peripheren Arterien und Koronararterien herabgesetzt, was die Blutgefäße erweitert, die calciumabhängige Energiebereitstellung für die Kontraktion des Herzmuskels verringert und die Automatie des Sinusknotens und der Erregungsleitung im AV-Knoten gehemmt.[1] Dementsprechend werden Calciumantagonisten hauptsächlich zur Behandlung von Bluthochdruck, koronarer Herzkrankheit und Herzrhythmusstörungen eingesetzt.
+
+Im weiteren Sinne zählt zu den Calciumantagonisten der Calciumoverload-Blocker Flunarizin, der vor allem in der Migräneprophylaxe eingesetzt wird. 
+
+Wirkmechanismus
+
+Seit Ende der 1960er entwickelte der Freiburger Physiologe Albrecht Fleckenstein anhand seiner Untersuchungen mit dem Phenylalkylamin Verapamil (Isoptin ©) und dem 1,4-Dihydropyridin, Bay a1040, Nifedipin (Adalat©) das pharmakologische Wirkprinzip des Calciumantagonismus. Später kam Benzothiazepin d-cis Diltiazem (Dilzem©) hinzu. Fleckenstein konnte zeigen, dass die drei chemisch verschiedenen Klassen der Calciumantagonisten (Phenylalkylamine, 1,4-Dihydropyridine und Benzothiazepine) den Calciumeinstrom über spannungsabhängige Calciumkanäle des Herzens und der glatten Muskulatur der Blutgefäße blockierten.
+1,4-Dihydropyridin- (1), Phenylalkylamin- (2) und Benzothiazepin (3) -Rezeptor Domänen der Alpha1-Untereinheit interagieren untereinander (durch reziproke Pfeile dargestellt)[2] und mit Calcium-Bindungsstellen. Die verschiedenen Gewebs-spezifischen Subtypen (Herz, Glatter Muskel, ZNS und Skelettmuskel) der L-Typ Calciumkanäle unterscheiden sich in den Dissoziationskonstanten für z. B. 1,4 Dihydropyridine, der Bindungsfestigkeit für Calcium und Wechselwirkungen untereinander.[3]
+
+Die Konzentration von Calciumionen (Ca2+) im Zellinneren beträgt normalerweise etwa ein Zehntausendstel der Konzentration im Extrazellularraum (10−7 mol/l im Zytoplasma vs. 10−3 mol/l). Durch äußere Reize können Calciumkanäle geöffnet werden, was den Einstrom von Calciumionen in die Zelle bewirkt. Das veränderte Membranpotential der Muskelzelle bewirkt eine Muskelkontraktion (elektromechanische Kopplung). Dies führt zu einer Verengung und damit einem höheren Druck in den Gefäßen, bzw. beim Herzen zu einer Zunahme der Schlagkraft (positiv-inotrope Wirkung). Bei den spezialisierten Zellen, die für die Erregungsausbreitung am Herzen verantwortlich sind (s. Erregungsleitungssystem), bewirkt dies eine schnellere Überleitung des Reizes (positiv-dromotrope Wirkung).
+
+Das Grundprinzip der Calciumantagonisten beruht auf einer Hemmung spannungsabhängiger Calciumkanäle vom L-Typ (long lasting) und vom T-Typ (transient). Die Calciumkanäle vom L-Typ, die für die therapeutische Wirkung die größte Bedeutung besitzen, sind hauptsächlich für die Steuerung des Gefäßtonus in glatten Muskelzellen und Herzmuskelzellen zuständig. Die Calciumkanäle vom T-Typ sind beteiligt an der Schrittmacherfunktion des Sinus- und AV-Knotens.
+
+Die Bindung der Calciumantagonisten an die Calciumkanäle verursacht eine Verminderung des Calciumeinstroms. Hiermit vermindern sie (je nach Typ in unterschiedlichem Maße) die oben genannten Effekte. Ein reduzierter Calciumionen-Einstrom führt demnach am Herzmuskel zu einer Verminderung der Schlagkraft (negativ-inotrope Wirkung) sowie der Schlagfrequenz (negativ-chronotrope Wirkung). Dadurch wird das Herz entlastet, der Sauerstoffbedarf des Herzens und der Blutdruck sinken. In den Gefäßwänden führt der verminderte Calciumeinstrom zu einer Vasodilatation (Gefäßweitstellung). Ein größeres Lumen bietet dem Blut weniger Widerstand (Senkung des peripheren Gefäßwiderstands) und es kommt zum Blutdruckabfall. Durch die Gefäßweitstellung in den Herzkranzgefäßen steht dem Herzmuskel mehr sauerstoffreiches Blut für seine Arbeit zur Verfügung. 
+
+Die hauptsächlich vaskuläre Wirkung (Wirkung in den Gefäßen) der Dihydropyridine lässt sich durch eine bevorzugte Bindung an Calciumkanäle vom L-Typ erklären. Dahingegen greifen die Benzothiazepine und Phenylalkylamine unterschiedlich stark auch an Calciumkanälen vom T-Typ an, was zu einer geringen vaskulären Wirkung führt.
+Strukturtypen
+
+Den spezifischen Bindungsstellen am Calciumkanal entsprechend[4][5] unterteilt man die als Blutdrucksenker und Antiarrhythmika genutzten Calciumantagonisten in drei Typen. Sie besitzen charakteristische chemische Strukturen:
+
+    Dihydropyridine (Nifedipin-Typ)
+    Phenylalkylamine (Verapamil-Typ)
+    Benzothiazepine (Diltiazem-Typ)
+	
+Wirkung und Anwendungsgebiete
+Wirkstoffkombinationen bei Bluthochdruck
+
+Alle Calciumantagonisten senken den Blutdruck, wobei dies auf unterschiedlichem Weg geschieht: bei den Dihydropyridinen (Nifedipin-Typ) durch die Gefäßerweiterung der Arteriolen (Nachlast-Senkung), bei den Phenylalkylaminen (Verapamil-Typ) durch die Verlangsamung und Abschwächung des Herzschlags, bei den Benzothiazepinen (Diltiazem-Typ) durch eine Kombination beider Mechanismen. Das Ausmaß der Blutdrucksenkung ist bei den Calciumkanalblockern umso höher je größer der Ausgangsblutdruck ist.
+
+Am häufigsten werden die Dihydropyridine verwendet. Diese wirken hauptsächlich blutdrucksenkend durch direkte Erschlaffung der glatten Gefäßmuskulatur der Arteriolen und nur unwesentlich an der Erregungsleitung des Herzens. Wichtige Vertreter dieses Typs sind Nifedipin, Nitrendipin, Felodipin und Amlodipin.
+
+Die Phenylalkylamine wirken nur gering auf die Blutgefäße, haben dafür aber eine starke Wirkung auf die Schlagkraft und die Erregungsausbreitung des Herzens. Sie werden daher insbesondere zur Behandlung von Herzrhythmusstörungen (tachykardes Vorhofflimmern) eingesetzt. Der wichtigste Vertreter dieses Typs ist Verapamil.
+
+Eine Zwischenstellung nehmen die Benzothiazepine ein, die sowohl gefäßerweiternd und damit blutdrucksenkend als auch hemmend auf die Erregungsleitung im Herz wirken. Die Leitsubstanz dieses Typs ist Diltiazem. Die Benzothiazepine haben ein sehr günstiges Nebenwirkungsprofil.
+
+Neben der Behandlung des Bluthochdrucks, der chronischen koronaren Herzkrankheit (stabile Angina pectoris) und von Herzrhythmusstörungen werden Calciumantagonisten auch eingesetzt bei:
+
+    vasospastischer Angina (Prinzmetal-Angina)
+    Vasospasmus nach aneurysmatischer Subarachnoidalblutung
+    Lungenarterienhochdruck (pulmonale Hypertonie)
+    Raynaud-Syndrom
+    Achalasie (Verkrampfung des unteren Speiseröhrenschließmuskels)
+
+Eine Ausnahme stellt das Nimodipin dar, das aufgrund seiner Lipophilie in der Lage ist, die Blut-Hirn-Schranke zu überwinden. Es wird deshalb bei neurologischen Ausfallerscheinungen eingesetzt, die eine Durchblutungsstörung als Ursache haben, sowie zur Prophylaxe von Gefäßspasmen infolge von Subarachnoidalblutungen.
+Aufnahme und Verteilung im Körper (Pharmakokinetik)
+
+In aller Regel werden Calciumantagonisten als Tablette verabreicht und im Dünndarm aufgenommen (enterale oder perorale Applikation). Die intravenöse (parenterale) Gabe wird ebenfalls angewandt.
+
+Die einzelnen Wirkstoffe werden bei der Resorption aus dem Darm in unterschiedlichem Maße ins Blut aufgenommen. Problematisch ist dies vor allem bei Verapamil (wechselnde und insgesamt geringe orale Bioverfügbarkeit).
+
+Die Arzneistoffe haben auch unterschiedliche Halbwertszeiten. Bei der Behandlung des Bluthochdrucks ist eine lange Halbwertszeit günstig, da dann eine Einnahme pro Tag ausreichend ist. Dies gilt insbesondere für Amlodipin, eingeschränkt auch für Nitrendipin und Felodipin. Der Abbau von Calciumantagonisten geschieht überwiegend in der Leber.
+Unerwünschte Wirkungen (Nebenwirkungen)
+
+Häufige und wichtige Nebenwirkungen der Calciumantagonisten sind:
+
+    Schwellung der Beine (Ödeme, insbesondere bei Dihydropyridinen)
+    langsamer Herzschlag (Bradykardie, bei Phenylalkylaminen und Benzothiazepinen)
+    schneller Herzschlag (Reflextachykardie, bei Dihydropyridinen)
+    allergische Reaktionen
+    Gesichtsrötung (Flush) und allgemeines Wärmegefühl
+    Schwindel
+    Kopfschmerzen
+    Impotenz
+    Verstopfung (Obstipation, insbesondere bei Phenylalkylaminen und Benzothiazepinen)
+    Hyperplasie der Gingiva (Zahnfleisch) mit anschließender starker Entzündung
+
+Wechselwirkungen mit anderen Medikamenten
+
+Calciumantagonisten vom Phenylalkylamintyp und vom Benzothiazepintyp dürfen nicht oder nur unter äußerster Vorsicht gleichzeitig mit Betablockern verabreicht werden, da es zu einer lebensgefährlichen Verlangsamung des Herzschlags kommen kann (Bradykardie, AV-Block).
+
+Die blutdrucksenkende Wirkung anderer Medikamente wird verstärkt.
+
+Da allen Calciumkanalblockern der Abbau durch das Leberenzym Cytochrom P450 3A4 gemeinsam ist, kann der Wirkspiegel vieler anderer Medikamente, die über das gleiche Enzym abgebaut werden, beeinflusst werden.
+
+Das Konsumieren von Grapefruitsaft hemmt den Abbau von Nifedipin, so dass es zu einer Wirkungsverstärkung kommt. Es wird nicht empfohlen, unter einer Dauerbehandlung mit Nifedipin Grapefruitsaft zu trinken.
+Gegenanzeigen (Kontraindikationen)
+
+    niedriger Blutdruck (Hypotonie)
+    fortgeschrittene Herzinsuffizienz (NYHA-Stadium III-IV)
+    instabile Angina pectoris und akuter Herzinfarkt
+    Schwangerschaft
+    Für Phenylalkylamine und Benzothiazepine (Verapamil und Diltiazem) auch: AV-Block II° und III° sowie Vorhofflimmern bei Wolff-Parkinson-White-Syndrom (WPW-Syndrom)
+
+Klinische Bedeutung
+
+Früher war Nifedipin ein sehr populäres Medikament zur Behandlung des hohen Blutdrucks. Es hat in seiner unretardierten Form diese Bedeutung jedoch weitgehend verloren, da die Wirkdauer zu kurz ist, es zu raschen und lebensgefährlichen Blutdruckabfällen kommen kann und die Gegenregulationsmechanismen (z. B. Reflextachykardie) des Körpers insbesondere bei strukturellen Herzerkrankungen in diesem Maße nicht erwünscht sind.
+
+Heutzutage werden überwiegend lang wirksame Calciumantagonisten gegen Bluthochdruck verwendet, die nur einmal täglich eingenommen werden müssen (Prototyp Amlodipin). In dieser Form haben die früher sehr populären und in den 1990er-Jahren dann geradezu verteufelten Calciumantagonisten in den letzten Jahren eine kleine Renaissance erlebt. Studien haben eine positive Wirkung insbesondere in Kombination mit ACE-Hemmern bei Patienten mit Nierenschäden durch Diabetes mellitus (diabetische Nephropathie) gezeigt. Außerdem kann die Häufigkeit von Schlaganfällen bei älteren Menschen signifikant gesenkt werden, während bezüglich der Vorbeugung gegen Herzinfarkte andere Medikamente eindeutig überlegen sind (Betablocker, ACE-Hemmer).
+
+Wesentlicher Nachteil ist ein häufigeres Auftreten von Herzinfarkten und Herzinsuffizienz im Vergleich zur Hochdruckbehandlung mit anderen Medikamenten (insbesondere Betablocker und ACE-Hemmer).
+
+Insgesamt ist der Nutzen von Calciumantagonisten als einziges Medikament (Monotherapie) gegen Bluthochdruck umstritten. Sie haben jedoch ihren festen Stellenwert in der Kombinationstherapie, wenn die Behandlung mit anderen Substanzen (ACE-Hemmer, Betablocker, Diuretika) nicht zu einer ausreichenden Blutdrucksenkung führt.
+
+Verapamil und Diltiazem werden immer noch zur Behandlung des tachykarden Vorhofflimmerns eingesetzt, wenngleich ihre Bedeutung gegenüber Betablockern zurückgetreten ist. Auch in der Behandlung der chronischen koronaren Herzkrankheit (stabile Angina pectoris) sind die Calciumantagonisten von anderen Medikamenten (Betablockern, retardierten Nitratpräparaten und Molsidomin) teilweise verdrängt worden.
+Pharmakoepidemiologische Studien
+
+Zur Pharmakoepidemiologie der Calciumantagonisten liegen nur wenige bevölkerungsrepräsentative oder große Untersuchungsgruppen betreffende Studien vor. Genannt seien hier zwei Studien für die Bundesrepublik Deutschland[6][7] und das Königreich Bahrein.[8] 
+
+	
+{END Calciumantagonist}

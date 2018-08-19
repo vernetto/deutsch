@@ -405,7 +405,8 @@ stur=stubborn
 kleinhirn=cerebellum 34:58
 verhärten=harden 35:17
 Muskelstarre=muscle rigidity 35:20
-
+auftreten=occur 37:30
+hinzunehmen=accept
 
 https://de.wikipedia.org/wiki/Musculus_palmaris_longus 06:13
 https://de.wikipedia.org/wiki/Hirnstamm 21:14
@@ -415,19 +416,51 @@ https://de.wikipedia.org/wiki/Dantrolen
 
 
 E11
-vorwitzig=inquisitive
+ausrichten=give a message 01:05
+vorwitzig=inquisitive 02:43
+einweisen=assign 05:04
+genehmigt=approved 08:42
+vertuschen=cover up 08:44
+ausgeweitet=expanded 08:46
+umzugsunternehmen=removals company 09:11
+Gerüche=smells 11:24
+Penner=tramp 12:05
+versetzen sie sich in meine Lage=put yourself in my position 14:13
+belästigt=molested 14:18
+durchgemacht=undergo 14:24
+neben=next 17:46
 abstossung=rejection
-ablenken=distract
+ablenken=distract 19:00
+deren entsheidung=their decision 23:02
+gelingt=succeed 23:57
+zach=quick 25:56
 siehe mich an=look at me
+ich kündige mein job=I resign 38:48
 überzeugen=convince
 Kater=hangover
 Schallwelle=sound wave
 anfängt=begins
 aufhört=ends
 
+https://en.wikipedia.org/wiki/Craniopagus_twins
+https://de.wikipedia.org/wiki/Darmbein fossa iliaca
+https://de.wikipedia.org/wiki/Harnr%C3%B6hre Urethra
+https://en.wikipedia.org/wiki/Superior_sagittal_sinus
+
 E12
-umwerfend=fantastic
-ich werde die kündigung einreichen=I will file the cancellation
+umwerfend=fantastic 02:20
+https://de.wikipedia.org/wiki/Circulus_arteriosus_cerebri Willis Kreis 04:32
+I habe belogen=I have lied 04:50
+nachkommen=to comply with 05:00
+ich werde die kündigung einreichen=I will file the cancellation 05:22
+https://de.wikipedia.org/wiki/Extrakorporale_Membranoxygenierung ECMO 18:30
+du hier ausreichend gefordert wirst=you are sufficiently challenged here 27:54
+https://de.wikipedia.org/wiki/Elektrokardiogramm EKG 30:03
+https://de.wikipedia.org/wiki/Elektroenzephalografie EEG 30:03
+herausschlagen=knock out, gush 31:33
+ihretwegen=because of she 32:29
+https://de.wikipedia.org/wiki/Adrenalin Epinephrin 33:56
+bereuen=regret 39:33
 Ich breche ab=I cancel
 genesung=recovery
 deshalb=that's why
@@ -435,15 +468,30 @@ gemaßregelt=reprimanded
 vergleich=comparison
 haben sie den Stecker gezogen=they pulled the plug
 
+
 E13
-unterlassen=refrain from
-fassen sie mich nicht an=don't touch me
+https://de.wikipedia.org/wiki/Aneurysma 00:40
+https://de.wikipedia.org/wiki/Subarachnoidalblutung 02:38
+urteilsvermögen=discernment 03:26
+https://de.wikipedia.org/wiki/Bronchoskopie 03:56
+unterlassen=refrain from 04:08
+fassen sie mich nicht an=don't touch me 04:10
+https://en.wikipedia.org/wiki/Carina_of_trachea 07:12
+https://de.wikipedia.org/wiki/Luftr%C3%B6hre 
+https://de.wikipedia.org/wiki/Ondansetron 12:54
+https://www.healthline.com/health/endovascular-embolization 14:59
+https://de.wikipedia.org/wiki/Embolisation 15:00
 Veranlagung=predisposition
 stimmbänder=vocal cords
 Anastomose=Anastomosis
-Heuchlerei=hypocrisy
-Engstirnigkeit=bigotry
-urteilsvermögen=discernment
+Heuchlerei=hypocrisy 20:02
+ätzend=caustic 20:15
+https://de.wikipedia.org/wiki/Dimethylsulfat 25:01
+Engstirnigkeit=bigotry 25:22
+unaufrichtigkeit=insincerity 26:13
+ausführlich=in detail 26:50
+https://de.wikipedia.org/wiki/Labetalol 28:25
+https://de.wikipedia.org/wiki/Calciumantagonist  Calciumkanalblocker  28:47
 verreist=out of town
 abgesehen davon=apart from this
 Meerjungfrau=mermaid
