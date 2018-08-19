@@ -1,4 +1,4 @@
-01
+E01
 Lassen Sie ihn mich ansehen=let me look at him
 derzeit=currently
 ausüben=exert, practice
@@ -60,7 +60,7 @@ vorgespielt=audition
 abstimmung=vote
 
 
-02
+E02
 Stockwerk=floor
 Akte=file
 durchalten=hold on, persevere
@@ -69,6 +69,8 @@ vollständig=entirely
 dabei=there
 am Sabbern=salivating, on the drool
 aufregend=exciting 05:20
+Nosophobie
+pobacken=buttocks  09:00
 verrichtet=perform
 fachgerecht=professional
 Nasenscheidewand=nose septum
@@ -104,25 +106,30 @@ abwimmeln=get rid of
 beharrlich=persevering
 sich übergeben=vomit
 dünndarm=small intestine
+aufgedreht=in high spirits  37:50
 den Kopf hinhalten lassen=let go of the head
-Heuchlerin=hypocrite
+Heuchlerin=hypocrite  38:45
+gern geschehen=you are welcome 39:23
+Lorbeeren=laurels 41:16
 
-
-03
+E03
 
 leihen=lend,borrow
 ausleihen=lend
 ausgeliehen=borrowed
-lehrer=teacher
+hast du welche=do you have any? 02:10
+lehrer=teacher  3:18
 vorsichtsmaßnahme=precaution
+bereits=already  04:50
 reibungslos=smooth
 fahrgelegenheit=means of transport
 unvollständig=incomplete
 verschwendung=waste
 verengt=narrows
-gefässe=vessels
+gefässe=vessels 12:17
 such dir zwei aus=pick two
 Gabe=gift
+abstellen=turn off 14:40
 Gesicht/Gesichter=face/faces
 Geschichte/Geschichten=story/stories
 steif=stiff
@@ -138,7 +145,7 @@ gereicht (reichen)=pass,offer
 Schwamm=sponge
 Stab=rod
 
-04
+E04
 
 scheitert=fails
 abgehakt=check off
@@ -170,6 +177,7 @@ gemeinnützige=charitable
 kokosnuss=coconut
 durchmacht=going through
 es kommt nicht mehr vor=It will not happen again
+auf jeden fall=definitely
 ausstieg verpasst=missed the exit
 an ihre stelle=in your place
 widerlich=ekelhaft=disgusting
@@ -183,14 +191,15 @@ anfassen=touch
 sie hätte nicht anfassen dürfen=you should not have touched it
 Spüle=kitchen sink
 ausschlagen=knock out
-dehnen=stretch
+dehnen=stretch  34:40
 Schenkel=thigh
 reizen=stimulate
+kaiserschnitt=Caesarean section 36:40
 hübsch=pretty
 anfühlt=feels
 
 
-05
+E05
 
 rangehst, rangehen=answer (to the phone)
 eklig=disgusting
@@ -198,23 +207,44 @@ herrühren=result from, be due to
 tollpatschig=clumsy
 verblüffend=perplexing
 unheimlich=creepy
-rausgeschmissen=kicked out, in a fix
+vorgetäuscht=feigned 12:30
+Ich fühle mich geehrt=I feel honored 13:20
+verlegt=relocated  13:30
+rausgeschmissen=kicked out, in a fix 14:08
+Ich hab's mir ausgedacht=I thought it all up 15:35
 zurechtkommen=cope
 ausschlag=rash
+wieso sie's geplatzt=why did she burst? 21:19
+Schmeichler=flatterer 21:53
+wie stelle ich das an? How do I do it? 25:34
+im Stich gelassen=let down 27:45
 Lenden=lumbar
 vornehmen=make, carry out
 zerrung=strain
 zange=tongs
 Brusthöhle=thoracic cavity
-Eindringling=intruder
+Eindringling=intruder 36:30
 Fluchen=curse
 trübe=cloudy
 
+https://de.wikipedia.org/wiki/Allergen 03:00
+https://de.wikipedia.org/wiki/Bauchspeicheldr%C3%BCse  Pankreas
+https://de.wikipedia.org/wiki/Anaphylaxie
+https://de.wikipedia.org/wiki/Hypochondrie#Nosophobie
+https://de.wikipedia.org/wiki/Neutrophiler_Granulozyt 19:40
+https://de.wikipedia.org/wiki/Echinococcus 20:26
+https://de.wikipedia.org/wiki/Prednison 24:18
+https://de.wikipedia.org/wiki/Erythrozyt
 
-06
+
+E06
 
 Leder=leather
+Arschkriecher=ass-kisser 00:55
+verlegen=move 01:08
+geschleudert=hurled 02:12
 prellungen=bruises
+Schwanenfrau=swan wife
 Ruß=soot
 Schlinge=loop,noose
 Brustbein=sternum
@@ -241,15 +271,24 @@ Wundausschneidung=debridement
 aufgeregt=excited
 verknüpfen=connect,link
 eingeschätzt=evaluated,estimated
+ausrichten=tell 39:55
+patientenverfügung=patient disposal
+
+https://en.wikipedia.org/wiki/Resuscitative_endovascular_balloon_occlusion_of_the_aorta  REBOA
+https://de.wikipedia.org/wiki/Elektroenzephalografie
+https://de.wikipedia.org/wiki/Patientenverf%C3%BCgung
 
 
-07
+E07
 
 abgesturzt=crashed
-anteilnahme=sympathy
-vernarbte=scarred
-Gehalt=salary
-Kumpel=pal 
+Anteilnahme=sympathy 00:55
+anfassen=touch 03:33
+verlaufen=run 05:00
+Griff/Griffe=handle/s 08:30
+vernarbte=scarred 09:45
+Gehalt=salary 11:10
+Kumpel=pal 11:15
 notaufnahme=emergency department
 lastenaufzug=goods lift
 absichtlich=intentionally
@@ -257,33 +296,94 @@ knistern=crackle
 abhauen=bugger off
 erhebliche=substantial
 verschleppung=spreading
-versagt=failed
+versagt=failed 19:28
 umfang=scope
 Knöchel=ankle
 kindermädchen=nannies
 Haushälter=housekeeper
 ich verlaufe mich=I am lost
 Verlegung=relocation
+beseitigt=eliminated 39:50
 
-08
-Ohrenstöpsel=ear plugs
+https://de.wikipedia.org/wiki/Haloperidol Haldol
+https://de.wikipedia.org/wiki/Lidocain 04:39
+https://de.wikipedia.org/wiki/Cholangitis 06:20
+https://de.wikipedia.org/wiki/Midazolam
+https://de.wikipedia.org/wiki/Phlegmone 33:20
+
+
+E08
+unfassbar=incomprehensible  01:55
+stolpern=stumble 02:16
+verklagen=sue 02:19
+Ohrenstöpsel=ear plugs 02:35
 Zwerchfell=Diafragma
+verbandmull=garze 08:50
+ich benehm mich daneben=I am wrong
+unangebracht=inappropriate 12:12
+vorbeugen=avoid 12:18
+hellseher=clairvoyant 12:58
+wieso=why 14:09
+entzündungshemmer=anti-inflammatory products  14:50
+anbieten=offer 17:28
 beatmen=ventilate
 Verlangt=desires
-aufgeregt=excited
+aufgeregt=excited 18:48
+ich kann viele Menschen nicht leiden= I can't stand many people 20:30
+aufsatz=essay 20:57
+ausgeschwemmt=flushed 22:18
+endgültig=definitely 24:00
+boshaft=wicked 24:01
+kotzbrocken=son of a bitch 24:02
 verlangt=required
-abservieren=to polish off
+deswegen=therefore 35:18
+abgeschätzt/abschätzen=evaluate
+abservieren=to polish off 36:30
 
 
-09
+
+https://de.wikipedia.org/wiki/Milz
+https://de.wikipedia.org/wiki/Fentanyl 16:10
+
+
+E09
+Niedlichkeit=cuteness 01:43
+Schicksalsschlag=blow of fate
 knötchen=nodule
-heiserkeit=hoarseness
+heiserkeit=hoarseness 03:14 
+aufgesetzter kichern=false laugh 06:23
+an der Spüle=at the sink 07:02
+verlegt=misplaced 07:22
+bildungsplan=education plan 11:54
+taub=deaf 12:08
+worauf willst du hinaus=what are you after? 12:29
+ein heißer Feger=a hottie 14:37
+abgelenkt=distracted 14:43
+wucherung=proliferation 16:28
+ohne Anlass=without cause 19:42
+erfahren=find out, learn 20:13
 kehlkopf=larynx
 angenommen=assumed
 angefordert=requested
-aufgegeben=give up
+abgefunden=resigned 22:04
+vernachlässigen=neglect 23:35
+erfasst=detected 39:38
+aufgegeben=give up 40:07
+Igel=Hedgehog  41:30
+zulegte=grew
 
-10
+https://de.wikipedia.org/wiki/Metoprolol 08:15
+https://de.wikipedia.org/wiki/Endokard 16:26
+https://de.wikipedia.org/wiki/Ektopie 20:33
+
+
+E10
+Ihr beide werdet euch mögen=You both will like each other  01:50
+Abweichung=deviation 02:38
+Seitenband=collateral ligament 02:59
+Griffstärke=grip strength
+Sie haben wohl den Kürzeren gezogen=You have probably lost the short straw	
+zuversichtlich=confident 05:55
 Sackgasse=cul de sac
 Vorschlag=proposition,suggestion
 vertraulich=confidential
@@ -291,13 +391,30 @@ ratschläge=advice
 arschkriecherei=ass licking
 verdrängung=repression
 unangemessen=inadequate
-aufmüpfig=rebellious
-aufsässig=defiant
-schmarotzer=parasite
-hochachtung=esteem
+speiseröhre=esophagus 20:36
+Starke Leistung=great job 20:52
+Hirnstamm=brainstem 21:14
+aufmüpfig=rebellious 24:40
+aufsässig=defiant 24:40
+Stock im Arsch=stick in the ass 24:50
+schmarotzer=parasite 27:40
+feindselig=hostile
+abgestempelt=labeled
+hochachtung=esteem 33:08
 stur=stubborn
+kleinhirn=cerebellum 34:58
+verhärten=harden 35:17
+Muskelstarre=muscle rigidity 35:20
 
-11
+
+https://de.wikipedia.org/wiki/Musculus_palmaris_longus 06:13
+https://de.wikipedia.org/wiki/Hirnstamm 21:14
+https://de.wikipedia.org/wiki/Schwannom 
+https://de.wikipedia.org/wiki/Maligne_Hyperthermie
+https://de.wikipedia.org/wiki/Dantrolen 
+
+
+E11
 vorwitzig=inquisitive
 abstossung=rejection
 ablenken=distract
@@ -308,7 +425,7 @@ Schallwelle=sound wave
 anfängt=begins
 aufhört=ends
 
-12
+E12
 umwerfend=fantastic
 ich werde die kündigung einreichen=I will file the cancellation
 Ich breche ab=I cancel
@@ -318,12 +435,12 @@ gemaßregelt=reprimanded
 vergleich=comparison
 haben sie den Stecker gezogen=they pulled the plug
 
-13
+E13
 unterlassen=refrain from
 fassen sie mich nicht an=don't touch me
 Veranlagung=predisposition
 stimmbänder=vocal cords
-Anastomosis=Anastomosis
+Anastomose=Anastomosis
 Heuchlerei=hypocrisy
 Engstirnigkeit=bigotry
 urteilsvermögen=discernment
@@ -334,12 +451,12 @@ Spülung=flush
 Hoden=testicle
 Anstand=decency
 
-14
+E14
 treiben=float
 untertreibung=understatement
 
 
-15
+E15
 Haken=catch
 geschubst=pushed
 Handschellen=handcuffs
@@ -351,7 +468,7 @@ wirkungsvoll=effective
 zugeständnisse=concessions
 Akne=acne
 
-16
+E16
 rummelplatz=fair
 Auflage=edition
 Nacken=neck
@@ -366,7 +483,7 @@ ich stelle bevorzugt Menschen mit Behinderung ein=I prefer
 aussuchen=choose
 
 
-17
+E17
 erbost=infuriated
 eingeredet=persuaded
 ausgeredet=dissuaded
@@ -379,6 +496,8 @@ Molly=Ecstasy
 Aufgeben=give up
 Bildgebung=imaging
 Ermessen=judgement
+
+
 
 GLOSSARY
 
@@ -395,7 +514,14 @@ https://de.wikipedia.org/wiki/Amoxicillin
 https://de.wikipedia.org/wiki/Geh%C3%B6rgang 
 https://de.wikipedia.org/wiki/Skalpell Zehner
 https://de.wikipedia.org/wiki/Leiomyosarkom
+https://de.wikipedia.org/wiki/D%C3%BCnndarm
 
+03
+https://de.wikipedia.org/wiki/Anastomose  34:40
+
+04
+https://de.wikipedia.org/wiki/Nervus_pudendus
+https://de.wikipedia.org/wiki/Retraktor_(Chirurgie) 28
 
 16
 
@@ -404,7 +530,7 @@ https://de.wikipedia.org/wiki/Clindamycin
 https://de.wikipedia.org/wiki/L%C3%A4cheln
 
 https://de.wikipedia.org/wiki/Omentum_minus
-https://de.wikipedia.org/wiki/Midazolam
+
 https://de.wikipedia.org/wiki/Natriumhydrogencarbonat
 https://de.wikipedia.org/wiki/Amphetamin
 https://de.wikipedia.org/wiki/MDMA 
