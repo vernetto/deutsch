@@ -492,16 +492,33 @@ unaufrichtigkeit=insincerity 26:13
 ausführlich=in detail 26:50
 https://de.wikipedia.org/wiki/Labetalol 28:25
 https://de.wikipedia.org/wiki/Calciumantagonist  Calciumkanalblocker  28:47
-verreist=out of town
-abgesehen davon=apart from this
-Meerjungfrau=mermaid
-Spülung=flush
-Hoden=testicle
-Anstand=decency
+https://de.wikipedia.org/wiki/Entz%C3%BCndung 29:43
+https://de.wikipedia.org/wiki/Methylprednisolon 32:45
+
 
 E14
+anzapfen=tap  00:37
+Einsatz=commitment 02:15
+verreist=out of town 02:47
+abgesehen davon=apart from this 03:35
+deine Frage ergibt kein Sinn=it makes no sense 03:41
+https://de.wikipedia.org/wiki/McBurney-Punkt 03:52
+schwindelig=dizzy 04:09
+https://de.wikipedia.org/wiki/Paracetamol Vicodin 04:21
+https://de.wikipedia.org/wiki/Ofloxacin 04:23
+https://de.wikipedia.org/wiki/Azithromycin 04:28
+https://de.wikipedia.org/wiki/Ultraschall 05:09
+https://de.wikipedia.org/wiki/Intrauterine_Insemination IUI 05:36
+Künstlichen Befruchtung=artificial insemination 05:36
+https://de.wikipedia.org/wiki/In-vitro-Fertilisation IVF 05:37 
 treiben=float
 untertreibung=understatement
+Meerjungfrau=mermaid 07:15
+Spülung=flush 08:???
+Hoden=testicle 09:26
+https://de.wikipedia.org/wiki/Osteopenie 09:52 
+Anstand=decency
+
 
 
 E15

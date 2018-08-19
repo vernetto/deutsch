@@ -513,3 +513,493 @@ Zur Pharmakoepidemiologie der Calciumantagonisten liegen nur wenige bevölkerung
 
 	
 {END Calciumantagonist}
+
+
+{BEGIN Entzündung}
+Entzündung (lateinisch-medizinisch Inflammatio) ist eine körpereigene Reaktion auf schädliche Reize, die sich klassischerweise durch die Entzündungszeichen Rötung, Schwellung, Überwärmung, Schmerz und funktionelle Einschränkung äußert. Botenstoffe des Immunsystems bewirken dabei eine Erweiterung der Blutgefäße, sodass das Entzündungsgebiet stärker durchblutet wird; außerdem werden die Gefäße durchlässiger für den Austritt von Blutplasma und Immunzellen ins Gewebe. Nach einem weiteren Begriffsverständnis werden alle an bestimmten Orten ablaufenden Immunreaktionen als Entzündung bezeichnet. Die Fachbegriffe für Entzündungen werden gebildet, indem die Endung -itis an die griechische Bezeichnung der betroffenen anatomischen Struktur angehängt wird.
+
+Entzündungen sollen die Integrität des Organismus sichern, indem sie beispielsweise Krankheitserreger oder Fremdstoffe aus dem Gewebe entfernen. Blutstillung und -gerinnung, Entzündung, Abräumung von Zelltrümmern und Wundheilung sind eng verzahnte Prozesse, die teilweise nebeneinander ablaufen. Entzündungen, die dem Betroffenen mehr schaden als nutzen, sind von großer medizinischer Bedeutung und ein häufiges Ziel antientzündlicher Behandlungen. 
+
+Eigenschaften
+
+Ein Fremdstoff, Antigen oder Gewebeschaden löst den Reiz für eine Abwehrreaktion des Immunsystems aus. Die Entzündungsreaktion findet im betroffenen Organ, im umgebenden Bindegewebe, in den beteiligten Blutgefäßen und im angrenzenden Lymphsystem statt. Dabei kommt es zu den typischen Anzeichen einer Entzündung, der Rötung (lat. rubor), der Überwärmung (lat. calor), der Schwellung (lat. tumor), dem Schmerz (lat. dolor) und einer eingeschränkten Funktion (lat. functio laesa). Diese fünf Zeichen, von denen die ersten vier bereits von Celsus beschrieben und um das fünfte von Galen ergänzt worden sind, sind nicht immer direkt erkennbar oder auch nur teilweise nachweisbar. Eine Magenschleimhautentzündung beispielsweise kann z. B. vor allem Schmerzen nach dem Essen verursachen und ist dann nur zeitlich begrenzt symptomatisch. Sie kann mit Übelkeit einhergehen.
+
+Die Rötung und Schwellung erfolgt durch die Erhöhung der Durchlässigkeit der Blutgefäße im Zuge der Diapedese der Immunzellen, Erythrozyten und Plasmaproteine durch Ausschüttung der Botenstoffe Interleukin-1 und Prostaglandin I2. Die eingewanderten Zellen und Plasmaproteine werden als Infiltrat bezeichnet. Der Schmerz erfolgt durch eine Ausschüttung von Schmerz-Botenstoffen (Prostaglandin E2, Prostaglandin I2, Bradykinin und andere Kinine) und Zytokinen (Tumor-Nekrose-Faktor) durch die Immunzellen und dient der Ruhigstellung des betreffenden Körperteils und der Schonung von Energiereserven durch geringere Aktivität. Die Temperaturerhöhung wird durch Zytokine wie Interleukin-6 über die Produktion von Prostaglandin E2 vermittelt und entsteht durch vermehrte Stoffwechselaktivität.
+
+Oft besteht die Reaktion aus einer Abstoßung eines Teils des kranken Gewebes durch Nekrose oder Apoptose und anschließender Neubildung von Zellen zur Reparation des Gewebeschadens. Die Abstoßung von Zellen dient bei Hautzellen unter anderem dem Schutz des darunterliegenden Gewebes. Eine Entzündung kann lokal in einem (kleinen) umschriebenen Gebiet auftreten oder den ganzen Körper betreffen. Beispiele für lokalisierte Entzündungen sind z. B. die Enteritis (Entzündung des Darms), die Kolitis (Entzündung des Grimmdarms), die Gastritis (Entzündung des Magens), die Arthritis (Gelenksentzündung), die Myokarditis (Herzmuskelentzündung), die Dermatitis (Hautentzündung) und die Otitis (Ohrenentzündung). Eine sprachliche Ausnahme bildet die Pneumonie (Lungenentzündung), bei der die Endung „-itis“ fehlt (allerdings wird selten auch die Form Pneumonitis verwendet).
+
+In der klassischen Medizin werden Entzündungen häufig durch Abstellen des auslösenden Reizes bekämpft. Unterdrückt man die Abwehrreaktion im Rahmen einer symptomatischen Therapie, kann sich die Heilung dagegen verzögern.
+Ursachen
+
+Jeder das physiologische Maß übersteigende Reiz kann eine Entzündung auslösen. Dies gilt insbesondere für physikalische Reize, wie mechanische Reize (z. B. Druck, Reibung, Verletzung oder Fremdkörper, z. B. Stoffwechselprodukte wie Harnsäurekristalle), thermische Reize (z. B. Wärme, Kälte), Strahlung (UV, Infrarot, ionisierende Strahlung), chemische Reize (reizende und gesundheitsschädliche Stoffe wie z. B. Säuren, Laugen, Toxine, entgleiste Enzyme, wie z. B. bei der akuten Pankreatitis), Allergene und Autoallergene (z. B. bei rheumatischen oder Autoimmunkrankheiten) oder Krankheitserreger (Bakterien, Viren, Pilze, Parasiten).
+Ablauf lokaler Entzündungsreaktionen
+Einwanderung von Entzündungszellen bei einer Lungenentzündung (unten), oben normales Lungengewebe
+
+    Lokale Durchblutungsminderung:
+        Diese nur minutenlange Phase wird auch „initiale Ischämie“ genannt. Gemeint ist eine kurzzeitige lokale Durchblutungsminderung durch die Reaktion des Gefäßbindegewebes auf die Adrenalinausschüttung (arterieller Spasmus). Verbunden mit den verengten Arteriolen sind erweiterte Venolen.
+        Danach folgt eine, vor allem lokale, Hyperämie, die zum einen durch den vom vegetativen Nervensystem ausgelösten Arteriolenspasmus, zum anderen von einer Verengung der Venolen ausgelöst wird. Letztere wird von diversen Mediatoren, z. B. Prostaglandinen, Kininen, ausgelöst. Diese Abflussstörung wiederum führt zur Thrombozytenaggregation, dem Sludge-Phänomen (zähflüssiges Blut), Exsudation und anderen durch Blutstase ausgelösten Folgen.
+    Die Permeabilität der Gefäßwände wird durch Gefäßmediatoren, hier Histamin, Prostaglandine, Kinine und Serotonin, für wenige Minuten gesteigert, so dass ein Blutstau entsteht.[1]
+    Durch die erhöhte Permeabilität können nun Plasmaeiweiße (Blutplasmaexsudation) durch Lücken in den Gefäßwänden in das betroffene Gebiet einströmen. Für die Entzündungsreaktion wichtig sind hierbei vor allem neutrophile, basophile und eosinophile Granulozyten, Makrophagen und Lymphozyten. Es kommt zur Phagozytose der Fremdkörper. Außerdem werden vermehrt Mastzellen in das entzündete Gewebe angeschwemmt.
+
+Schäden durch Entzündung
+	Dieser Artikel oder nachfolgende Abschnitt ist nicht hinreichend mit Belegen (beispielsweise Einzelnachweisen) ausgestattet. Die fraglichen Angaben werden daher möglicherweise demnächst entfernt. Bitte hilf der Wikipedia, indem du die Angaben recherchierst und gute Belege einfügst.
+
+Die Immunantwort gegen Noxen ist nicht völlig spezifisch für diese, es wird stets auch gesundes Gewebe geschädigt. Von besonderer Bedeutung ist dies bei chronischen Entzündungen, bei denen die Beseitigung der Noxe nicht gelingt und die Schädigung von gesundem Gewebe deshalb ganz im Vordergrund steht. Beispiele hierfür sind die Lungenfibrose durch Asbest und die Atherosklerose durch oxidierte Lipoproteine, beides Entzündungen, die durch Makrophagen (Riesenfresszellen) aufrechterhalten werden, die am Versuch zugrunde gehen, den zu entfernenden Stoff zu verdauen. Das entzündliche Milieu stellt einen Wachstumsreiz für glatte Muskulatur dar, was bei der Atherosklerose, aber auch bei der COPD den Funktionsverlust verstärkt und manifestiert.
+
+Chronische Entzündung kann in vielen Organen sowie im lymphatischen Gewebe Neoplasien (Karzinome bzw. Lymphome) auslösen und ihr Wachstum und ihre Gefäßversorgung fördern. Ursachen sind der chronische Proliferationsreiz, die wachstumsfördernde Wirkung von Zytokinen und genomische Schäden durch reaktive Sauerstoffspezies, die von Immunzellen (eigentlich zur Schädigung der Noxe) produziert werden.
+
+Problematisch sind Entzündungen auch dann, wenn sie sich gegen körpereigene Strukturen oder harmlose Umweltreize richten, wie bei Autoimmunerkrankungen bzw. Allergien. Unabhängig vom Auslöser werden Entzündungen lebensgefährlich für den Betroffenen, wenn sie nicht mehr lokal ablaufen, wie beim septischen Schock oder bei sehr hohem Fieber.
+Allgemeine unspezifische Entzündungszeichen
+
+Neben den fünf direkten Entzündungszeichen am Ort der Entzündung kann man eine Entzündung ab einem bestimmten Schweregrad an allgemeinen Reaktionen des Gesamtorganismus erkennen. Zu diesen Allgemeinreaktionen gehören:
+
+    Fieber: Beschleunigter Stoffwechsel mit schnellerer Bildung u. a. von Antikörpern
+    allgemeines Krankheitsgefühl
+    Leukozytenanstieg oder -abfall (Weiße Blutkörperchen)
+    CRP-Anstieg (immunologisch wirksames Akute-Phase-Protein)
+    beschleunigte Blutkörperchensenkung (BKS bzw. BSG für -senkungsgeschwindigkeit)
+    Procalcitonin-Anstieg (Hormon-Vorstufe)
+
+Molekulare Mechanismen
+
+Eine Entzündung geht einher mit charakteristischen Veränderungen auf molekularer Ebene. Zunächst kommt es durch die auslösenden Stimuli zu Aktivitätsänderungen in bestimmten zellulären Signalwegen, die wiederum zu spezifischen Änderungen des Genexpressionsmusters führen. Einer der wichtigsten intrazellulären Regulatoren von Entzündungsreaktionen ist beispielsweise der Transkriptionsfaktor NF-κB, der durch bakterielle und virale Antigene, Zytokine und durch chemisch-physikalische Noxen aktiviert wird und die Genexpression in betroffenen Zellen schnell und umfassend ändern kann. Unter den hochregulierten Genen befinden sich insbesondere Zytokine und Zelladhäsionsmoleküle, die für eine Verbreitung der Entzündung auf andere Zellen und deren Verstärkung, oft im Sinne einer positiven Rückkopplung, sorgen. Ein Beispiel für eine molekular gut charakterisierte Entzündungsreaktion ist die sogenannte Akute-Phase-Reaktion.
+Einteilung
+
+Entzündungen können eingeteilt werden nach dem zeitlichen Krankheitsverlauf:
+
+    perakut = plötzlich einsetzende sehr schwere Entzündung, die nach wenigen Tagen tödlich endet
+    akut = plötzlich einsetzende Entzündungen
+    subakut = zwischen akut und chronisch – keine nähere Definition
+    primär-chronisch = langsam, schleichend ablaufende Entzündung
+    rezidivierende = wiederholt auftretende Entzündungen
+    progredient = fortschreitende Entzündung (ohne Besserung)
+    sekundär-chronisch = aus nicht-heilenden akuten oder rezidivierenden Entzündungen
+
+nach der Ausdehnung:
+
+    systemische/generalisierte/metastatische Entzündung (gesamter Körper – meist mit Fieber)
+    lokale Entzündung (nur auf eine Stelle beschränkt)
+
+nach der Flüssigkeit:
+
+    seröse Entzündung (große Mengen von eiweißhaltiger Flüssigkeit)
+    fibrinöse Entzündung (große Mengen von fibrinhaltiger Flüssigkeit)
+    eitrige Entzündung
+	
+	
+{END Entzündung}
+
+
+
+{BEGIN Glucocorticoide}
+Glucocorticoide
+Zur Navigation springen
+Zur Suche springen
+
+Glucocorticoide (auch Glukokortikoide, abgekürzt GK) zählen zu den Corticosteroiden, einer Klasse von Steroidhormonen aus der Nebennierenrinde. Der Name bezieht sich auf ihre Funktion im Glucose-Stoffwechsel, wo sie die Umwandlung von Eiweiß (Protein) in Glucose und Glykogen fördern. Die natürlich vorkommenden Glucocorticoide sind Abkömmlinge des Gelbkörperhormons (Progesteron); zu ihnen zählen Cortisol und Corticosteron mit einem Anteil von 95 % beziehungsweise 5 % beim Menschen sowie Cortison. Daneben gibt es von den Glucocorticoiden abgeleitete, künstliche Corticoide mit glucocorticoider Wirkung.
+
+Die Glucocorticoide haben vielfältige physiologische und therapeutische Wirkungen. Sie beeinflussen den Stoffwechsel, den Wasser- und Elektrolythaushalt, das Herz-Kreislaufsystem und das Nervensystem. Ferner wirken sie entzündungshemmend und immunsuppressiv (Immunreaktionen des Körpers abmildernd). 
+
+Physiologie
+Biosynthese
+
+Die Biosynthese der Corticoide startet wie bei allen Steroiden beim Cholesterin, das entweder mit der Nahrung aufgenommen wird oder (in weitaus größerer Menge) aus Mevalonat gebildet wird. Zwischenprodukt ist Pregnenolon, das auf mehreren möglichen Wegen zu Cortisol, und dieses zu Cortison umgesetzt wird. Es gibt einen ausgeprägten Tagesrhythmus mit einem Minimum um Mitternacht und einem Maximum zwischen 6 und 8 Uhr morgens.
+Abbau
+
+Wie andere Corticoide werden die Glucocorticoide in der Leber inaktiviert und vorwiegend über die Gallenflüssigkeit, zu 10 % auch über den Urin, in Form von inaktiven Konjugaten ausgeschieden.
+Wirkungen
+
+Glucocorticoide fördern in natürlicher Konzentration die Gluconeogenese (Neubildung von Kohlenhydraten aus Aminosäuren und Kohlenhydratvorläufern). Protein- und Lipiddepots werden abgebaut und zur Energiegewinnung eingesetzt. Dies bewirkt erhöhte Konzentrationen von Glucose, Aminosäuren und Fettsäuren im Blut sowie derer Abbauprodukte. Chronische Überproduktion der Hormone erzeugt eine als Cushing-Syndrom bekannte Erkrankung.
+
+Glucocorticoide haben eine verstärkende Wirkung auf die Glucagon-induzierte Expression der Gluconeogenese-Enzyme. Die komplizierten Mechanismen können hier nur exemplarisch an einem der Enzyme, der Phosphoenolpyruvat-Carboxykinase (PEPCK), erläutert werden: PEPCK katalysiert die Bildung von Phosphoenolpyruvat aus Oxalacetat, unter Verbrauch von einmal GTP. PEPCK ist dabei ein Schlüsselenzym der Gluconeogenese, die im Hungerzustand bei niedrigem Blutzucker abläuft. Mehr PEPCK entsteht mittels verstärkter Transkription vom PCK1-Gen, das für dieses Enzym PEPCK kodiert. Der Ablauf dieser Signaltransduktion:
+
+    Das Hormon Glucagon bindet an seinen Glucagon-Rezeptor auf der Zellmembran. Hierdurch löst sich die GDP-bindende α-Untereinheit von den β- und γ-Untereinheiten des heterotrimeren membrangebundenen Gs-Proteins und dissoziiert zum Rezeptor, wo ein Austausch von GDP gegen GTP stattfindet. Die so aktivierte α-Untereinheit aktiviert ihrerseits die Adenylatcyclase, mehrere Moleküle ATP zu cAMP umzusetzen. Ein hoher cAMP-Spiegel aktiviert die Proteinkinase A, die wiederum das cAMP-responsive element binding protein (CREB) phosphoryliert. CREB ist an CRE, einem regulatorischen Bereich des PCK1-Promotors, gebunden. Als Ergebnis wird das PCK1-Gen exprimiert.
+
+    Das Glucocorticoid bindet an seinen nukleären Rezeptor, der gebunden am Hitzeschockprotein 90 (Hsp90) inaktiv im Cytosol lokalisiert ist. Durch Bindung des Liganden dissoziiert Hsp90 ab. Der Glucocorticoidrezeptor homodimerisiert zu seinem aktiven Zustand und transloziert als Rezeptor-Ligand-Komplex in den Zellkern, wo der Komplex als Transkriptionsfaktor an eine palindromische Sequenz bindet. Dieses Glucocorticoid-responsive-Element stellt einen weiteren regulatorischen Bereich im PCK1-Promotor dar. Die Wirkung von CRE/CREB-P wird somit potenziert.
+
+In vielfach höherer Dosis, wie sie nur nach Anwendung von Medikamenten erzielt wird, treten weitere Wirkungen auf: Die Protein-Synthese wird gehemmt, die Antikörperproduktion des Immunsystems vermindert und Entzündungsvorgänge werden unterdrückt. Noch höhere Dosen, die nur bei Gabe hochwirksamer künstlicher Glucocorticoide wie Dexamethason erreicht werden, wirken dem Kreislaufschock bei lebensgefährlichen Erkrankungen und Verletzungen entgegen.
+Pathologien
+
+Das Enzym 11β-Hydroxysteroid-Dehydrogenase 1 katalysiert die Inaktivierung von Cortisol durch Dehydrierung zum Cortison. Mutationen im dafür codierenden HSD11B1-Gen sind verantwortlich für das sogenannte AME-Syndrom, eine Form des Hyperandrogenismus und seltene Erbkrankheit.[1]
+Therapeutischer Einsatz
+
+Glucocorticoid-Präparate haben entzündungshemmende Wirkung. Sie werden zur Therapie beispielsweise bei allergischem Schnupfen oder bei Asthma bronchiale verwendet. Hochwirksame Varianten werden bei akuten Notfällen (Anaphylaxie, Sepsis, Schock) eingesetzt. Andere Präparate können topisch (örtlich) eingesetzt werden, zum Beispiel auf der Haut oder in der Nase. Heute sind zahlreiche topische Glucocorticoide wie Budesonid oder Fluticasonpropionat verfügbar.
+
+Wirkungen: An der Bronchialschleimhaut Entzündungshemmung und Abschwellung – die Hyperreaktivität der Bronchialschleimhaut wird vermindert – sowie an der Bronchialmuskulatur Krampflösung. Beide Wirkungen treten frühestens 30 Minuten nach der Zufuhr des Arzneimittels auf.
+
+Bei drohender Frühgeburt werden Glucocorticoide zur Förderung der Lungenreifung eingesetzt.
+Nebenwirkungen
+
+In Abhängigkeit von der Stärkeklasse und Lokalisation können bei auf der Haut angewandten (topischen) Corticosteroiden bei langfristiger Applikation (Wochen bis Monate) oder bei systemischer (das heißt nicht örtlicher) Anwendung Nebenwirkungen auftreten: Wasserspeicherung im Gewebe (Ödem) und damit Gewichtszunahme, Schwächung der Immunabwehr, Förderung der Entstehung und Verstärkung eines bestehenden Diabetes mellitus, Förderung und Verstärkung eines bestehenden Knochenschwundes (Osteoporose), bei inhalativer Gabe Heiserkeit. Glucocorticoide vermindern die Umwandlung des Vitamin D3 von der inaktiven Speicherform (25OH-Cholecalciferol) in die aktive (1,25OH-Cholecalciferol). Dennoch ist bei Einnahme von systemischen Corticoiden die Einnahme von inaktivem Vitamin D dem aktiven vorzuziehen, da es bei diesem nicht zu Überdosierungen kommen kann. Nur bei Niereninsuffizienz ist aufgrund einer dadurch weitgehend fehlenden Umwandlung von der inaktiven (25OH-Cholecalciferol) in die aktive (1,25OH Cholecalciferol) Form die Gabe von „aktivem“ Vitamin D (Calcitriol) unter Kontrolle der Serum-Calcium-Spiegel indiziert. Die kurzdauernde Stoßtherapie bei akuten Erkrankungen ist nebenwirkungsarm. Es wurden auch Hinweise darauf gefunden, dass Glucocorticoide das Thromboserisiko erhöhen.[2]
+Wirkungsstärke
+
+25 mg Cortisol entsprechen in etwa der täglichen Produktion der Nebennierenrinde beim Menschen. Darauf bezogen ergeben sich die Wirkungsstärke und die Äquivalenzdosis verschiedener Glucocorticoide aus der klinischen Praxis wie in der folgenden Tabelle dargestellt.[3][4] 
+
+
+Topische Anwendung
+
+Werden Glucocorticoide nicht systemisch, sondern nur an bestimmten Stellen, meist auf der Haut, (also topisch) angewandt, so zeigen die einzelnen Wirkstoffe durchaus andere relative Wirksamkeiten als bei parenteraler Applikation. Möglichst wünschenswert ist hier eine stark entzündungshemmende/antiproliferative Wirkung, um verschiedene Hauterscheinungen, wie Ekzeme, verschwinden zu lassen, ohne dabei die Haut an sich zu weit zu atrophieren (abzubauen). Außerdem kann es bei starken Wirkstoffen, längerer Anwendung und großer Applikationsfläche oder stark reduzierter Barrierefunktion der Haut zu spürbaren systemischen (meist unerwünschten) Wirkungen der Corticoide kommen.
+
+Um das dermale Wirkprofil zu verbessern, werden „intelligente“ Steroide entwickelt, welche schneller metabolisiert werden. Ihre Hauptwirkung soll nur oberflächlich zur Geltung kommen, indem sie in tieferen Schichten oder in der Zirkulation rasch abgebaut werden. Diese schnellere Metabolisierung wird durch spezielle Derivatisierungen am Corticoidmolekül erreicht: Beispiele sind Prednicarbat, Mometasonfuroat, Hydrocortisonbutyrat, -aceponat, Methylprednisolonaceponat. Solche Derivate können auch die biologische Wirksamkeit, sowohl topisch als auch systemisch, modifizieren.
+
+Topisch angewandte Wirkstoffe werden nach der Wirkstärke (nach Niedner) der Substanzen unterteilt:
+
+Klasse 1 – schwach wirksam
+    Hydrocortison(-acetat), Prednisolon, Fluocortinbutylester, Triamcinolonacetonid, Dexamethason, Clocortolonpivalat(-hexanoat).
+Klasse 2 – mittelstark wirksam
+    Clobetasonbutyrat, Hydocortisonaceponat, Dexamethason(-sulfobenzoat), Alclomethasondipropionat, Flumetasonpivalat, Triamcinolonacetonid, Fluoprednidenacetat, Fluorandrenolon, Hydrocortisonbutyrat, Hydrocortisonbuteprat, Betamethasonbenzoat, Fluorcortolon, Prednicarbat.
+Klasse 3 – stark wirksam
+    Mometasonfuroat, Methylprednisolonaceponat, Betamethasonvalerat, Fluticasonpropionat, Halomethason, Betamethasondipropionat, Fluocortolon(-hexanoat), Fluocinolonacetonid, Diflorasondiacetat, Desoximethason, Fluocinonid, Amcinonid, Halcinonid, Diflucortolonvalerat.
+Klasse 4 – sehr stark wirksam
+    Diflucortolonvalerat, Clobetasolpropionat.
+
+Anwendungen
+
+Bei der topisch-dermalen Anwendung werden die Wirkstoffe je nach Ausgangszustand der Haut in Lösungen, Salben, Cremes oder Fettsalben eingebracht. Zur Behandlung infizierter Effloreszenzen stehen Kombinationspräparate mit antibakteriellen oder antimykotischen Wirkstoffen zur Verfügung. Ist die Hautstelle stark schuppend, so kann zur Auflösung der Schuppen Harnstoff oder Salicylsäure (3-prozentig) beigemengt werden. Dies begünstigt auch die Resorption der Glucocorticoide. Zur Wirkverstärkung kann durch einen Okklusionsverband ein Aufweichen der oberen Hautschichten erreicht werden.[5]
+
+Lokale Entzündungsreaktionen, die einer äußerlichen Corticoidapplikation nicht zugänglich sind, können mittels Depotspritze topisch behandelt werden.[5] Hierfür stehen entsprechende Kristallsuspensionen mit den Corticoiden Betamethason, Dexamethason, Triamcinolon und Prednisolon zur Verfügung. 
+
+
+
+{END Glucocorticoide}
+
+
+
+{BEGIN Osteoporose}
+Osteoporose
+Zur Navigation springen
+Zur Suche springen
+Ältere Frau mit krummem Rücken, verursacht durch Osteoporose
+Klassifikation nach ICD-10
+M80.- 	Osteoporose mit pathologischer Fraktur
+M81.- 	Osteoporose ohne pathologische Fraktur
+M82.- 	Osteoporose bei anderenorts klassifizierten Krankheiten
+ICD-10 online (WHO-Version 2016)
+
+Die Osteoporose (von altgriechisch ὀστέον ostéon, deutsch ‚Knochen‘ und πόρος poros ‚Furt, Pore‘) ist eine häufige Alterserkrankung des Knochens, die ihn (häufig im Zusammenhang mit einem Kalziummangel) dünner und poröser und somit anfällig für Brüche (Frakturen) macht. Die auch als Knochenschwund bezeichnete Krankheit ist gekennzeichnet durch eine Abnahme der Knochendichte infolge eines den Aufbau übersteigenden Abbaus von Knochengewebe im Rahmen des natürlichen Knochenumbaus. Aufgrund der höheren Umsatzrate ist die Spongiosa typischerweise stärker betroffen als die Kortikalis, was sich in den Prädilektionsstellen für Knochenbrüche niederschlägt; die erhöhte Frakturanfälligkeit kann allerdings das ganze Skelett betreffen.
+
+Die häufigsten Knochenbrüche infolge einer Osteoporose sind nach Häufigkeit sortiert
+
+    Wirbelkörper-Einbrüche (Sinterungen, Kompressionsfrakturen),
+    Hüftgelenksnahe Oberschenkelknochenbrüche (u. a. Schenkelhalsfraktur),
+    Handgelenksnahe Speichenbrüche (distale Radiusfraktur),
+    Oberarmkopfbruch (subcapitale Humerusfraktur),
+    Beckenbruch.
+
+Die Osteoporose, welche erstmals 1885 von dem Innsbrucker Pathologen Gustav Adolf Pommer (1851–1935) beschrieben wurde,[1] ist die häufigste Knochenerkrankung im höheren Lebensalter. Am häufigsten (95 Prozent) ist die primäre Osteoporose, das heißt diejenige Osteoporose, die im Gegensatz zur sekundären Osteoporose nicht als Folge einer anderen Erkrankung auftritt. 80 Prozent aller Osteoporosen betreffen Frauen nach der Menopause (siehe Postmenopause), wobei vor allem kleinknochige Nordeuropäerinnen und Raucherinnen betroffen sind. 30 % aller Frauen entwickeln nach der Menopause eine klinisch relevante Osteoporose. Sekundäre Osteoporosen sind seltener (5 %), wobei Erkrankungen, die eine Behandlung mit Glukokortikoiden während einer längeren Zeitspanne erfordern und/oder zu einer Immobilisation führen, im Vordergrund stehen.
+   
+
+Ursachen
+Knochen im Querschnitt
+
+Die Knochenmasse nimmt etwa in den ersten drei Lebensjahrzehnten zu (in der Jugend wird Knochen aufgebaut), erreicht dann einen Höhepunkt und fällt in den späteren Lebensjahren langsam wieder ab. Die Osteoporose entsteht meist aus einer unzureichenden Knochenbildung in jungen Jahren und/oder einem beschleunigten Abbau in späterer Zeit. Ursachen dafür können sein:
+
+    Primäre Osteoporose (95 %):
+        Idiopathische juvenile Osteoporose junger Menschen
+        Postmenopausale Osteoporose (Typ-I-Osteoporose)
+        Senile Osteoporose (Typ-II-Osteoporose)
+    Sekundäre Osteoporose (5 %):
+        Hormonell: Hyperkortisolismus (Cushing-Syndrom), Hypogonadismus, Hyperparathyreoidismus, Hyperthyreose, Schwangerschaftsassoziierte Osteoporose
+        Gastroenterologische Ursachen: Malnutrition, Anorexia nervosa (Magersucht), Malabsorption, renale Osteopathie
+        Immobilisation (eingeschränkte Bewegung)
+        Medikamentös:[2]
+            Langzeittherapie mit Kortikosteroiden (Cortisol), wirkt wie ein Cushing-Syndrom
+            Langzeittherapie mit Heparin (zur Hemmung der Blutgerinnung)
+            Vitamin-K-Antagonisten als Antikoagulanzien wie Phenprocoumon (Marcumar) vermindern die Knochendichte, da Vitamin K für die Reifung der Knochenmatrix notwendig ist. Hingegen gibt es keinen Hinweis, dass die Einnahme von Vitamin K einen Effekt auf die Knochendichte oder das Frakturrisiko hat.[3]
+            Magensäure blockierende Medikamente[4]
+            Hochdosierte Therapie mit Schilddrüsenhormonen vermindert die Knochendichte ebenso wie eine Hyperthyreose.
+            Gonadotropin-Releasing-Hormon-Antagonisten bei Einnahme von über einem Jahr Dauer, hemmen fast vollständig die Östrogenbildung in den Ovarien
+            Aromatasehemmer hemmen ebenfalls die Östrogenbildung.
+            Zytostatika
+            Laxanzienabusus und Langzeittherapie mit Cholestyramin reduzieren die Resorption von Vitamin D im Verdauungstrakt.
+            Lithium kann zu erhöhten Parathormonspiegeln führen und damit eine Osteoporose auslösen.
+            Unter langfristiger Einnahme von Antikonvulsiva wurden Fälle von Osteoporose bis hin zu Frakturen berichtet. Das Bundesinstitut für Arzneimittel und Medizinprodukte hat entsprechend die Fachinformationen bestimmter Arzneimittel überarbeiten lassen.[5]
+        Hereditär:
+            Osteogenesis imperfecta, Hypophosphatasie, Ehlers-Danlos-Syndrom, Marfan-Syndrom, Homocystinurie, Geroderma osteodysplastica, Snyder-Robinson-Syndrom
+        Neoplastische Erkrankungen:
+            Monoklonale Gammopathien (u. a. eine Monoklonale Gammopathie unklarer Signifikanz oder ein Multiples Myelom)
+            Mastozytose
+            Myeloproliferative Erkrankungen
+        Entzündungen:
+            Chronische Polyarthritis
+            Morbus Crohn
+            Colitis ulcerosa
+        Andere Ursachen:
+            Perniziöse Anämie, Vitamin-B12-Mangel
+            Folsäuremangel
+            Untergewicht
+            Fleischreiche, gemüse-/obstarme Ernährung scheint ungünstig zu sein. Es wurde unter anderem ein Zusammenhang des Knochenstoffwechsels mit dem Säure-Basen-Haushalt vermutet, der sich jedoch nicht bewahrheitet hat.[6]
+            Konsum von phosphathaltigen Colagetränken könnte ein Risiko darstellen, allerdings korreliert starker Colakonsum mit einer kalziumarmen Ernährung[7]
+
+Diagnostik
+Anamnese
+
+Angabe von Rückenschmerzen als Leitsymptom osteoporotischer Wirbelkörperfrakturen, Verminderung der Körpergröße durch Sinterung von Wirbelkörpern und Kyphose/Skoliose der Wirbelsäule, Frakturen von Oberschenkelhals und distalem Radius. Erfassung der o. g. Risikofaktoren für Osteoporose, insbesondere calciumarme Ernährung, frühe Menopause und familiäre Belastung, Hinweise auf andere systemische Knochenerkrankungen.
+Klinische Untersuchung
+
+Messung der Körpergröße (Vergleich zu früheren Ergebnissen oder Angaben), Kyphose der Brustwirbelsäule / Skoliose der Lendenwirbelsäule, typische Hautfalten am Rücken („Tannenbaum-Phänomen“), Verringerung des Abstands von Rippenbogen und Beckenkamm.
+Röntgen
+
+Untersuchung von Brust- und Lendenwirbelsäule zur Aufdeckung von Frakturen und Höhenminderungen.
+Biomarker
+
+Die erhöhte Ausscheidung von C-Telopeptiden des Typ I [Kollagen] über den Urin kann für die Diagnose von Osteoporose und Osteoarthritis herangezogen werden. Sowie für die Einschätzung des momentanen Krankheitsverlaufs.[8][9]
+Knochendichtemessung
+Maximale Knochendichte bei einem Alter von ca. 30 Jahren. Frauen verlieren schneller an Knochendichte als Männer
+
+(Osteodensitometrie), bei der der T-Wert ermittelt wird. Dies ist ein statistischer Wert, der einen Vergleich des gemessenen Knochendichtewertes mit der Population junger erwachsener Frauen und eine Aussage zum Bruchrisiko ermöglicht. Zur Messung der Knochendichte (BMD – engl. für bone mineral density) stehen verschiedene Techniken zur Verfügung:
+
+Am weitesten verbreitet ist die Dual-Röntgen-Absorptiometrie (DXA oder DEXA – engl. dual-energy-x-ray-absorptiometry). Auf ihr basiert auch die Definition der WHO und mit ihrer Hilfe wird der T-Wert ermittelt. Eine weitere Methode stellt die quantitative Computertomographie (QCT bzw. pQCT) dar. Die Messung der Knochendichte mittels Ultraschalls, also mit dem sogenannten quantitativen Ultraschall (QUS), ist höchst umstritten und nur in ganz wenigen Fällen überhaupt aussagekräftig. Die Aussagekraft für DXA und QCT ist hingegen gut belegt. Die Messung der Knochendichte zur Früherkennung ist keine Leistung der gesetzlichen Kassen. Der Versicherte muss sie selbst bezahlen, wenn vor der Messung kein Knochenbruch ohne entsprechende Krafteinwirkung (ein sogenannter Ermüdungsbruch) mit Verdacht auf Osteoporose vorliegt.
+
+Die Knochendichte selbst ist jedoch nur zum Teil für das erhöhte Bruchrisiko der Knochen bei Osteoporose verantwortlich; die Bruchfestigkeit wird im Wesentlichen von der äußeren Compacta-Schicht bestimmt, während die Knochendichtemessung vor allem auch den trabekulären Knochen misst.[10]
+
+Ausgehend von einer Knochendichtemessung kann über den computerbasierten Algorithmus FRAX (WHO Fracture Risk Assessment Tool) die Wahrscheinlichkeit bestimmt werden, in den folgenden zehn Jahren eine osteoporotische Fraktur zu erleiden. Dies ist besonders für die Abschätzung der Notwendigkeit einer antiresorptiven Therapie bei einer Osteopenie geeignet.[11]
+
+Zu beachten sind besonders beim älteren Menschen häufige Fehlerquellen bei der DXA-Messung an der Lendenwirbelsäule mit Verschleierung einer verminderten oder sogar Vortäuschung einer höheren Knochendichte: durch Sinterung von Wirbelkörpern, Skoliose, Spondylophyten oder Arterienverkalkung (Aortosklerose). Für ein verwertbares Ergebnis müssen wenigstens zwei Wirbelkörper beurteilbar sein.[12]
+
+Wenn bereits osteoporotische Frakturen im Röntgenbild nachgewiesen wurden oder eine pertrochantäre Femurfraktur aufgetreten ist, kann auch ohne vorherige DXA-Messung die Diagnose einer Osteoporose gestellt und eine adäquate Therapie eingeleitet werden.[13]
+Screening
+
+Der Dachverband Osteologie empfiehlt eine Basisdiagnostik bei Frauen nach der Menopause und Männern über 60 Jahren falls
+
+    bereits Knochenbrüche aufgetreten sind, die durch schwache Krafteinwirkung entstanden sind,
+    Grundkrankheiten bestehen, die Einfluss auf die Knochen haben können, oder
+    Risikofaktoren für Wirbelkörperfrakturen oder Hüftfrakturen vorhanden sind (DVO-Risikomodell 2006).[14]
+
+Differentialdiagnose
+
+Andere Erkrankungen, die primär mit einer verschlechterten Knochenqualität einhergehen, sind:
+
+    Osteomalazie.
+    Die Hypophosphatasie ist seltener als die Osteoporose. Manche Formen der Hypophosphatasie (HPP) werden erst im erwachsenen Alter symptomatisch und könnten zur Fehldiagnose einer Osteoporose führen.[15] Eine erniedrigte Aktivität der alkalischen Phosphatase im Serum, sowie ein früher Milchzahn-Verlust und das Auftreten atypischer Frakturen (z. B. subtrochantäre laterale Femurfraktur) mit verzögerter Frakturheilung weisen auf eine HPP hin.[15] Die Unterscheidung zwischen der Osteoporose und der HPP ist wichtig, da bei der HPP die Gabe von Bisphosphonaten kontraindiziert ist.[15]
+
+Krankheitsverlauf und Prognose
+
+Die Osteoporose ist eine zunächst unmerklich verlaufende Erkrankung, die aber im Fall von Knochenbrüchen, insbesondere bei alten Menschen, eine hohe Krankheitsbelastung (Schmerzen, Bettlägerigkeit, manchmal dauerhafte Immobilisierung) bedeutet.
+Haltungs- und Körperhöhenreduktion bei Osteoporose
+
+Man unterscheidet zwischen primärer und sekundärer Osteoporose. Zur wesentlich häufigeren primären Osteoporose zählen die postmenopausale (oder postklimakterische) Osteoporose und die Altersosteoporose (Involutionsosteoporose). Die sekundäre Osteoporose tritt unter anderem als Folge von Stoffwechselerkrankungen oder hormonellen Störungen auf.
+
+Man geht davon aus, dass in Deutschland etwa 30 % aller Frauen nach dem Klimakterium an primärer Osteoporose erkranken. Für Männer ist ab dem 70. Lebensjahr die Altersosteoporose ein ebenso häufiges Krankheitsbild. Typische Merkmale der Osteoporose sind eine Abnahme der Knochenmasse und Verschlechterung der Knochenarchitektur sowie als deren Folge eine Abnahme der Knochenstabilität. Dies führt zu einer erhöhten Gefahr von Knochendeformationen (Fischwirbel) und Knochenbrüchen. Knochenbrüche bei Osteoporose finden sich insbesondere an den Wirbeln, am Oberschenkelhals und am Handgelenk. Die Heilung von Knochenbrüchen bei Osteoporose ist nicht gestört, der Zeitrahmen ist der gleiche wie bei nicht erkrankten Menschen. Die Folgen der Brüche können jedoch vor allem bei Älteren nachhaltig sein und durch Folgeerkrankungen wie Lungenentzündung oder Lungenembolie zum Tode führen.
+Behandlungsmöglichkeiten und Prävention
+Lebensweise
+
+Körperliche Aktivität schützt vor Knochenschwund. Die Kräfte, die dabei auf den Knochen wirken, regen die knochenaufbauenden Zellen an, neue Knochensubstanz zu bilden. Empfohlen werden dabei vorwiegend gewichttragende Ausdauerübungen und muskelaufbauendes Training, sowie Aerobic.[16][17] Daneben fördert ausreichende Sonnenlichtexposition, empfohlen wird mindestens eine halbe Stunde täglich,[18] die Vitamin-D-Produktion der Haut.
+Ernährung
+
+Der DVO empfiehlt als Basistherapie für Osteoporosepatienten ohne eine spezifische medikamentöse Osteoporosetherapie eine Zufuhr von 1000 bis maximal 2000 mg Calcium pro Tag mit der Nahrung. Hiervon ausgenommen sind Kinder, Jugendliche, prämenopausale Frauen und Männer bis zum 60. Lebensjahr.[19] Ein Gramm Calcium ist in einem Liter Milch oder 100 g Hartkäse enthalten. Neben Milchprodukten (hierbei vor allem Milch und Joghurt[20]) sind vor allem grüne Gemüsesorten wie Grünkohl und Broccoli sowie Samen und Nüsse sehr gute Calcium-Lieferanten.
+
+Wenn die empfohlene Zufuhr von Calcium mit ausgewogener Ernährung dennoch nicht erreicht werden sollte, kann eine Supplementierung, etwa in Tablettenform, durchgeführt werden. Als Bestandteil der Basistherapie empfehlen die internationalen Leitlinien die kombinierte Einnahme mit Vitamin D (Ergo- und Cholecalciferol, nicht aber Metabolite wie 1-alpha- oder 1,25-Dihydroxy-Vitamin D).
+
+Starker Alkohol- und Tabakkonsum soll vermieden werden.[18][21][22]
+
+Obwohl Vitamin K bei der Reifung der Knochenmatrix benötigt wird und bei langfristiger Einnahme von Vitamin-K-Antagonisten wie Marcumar das Osteoporoserisiko steigt, gibt es keinen Hinweis darauf, dass die Einnahme von Vitamin K einen positiven Effekt hat. Diesbezüglich existiert auch keine qualitative Studie. Während in sämtlichen evidenzbasierten Richtlinien die Einnahme von Vitamin D und Kalzium empfohlen wird, gibt es keine Empfehlung zur Vitamin-K-Einnahme.[23]
+Pharmakotherapie
+
+Nach den Leitlinien des DVO wird, unter Berücksichtigung der Knochendichte, des Lebensalters, stattgehabter Wirbelkörperfrakturen und anderer Risikofaktoren, folgende medikamentöse Therapie empfohlen:
+
+    Bisphosphonate (Alendronsäure, Ibandronsäure, Risedronsäure und Zoledronsäure): Standard-Therapie, hemmen die Knochenresorption
+    Selektive Östrogen-Rezeptor-Modulatoren (SERM): Raloxifen (nur zur Verhinderung von Wirbelkörperfrakturen). Hemmen ebenfalls die Knochenresorption
+
+oder
+
+    Parathormon und sein Analogon Teriparatid
+    Strontiumranelat: Knochendichtemessungen zeigen durch die Einlagerung von Strontium höhere Werte, was aber für die Verlaufsbeurteilung in der Praxis nicht relevant ist.
+
+Zur Überwachung der antiresorptiven Osteoporose-Therapie kann der Knochenmarker β-CrossLaps eingesetzt werden.
+
+Auch in Verwendung, jedoch nicht vom DVO empfohlen sind
+
+    Calcitonin, kaum noch verwendet, der Nutzen ist schlecht belegt. Außerdem kommt es meistens zu schweren Allergiesymptomen bei der Behandlung.
+    STH (Wachstumshormon), kein Nutzen belegt; evtl. problematische Nebenwirkungen.
+    Fluoride (veraltet; entwickeln harte, aber spröde Knochen, die Stabilität wird nicht besser)
+    Östrogene werden seit der Kritik an der Hormonersatztherapie wegen Nebenwirkungen nur eingeschränkt für diese Indikation verwendet, sind (in an Schwefel- oder Glukuronsäure gekoppelter Form)[24] aber bei der postmenopausalen Frau hinsichtlich der Osteoporose-Prävention und Behandlung (Verlangsamung des Knochenschwunds) meist, be ausreichender Kalziumgabe, wirksam. Die Entscheidung Pro oder Contra muss individuell getroffen werden.
+    Vitamin-D-Metabolite wie 1-alpha- oder 1,25-Dihydroxy-Vitamin D (Nutzen bei postmenopausaler Osteoporose nicht eindeutig belegt, teuer, problematische Nebenwirkungen; 1,25-Vitamin D (Calcitriol) ist wirksam und indiziert bei bestimmten Knochenerkrankungen im Rahmen fortgeschrittener Nierenerkrankungen).
+
+Eine neue Osteoporose-Behandlungsmöglichkeit stellt Denosumab dar. Dabei handelt es sich um einen monoklonalen Antikörper, der einmal halbjährlich als Spritze unter die Haut verabreicht wird. Am 28. Mai 2010 wurde Denosumab (mit dem Handelsnamen Prolia) für alle 27 Mitgliedsstaaten der Europäischen Union (EU) sowie in Norwegen, Island und Liechtenstein zur Behandlung der Osteoporose bei postmenopausalen Frauen mit erhöhtem Frakturrisiko und zur Behandlung eines Knochendichteverlustes durch eine hormonablative Therapie (Androgendeprivation) bei Männern mit Prostatakarzinom und erhöhtem Frakturrisiko zugelassen.[25][26]
+
+Die tägliche Anwendung einer nitroglycerinhaltigen Salbe erhöhte in einer Studie kanadischer Forscher die Knochendichte deutlich. Ob dadurch das Risiko von Knochenbrüchen verringert wird, wird jedoch nicht belegt. Die Wirkung wird mit der Freisetzung von Stickoxid erklärt, welches die Osteoklasten direkt hemmt.[27]
+
+Dass eine Erhöhung der Knochendichte nicht mit einem verminderten Knochenbruchrisiko einhergehen muss, sondern es sogar erhöhen kann, zeigt das Beispiel der Fluoride, die das Bruchrisiko erhöhen können (Fluorose). Daher ist es unerlässlich, für neue Osteoporose-Mittel Studien durchzuführen, die eine Verminderung des Bruchrisikos nachweisen und die dabei auch den bereits bekannten Mitteln in ihrer Wirksamkeit nicht unterlegen sein dürfen.
+
+Es gibt keine Studien, welche die vorhandenen Bisphosphonate miteinander vergleichen, weshalb eine generelle Empfehlung bezüglich eines bestimmten Wirkstoffs noch nicht gestellt werden kann.[28] Je nach Lokalisation der Brüche, konnte das Risiko um 25 bis 70 % reduziert werden.[28] Bisphosphonate beherbergen das seltene Risiko von atypischen Brüchen des Oberschenkelknochens und Osteonekrosen der Kieferknochen.[28][29] Bei geringem Nutzen in einem Behandlungszeitraum von drei bis fünf Jahren, kann im Hinblick auf die Nebenwirkungen die Behandlung mit diesen Medikamenten ein- oder umgestellt werden.[30]
+Verhinderung von Brüchen
+Hüftprotektoren
+
+Um osteoporotischen Oberschenkelhalsfrakturen vorzubeugen, werden Hüftprotektoren eingesetzt. Ein Cochrane-Review von 2014 kam zu dem Ergebnis, dass Hüftprotektoren das Risiko von Oberschenkelhalsfrakturen bei älteren Menschen reduzieren können.[31] Die geringe Akzeptanz und Nutzung der Protektoren schränkt ihren prophylaktischen Wert ein.
+
+Zur Vorbeugung bzw. unterstützenden Behandlung der Osteoporose gibt es auch verschiedene Verfahren der alternativen Medizin, die jedoch keine Wirksamkeitsnachweise nach wissenschaftlichen Kriterien erbringen konnten. Die Behandlungskosten dieser Verfahren werden entsprechend nicht von den Krankenkassen getragen.
+Basische Ernährung
+
+Eine Empfehlung, die jedoch weder wissenschaftlich abgesichert noch in den Leitlinien genannt wird, ist die der sog. basischen Ernährung oder der Einnahme von sog. Basensalzmischungen. Eine vermeintliche Übersäuerung des Körpers soll nach Angaben von Anhängern dieser Behandlungsmethode zu verstärktem Knochenschwund führen, da zur Neutralisation der Säure basische Calciumsalze (deren Existenz wissenschaftlich unbestritten ist) aus dem Knochengewebe gelöst würden (wie der Kalk aus einer Eierschale im Essigbad).[32] Bei dieser Theorie werden allerdings die weitaus bedeutenderen Puffersysteme der Blutpuffer vernachlässigt. Es werden der Verzicht auf Bohnenkaffee, Schwarztee, Alkohol, Cola- und Limonadengetränke, tierisches Eiweiß (Fleisch, Wurst, Fisch), Fast Food und Fertiggerichte, die meisten Milchprodukte, Industriezucker, Süßstoffe, Süßigkeiten, Weißmehl und Weißmehlprodukte, Erdnüsse, Paranüsse usw. empfohlen und eine säurehemmende oder basenbildende Nahrung verordnet, bestehend etwa aus Gemüse- und Fruchtsäften, Kräutertee, Gemüse und Blattsalaten sowie Früchten. Die Regeln, nach denen ein Lebensmittel in säurebildend oder basisch einzuteilen ist, sind dabei nicht immer direkt nachvollziehbar, so wirkt beispielsweise Kaffee im Blut nicht etwa säurebildend, sondern schwach basisch.
+
+Eine basenreiche Kost sei demnach besonders förderlich für einen gesunden Knochenstoffwechsel. Es gibt zwar keine Untersuchung, die eine Minderung der Knochenbruchrate oder Steigerung der Knochendichte aufzeigt, aber es wird argumentiert, dass Studien zeigten, dass eine protein- und fleischreiche Kost den Calciumabbau aus den Knochen und die Calciumausscheidung über die Nieren fördere.[33][34][35] In diesen Studien wird allerdings mit keinem Wort von einer säure- oder basenbildenden Kost gesprochen.
+
+Eine weitere Aussage der basischen Ernährungslehre ist, dass eine säurereiche Kost nicht nur im kranken, sondern auch im gesunden Organismus zu einer systematischen Übersäuerung führe, die im Alter mit abnehmender Nierenfunktion zunimmt.[36] Diese postulierte Übersäuerung ist allerdings im Blut im Rahmen einer Blutgasanalyse nicht messbar. Eine Übersäuerung des Urins ist primär nur ein Zeichen dafür, dass die Blutpuffer und die Niere ihren Aufgaben nachkommen und Säuren ausscheiden.
+
+Bei zunehmender Übersäuerung erschöpften sich die Pufferreserven des Körpers, und Mineralstoffdepots in den Knochen würden verstärkt angegriffen. Zudem setze der Körper in einem sauren Milieu vermehrt entzündungsfördernde Proteine wie NF-κB, TNF-α und COX-2 frei, die den Knochenabbau beschleunigen.[37][38] Diese Übersäuerungen finden sich allerdings nicht in einem gesunden Organismus bei regulärer Nahrungsaufnahme, sondern bei einer deutlichen Einschränkung der Funktion der Blutpuffer und der Ausscheidungsfunktion der Niere.
+
+Um dem Verlust von Knochensubstanz entgegenzuwirken, werden sogenannte basische Substanzen wie Kaliumcitrat empfohlen. Für Kaliumcitrat sei in klinischen Studien nachgewiesen, dass es dem Calciumverlust über die Niere und dem Calciumabbau aus den Knochen entgegenwirkt.[39][40][41] So zeigte eine prospektive kontrollierte Interventionsstudie bei 161 postmenopausalen Frauen mit Osteopenie, dass die partielle Neutralisierung einer diätinduzierten Säurebelastung (mittels 30 mmol Kaliumcitrat pro Tag, entspricht 1,173 g Kalium) über einen Zeitraum von zwölf Monaten die Knochendichte signifikant erhöhe und die Knochenstruktur deutlich verbessere. Kaliumcitrat wirke dabei genauso effektiv wie Raloxifen, ein Östrogen-Rezeptor-Modulator, der bei der Behandlung und Prävention von Osteoporose bei postmenopausalen Frauen eingesetzt wird.[39] Das Kaliumcitrat solle mit den Knochenmineralien Calcium und Magnesium sowie Vitamin D zugeführt werden, weil sich der Magnesiumgehalt im Knochen laut basischer Lehre genauso stark vermindere wie der des Calciums.
+Physikalische Verfahren
+
+    Magnetfeldtherapie: pulsierende elektromagnetische Felder sollen den Knochenaufbau stimulieren.
+    Vibrationstraining – auch biomechanische Stimulation (BMS): sie wurde ursprünglich zur Behandlung von russischen Kosmonauten entwickelt: Die zu behandelnde Person steht auf einer Platte, die in einem Frequenzbereich von 20 bis etwa 50 Hz vibriert und durch den Dehnreflex Muskelkontraktionen hervorruft. Die dabei auftretenden Kräfte sollen den Knochen zum Wachstum stimulieren (Mechanostat).
+
+Wirtschaftliche Aspekte
+
+Mit jährlich etwa 2,5 bis 3 Milliarden Euro an direkten und indirekten Krankheitskosten in Deutschland hat die Osteoporose auch ein großes volkswirtschaftliches Gewicht. Deshalb wurde sie von der Weltgesundheitsorganisation (WHO) auf die Liste der zehn wichtigsten Erkrankungen gesetzt.
+
+Von Kritikern wird angeführt, dass die Neubewertung der Osteoporose in den 1990er Jahren durch die Pharmaindustrie und die Hersteller von Diagnostika gesteuert sei, die einen Absatzmarkt für neue diagnostische Geräte und Medikamente schaffen wollen (Disease Mongering).[42][43] Andererseits lässt sich erst seit etwa 1985 die Knochendichte zuverlässig messen. Erst seitdem ist es überhaupt möglich, das Krankheitsbild schon vor dem Auftreten von Knochenbrüchen adäquat zu erfassen, präventiv zu behandeln und Frakturen zu verhindern. 
+
+{END Osteoporose}
+
+{BEGIN McBurney-Punkt}
+
+Als McBurney-Punkt bezeichnet man in der Medizin eine Stelle, die zwischen dem äußeren und mittleren Drittel der Verbindungslinie zwischen dem rechten vorderen oberen Darmbeinstachel (Spina iliaca anterior superior) und dem Bauchnabel liegt. Ein Druckschmerz (eigentlich ein „Loslass-Schmerz“, da bei Appendizitis der Schmerz beim Loslassen des Fingers wesentlich stärker ist als beim Druck) in diesem Bereich weist auf eine Appendizitis („Wurmfortsatzentzündung“) hin, ist jedoch für die Diagnose weder erforderlich noch beweisend. Der Punkt ist benannt nach Charles McBurney, einem amerikanischen Chirurgen, der ihn zuerst beschrieb. 
+
+{END McBurney-Punkt}
+
+
+{BEGIN Ultraschall}
+Als Ultraschall (oft als US abgekürzt) bezeichnet man Schall mit Frequenzen oberhalb des Hörfrequenzbereichs des Menschen. Er umfasst Frequenzen ab etwa 16 kHz.[1] Schall ab einer Frequenz von etwa 1 GHz wird auch als Hyperschall bezeichnet.[1] Bei Frequenzen unterhalb des für Menschen hörbaren Frequenzbereichs spricht man dagegen von Infraschall.[1]
+
+Umgangssprachlich bezeichnet man mit "Ultraschall" auch die Sonografie, ein bildgebendes Untersuchungsverfahren in der Medizin.
+
+In Gasen und Flüssigkeiten breitet sich Ultraschall überwiegend als Longitudinalwelle aus. In Festkörpern kommt es wegen der auftretenden Schubspannungen zusätzlich auch zur Ausbreitung von Transversalwellen. Der Übergang von Luftschall in Festkörper oder Flüssigkeiten (oder umgekehrt) ist nur mit einem Koppelmedium mit angepasster akustischer Impedanz sowie bestimmter Dicke effektiv.
+
+Ultraschall wird je nach Material eines Hindernisses an diesem reflektiert, in ihm absorbiert, gestreut oder tritt hindurch (Transmission). Wie bei anderen Wellen treten auch Brechung, Beugung und Interferenz auf.
+
+Luft weist eine stark mit der Frequenz steigende Dämpfung für Ultraschall auf. In Flüssigkeiten breitet sich Ultraschall dagegen dämpfungsarm aus. Bei hohen Schalldrücken kommt es jedoch zur Bildung von Dampfblasen (Kavitation), die bei ihrem Kollaps extrem hohe Drücke und Temperaturen hervorrufen können. Bei Frequenzen zwischen 2 und 20 MHz tritt Kavitation in reinem, entgastem Wasser erst ab einem Schalldruck von 15 MPa auf. Kavitation wird z. B. zur Ultraschallreinigung genutzt und ist auch aktueller Forschungsgegenstand (Sonolumineszenz).
+Inhaltsverzeichnis
+
+    1 Erzeugung und Registrierung der Ultraschallwellen
+    2 Anwendungen von Ultraschall
+    3 Ultraschall am Arbeitsplatz
+    4 Ultraschall in der Tierwelt
+    5 Ultraschallerzeugung in Pflanzen
+    6 Literatur
+    7 Einzelnachweise
+    8 Weblinks
+
+Erzeugung und Registrierung der Ultraschallwellen
+Echo-Laufzeit-Verhalten von Ultraschall
+
+Zur Erzeugung von Ultraschall in Luft eignen sich dynamische und elektrostatische Lautsprecher sowie insbesondere Piezolautsprecher, d. h. membrangekoppelte Platten aus piezoelektrischer Keramik, die durch Umkehr des Piezo-Effekts zu Schwingungen angeregt werden. Mittels piezoelektrischer Kunststoffe (PVDF) lassen sich auch direkt Membranen ansteuern, was ein verbessertes Übertragungsverhalten hervorruft.
+
+Ultraschall in Flüssigkeiten und Festkörpern wurde anfangs nur mit magnetostriktiven Wandlern erzeugt (die ersten Echolote arbeiteten auf diese Art). Heute verwendet man zunehmend piezoelektrische Quarz- oder Keramikschwinger. An diese wird eine Wechselspannung mit deren Eigenresonanzfrequenz (oder einer Oberschwingung davon) angelegt. Die Schwingungen werden dann z. B. über den Boden eines Ultraschallbades in die Flüssigkeit übertragen.
+
+Nicht allzu hochfrequenter Ultraschall kann auch durch Galtonpfeifen erzeugt werden.
+
+Der Empfang von Ultraschallwellen kann prinzipiell mit den gleichen elektrischen Wandlern geschehen, wie sie auch zu dessen Erzeugung verwendet werden. Die erhaltenen elektrischen Signale können einer Frequenz-, Phasen- oder Amplitudenauswertung unterzogen werden.
+
+Um Fledermausrufe hörbar zu machen, gibt es Fledermausdetektoren, die den Frequenzbereich der im Ultraschallbereich liegenden Rufe in den hörbaren Bereich verschieben und diese über einen normalen Lautsprecher oder einen Kopfhörer wiedergeben.
+Anwendungen von Ultraschall
+
+Ultraschall findet in der Technik und Medizin diverse Anwendungen:
+
+    Echolot, Sonar: Tiefenmessung und Meeresbodenuntersuchung aus Wasser- und Unterwasserfahrzeugen heraus, Fischfinder
+    Unterwasser-Peilsender für Flugschreiber
+    Frühe Entfernungsmesser (in Luft), etwa für Autofokus-Objektive (Polaroid)
+    3D-Messung der Windgeschwindigkeit, siehe Ultraschallanemometer
+    Ultraschalldurchflusssensor für Rohre und Kanäle
+    Bewegungsmelder über Doppler-Effekt
+    Ultraschallschweißen
+    Ultraschalldichtemessung
+    Festigkeitsmessung an Beton, Gips und Zement
+    zur Bestimmung der Schallgeschwindigkeit von Flüssigkeiten (Ausnutzen des Debye-Sears-Effektes)
+    zur Herstellung von extrem glatten Flächen durch Ultraschallschwingläppen, etwa in der Raumfahrtindustrie
+    zur kontinuierlichen, berührungslosen Füllstandsmessung bei flüssigen und festen Medien unterschiedlichster Konsistenz und Oberflächenbeschaffenheit
+    Ultraschallmikroskop
+    Ultraschalllinearantrieb: Kernstück der Systeme ist eine Piezokeramikplatte, in der eine hochfrequente resonante Eigenschwingung angeregt wird. Eine an der Platte angebrachte „Reibnase“ wird dadurch in eine lineare Bewegung derselben Frequenz versetzt. Durch den Kontakt mit einer Reibschiene treibt sie den bewegten Teil der Mechanik an. Jeder Zyklus erzeugt einen mikroskopisch kleinen Schritt von wenigen Nanometern, sodass in der Summe eine gleichmäßige Bewegung mit praktisch unbegrenztem Stellbereich entsteht.
+    Berührungslose Handhabung mit Ultraschall: Durch verschiedene fluiddynamische Effekte im Ultraschallfeld können Gegenstände zum Schweben gebracht werden.
+
+Ultraschall-Verzögerungs­leitung (Laufzeit 64 µs) eines PAL- bzw. SECAM-Farbfern­sehers (bis ca. 1995); links geöffnet, rechts Funktionsweise und Schallweg
+
+    Informationsübertragung
+        Frühe Fernbedienungen (Ende 1950er bis ca. Mitte der 1970er Jahre) für Fernsehgeräte
+        Signalverzögerung in elektronischen Schaltungen (akustische Verzögerungsleitung)
+    Werkstoffprüfungen mit Ultraschallprüfgeräten; über Reflexe an Unstetigkeitsstellen der Dichte und ihre Signal-Laufzeit können ungewünschte Einschlüsse, Lunker oder Risse entdeckt werden
+    Industrielle Teilereinigung bis hin zum Auflösen, Herauslösen und Zerstören von Material in Ultraschallreinigungsgeräten
+    Sonografie und Echokardiografie zur Untersuchung von Mensch und Tier
+        M-Mode („motion mode“), beispielsweise zur Darstellung von fetalen Herzrhythmusstörungen
+        B-Mode („brightness mode“), um zweidimensionale Schnittbilder zu erhalten
+        Doppler: Messung der Blutstromgeschwindigkeit mittels Dopplereffekt
+        Farbdoppler: Farbig codierte flächige Darstellung der Blutstromgeschwindigkeit in Gefäßen
+    Ultraschalltherapie
+    Ultraschall-Zellaufschluss
+    Ultraschall-Schneiden biologischer Gewebe
+    Aufschließen von Naturfasern mit Ultraschall
+    Geschwürbehandlung: Hochintensiver fokussierter Ultraschall
+    Entfernung von Zahnstein durch wassergekühlte, hochfrequent schwingende Metallspitze
+    Ultraschallschwingläppen (älter: Ultraschallbohren): Feinbearbeitung von Keramik und sonstiger spröder Werkstoffe
+    Ultraschallvernebler: Zerstäuben, Vernebeln, Emulgieren, Dispergieren und Mischen von Flüssigkeiten (beispielsweise bei Luftbefeuchtern, Nebelmaschinen)
+    Entgasung von Flüssigkeiten
+    Akustooptische Modulatoren (AOM) in Lasern
+    Geräte zur Abschreckung von Mardern (Marderabwehr) und anderen Tieren, die vor Ultraschall flüchten sollen; eine Wirkung konnte wissenschaftlich bisher nicht nachgewiesen werden, dennoch scheinen Geräte mit hohem Schalldruckpegel die Tiere erfolgreich fernzuhalten.
+    Hundepfeifen
+    Anwendungen bei Fledermaus- und Delphinforschung, da diese sich über Ultraschall orientieren beziehungsweise damit kommunizieren
+    Die Aufzeichnung der Ultraschallvokalisation von Ratte und Maus (ultrasonic vocalization) wird in der psychopharmakologischen Forschung wie auch in der neurowissenschaftlichen Verhaltensforschung genutzt.[2][3]
+    Auch die Nierensteinzertrümmerung (Lithotripsie) basiert auf der Wirkung von kurzen, auf den Stein fokussierten Ultraschallimpulsen, sogenannten akustischen Stoßwellen.
+    Herstellung von Proteinrohextrakten aus mikrobiologischen Proben (vor allem Bakterien, sowohl in Forschung als auch Industrie) durch Ultraschall, da die Schallwellen zur Lyse der Zellwand führen
+    Doppelbogenkontrolle mit Ultraschall in der Drucktechnik
+    Entfernungsmessung, eingesetzt z. B. in Einparkhilfen
+    Apparative Kosmetik: Mikromassage und Regeneration der Haut und Einschleusung kosmetischer Wirkstoffe (Sonophorese / Phonophorese)
+
+Ultraschall am Arbeitsplatz
+
+Ultraschall wird in der industriellen Produktion vielseitig eingesetzt, beispielsweise zur Reinigung, beim Bohren, Schneiden, Schweißen, in der Aufbereitungs- und Verfahrenstechnik, bei der Entgasung von Flüssigkeiten oder der zerstörungsfreien Materialprüfung. Beim Einsatz von Ultraschall können Geräuschbelastungen mit Anteilen im Ultraschall- und Hörfrequenzbereich entstehen. Besonders Ultraschall-Schweißanlagen verursachen häufig hohe und stark schwankende Schallpegel, die bedeutende Anteile im Hörfrequenzbereich aufweisen können.
+
+Für die Einwirkung von Ultraschall und seinen Begleiterscheinungen im Hochfrequenzbereich gibt es im Bereich der Normen und Richtlinien in Deutschland nur einen fast 30 Jahre alten Grenzwert in der Richtlinie VDI 2058 Blatt 2, der sich lediglich auf die 20-kHz-Terzmittenfrequenz bezieht (Stand: 2016). Entsprechend der Richtlinie VDI 3766 „Ultraschall – Arbeitsplatz – Messung, Bewertung, Beurteilung und Minderung“ wird der am Arbeitsplatz vorhandene Ultraschall mit einem Filter ausgeblendet und nur die verbleibende Hörschallexposition im Sprachfrequenzbereich über einen Richtwert beurteilt[4]. Die Richtlinie macht keine konkreten Angaben zum Schutz des Gehörs im oberen Hörfrequenzbereich und zur Vermeidung möglicher anderer gesundheitlicher Beeinträchtigungen durch Ultraschall, wie etwa Kopfschmerzen, Übelkeit oder Schwindel[5].
+
+Die Richtlinie VDI 3766 ergänzt die technischen Anforderungen der DIN 61672-1[6] für Systeme, mit denen Ultraschalleinwirkungen an Arbeitsplätzen gemessen werden soll. Derartige Messsysteme für die Praxis gibt es bisher allerdings kaum. Mit Handschallpegelmessgeräten der Genauigkeitsklasse 1[6] lässt sich zwar die unbewertete Hörschallexposition messen. Die Messdaten müssen jedoch vor der Beurteilung manuell nachbearbeitet werden, da unkontrollierbare messtechnische Fehler auftreten können. Hierfür kann die Software zur "Berechnung der Lärmexposition im Beisein von luftgeleitetem Ultraschall" verwendet werden[7].
+
+Die Lärm- und Vibrations-Arbeitsschutzverordnung stellt fest, dass sie für jegliche Schalleinwirkung am Arbeitsplatz zuständig ist. Die Technischen Regeln zur Lärm-VibrArbSchV schränken den Zuständigkeitsbereich dann auf den Hörschall (16 Hz bis 16 kHz) ein und schließen Infra- und Ultraschall explizit aus. Zudem gibt es keine Angaben darüber, wie ein Tages-Lärmexpositionspegel berechnet wird, wenn Beschäftigte unterschiedliche Tätigkeiten mit und ohne Einwirkung von Ultraschall ausführen. Das Wissen über die Wirkungen von Ultraschall auf das Gehör stammt aus alten Studien, vor allem fehlen Kenntnisse zu Dosis-Wirkungs-Beziehungen. Dies spiegelt sich auch in den weltweit betrachtet sehr inhomogenen nationalen Richt- und Grenzwerten wider[8]. Aufgrund dieser Unsicherheiten, auch über die Wirksamkeit organisatorischer und persönlicher Schutzmaßnahmen, scheint es sinnvoll, Ultraschall aussendende Maschinen nur mit Kapselung zu vertreiben[4].
+Ultraschall in der Tierwelt
+
+In der Tierwelt dient Ultraschall zur Orientierung (Echoortung) und Kommunikation. Die Ortungsrufe der Fledermäuse zeigen im Frequenzspektrum, je nach Art, Ultraschallanteile bis zu 200 kHz (Rundblattnasen).[9] Nachtfalter hören im Ultraschallbereich bis zu Frequenzen von 200 kHz.[10] Zahnwale, insbesondere Delfine, nutzen die Echoortung zur Orientierung und speziell auch zur Ortung ihrer Jagdbeute. Die Frequenz der Klicklaute beträgt zwischen 120 und 180 kHz.[10] Mäuse und Ratten kommunizieren mittels Rufen im Ultraschallbereich (Ultraschallvokalisationen). So lösen bei der Ratte beispielsweise prosoziale Ultraschallvokalisationen mit einer Frequenz von ca. 50 kHz soziales Annäherungsverhalten aus.[11]
+Ultraschallerzeugung in Pflanzen
+
+Bäume erzeugen bei Wassermangel Laute im Ultraschallbereich. Die Laute entstehen, wenn bei Trockenheit der Wasserstrang in den Gefäßen, welche das aufgenommene Wasser von den Wurzeln in die Baumwipfel und Blätter führen, abreißt. Dabei bilden sich Kavitationsbläschen, die die Wände der wasserführenden Gefäße kurzzeitig in Schwingung versetzen. Die Intensität der Laute ist dabei abhängig von der Gefäßgröße und vom Trockenheitsgrad.[12][13] 
+{END Ultraschall}
+
+
+
+
+
+{BEGIN Intrauterine Insemination}
+Die Intrauterine Insemination (IUI) ist eine Methode der assistierten Befruchtung, die in der Regel der künstlichen Befruchtung zugerechnet wird. Dabei werden in der Regel durch medizinisches Fachpersonal mittels eines Katheters die Samenzellen zum Zeitpunkt des Konzeptionsoptimums in die Gebärmutterhöhle (Uterus) übertragen und sind somit der oder evtl. den herangereiften Eizelle(n) näher als im Rahmen einer natürlichen Befruchtung unmittelbar nach einem Geschlechtsverkehr.
+
+Die Methode findet Anwendung, wenn kein Geschlechtsverkehr stattfinden soll, beispielsweise bei einer Samenspende, aber auch bei Problemen beim Geschlechtsverkehr (Kohabitationsstörungen) oder verminderter Anzahl funktionstüchtiger Spermien (Oligospermie). Der vermutliche Zeitpunkt des Eisprungs wird vorher mittels Hormon- und Ultraschalluntersuchung abgeschätzt. Oft werden die Eizellreifung und der Eisprung zusätzlich medikamentös herbeigeführt.
+
+Manchmal werden bei der intrauterinen Insemination die gewonnenen Samenzellen vor Einbringung in den weiblichen Körper im Labor selektiert. Während dieses Prozesses durchlaufen die Samenzellen bereits den Reifungsprozess (Kapazitation), der normalerweise erst im weiblichen Genitaltrakt stattfindet.
+
+Dieser Art der Insemination geht in den meisten Fällen eine hormonelle Stimulation voraus; diese führt in etwa 20 % aller Fälle zu Mehrlingsgeburten.
+Inhaltsverzeichnis
+
+    1 Erfolgsquote
+    2 Siehe auch
+    3 Literatur
+    4 Einzelnachweise
+
+Erfolgsquote
+
+Die Wahrscheinlichkeit, dass es durch eine intrauterine Insemination tatsächlich zu einer Schwangerschaft kommt, hängt von zahlreichen Faktoren ab, beispielsweise auch von einer etwaig vorliegenden gesundheitlichen Einschränkung des Mannes, die oft Grund für die Durchführung einer IUI ist.
+
+Laut Angaben der Universität Bonn schwankt die Erfolgsrate der intrauterinen Insemination abhängig von der Indikation zwischen 5 % und 10 % pro Zyklus. Die Chance einer Befruchtung nimmt demnach nach den ersten drei Versuchen ab.[1]
+
+Laut einer Studie, die die Daten aus den Jahren 1998 bis 2010 des Kinderwunschzentrums Wiesbaden auswertete, ist das Alter der Frau ebenfalls stark maßgebend. Demnach wurden abhängig vom Alter der Frau folgende Werte für eine Schwangerschaft ermittelt: 
+{END Intrauterine Insemination}
+
+
+{BEGIN Osteopenie}
+Die Osteopenie bezeichnet eine Minderung der Knochendichte, es handelt sich um eine Vorstufe zur Osteoporose. Allerdings bekommt nicht jeder Mensch mit diagnostizierter Osteopenie eine Osteoporose.
+
+Vielmehr ist Osteopenie folgendermaßen definiert: Die Messwerte der Knochendichte liegen bei der Osteopenie zwischen 1,0 und 2,5 Standardabweichungen niedriger im Vergleich zu einer alters- und geschlechtsspezifischen Norm (=T-Score). Auch wenn es sich erst ab einem Messwert von 2,5 Standardabweichungen um eine Osteoporose handelt, bedingt bereits die Osteopenie ein erhöhtes Risiko für Knochenbrüche.
+
+Wie die Osteoporose tritt sie besonders häufig bei Frauen nach der Menopause als Folge des Östrogenmangels auf. Das Risiko steigt durch bestimmte Lebensumstände wie zu wenig Sport, übermäßigen Alkoholkonsum, Rauchen oder die Einnahme von Medikamenten, die Glucocorticoide enthalten, während einer längeren Zeitspanne, wie sie zum Beispiel gegen gewisse Atem- und Hauterkrankungen verschrieben werden.
+
+Reicht eine Umstellung der Ernährung und eine vermehrte körperliche Aktivität zur Behandlung einer Osteopenie nicht aus, können Medikamente zur Anwendung kommen. Die Wirkung der verschiedenen Präparate ist allerdings bei den Medizinern umstritten.[1] Eingesetzt werden beispielsweise Calcium- und Vitamin-D-haltige Tabletten, Natriumfluoride und Bisphosphonate.
+
+Zur Abschätzung, ob bereits bei Vorliegen einer Osteopenie eine antiresorptive Therapie z. B. mit einem Aminobisphosphonat indiziert ist, kann anhand des computergestützten Algorithmus FRAX (WHO Fracture Risc Assessment Tool) und mit den Daten einer Knochendichtemessung das Zehnjahresrisiko für einen osteoporosebedingten Knochenbruch bzw. das für einen hüftgelenknahen Knochenbruch errechnet werden. Empfehlungen für eine Therapie mit Aminobisphosphonat bestehen bei einem Zehnjahresrisiko von 20 % bzw. 
+{END Osteopenie}
+
