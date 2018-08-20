@@ -1471,8 +1471,215 @@ König und Rütz entwickelten 1935 die erste aus Gummi bestehende zweiteilige Au
 
 {END Enterostoma}
 
+{BEGIN Sepsis}
+Die Sepsis (altgriechisch σῆψις sēpsis „Fäulnis“), umgangssprachlich auch „Blutvergiftung“, ist eine lebensbedrohliche komplexe systemische Entzündungsreaktion des Organismus auf eine Infektion durch Bakterien, deren Toxine oder Pilze.
+
+Sepsis ist die schwerste Komplikation von Infektionserkrankungen und kann zum Versagen von Organen führen, worauf sich (bei Vorliegen mindestens eines Organversagens) der Begriff schwere Sepsis bezieht. Ist bei einer Sepsis die Kreislauffunktion des Organismus eingeschränkt (Hypotension, verminderte Organdurchblutung), spricht man vom septischen Schock.
+
+Die Intensivmedizin kann durch vorübergehenden Ersatz oder Unterstützung der Organfunktionen (Beatmung, Nierenersatztherapie, Kreislauftherapie, Gerinnungstherapie) kritische Phasen überbrücken. Trotzdem versterben ca. 25 % der Patienten mit Sepsis und 45 % der Patienten mit schwerer Sepsis trotz maximaler Therapie.[1] Der frühestmögliche Therapiebeginn ist entscheidend für das Überleben.
+
+Sepsis ist eine der häufigsten und kostenintensivsten Erkrankungen im stationären Sektor.[1] Die Weltgesundheitsorganisation erklärte die Erkrankung daher 2017 zu einer der führenden Prioritäten in den Gesundheitssystemen der Mitgliedsstaaten, um Diagnostik, Therapie, Erfassung und Nachsorge von Sepsispatienten zu verbessern.[2][3]
+Inhaltsverzeichnis
+
+    1 Epidemiologie
+    2 Definitionen
+    3 Diagnosekriterien und Einteilung
+        3.1 SIRS, Sepsis, schwere Sepsis, septischer Schock — Definition von 1991
+        3.2 Sepsis-3 — Neue Definition von 2016
+    4 Pathophysiologie
+    5 Diagnostik
+    6 Therapie
+    7 Fachgesellschaften und Forschungsbereiche
+    8 Siehe auch
+    9 Literatur
+    10 Weblinks
+    11 Einzelnachweise
+
+Epidemiologie
+
+In Deutschland erkranken nach Berechnungen des Kompetenznetzes Sepsis jedes Jahr etwa 154.000 Menschen an einer Sepsis. Davon sterben ca. 56.000 an den Folgen der Erkrankung (Sterberate: 36 Prozent). Das sind etwa 154 Todesopfer pro Tag, ähnlich viele wie bei Herzinfarkten mit Todesfolge und mehr Opfer als bei der Todesursache Lungenkrebs. Die Sepsis steht damit an dritter Stelle der Todesursachen in Deutschland.[4] In der Todesursachenstatistik wird dies allerdings nicht abgebildet, weil dort nur Grunderkrankungen aufgeführt werden.[5]
+
+Für Europa gibt das Kompetenznetz Sepsis folgende Zahlen an: jährlich 550.000 Erkrankungen, 146.000 Todesfälle, Sterberate 26,5 %. Und weltweit: jährlich 1.500.000 Erkrankungen, 500.000 Todesfälle, Sterberate 33,3 %.[4] Nach Angaben der Deutschen Sepsis-Hilfe sterben weltweit mehr als 1400 Menschen pro Tag an einer schweren Sepsis.[6]
+
+Die Häufigkeit (Inzidenz) der Sepsis hat sich in den USA im Verlauf von Jahrzehnten auf etwa 3 pro 1000 Einwohner und Jahr gesteigert, wobei Frauen etwas seltener betroffen sind.[7]
+Definitionen
+
+Die vielfältigen Vorgänge und Schädigungsmechanismen im Rahmen einer Sepsis machen eine Definition schwer.
+
+    „Eine Sepsis liegt dann vor, wenn sich innerhalb des Körpers ein Herd gebildet hat, von dem kontinuierlich oder periodisch pathogene Bakterien in den Kreislauf gelangen und zwar derart, dass durch diese Invasion subjektive und objektive Krankheitserscheinungen ausgelöst werden.“
+
+– klassische Formulierung von Hugo Schottmüller (1914)[8]
+
+    „Sepsis ist die Gesamtheit der lebensbedrohlichen klinischen Krankheitserscheinungen und pathophysiologischen Veränderungen als Reaktion auf die Aktion pathogener Keime und ihrer Produkte, die aus einem Infektionsherd in den Blutstrom eindringen, die großen biologischen Kaskadensysteme und spezielle Zellsysteme aktivieren und die Bildung und Freisetzung humoraler und zellulärer Mediatoren auslösen.“
+
+– moderne Definition von Schuster und Werdan (2005)[9]
+
+    „Sepsis is defined as life-threatening organ dysfunction caused by a dysregulated host response to infection.“
+
+    „Sepsis ist definiert als lebensbedrohliche Organdysfunktion verursacht durch eine fehlregulierte Wirtsantwort auf eine Infektion.“
+
+– Mervyn Singer et al. für die Task Force der Society of Critical Care Medicine und der European Society of Intensive Care Medicine: Dritte Internationale Konsensus-Definition der Sepsis und des septischen Schocks (Sepsis-3)[10]
+Diagnosekriterien und Einteilung
+SIRS, Sepsis, schwere Sepsis, septischer Schock — Definition von 1991
+
+Auf einer internationalen Konsensuskonferenz in Northbrook wurden im August 1991 Definition und Diagnosekriterien von SIRS, Sepsis, schwerer Sepsis und septischem Schock einheitlich festgelegt.[11][12]
+
+Ein Systemisches inflammatorisches Response-Syndrom (SIRS) ist demnach gegeben, wenn zwei Kriterien der untenstehenden Kriteriengruppe II erfüllt sind. Eine Sepsis liegt bei einem zusätzlichen Nachweis einer Infektion vor (I und II). Kommt mindestens eine akute, durch die Sepsis sekundär bedingte Organschädigung hinzu, spricht man von einer schweren Sepsis (I, II und III erfüllt).
+
+Ein septischer Schock ist bei den Kriterien I und II sowie für wenigstens eine Stunde ein systolischer arterieller Blutdruck unter 90 mmHg bzw. ein mittlerer arterieller Blutdruck < 65 mmHg oder notwendiger Vasopressoreinsatz, um den systolischen arteriellen Blutdruck > 90 mmHg oder den arteriellen Mitteldruck > 65 mmHg zu halten, gegeben. Die Hypotonie besteht trotz adäquater Volumengabe und ist nicht durch andere Ursachen zu erklären. Da dies mittlerweile in die Gruppe-III-Kriterien mit aufgenommen wurde, ist der „septische Schock“ als Teilmenge der schweren Sepsis zu betrachten, hat jedoch eine deutlich schlechtere Prognose als die schwere Sepsis in ihrer Gesamtheit.
+Diagnosekriterien für SIRS, Sepsis und schwere Sepsis (ACCP/SCCM Konsensus-Konferenz)
+I   Nachweis der Infektion
+Diagnose einer Infektion über den mikrobiologischen Nachweis oder durch klinische Kriterien
+II   Systemisches inflammatorisches Response-Syndrom (SIRS): mindestens zwei der folgenden Kriterien erfüllt
+
+    Körpertemperatur > 38 °C oder < 36 °C
+    Tachykardie: Herzfrequenz > 90/min
+    Tachypnoe: Atemfrequenz > 20/min (Hyperventilation) bzw. Hypokapnie (PaCO2 < 4,3 kPa bzw. 32–33 mmHg)
+    Leukozytose (> 12.000 weiße Blutkörperchen/mm³) oder
+    Leukopenie (< 4.000/mm³) oder
+    Linksverschiebung mit > 10 % unreifen neutrophilen Granulozyten im Differentialblutbild
+
+III   Akute Organdysfunktion/Schwere Sepsis: mindestens eines der folgenden Kriterien erfüllt
+
+    Hirnschädigung (Enzephalopathie): eingeschränkte Vigilanz, Desorientiertheit, Unruhe, Delirium
+    Abfall der Blutplättchen (Thrombozytopenie): innerhalb von 24 Stunden Abfall der Thrombozyten um mehr als 30 % oder Thrombozytenzahl < 100.000/mm³ bei Ausschluss einer Erkrankung des Immunsystems oder einer akuten Blutung
+    Arterielle Hypotension (systolischer arterieller Blutdruck < 90 mmHg oder mittlerer arterieller Blutdruck < 70 mmHg über mindestens eine Stunde trotz adäquater Volumenzufuhr bei Abwesenheit anderer Schockursachen) → Septischer Schock
+    Sauerstoffmangel (Hypoxie): PaO2 < 10 kPa (75 mmHg) oder ein PaO2/FiO2 Verhältnis < 33 kPa (250 mmHg) unter Sauerstoffverabreichung bei Ausschluss einer kardialen oder pulmonalen Vorerkrankung
+    Akutes Nierenversagen: Harnproduktion (Diurese) < 0,5 ml/kg Körpergewicht/h für mindestens zwei Stunden, trotz ausreichender Volumensubstitution, und/oder Anstieg des Serumkreatinins um das Doppelte des lokal üblichen oberen Referenzbereichs
+    Metabolische Azidose: BE < −5 mmol oder Laktat > 1,5-fach im Vergleich zum lokal üblichen Referenzwert
+
+Sepsis-3 — Neue Definition von 2016
+
+Um dem Verlauf einer Sepsis und insbesondere der Organfunktionseinschränkung im Rahmen einer Sepsis gerecht zu werden, wurde 2016 eine neue Definition der Sepsis empfohlen.[10] Dabei wird die Sepsis als eine lebensbedrohliche Organfunktionseinschränkung durch eine übermäßige Reaktion des Körpers auf eine Infektion definiert. Die Organfunktionseinschränkung soll dabei anhand eines Punktesystems bestimmt werden. Bei diesem Sequential [Sepsis-related] Organ Failure Assessment, kurz: SOFA, werden jeweils bis zu 4 Punkte für die Funktionseinschränkung der folgenden Organsysteme vergeben:
+
+    Atmung (Horovitz-Quotient, PaO2/FiO2)
+    Gerinnung (Thrombozytenzahl)
+    Leber (Bilirubinwert)
+    Herzkreislauf (Blutdruck bzw. Katecholaminbedarf)
+    Gehirn (Glasgow Coma Scale)
+    Niere (Kreatininwert bzw. Urinmenge)
+
+Zusätzlich wurde ein vereinfachter quick SOFA (qSOFA) mit nur drei Kriterien eingeführt, der helfen soll, die Patienten zu identifizieren, die eine besonders hohe Sterblichkeit im Rahmen einer Sepsis aufweisen. Dabei müssen zwei der drei folgenden Kriterien erfüllt sein:
+
+    Atemfrequenz ≥22/min
+    eingeschränktes Bewusstsein
+    systolischer Blutdruck ≤100 mmHg.
+
+Pathophysiologie
+	Dieser Artikel oder nachfolgende Abschnitt ist nicht hinreichend mit Belegen (beispielsweise Einzelnachweisen) ausgestattet. Die fraglichen Angaben werden daher möglicherweise demnächst entfernt. Bitte hilf der Wikipedia, indem du die Angaben recherchierst und gute Belege einfügst.
+
+Der Sepsis liegt ein Versagen des Immunsystems zugrunde. Pathogenetisch grundlegend ist das Eindringen von Krankheitserregern oder von deren Toxinen in den Kreislauf. Das Resultat dieses Vorgangs hängt von drei Faktoren ab:
+
+    Zahl, Pathogenität und Virulenz der Erreger
+    Zustand der körpereigenen Abwehrmechanismen
+    Reaktion des Wirtsorganismus
+
+Unter normalen Umständen ist das Immunsystem des Körpers in der Lage, eingedrungene Erreger durch verschiedene Mechanismen in Schach zu halten. Selbst aus zunächst harmlosen infektiösen Entzündungen kann sich aber eine Sepsis entwickeln, wenn eine oder mehrere von folgenden vier Bedingungen vorliegen:
+
+    Eingeschränkte Immunabwehr
+    Massive Infektion mit vielen oder aggressiven Erregern
+    Eindringen der Erreger in strukturell schlecht geschützte Körperregionen (beispielsweise Bauchhöhle, Gehirn, Lunge)
+    Fehlende Behandlung und schrittweises Überwinden der Immunabwehr
+
+In der Folge kommt es, meist über den Blutkreislauf, zu einer Ausbreitung der Abwehrreaktion auf den gesamten Körper. Die im Falle einer Lokalinfektion sinnvolle Entzündungsreaktion entwickelt sich nun zum eigentlichen Motor der Sepsis. In einer überschießenden Reaktion freigesetzte große Mengen an Überträgerstoffen führen zu einer Entzündung des gesamten Körpers unter anderem mit Schwellungen, Durchblutungsstörungen und Sauerstoffmangel, ohne dass sie der Erregerbekämpfung nützten. Sind einmal lebenswichtige Organe davon betroffen, kann der daraus folgende Verlust ihrer Funktionsfähigkeit schnell zum eigentlichen begrenzenden Faktor für das Überleben der Patienten werden.
+
+Von Seiten des Wirtsorganismus wird heute eine initiale Reaktion von Monozyten und Makrophagen als gesichert angesehen. Dabei sind bei septischer Reaktion auf gramnegative Keime vor allem Makrophagen, auf grampositive Keime insbesondere T-Lymphozyten maßgeblich. In der Folge kommt es zur Freisetzung und Wirkung von Zytokinen (Tumor-Nekrose-Faktor (TNF), Interleukinen und Interferonen) und Lipidmediatoren (Thromboxan, Prostaglandine, Leukotriene und plättchenagglutinierender Faktor (PAF)). Direkt ursächlich für die Kreislaufdestabilisation sind unter anderem Gerinnungsstörungen, Hemmung katecholaminsensitiver Rezeptoren, Endothelzellschädigung und eine exzessive NO-Freisetzung.
+
+Zu den häufigsten Infektionsquellen einer Sepsis gehören die Lungenentzündung, Infektionen des Magendarmtrakts und des Urogenitaltrakts. Ferner auch Infektionen von Haut und Weichteilgewebe, des zentralen Nervensystems und sogenannte katheterassozierte Infektionen.
+Diagnostik
+	Dieser Artikel oder nachfolgende Abschnitt ist nicht hinreichend mit Belegen (beispielsweise Einzelnachweisen) ausgestattet. Die fraglichen Angaben werden daher möglicherweise demnächst entfernt. Bitte hilf der Wikipedia, indem du die Angaben recherchierst und gute Belege einfügst.
+
+Das SIRS ist die unspezifische Systemreaktion, in deren Zeichen ein Patient zunächst einmal auffällig wird. Werden diese Zeichen gefunden, muss nach einem infektiösen Fokus („Entzündungsherd“) gesucht werden. Gelingt es in einem Untersuchungsverfahren (etwa durch Blutkulturen, Trachealabstrich, Sepsis-PCR usw.), Erreger oder den infektiösen Fokus direkt nachzuweisen, ist damit die Diagnose „Sepsis“ gestellt, die ihrerseits diverse therapeutische Konsequenzen, unter anderem die Wahl des verwendeten Antibiotikums, hat.
+
+Allgemein wird unterschieden zwischen der Patientendiagnostik (prädiktive Biomarker) und der Erregerdiagnostik (Erregeridentifizierung). Zur Diagnosestellung Sepsis ist der Nachweis eines Erregers in Blutkultur, Trachealabstrich oder anderswo erforderlich. Mit Hilfe einer Biomarkeruntersuchung kann die Sepsis früh erkannt werden. Möglichkeiten zur Früherkennung bestehen in der Bestimmung von Procalcitonin (PCT), Interleukin-6 oder Interleukin-8 und LBP (lipopolysaccharidbindendes Protein), wobei IL-6 der Hauptvermittler der Akutphasenreaktion ist und das LBP zur Differenzierung von bakteriellen und viralen Infektionen dient. Bei Neugeborenen fällt die Sepsis (Neugeborenensepsis) oft durch Apathie und Trinkschwäche, blassen Teint und Blutdruckabfall mit kompensatorischer Steigerung der Herzfrequenz (Tachykardie) auf. Zur Diagnosesicherung kann man IL-6 oder IL-8, CRP (C-reaktives Protein) und PCT (Procalcitonin) im Blut bestimmen. Seit einiger Zeit steht auch ein Laborparameter namens Presepsin zur Verfügung.
+
+Die Erregeridentifizierung mittels Sepsis-PCR ist eine neuere Technologie zum Nachweis der auslösenden Bakterien oder Pilze. Es wird unterschieden zwischen der Multiplex-PCR (Identifizierung einer begrenzten Anzahl von Erregern) und der Breitband-PCR (Identifizierung aller Erreger). Der Sepsis-PCR wird großes Potential für die schnelle Sepsisdiagnostik zugetraut. Inzwischen konnte in ersten randomisierten klinischen Studien gezeigt werden, dass die Sepsisdiagnostik mittels Multiplex-PCR im Vergleich zur Blutkultur zu einer schnelleren Erregerdiagnostik bei intensivmedizinischen Patienten nach Operationen [13] und bei Patienten mit Neuropenie führt.[14] In weiteren Studien muss nun gezeigt werden, dass dies mit einem Überlebensvorteil für die Patienten verbunden ist.
+Therapie
+
+Die schwere Sepsis mit Organbeteiligung und der septische Schock erfordern Behandlungsmethoden der Intensivmedizin. Die Therapie muss hier schon vor dem definitiven Erregernachweis innerhalb von einer Stunde nach Diagnosestellung eingeleitet werden, da jede verstrichene Zeit die Überlebenswahrscheinlichkeit verringert.
+	Dieser Artikel oder Abschnitt bedarf einer Überarbeitung. Näheres ist auf der Diskussionsseite angegeben. Hilf mit, ihn zu verbessern, und entferne anschließend diese Markierung.
+
+Gesicherte (evidenzbasierte) Methoden sind:
+
+    (Chirurgische) Sanierung des Fokus
+    Antibiotika (intravenös und hochdosiert): initial breite Abdeckung nach Verdacht (kalkulierte Therapie bei bekanntem Infektionsherd, empirische Therapie mit Breitspektrum-Antibiotika bei unbekanntem Infektionsherd); nach Vorliegen eines Antibiogramms (Resistenzprüfung) ggf. Wechsel auf eine spezifischere Antibiotikatherapie. Alle 48 bis 72 Stunden Neubewertung der antibiotischen Therapie anhand klinischer und mikrobiologischer Kriterien.
+    Volumenzufuhr zur Einstellung eines ZVD > 8–12 mmHg[15][16] und Einstellung eines arteriellen Mitteldrucks auf ≥ 65 mmHg. Falls die Volumensubstitution alleine nicht ausreicht, ist frühzeitig eine Therapie mit Vasopressoren und/oder positiv inotropen Substanzen zu erwägen (Noradrenalin, Vasopressin); (Dobutamin[15][17]).[15][16] Die zentralvenöse Sauerstoffsättigung (wenn gemischtvenös nicht zur Verfügung steht) soll auf mindestens 70 % eingestellt bzw. gehalten werden.[15]
+    Optimale Hb-Konzentration mit Hämatokrit > 24–30 % (Hb 8–10 g/dL) ggf. Gabe von Erythrozytenkonzentraten.[16]
+    Beatmung mit Tidalvolumen von 6 ml/kg Körpergewicht[15] (Lungenprotektion). Strategie des Open-Lung-Konzepts mit Einstellung des PEEP oberhalb des Inflektionspunktes[18] mit Vermeidung der closing-volume-Wirkung.
+
+Weitere Therapieempfehlungen:
+
+    Eine Reihe von klinischen Untersuchungen belegt, dass Cortisol in Stressdosierung die Ansprechbarkeit auf Katecholamine verbessern und die Therapiedauer signifikant senken kann. Die Therapie soll innerhalb von 24 h nach Diagnosestellung „septischer Schock“ begonnen werden, wenn trotz ausreichender Volumensubstitution Katecholamine (in steigenden Dosierungen) benötigt werden, um einen adäquaten Blutdruck aufrecht zu halten. Die Therapie wird ausschleichend beendet, sobald keine Katecholamine mehr benötigt werden. Auf Grund neuerer Studiendaten[19][20] wird der Einsatz von Cortisol mit den damit verbundenen Komplikationen inzwischen kritisch gesehen. Nach den aktuellen deutschen Leitlinien zur Sepsis kann der Einsatz „bei Patienten mit einem therapiefraktären septischen Schock, die trotz Volumentherapie und Vasopressorentherapie in hoher Dosis nicht zu stabilisieren sind, als Ultima Ratio-Therapie erwogen werden.“[21]
+    Early Goal-Directed Therapy[22] (frühe zielgerichtete Therapie)
+
+Häufige Nebenwirkungen sind ein erhöhter Insulinbedarf (steroidinduzierter Diabetes mellitus) und Pseudoaldosteronismus mit Hypernatriämie (>150 mmol/l) und erhöhtem Kaliumbedarf (>240 mmol/d). Bei der Korrektur der hyperglykämischen Stoffwechsellage sollte eine zu starke Blutzuckersenkung vermieden werden. Der Blutzuckerzielbereich sollte zwischen 150 und 200 mg/dl gehalten werden.[23][24]
+
+Die jeweiligen Organbeteiligungen bei der schweren Sepsis erfordern oft unterstützend organersetzende Maßnahmen. Dazu gehören die Beatmungstherapie, Extrakorporale Membranoxygenierung und Nierenersatzverfahren.
+Fachgesellschaften und Forschungsbereiche
+
+Obwohl die Sepsis für viele Facharztgruppen ein relevantes Problem ist, wird Sepsis von keiner Medizindisziplin als Schwerpunktaufgabe begriffen. 2007 fand in München der 17th European Congress of Clinical Microbiology and Infectious Diseases gemeinsam mit dem 25th International Congress of Chemotherapy (ECCMID und ICC) statt. Wie schon in den Jahren zuvor war der ECCMID der bedeutendste Kongress zum Thema Infektionskrankheiten in Europa.
+
+    Deutsche Antisepsis Stiftung
+    Deutsche Sepsis-Gesellschaft
+    Center for Sepsis Control and Care (CSCC)
+    Europäische Gesellschaft für Intensivmedizin (ESICM)
+    Internationales Sepsis-Forum (ISF)
+    Forschungsbereich „Infektionen und Sepsis“ im Genomforschungsnetz
+    Österreichische Sepsis-Gesellschaft
+
+Siehe auch
+
+Bei der Abklärung folgender Krankheiten (bzw. Syndrome) ist auch an eine Sepsis zu denken:
+
+    Akutes Abdomen
+    Lungenentzündung
+    Akute Pankreatitis
+    Harnwegsinfekt
+    Meningitis
+{END Sepsis}
 
 
 
+{BEGIN Oxycodon}
+Oxycodon (auch Dihydroxycodeinon) ist ein stark wirkendes Opioid der Stufe III im WHO-Stufenschema (Klassifizierung der Schmerztherapie), das als Schmerzmittel bei starken bis sehr starken Schmerzen angewendet wird. Unter dem neuen Markennamen Oxygesic wurde es 2003 vom Hersteller Mundipharma wieder auf den deutschen Markt gebracht. Seit 2007 ist es als Generikum erhältlich.
+Inhaltsverzeichnis
+Entwicklungsgeschichte und Gegenwart
+
+Oxycodon wurde 1916 von Martin Freund (1863–1920) und Edmund Speyer (1878–1942) an der Universität Frankfurt/Main[4] entwickelt[5][6] und ein Jahr später von Merck in Darmstadt unter dem Namen Eukodal als schmerz- und hustenstillendes Mittel auf den Markt gebracht.[7][8] Seit 1919 wurde es als Analgetikum therapeutisch genutzt. Eukodal war bis 1990 in Deutschland im Handel und wurde wegen des sehr hohen Sucht- und Missbrauchspotentials vom Markt genommen.[9]
+
+Die ersten Fälle von Oxycodon-Missbrauch, der in Analogie zum Morphinismus Eukodalismus genannt wird,[7] wurden zu Beginn der 1920er Jahre geschildert.[10] Der US-amerikanische Pharmakonzern Purdue Pharma L.P. wurde im Jahr 2007 zu 634,5 Mio. US-Dollar Strafe verurteilt, weil er in der Packungsbeilage nicht ausreichend gekennzeichnet hatte, dass Oxycodon wie andere Opioide ein hohes Abhängigkeitspotenzial besitzt.[11]
+
+In Deutschland und den Vereinigten Staaten wird Oxycodon unter den Markennamen Oxygesic (und generischen Namensformen) bzw. Oxycontin als verschreibungspflichtiges Medikament vertrieben. Zusätzlich unterliegt Oxycodon in Deutschland dem Betäubungsmittelgesetz. Oxycodon ist in verschiedenen Arzneiformen erhältlich. Es gibt u. a. Tabletten mit schneller Wirkung, Retardtabletten, Zäpfchen, Kapseln und Injektionslösungen.
+
+Seit Herbst 2006 gibt es Oxycodon zusammen mit dem Opioidantagonisten Naloxon als Kombinationspräparat. Diese Kombination, unter dem Handelsnamen Targin von Mundipharma vertrieben, soll hauptsächlich der von Opioiden verursachten Verstopfung (Obstipation) entgegenwirken. Zudem kann der Naloxon-Anteil, wie auch bei der Kombination Tilidin/Naloxon, die missbräuchliche Verwendung speziell durch Drogenabhängige verhindern.
+
+2010 lag Oxycontin, das seit den 1990er Jahren aggressiv beworben worden war, in den Vereinigten Staaten auf Platz fünf der umsatzstärksten Medikamente. Der Umsatz betrug über 3,5 Mrd. US-Dollar.[12] In den letzten Jahren ist der Umsatz jedoch deutlich zurückgegangen, da inzwischen striktere Vorschriften eingeführt wurden. Im Jahr 2013 lag Oxycontin in den Vereinigten Staaten auf Platz 18 der umsatzstärksten Medikamente. Der Umsatz betrug nur noch 2,5 Mrd. US-Dollar.[13]
+
+In den Vereinigten Staaten wird Oxycodon auch zur Behandlung mäßiger Schmerzen verwendet.[14] Aufgrund seiner leichten Verfügbarkeit avancierte Oxycodon besonders unter der weißen Landbevölkerung zu einer verbreiteten Droge – ein Umstand, der ihm den Beinamen Hillbilly Heroin eintrug.[15] Der US-Staat Florida kämpft seit 2010 gegen sog. pill mills, Schmerzkliniken, in denen Opioide wie Oxycontin verschrieben werden. Durch staatliche Regulierung wurde die Verfügbarkeit seither verringert. Allerdings ist dafür ein illegaler Handel mit der Substanz aufgeblüht, und viele Oxycontin-Abhängige sind überdies auf Heroin umgestiegen, da es inzwischen günstiger und teilweise auch besser verfügbar ist.[16] Dies hat dazu beigetragen, dass die Zahl der Heroinsüchtigen in den USA in den letzten Jahren gerade außerhalb der Ballungsgebiete stark zugenommen hat. Man spricht von einer regelrechten „Epidemie“ und einer „Opioidkrise“.
+Wirkung
+
+Oxycodon wirkt an verschiedenen Opioidrezeptoren im Gehirn als Agonist und hat keine antagonistischen Effekte. Die schmerzstillende Wirkung,[17] also die analgetische Potenz, entspricht etwa der zweifachen des Morphins. Durch seine zusätzliche Wirkung am κ-Rezeptor wurde sowohl eine bessere Verträglichkeit als auch eine bessere Wirkung bei neuropathischen Schmerzen propagiert, wofür es jedoch keine kontrollierten, randomisierten Studien gibt.
+
+Oxycodon wirkt auch dämpfend auf das Hustenzentrum; die Substanz wurde daher in der Vergangenheit wie Codein auch als Hustenmittel-Wirkstoff verwendet.
+
+Die für die Wirkstoffkombination Oxycodon/Naloxon propagierte Reduktion der Opioid-induzierten Darmträgheit, die ansonsten bei bis zu 90 % der Patienten auftritt,[18] wird durch Naloxon erreicht. Allerdings benötigt auch unter Targin bis zur Hälfte der Patienten ein Laxans, um eine Verstopfung zu verhindern. Es liegt (Stand 2011) keine herstellerunabhängige klinische Studie vor, die der Frage nachgeht, ob durch die konsequente Verordnung stark wirkender Opioide kombiniert mit Laxantien das gleiche Ergebnis (Vermeidung der Obstipation) kostengünstiger als mit Targin erreicht wird.[19]
+Nebenwirkungen
+
+Oxycodon kann abhängig machen. Es kann, wie alle anderen Opioide, eine psychische Abhängigkeit und bei langfristiger Einnahme auch eine körperliche Abhängigkeit verursachen. Zudem gibt es ein Missbrauchspotenzial ähnlich dem anderer starker Opioide.[20][21]
+
+Oxycodon hat ein signifikantes Euphorisierungspotenzial. Die stärkere suchterzeugende Wirkung im Vergleich zu Morphin erklärt sich aus der Tatsache, dass (auch bei den retardierten Präparaten) etwa ein Drittel des Wirkstoffes innerhalb der ersten 15 Minuten freigesetzt wird, die Wirkung tritt dann nach ca. 10–20 Minuten ein. Kontrollierte Studien zu diesem für die Praxis relevanten Problem wurden bisher nicht veröffentlicht.[19] Es wird davor gewarnt, dass durch missbräuchliches Zerreiben oder Mörsern der Tabletten das Retardierungssystem zerstört und der gesamte Inhalt sofort wirksam wird, sodass eine tödliche Überdosierung durch Atemdepression auftreten kann.[19]
+
+Oxycodon weist außerdem die üblichen unerwünschten Wirkungen der Opioide auf, z. B.: Krämpfe der Bronchialmuskeln, Krämpfe der glatten Muskulatur der Gallengänge, Miosis, Stimmungsveränderungen (unter anderem Angst, Depression, Euphorie), Schlafstörungen, Nervosität, Veränderungen der Leistungsfähigkeit (wie Denkstörungen, Sprachstörungen, Verwirrtheit, Erinnerungslücken), Wahrnehmungsstörungen (etwa Depersonalisation, Halluzinationen, Geschmacksstörungen, Sehstörungen), Sedierung (Müdigkeit bis Benommenheit), Schwindel, Kopfschmerzen, Tremor, unwillkürliche Muskelkontraktionen, Koordinationsstörungen, Unwohlsein, epileptische Krampfanfälle (besonders bei Vorliegen einer Epilepsie bzw. Neigung zu Krampfanfällen), Blutdrucksenkung, Verstopfung, Übelkeit, Erbrechen, Magen-Darm-Beschwerden, Blasenentleerungsstörungen (Harnverhalt), Schwitzen.[22]
+Betäubungsmittelrechtliche Regelungen
+
+Oxycodon ist in Deutschland und in Österreich ein verkehrsfähiges und verschreibungsfähiges Betäubungsmittel[23] und darf nur auf einem Betäubungsmittelrezept verordnet werden. Der unerlaubte Besitz sowie der ungenehmigte Handel und die Weitergabe von Betäubungsmitteln werden mit Freiheitsstrafe bis zu fünf Jahren oder einer Geldstrafe bestraft (Betäubungsmittelgesetz § 29).
+
+Das Mitführen eines Opioid-Ausweises (Name des Medikamentes, verordnete Dosis, Name des Patienten, Geburtsdatum, verordnender Arzt) kann gerade für Führer von Kraftfahrzeugen oder anderen versicherungsrelevanten Fahrzeugen bei Verkehrskontrollen sinnvoll sein, um nachzuweisen, dass kein Drogenmissbrauch vorliegt. Für Alkoholkontrollen ist der Opioid-Ausweis unerheblich. Bei Reisen ins Ausland wird der Ausweis nicht als offizielles Dokument anerkannt.
+
+Für Reisen unter Mitnahme von Betäubungsmitteln gelten innerhalb und außerhalb Europas besondere Vorschriften. Regelungen und Formulare können auf der Homepage des Bundesinstitutes für Arzneimittel und Medizinprodukte (BfArM) eingesehen werden.[24]
+Oxycodon als gesellschaftliches Problem
+
+Der Dokumentarfilm Oxyana (2013) von Sean Dunne zeigt am Beispiel der Kleinstadt Oceana (Wyoming County, West Virginia), welche dramatischen Folgen der massenhafte Missbrauch von Schmerzmitteln wie Oxycodon für Betroffene, Familien und die Gesellschaft hat.[25] Tom Petty starb am 2. Oktober 2017 an einer Überdosis von Fentanyl und Oxycodon.[26] 
+{END Oxycodon}
 
 

@@ -563,6 +563,7 @@ götterspeise=jelly 19:50
 Krücke=crutch 27:10
 Handschellen=handcuffs 28:05
 zugeständnis=concession 28:49
+Leb wohl=farewell 40:44
 Steckdose=socket
 hinfallen=tumble
 voreingenommen=biased
@@ -573,16 +574,33 @@ Akne=acne
 
 E16
 rummelplatz=fair
-Auflage=edition
+Auflage=edition 00:26
+zweierlei=dual 00:31
+https://de.wikipedia.org/wiki/Spondylosis_deformans 00:39
+schätzungsweise=approximately 01:02
+ausgesessen=eat out 01:12
 Nacken=neck
-kribbeln=tingle
+kribbeln=tingle 01:34
 lähmung=paralysis
 bandscheibenvorfall=disk prolapse
 Absätze=heels
-flitterwochen=honeymoon
-Schwager=brother in law
-ich stelle bevorzugt Menschen mit Behinderung ein=I prefer
-
+flitterwochen=honeymoon 07:29
+nichts für ungut=no offense 08:??
+Schwager=brother in law 08:44
+ich stelle bevorzugt Menschen mit Behinderung ein=I prefer 08:47
+https://de.wikipedia.org/wiki/Varikozele 09:51
+Bestätigung=confirmation 10:50
+https://de.wikipedia.org/wiki/Meningeom 10:57
+https://de.wikipedia.org/wiki/Hirnhaut Dura 11:13
+https://de.wikipedia.org/wiki/Subarachnoidalraum 11:25
+https://de.wikipedia.org/wiki/Sepsis 13:49
+abwälzen=unload 16:29
+ausgesprochen=extreme 16:32
+angepiepst=paged 18:28
+falsche vorwand=false pretense 18:34
+kirmes=rummel=funfair 24:48
+vorbestraft=previously convicted 24:58
+https://de.wikipedia.org/wiki/Oxycodon 26:15
 aussuchen=choose
 
 
