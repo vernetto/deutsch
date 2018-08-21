@@ -393,7 +393,7 @@ verdrängung=repression
 unangemessen=inadequate
 speiseröhre=esophagus 20:36
 Starke Leistung=great job 20:52
-Hirnstamm=brainstem 21:14
+https://de.wikipedia.org/wiki/Hirnstamm 21:14 brainstem 21:14
 aufmüpfig=rebellious 24:40
 aufsässig=defiant 24:40
 Stock im Arsch=stick in the ass 24:50
@@ -409,7 +409,6 @@ auftreten=occur 37:30
 hinzunehmen=accept
 
 https://de.wikipedia.org/wiki/Musculus_palmaris_longus 06:13
-https://de.wikipedia.org/wiki/Hirnstamm 21:14
 https://de.wikipedia.org/wiki/Schwannom 
 https://de.wikipedia.org/wiki/Maligne_Hyperthermie
 https://de.wikipedia.org/wiki/Dantrolen 
@@ -601,24 +600,68 @@ falsche vorwand=false pretense 18:34
 kirmes=rummel=funfair 24:48
 vorbestraft=previously convicted 24:58
 https://de.wikipedia.org/wiki/Oxycodon 26:15
-aussuchen=choose
+flügel (SING) flügel (PLUR)=wings 26:58
+Zahnseide=dental floss 27:01
+Wucherung=proliferation 33:03
+https://de.wikipedia.org/wiki/Amiodaron 33:51
+ausstehen=stand 40:34
 
 
 E17
-erbost=infuriated
-eingeredet=persuaded
-ausgeredet=dissuaded
-Süchtig=addicted
-Macken=Schrulle=quirks
-Türstopper=door stopper
-unauffällig=inconspicuous
-hinsetzen=sit down
-Molly=Ecstasy
-Aufgeben=give up
-Bildgebung=imaging
+https://de.wikipedia.org/wiki/M%C3%B6bius-Syndrom 00:47
+überschlafen=sleep on 01:16
+https://de.wikipedia.org/wiki/Clindamycin 02:55
+hingewiesen=pointed out 05:53
+unergründlich=unfathomable,inscrutable 06:00
+unnahbar=unapproachable 06:00
+bewusst verachtet=deliberately despised 06:03
+erbost=infuriated 08:07
+eingeredet=persuaded 08:10
+ausgeredet=dissuaded 08:12
+https://de.wikipedia.org/wiki/Schlaganfall 08:30
+https://de.wikipedia.org/wiki/Endorphine 08:40
+https://de.wikipedia.org/wiki/Temporallappen 08:46
+ansteckend=contagious 08:49
+ausgeschüttet=distributed 09:15
+abgeraten=discouraged 11:13
+Süchtig=addicted 24:53
+https://de.wikipedia.org/wiki/Leukozyt 26:32
+https://de.wikipedia.org/wiki/Swan-Ganz-Katheter 26:47
+https://de.wikipedia.org/wiki/%C3%9Cbertragung_(Psychoanalyse) 29:15
+vorübergehend=temporarily 30:01
+Verwundbar=vulnerable 30:16
+unauffällig=inconspicuous 31:13
+https://de.wikipedia.org/wiki/Suxamethonium Succinyldicholin 32:17
+https://de.wikipedia.org/wiki/Cholinesterasen Plasmacholinesterase 32:22
+https://de.wikipedia.org/wiki/Herpes_Zoster Gürtelrose  34:40
+verkraften=cope with 38:09
+Macken=Schrulle=quirks 40:15
+Türstopper=door stopper 42:00
+
+
+E18
+
+https://de.wikipedia.org/wiki/Gliom 05:36
+https://de.wikipedia.org/wiki/Thorakotomie 07:42
+https://de.wikipedia.org/wiki/Diffusions-Tensor-Bildgebung DTI 10:14
+hinsetzen=sit down 10:32
+beschwatzen=cajole, talk into 11:30
+https://de.wikipedia.org/wiki/Disseminierte_intravasale_Koagulopathie 11:47
+https://de.wikipedia.org/wiki/MDMA 
+ Molly=Ecstasy 16:31
+aufgeben=give up 17:26
+wage es nicht=don't you dare 17:30
+https://de.wikipedia.org/wiki/Glioblastom 19:47
+Bildgebung=imaging 22:10
 Ermessen=judgement
-
-
+https://de.wikipedia.org/wiki/Gewebespezifischer_Plasminogenaktivator  TPA infusion 24:37
+nicht im geringsten=not in the least 27:17
+https://de.wikipedia.org/wiki/Paroxysmale_n%C3%A4chtliche_H%C3%A4moglobinurie  PNH 27:53
+https://de.wikipedia.org/wiki/Durchflusszytometrie 28:01
+https://de.wikipedia.org/wiki/Siebbein#Au%C3%9Fenw%C3%A4nde Lamina cribrosa 31:36
+absägen=saw off 32:25 
+mitbewerber=competitor 32:30
+Zusagen=promise 34:53
 
 GLOSSARY
 
@@ -647,16 +690,12 @@ https://de.wikipedia.org/wiki/Retraktor_(Chirurgie) 28
 16
 
 https://en.wikipedia.org/wiki/Spondylolisthesis#Anterolisthesis  16 00:39
-https://de.wikipedia.org/wiki/Clindamycin
 https://de.wikipedia.org/wiki/L%C3%A4cheln
 
 https://de.wikipedia.org/wiki/Omentum_minus
 
 https://de.wikipedia.org/wiki/Natriumhydrogencarbonat
 https://de.wikipedia.org/wiki/Amphetamin
-https://de.wikipedia.org/wiki/MDMA 
-https://de.wikipedia.org/wiki/Disseminierte_intravasale_Koagulopathie  DIC
-https://de.wikipedia.org/wiki/Glioblastom 
 
-https://de.wikipedia.org/wiki/Gewebespezifischer_Plasminogenaktivator  TPA infusion
-https://de.wikipedia.org/wiki/Paroxysmale_n%C3%A4chtliche_H%C3%A4moglobinurie 
+
+

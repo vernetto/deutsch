@@ -1320,10 +1320,10 @@ Im Kindesalter ist die Diskussion zwischen offenen und minimalinvasiven Verfahre
 Die Antibiotika-assoziierte Diarrhoe bezeichnet einen durch die Einnahme von Antibiotika entstandenen Durchfall. 
 Begriffserläuterung
 
-Unter Antibiotika-assoziierte Diarrhoe werden unterschiedliche Krankheiten zusammengefasst, die alle zu einem Durchfall während oder bis zu acht Wochen nach Einnahme eines oder mehrerer Antibiotika führen.[1] Dabei spielt es keine Rolle, ob das Antibiotikum geschluckt oder als Infusion direkt in das Blut gegeben wird. Oft ist das Phänomen harmlos; selten jedoch kann die Antibiotika-assoziierte Diarrhoe lebensbedrohlich werden. Es ist durch Antibiotika allerdings auch eine bleibende Schädigung der Mikrobengemeinschaft im Darm möglich, insbesondere bei häufiger oder hochdosierter Gabe dieser Medikamente in der Kindheit.[2]
+Unter Antibiotika-assoziierte Diarrhoe werden unterschiedliche Krankheiten zusammengefasst, die alle zu einem Durchfall während oder bis zu acht Wochen nach Einnahme eines oder mehrerer Antibiotika führen.  Dabei spielt es keine Rolle, ob das Antibiotikum geschluckt oder als Infusion direkt in das Blut gegeben wird. Oft ist das Phänomen harmlos; selten jedoch kann die Antibiotika-assoziierte Diarrhoe lebensbedrohlich werden. Es ist durch Antibiotika allerdings auch eine bleibende Schädigung der Mikrobengemeinschaft im Darm möglich, insbesondere bei häufiger oder hochdosierter Gabe dieser Medikamente in der Kindheit. 
 Epidemiologie
 
-Die Wahrscheinlichkeit, eine Antibiotika-assoziierte Diarrhoe zu erleiden, liegt bei 5–35 % und ist abhängig von der Art des Antibiotikums, der Gesundheit des Patienten und ob der Patient einer Vielzahl von pathogenen Keimen ausgesetzt ist. Aufgrund des üblicherweise schlechteren Gesundheitszustandes und möglichen Krankenhauskeimen ist die Wahrscheinlichkeit bei hospitalisierten Patienten höher, eine Antibiotika-assoziierte Diarrhoe zu erleiden, als im ambulanten Bereich.[1]
+Die Wahrscheinlichkeit, eine Antibiotika-assoziierte Diarrhoe zu erleiden, liegt bei 5–35 % und ist abhängig von der Art des Antibiotikums, der Gesundheit des Patienten und ob der Patient einer Vielzahl von pathogenen Keimen ausgesetzt ist. Aufgrund des üblicherweise schlechteren Gesundheitszustandes und möglichen Krankenhauskeimen ist die Wahrscheinlichkeit bei hospitalisierten Patienten höher, eine Antibiotika-assoziierte Diarrhoe zu erleiden, als im ambulanten Bereich. 
 Ursachen
 
 Man unterscheidet drei verschiedene Krankheitsursachen:
@@ -1345,9 +1345,9 @@ Therapie (Behandlung)
 
 Prophylaxe
 
-Mehrere Studien haben ergeben, dass Probiotika das Auftreten der Antibiotika-assoziierten Diarrhoe verhindern können, indem sie prophylaktisch bzw. zeitgleich zu einer notwendigen Antibiotikatherapie verabreicht werden. So ergab zum Beispiel eine kontrollierte, randomisierte Doppelblindstudie aus dem Jahr 1999,[3] die mit 202 Kindern im Alter von 6 Monaten bis 10 Jahren durchgeführt wurde (wovon 188 in die Auswertung einflossen), dass bei 25 von 95 Kindern der Placebogruppe, aber nur bei 7 von 93 Kindern der mit Lactobacillus rhamnosus GG behandelten Kinder (= Verumgruppe) Durchfälle nach der notwendigen Antibiotikatherapie auftraten. In einer weiteren kontrollierten, randomisierten Doppelblindstudie aus dem Jahr 2005, welche mit 269 Kinder im Alter von 6 Monaten bis 14 Jahren durchgeführt wurde (wovon 246 in die Auswertung einflossen), konnte gezeigt werden, dass sich das Risiko einer Antibiotika-assoziierten Diarrhoe durch die zeitgleiche Einnahme von Saccharomyces boulardii deutlich senkte. In der Placebogruppe erkrankten 22 von 127 Kindern an einer Antibiotika-assoziierten Diarrhoe, hingegen führte die Einnahme von Saccharomyces boulardii lediglich bei 4 von 119 Kindern zu dieser Art von Durchfällen.[4] Eine weitere Studie verwendete parallel zur Antibiotikagabe eine definierte Menge Joghurt (227 g) als Nahrungsergänzung. Ergebnis: Die Gabe von Joghurt halbierte die Zahl der Patienten mit Durchfällen und reduzierte noch deutlicher die Gesamtzahl der Tage mit Durchfall: Nur 12 % (gegenüber 24 %) klagten in der Joghurtgruppe über Durchfall; und 23 Durchfall-Tagen in der Joghurtgruppe standen 60 Durchfall-Tage in der Nicht-Joghurtgruppe gegenüber.[5]
+Mehrere Studien haben ergeben, dass Probiotika das Auftreten der Antibiotika-assoziierten Diarrhoe verhindern können, indem sie prophylaktisch bzw. zeitgleich zu einer notwendigen Antibiotikatherapie verabreicht werden. So ergab zum Beispiel eine kontrollierte, randomisierte Doppelblindstudie aus dem Jahr 1999,  die mit 202 Kindern im Alter von 6 Monaten bis 10 Jahren durchgeführt wurde (wovon 188 in die Auswertung einflossen), dass bei 25 von 95 Kindern der Placebogruppe, aber nur bei 7 von 93 Kindern der mit Lactobacillus rhamnosus GG behandelten Kinder (= Verumgruppe) Durchfälle nach der notwendigen Antibiotikatherapie auftraten. In einer weiteren kontrollierten, randomisierten Doppelblindstudie aus dem Jahr 2005, welche mit 269 Kinder im Alter von 6 Monaten bis 14 Jahren durchgeführt wurde (wovon 246 in die Auswertung einflossen), konnte gezeigt werden, dass sich das Risiko einer Antibiotika-assoziierten Diarrhoe durch die zeitgleiche Einnahme von Saccharomyces boulardii deutlich senkte. In der Placebogruppe erkrankten 22 von 127 Kindern an einer Antibiotika-assoziierten Diarrhoe, hingegen führte die Einnahme von Saccharomyces boulardii lediglich bei 4 von 119 Kindern zu dieser Art von Durchfällen.  Eine weitere Studie verwendete parallel zur Antibiotikagabe eine definierte Menge Joghurt (227 g) als Nahrungsergänzung. Ergebnis: Die Gabe von Joghurt halbierte die Zahl der Patienten mit Durchfällen und reduzierte noch deutlicher die Gesamtzahl der Tage mit Durchfall: Nur 12 % (gegenüber 24 %) klagten in der Joghurtgruppe über Durchfall; und 23 Durchfall-Tagen in der Joghurtgruppe standen 60 Durchfall-Tage in der Nicht-Joghurtgruppe gegenüber. 
 
-Eine Metaanalyse, in der neun randomisiert kontrollierte Studien ausgewertet wurden, kommt zu dem Schluss, dass Probiotika bei der Prävention der Antibiotika-assoziierten Diarrhoe hilfreich sind. Saccharomyces boulardii und Lactobacillus sind bei dieser Indikation am wirksamsten.[6] Hierbei sollte jedoch beachtet werden, dass Bakterien (wie z. B. Lactobacillen) von Antibiotika angegriffen werden und somit eine zeitversetzte Einnahme zum Antibiotikum zu erfolgen hat. Auch die gleichzeitige Einnahme von Milchprodukten ist bei Antibiotika der Tetracyclin-Gruppe und so genannten Gyrasehemmern nicht möglich, da ansonsten die Wirkung der Antibiotika verloren geht;[7] diese genannten Antibiotika sollten deshalb immer mindestens zwei bis drei Stunden zeitversetzt zum Verzehr von Milchprodukten eingenommen werden. 
+Eine Metaanalyse, in der neun randomisiert kontrollierte Studien ausgewertet wurden, kommt zu dem Schluss, dass Probiotika bei der Prävention der Antibiotika-assoziierten Diarrhoe hilfreich sind. Saccharomyces boulardii und Lactobacillus sind bei dieser Indikation am wirksamsten.  Hierbei sollte jedoch beachtet werden, dass Bakterien (wie z. B. Lactobacillen) von Antibiotika angegriffen werden und somit eine zeitversetzte Einnahme zum Antibiotikum zu erfolgen hat. Auch die gleichzeitige Einnahme von Milchprodukten ist bei Antibiotika der Tetracyclin-Gruppe und so genannten Gyrasehemmern nicht möglich, da ansonsten die Wirkung der Antibiotika verloren geht;  diese genannten Antibiotika sollten deshalb immer mindestens zwei bis drei Stunden zeitversetzt zum Verzehr von Milchprodukten eingenommen werden. 
 
 
 {END Antibiotika-assoziierte Diarrhoe}
@@ -1364,7 +1364,7 @@ Die Orchiektomie (auch Orchidektomie, Orchektomie, von griechisch ὄρχις or
 Die Kastration durch Orchiektomie war historisch eine religiöse Praxis der männlichen Skopzen. In Deutschland ist sie auch unter gewissen Bedingungen zur freiwilligen Therapie von Sexualstörungen erlaubt, wie im Gesetz über die freiwillige Kastration und andere Behandlungsmethoden (KastrG) vom 15. August 1969 festgelegt ist.
 Anwendung bei Prostatakrebs
 
-Die Entfernung beider Hoden wird meist im Zusammenhang mit einem fortgeschrittenen Prostatakrebs durchgeführt. Ziel der Behandlung ist hier, das weitere Wachstum dieser hormonabhängigen Erkrankung zu bremsen. Die Wirksamkeit medikamentöser Verfahren – oft als „chemische Kastration“ bezeichnete Therapieformen – ist hier der Orchiektomie nicht überlegen.[1]
+Die Entfernung beider Hoden wird meist im Zusammenhang mit einem fortgeschrittenen Prostatakrebs durchgeführt. Ziel der Behandlung ist hier, das weitere Wachstum dieser hormonabhängigen Erkrankung zu bremsen. Die Wirksamkeit medikamentöser Verfahren – oft als „chemische Kastration“ bezeichnete Therapieformen – ist hier der Orchiektomie nicht überlegen. 
 
 Als subkapsuläre oder plastische Orchiektomie wird ein operatives Verfahren bezeichnet, bei dem nur das hormonproduzierende Keimgewebe entfernt wird und Nebenhoden und Hodenhüllen stehen bleiben, was zur Folge hat, dass der Eindruck besteht, es sei ein (kleinerer) Hoden weiterhin vorhanden. Alternativ kann eine Hodenprothese implantiert werden. 
 
@@ -1376,7 +1376,7 @@ Das Enterostoma (griech. ἕντερον énteron, „Darm“, στὁμα stoma
 
 Je nach verwendetem Darmabschnitt sprechen Mediziner von Ileostoma (Ausleitung vom Ileum), Coecostoma (Ausleitung vom Blinddarm, Coecum), Colostoma (Ausleitung vom Colon) oder Transversostoma (Ausleitung vom Colon transversum). Umgangssprachlich werden Coeco-, Colo- und Transversostoma häufig unter dem Begriff Colostoma zusammengefasst, da das Colon einen Großteil des Dickdarms (Intestineum crassum) ausmacht. Eine weitere Form bildet das Urostoma, was jedoch nicht als Darm-, sondern als operativ angelegter sogenannter Harnausgang angelegt wird.
 
-Mögliche zugrundeliegende Krankheiten oder Störungen für die Anlage eines Enterostomas sind Karzinome des Abdomens (72 %); entzündliche Darmerkrankungen wie Morbus Crohn, Colitis ulcerosa oder Divertikulitis (21 %), Familiäre Adenomatöse Polyposis (FAP) sowie Komplikationen im Rahmen abdominaler Operationen, Organfehlbildungen bei Neugeborenen, Unfälle und anderes (7 %).[1]
+Mögliche zugrundeliegende Krankheiten oder Störungen für die Anlage eines Enterostomas sind Karzinome des Abdomens (72 %); entzündliche Darmerkrankungen wie Morbus Crohn, Colitis ulcerosa oder Divertikulitis (21 %), Familiäre Adenomatöse Polyposis (FAP) sowie Komplikationen im Rahmen abdominaler Operationen, Organfehlbildungen bei Neugeborenen, Unfälle und anderes (7 %). 
 
 Die entsprechende Operation heißt Enterostomie, in den Spezialfällen Ileostomie oder Colostomie. Betroffen sind alle Altersgruppen – nicht, wie oftmals angenommen, nur ältere Menschen. Schätzungen zufolge gibt es etwa 100.000 Stomaträger in Deutschland. 
 
@@ -1384,11 +1384,11 @@ Operationsverfahren
 
 Die Operation zur Anlage und zur Rückverlegung eines Enterostomas wird unter Narkose durchgeführt. Die Betreuung der Patienten durch eine Stomafachkraft bereits vor der Operation ist ebenso wie das präoperative Anzeichnen einer optimalen Stomaposition im Sitzen, Liegen und Stehen wichtiger Bestandteil einer kompetenten Enterostomie (Ausnahme: Notfalloperation). Durch präoperatives Anzeichnen werden Fehlplatzierungen beispielsweise in Körperfalten vermieden, die zu einer schlechten Haftung der Stomaversorgung und nachfolgend verringerter Lebensqualität führen können.
 
-Die meisten Stomaanlagen erfolgen mittels Bauchschnitt (Laparotomie). In einigen Fällen, bei denen unabhängig von der Stomaanlage kein größerer Eingriff notwendig ist, kommt zunehmend auch ein minimalinvasiver operativer Eingriff während einer Bauchspiegelung (Laparoskopie) zum Einsatz. Mit Ausnahme des Coecostomas kann ein Enterostoma je nach Operationshintergrund entweder endständig oder doppelläufig (siehe weiter unten) angelegt werden. Da die Coecostomie einer Fistelbildung des Caecums zur Bauchwand gleichkommt, muss sie gesondert betrachtet werden.[2]
+Die meisten Stomaanlagen erfolgen mittels Bauchschnitt (Laparotomie). In einigen Fällen, bei denen unabhängig von der Stomaanlage kein größerer Eingriff notwendig ist, kommt zunehmend auch ein minimalinvasiver operativer Eingriff während einer Bauchspiegelung (Laparoskopie) zum Einsatz. Mit Ausnahme des Coecostomas kann ein Enterostoma je nach Operationshintergrund entweder endständig oder doppelläufig (siehe weiter unten) angelegt werden. Da die Coecostomie einer Fistelbildung des Caecums zur Bauchwand gleichkommt, muss sie gesondert betrachtet werden. 
 
-Ein Colostoma (Anm.: umgangssprachlich Dickdarmstoma) wird leicht erhaben hervorstehend (prominent) und spannungsfrei durch den geraden Bauchmuskel (Musculus rectus abdominis) angelegt. Abknickungen nach innen an der Bauchdecke müssen vermieden werden. Zur Vermeidung innerer Hernien wird das Grimmdarmgekröse (Mesocolon descendens) an der seitlichen Bauchdecke fixiert.[3] Das Colostoma fördert vornehmlich breiige bis feste Stühle in größeren Zeitabständen.
+Ein Colostoma (Anm.: umgangssprachlich Dickdarmstoma) wird leicht erhaben hervorstehend (prominent) und spannungsfrei durch den geraden Bauchmuskel (Musculus rectus abdominis) angelegt. Abknickungen nach innen an der Bauchdecke müssen vermieden werden. Zur Vermeidung innerer Hernien wird das Grimmdarmgekröse (Mesocolon descendens) an der seitlichen Bauchdecke fixiert.  Das Colostoma fördert vornehmlich breiige bis feste Stühle in größeren Zeitabständen.
 
-Beim Ileostoma (Anm.: umgangssprachlich Dünndarmstoma) sollte so viel wie möglich vom Dünndarm erhalten werden, um einen hohen Elektrolyt- und Wasserverlust zu vermeiden (funktionelles Kurzdarmsyndrom). Der zuführende Schenkel wird nach unten weisend (kaudal) ausgeleitet und soll durch Ausstülpung des Dünndarmes nach außen möglichst 1 bis 2 cm (andere Autoren sprechen von bis zu 6 cm[2]) über das Hautniveau hinausragen, um einen Kontakt des aggressiven Dünndarmsekretes mit der Haut zu vermeiden.[3] Das Ileostoma fördert permanent und die Ausscheidungen sind breiig bis flüssig.
+Beim Ileostoma (Anm.: umgangssprachlich Dünndarmstoma) sollte so viel wie möglich vom Dünndarm erhalten werden, um einen hohen Elektrolyt- und Wasserverlust zu vermeiden (funktionelles Kurzdarmsyndrom). Der zuführende Schenkel wird nach unten weisend (kaudal) ausgeleitet und soll durch Ausstülpung des Dünndarmes nach außen möglichst 1 bis 2 cm (andere Autoren sprechen von bis zu 6 cm ) über das Hautniveau hinausragen, um einen Kontakt des aggressiven Dünndarmsekretes mit der Haut zu vermeiden.  Das Ileostoma fördert permanent und die Ausscheidungen sind breiig bis flüssig.
 
 Eine dritte Stomaart ist das Urostoma wobei es sich um einen sog. Harnausgang oder Blasenausgang handelt, über den Urin ausgeschieden wird.
 Endständiges (Entero-)Stoma
@@ -1420,7 +1420,7 @@ Da der Darm und dementsprechend auch ein Stoma nicht über Schmerzrezeptoren ver
 
 Nicht bedenklich ist es, wenn der Darm in der ersten Zeit nach der Operation noch unregelmäßig arbeitet. Die Ausscheidungen können anfangs auch flüssiger sein und es kann zunächst zu vermehrten Blähungen kommen.
 
-Eine regelmäßige Betreuung durch einen Enterostomatherapeuten kann helfen, Komplikationen vorzubeugen und wichtige Fragen zu klären. Entsprechende Ansprechpartner können über die Fachgesellschaft Stoma, Kontinenz und Wunde e.V. (ehemals DVET Fachverband Stoma und Inkontinenz e.V.) [4] oder über die Deutsche ILCO e.V.[1] gefunden werden.
+Eine regelmäßige Betreuung durch einen Enterostomatherapeuten kann helfen, Komplikationen vorzubeugen und wichtige Fragen zu klären. Entsprechende Ansprechpartner können über die Fachgesellschaft Stoma, Kontinenz und Wunde e.V. (ehemals DVET Fachverband Stoma und Inkontinenz e.V.)   oder über die Deutsche ILCO e.V.  gefunden werden.
 Die Stoma-Versorgung
 Ileostomy 2016-09-09 4158.jpg
 
@@ -1446,7 +1446,7 @@ Ein gut angelegtes Stoma schränkt das Leben kaum ein. Sport, Beruf und sexuelle
 
 Eine Schwangerschaft birgt für Stomaträgerinnen die gleichen Risiken wie für jede andere Frau auch. Einschränkungen gibt es hier nur auf Grundlage der Vorerkrankung oder bei Anlage eines doppelläufigen Stomas.
 
-Unter Vorlage eines Schwerbehindertenausweises oder einer ärztlichen Bescheinigung können Stomaträger beim CBF Darmstadt e.V.[5] den sog. Euroschlüssel käuflich erwerben. Der Schlüssel passt an Autobahntoiletten, an Behinderten-Toiletten vieler Städte in der Bundesrepublik, in Österreich, der Schweiz und bereits in einigen weiteren europäischen Ländern. Ein hygienischer Plattenwechsel in sauberen sanitären Anlagen ist dadurch jederzeit möglich.
+Unter Vorlage eines Schwerbehindertenausweises oder einer ärztlichen Bescheinigung können Stomaträger beim CBF Darmstadt e.V.  den sog. Euroschlüssel käuflich erwerben. Der Schlüssel passt an Autobahntoiletten, an Behinderten-Toiletten vieler Städte in der Bundesrepublik, in Österreich, der Schweiz und bereits in einigen weiteren europäischen Ländern. Ein hygienischer Plattenwechsel in sauberen sanitären Anlagen ist dadurch jederzeit möglich.
 
 Die bundesweit geltenden Parkerleichterungen nach § 46 Abs. 1 Nr. 11 Straßenverkehrs-Ordnung (StVO) (sog. Gelber Parkausweis) können auch
 
@@ -1455,7 +1455,7 @@ Die bundesweit geltenden Parkerleichterungen nach § 46 Abs. 1 Nr. 11 Straßenve
 
 in Anspruch nehmen.
 
-Bei Fernreisen empfiehlt es sich, das vom Selbsthilfeverband der europäischen Stomaträger entworfene internationale Reise-Zertifikat[6] vom Arzt unterzeichnen zu lassen. Es klärt ausländische Behörden und das Flughafenpersonal über das Stoma auf und verhindert, dass die Stomaversorgung zwecks Kontrolle ohne Anwesenheit eines Arztes vom Bauch genommen wird.
+Bei Fernreisen empfiehlt es sich, das vom Selbsthilfeverband der europäischen Stomaträger entworfene internationale Reise-Zertifikat  vom Arzt unterzeichnen zu lassen. Es klärt ausländische Behörden und das Flughafenpersonal über das Stoma auf und verhindert, dass die Stomaversorgung zwecks Kontrolle ohne Anwesenheit eines Arztes vom Bauch genommen wird.
 Geschichte
 
 Bereits aus der Antike wurde die Anlage erster Enterostomata überliefert. So hat beispielsweise Praxagoras von Kos im 4. Jahrhundert v. Chr. bei Darmverletzungen einen künstlichen Darmausgang geschaffen. Ob diese Behandlungen erfolgreich waren, wird seitens der Geschichte nicht berichtet. Paracelsus (1493–1541) wies nachdrücklich darauf hin, dass dem „Kunstafter“ unbedingt der Vorzug vor anderen Manipulationen am verletzten Darm gegeben werden solle.
@@ -1466,7 +1466,7 @@ Doch erst van Erckenlens zeigte 1879 in seiner Studie die Vorteile dieses Zugang
 
 König und Rütz entwickelten 1935 die erste aus Gummi bestehende zweiteilige Auffangvorrichtung zur Stomaversorgung, die mit einem Gürtel fixiert wurde. Diese stellte aber eine ebenso starke Geruchsbelästigung dar wie die bis dahin eher üblichen aus Metall gebördelten oder aus Gummi gefertigten, mit Tüchern ausgestopften Schalen (Pelotten), die mit Stahlfedern und Ledergürtel fixiert wurden. Die dänische Krankenschwester Elise Sörensen, deren Schwester Stomaträgerin war, hatte 1954 schließlich die Idee für eine neue Stomaversorgung in der Form eines selbstklebenden Beutels. Gemeinsam mit dem Unternehmer Louis Hansen, Fabrikant von Plastiktüten, entwickelte sie den ersten selbstklebenden Stomabeutel mit Zinkoxid-Klebefläche.
 
-1968 gründete sich in den USA die North American Association of Enterostomal Therapists, die später in International Association for Enterostomal Therapy umbenannt wurde und seit 1992 Wound, Ostomy and Continence Nurses Society (WOCN)[7] heißt. 1972 stellte sich mit der ILCO auch in Deutschland eine Selbsthilfegruppe der Stomaträger auf, was 1978 zur Gründung der ersten deutschen Schule für Enterostomatherapie führte. Seitdem wurden die Bedingungen für die Versorgung von Stomapatienten zunehmend besser. 
+1968 gründete sich in den USA die North American Association of Enterostomal Therapists, die später in International Association for Enterostomal Therapy umbenannt wurde und seit 1992 Wound, Ostomy and Continence Nurses Society (WOCN)  heißt. 1972 stellte sich mit der ILCO auch in Deutschland eine Selbsthilfegruppe der Stomaträger auf, was 1978 zur Gründung der ersten deutschen Schule für Enterostomatherapie führte. Seitdem wurden die Bedingungen für die Versorgung von Stomapatienten zunehmend besser. 
 
 
 {END Enterostoma}
@@ -1476,9 +1476,9 @@ Die Sepsis (altgriechisch σῆψις sēpsis „Fäulnis“), umgangssprachlich
 
 Sepsis ist die schwerste Komplikation von Infektionserkrankungen und kann zum Versagen von Organen führen, worauf sich (bei Vorliegen mindestens eines Organversagens) der Begriff schwere Sepsis bezieht. Ist bei einer Sepsis die Kreislauffunktion des Organismus eingeschränkt (Hypotension, verminderte Organdurchblutung), spricht man vom septischen Schock.
 
-Die Intensivmedizin kann durch vorübergehenden Ersatz oder Unterstützung der Organfunktionen (Beatmung, Nierenersatztherapie, Kreislauftherapie, Gerinnungstherapie) kritische Phasen überbrücken. Trotzdem versterben ca. 25 % der Patienten mit Sepsis und 45 % der Patienten mit schwerer Sepsis trotz maximaler Therapie.[1] Der frühestmögliche Therapiebeginn ist entscheidend für das Überleben.
+Die Intensivmedizin kann durch vorübergehenden Ersatz oder Unterstützung der Organfunktionen (Beatmung, Nierenersatztherapie, Kreislauftherapie, Gerinnungstherapie) kritische Phasen überbrücken. Trotzdem versterben ca. 25 % der Patienten mit Sepsis und 45 % der Patienten mit schwerer Sepsis trotz maximaler Therapie.  Der frühestmögliche Therapiebeginn ist entscheidend für das Überleben.
 
-Sepsis ist eine der häufigsten und kostenintensivsten Erkrankungen im stationären Sektor.[1] Die Weltgesundheitsorganisation erklärte die Erkrankung daher 2017 zu einer der führenden Prioritäten in den Gesundheitssystemen der Mitgliedsstaaten, um Diagnostik, Therapie, Erfassung und Nachsorge von Sepsispatienten zu verbessern.[2][3]
+Sepsis ist eine der häufigsten und kostenintensivsten Erkrankungen im stationären Sektor.  Die Weltgesundheitsorganisation erklärte die Erkrankung daher 2017 zu einer der führenden Prioritäten in den Gesundheitssystemen der Mitgliedsstaaten, um Diagnostik, Therapie, Erfassung und Nachsorge von Sepsispatienten zu verbessern.  
 Inhaltsverzeichnis
 
     1 Epidemiologie
@@ -1497,32 +1497,32 @@ Inhaltsverzeichnis
 
 Epidemiologie
 
-In Deutschland erkranken nach Berechnungen des Kompetenznetzes Sepsis jedes Jahr etwa 154.000 Menschen an einer Sepsis. Davon sterben ca. 56.000 an den Folgen der Erkrankung (Sterberate: 36 Prozent). Das sind etwa 154 Todesopfer pro Tag, ähnlich viele wie bei Herzinfarkten mit Todesfolge und mehr Opfer als bei der Todesursache Lungenkrebs. Die Sepsis steht damit an dritter Stelle der Todesursachen in Deutschland.[4] In der Todesursachenstatistik wird dies allerdings nicht abgebildet, weil dort nur Grunderkrankungen aufgeführt werden.[5]
+In Deutschland erkranken nach Berechnungen des Kompetenznetzes Sepsis jedes Jahr etwa 154.000 Menschen an einer Sepsis. Davon sterben ca. 56.000 an den Folgen der Erkrankung (Sterberate: 36 Prozent). Das sind etwa 154 Todesopfer pro Tag, ähnlich viele wie bei Herzinfarkten mit Todesfolge und mehr Opfer als bei der Todesursache Lungenkrebs. Die Sepsis steht damit an dritter Stelle der Todesursachen in Deutschland.  In der Todesursachenstatistik wird dies allerdings nicht abgebildet, weil dort nur Grunderkrankungen aufgeführt werden. 
 
-Für Europa gibt das Kompetenznetz Sepsis folgende Zahlen an: jährlich 550.000 Erkrankungen, 146.000 Todesfälle, Sterberate 26,5 %. Und weltweit: jährlich 1.500.000 Erkrankungen, 500.000 Todesfälle, Sterberate 33,3 %.[4] Nach Angaben der Deutschen Sepsis-Hilfe sterben weltweit mehr als 1400 Menschen pro Tag an einer schweren Sepsis.[6]
+Für Europa gibt das Kompetenznetz Sepsis folgende Zahlen an: jährlich 550.000 Erkrankungen, 146.000 Todesfälle, Sterberate 26,5 %. Und weltweit: jährlich 1.500.000 Erkrankungen, 500.000 Todesfälle, Sterberate 33,3 %.  Nach Angaben der Deutschen Sepsis-Hilfe sterben weltweit mehr als 1400 Menschen pro Tag an einer schweren Sepsis. 
 
-Die Häufigkeit (Inzidenz) der Sepsis hat sich in den USA im Verlauf von Jahrzehnten auf etwa 3 pro 1000 Einwohner und Jahr gesteigert, wobei Frauen etwas seltener betroffen sind.[7]
+Die Häufigkeit (Inzidenz) der Sepsis hat sich in den USA im Verlauf von Jahrzehnten auf etwa 3 pro 1000 Einwohner und Jahr gesteigert, wobei Frauen etwas seltener betroffen sind. 
 Definitionen
 
 Die vielfältigen Vorgänge und Schädigungsmechanismen im Rahmen einer Sepsis machen eine Definition schwer.
 
     „Eine Sepsis liegt dann vor, wenn sich innerhalb des Körpers ein Herd gebildet hat, von dem kontinuierlich oder periodisch pathogene Bakterien in den Kreislauf gelangen und zwar derart, dass durch diese Invasion subjektive und objektive Krankheitserscheinungen ausgelöst werden.“
 
-– klassische Formulierung von Hugo Schottmüller (1914)[8]
+– klassische Formulierung von Hugo Schottmüller (1914) 
 
     „Sepsis ist die Gesamtheit der lebensbedrohlichen klinischen Krankheitserscheinungen und pathophysiologischen Veränderungen als Reaktion auf die Aktion pathogener Keime und ihrer Produkte, die aus einem Infektionsherd in den Blutstrom eindringen, die großen biologischen Kaskadensysteme und spezielle Zellsysteme aktivieren und die Bildung und Freisetzung humoraler und zellulärer Mediatoren auslösen.“
 
-– moderne Definition von Schuster und Werdan (2005)[9]
+– moderne Definition von Schuster und Werdan (2005) 
 
     „Sepsis is defined as life-threatening organ dysfunction caused by a dysregulated host response to infection.“
 
     „Sepsis ist definiert als lebensbedrohliche Organdysfunktion verursacht durch eine fehlregulierte Wirtsantwort auf eine Infektion.“
 
-– Mervyn Singer et al. für die Task Force der Society of Critical Care Medicine und der European Society of Intensive Care Medicine: Dritte Internationale Konsensus-Definition der Sepsis und des septischen Schocks (Sepsis-3)[10]
+– Mervyn Singer et al. für die Task Force der Society of Critical Care Medicine und der European Society of Intensive Care Medicine: Dritte Internationale Konsensus-Definition der Sepsis und des septischen Schocks (Sepsis-3) 
 Diagnosekriterien und Einteilung
 SIRS, Sepsis, schwere Sepsis, septischer Schock — Definition von 1991
 
-Auf einer internationalen Konsensuskonferenz in Northbrook wurden im August 1991 Definition und Diagnosekriterien von SIRS, Sepsis, schwerer Sepsis und septischem Schock einheitlich festgelegt.[11][12]
+Auf einer internationalen Konsensuskonferenz in Northbrook wurden im August 1991 Definition und Diagnosekriterien von SIRS, Sepsis, schwerer Sepsis und septischem Schock einheitlich festgelegt.  
 
 Ein Systemisches inflammatorisches Response-Syndrom (SIRS) ist demnach gegeben, wenn zwei Kriterien der untenstehenden Kriteriengruppe II erfüllt sind. Eine Sepsis liegt bei einem zusätzlichen Nachweis einer Infektion vor (I und II). Kommt mindestens eine akute, durch die Sepsis sekundär bedingte Organschädigung hinzu, spricht man von einer schweren Sepsis (I, II und III erfüllt).
 
@@ -1550,7 +1550,7 @@ III   Akute Organdysfunktion/Schwere Sepsis: mindestens eines der folgenden Krit
 
 Sepsis-3 — Neue Definition von 2016
 
-Um dem Verlauf einer Sepsis und insbesondere der Organfunktionseinschränkung im Rahmen einer Sepsis gerecht zu werden, wurde 2016 eine neue Definition der Sepsis empfohlen.[10] Dabei wird die Sepsis als eine lebensbedrohliche Organfunktionseinschränkung durch eine übermäßige Reaktion des Körpers auf eine Infektion definiert. Die Organfunktionseinschränkung soll dabei anhand eines Punktesystems bestimmt werden. Bei diesem Sequential [Sepsis-related] Organ Failure Assessment, kurz: SOFA, werden jeweils bis zu 4 Punkte für die Funktionseinschränkung der folgenden Organsysteme vergeben:
+Um dem Verlauf einer Sepsis und insbesondere der Organfunktionseinschränkung im Rahmen einer Sepsis gerecht zu werden, wurde 2016 eine neue Definition der Sepsis empfohlen.  Dabei wird die Sepsis als eine lebensbedrohliche Organfunktionseinschränkung durch eine übermäßige Reaktion des Körpers auf eine Infektion definiert. Die Organfunktionseinschränkung soll dabei anhand eines Punktesystems bestimmt werden. Bei diesem Sequential [Sepsis-related] Organ Failure Assessment, kurz: SOFA, werden jeweils bis zu 4 Punkte für die Funktionseinschränkung der folgenden Organsysteme vergeben:
 
     Atmung (Horovitz-Quotient, PaO2/FiO2)
     Gerinnung (Thrombozytenzahl)
@@ -1593,7 +1593,7 @@ Das SIRS ist die unspezifische Systemreaktion, in deren Zeichen ein Patient zun�
 
 Allgemein wird unterschieden zwischen der Patientendiagnostik (prädiktive Biomarker) und der Erregerdiagnostik (Erregeridentifizierung). Zur Diagnosestellung Sepsis ist der Nachweis eines Erregers in Blutkultur, Trachealabstrich oder anderswo erforderlich. Mit Hilfe einer Biomarkeruntersuchung kann die Sepsis früh erkannt werden. Möglichkeiten zur Früherkennung bestehen in der Bestimmung von Procalcitonin (PCT), Interleukin-6 oder Interleukin-8 und LBP (lipopolysaccharidbindendes Protein), wobei IL-6 der Hauptvermittler der Akutphasenreaktion ist und das LBP zur Differenzierung von bakteriellen und viralen Infektionen dient. Bei Neugeborenen fällt die Sepsis (Neugeborenensepsis) oft durch Apathie und Trinkschwäche, blassen Teint und Blutdruckabfall mit kompensatorischer Steigerung der Herzfrequenz (Tachykardie) auf. Zur Diagnosesicherung kann man IL-6 oder IL-8, CRP (C-reaktives Protein) und PCT (Procalcitonin) im Blut bestimmen. Seit einiger Zeit steht auch ein Laborparameter namens Presepsin zur Verfügung.
 
-Die Erregeridentifizierung mittels Sepsis-PCR ist eine neuere Technologie zum Nachweis der auslösenden Bakterien oder Pilze. Es wird unterschieden zwischen der Multiplex-PCR (Identifizierung einer begrenzten Anzahl von Erregern) und der Breitband-PCR (Identifizierung aller Erreger). Der Sepsis-PCR wird großes Potential für die schnelle Sepsisdiagnostik zugetraut. Inzwischen konnte in ersten randomisierten klinischen Studien gezeigt werden, dass die Sepsisdiagnostik mittels Multiplex-PCR im Vergleich zur Blutkultur zu einer schnelleren Erregerdiagnostik bei intensivmedizinischen Patienten nach Operationen [13] und bei Patienten mit Neuropenie führt.[14] In weiteren Studien muss nun gezeigt werden, dass dies mit einem Überlebensvorteil für die Patienten verbunden ist.
+Die Erregeridentifizierung mittels Sepsis-PCR ist eine neuere Technologie zum Nachweis der auslösenden Bakterien oder Pilze. Es wird unterschieden zwischen der Multiplex-PCR (Identifizierung einer begrenzten Anzahl von Erregern) und der Breitband-PCR (Identifizierung aller Erreger). Der Sepsis-PCR wird großes Potential für die schnelle Sepsisdiagnostik zugetraut. Inzwischen konnte in ersten randomisierten klinischen Studien gezeigt werden, dass die Sepsisdiagnostik mittels Multiplex-PCR im Vergleich zur Blutkultur zu einer schnelleren Erregerdiagnostik bei intensivmedizinischen Patienten nach Operationen   und bei Patienten mit Neuropenie führt.  In weiteren Studien muss nun gezeigt werden, dass dies mit einem Überlebensvorteil für die Patienten verbunden ist.
 Therapie
 
 Die schwere Sepsis mit Organbeteiligung und der septische Schock erfordern Behandlungsmethoden der Intensivmedizin. Die Therapie muss hier schon vor dem definitiven Erregernachweis innerhalb von einer Stunde nach Diagnosestellung eingeleitet werden, da jede verstrichene Zeit die Überlebenswahrscheinlichkeit verringert.
@@ -1603,16 +1603,16 @@ Gesicherte (evidenzbasierte) Methoden sind:
 
     (Chirurgische) Sanierung des Fokus
     Antibiotika (intravenös und hochdosiert): initial breite Abdeckung nach Verdacht (kalkulierte Therapie bei bekanntem Infektionsherd, empirische Therapie mit Breitspektrum-Antibiotika bei unbekanntem Infektionsherd); nach Vorliegen eines Antibiogramms (Resistenzprüfung) ggf. Wechsel auf eine spezifischere Antibiotikatherapie. Alle 48 bis 72 Stunden Neubewertung der antibiotischen Therapie anhand klinischer und mikrobiologischer Kriterien.
-    Volumenzufuhr zur Einstellung eines ZVD > 8–12 mmHg[15][16] und Einstellung eines arteriellen Mitteldrucks auf ≥ 65 mmHg. Falls die Volumensubstitution alleine nicht ausreicht, ist frühzeitig eine Therapie mit Vasopressoren und/oder positiv inotropen Substanzen zu erwägen (Noradrenalin, Vasopressin); (Dobutamin[15][17]).[15][16] Die zentralvenöse Sauerstoffsättigung (wenn gemischtvenös nicht zur Verfügung steht) soll auf mindestens 70 % eingestellt bzw. gehalten werden.[15]
-    Optimale Hb-Konzentration mit Hämatokrit > 24–30 % (Hb 8–10 g/dL) ggf. Gabe von Erythrozytenkonzentraten.[16]
-    Beatmung mit Tidalvolumen von 6 ml/kg Körpergewicht[15] (Lungenprotektion). Strategie des Open-Lung-Konzepts mit Einstellung des PEEP oberhalb des Inflektionspunktes[18] mit Vermeidung der closing-volume-Wirkung.
+    Volumenzufuhr zur Einstellung eines ZVD > 8–12 mmHg   und Einstellung eines arteriellen Mitteldrucks auf ≥ 65 mmHg. Falls die Volumensubstitution alleine nicht ausreicht, ist frühzeitig eine Therapie mit Vasopressoren und/oder positiv inotropen Substanzen zu erwägen (Noradrenalin, Vasopressin); (Dobutamin  ).   Die zentralvenöse Sauerstoffsättigung (wenn gemischtvenös nicht zur Verfügung steht) soll auf mindestens 70 % eingestellt bzw. gehalten werden. 
+    Optimale Hb-Konzentration mit Hämatokrit > 24–30 % (Hb 8–10 g/dL) ggf. Gabe von Erythrozytenkonzentraten. 
+    Beatmung mit Tidalvolumen von 6 ml/kg Körpergewicht  (Lungenprotektion). Strategie des Open-Lung-Konzepts mit Einstellung des PEEP oberhalb des Inflektionspunktes  mit Vermeidung der closing-volume-Wirkung.
 
 Weitere Therapieempfehlungen:
 
-    Eine Reihe von klinischen Untersuchungen belegt, dass Cortisol in Stressdosierung die Ansprechbarkeit auf Katecholamine verbessern und die Therapiedauer signifikant senken kann. Die Therapie soll innerhalb von 24 h nach Diagnosestellung „septischer Schock“ begonnen werden, wenn trotz ausreichender Volumensubstitution Katecholamine (in steigenden Dosierungen) benötigt werden, um einen adäquaten Blutdruck aufrecht zu halten. Die Therapie wird ausschleichend beendet, sobald keine Katecholamine mehr benötigt werden. Auf Grund neuerer Studiendaten[19][20] wird der Einsatz von Cortisol mit den damit verbundenen Komplikationen inzwischen kritisch gesehen. Nach den aktuellen deutschen Leitlinien zur Sepsis kann der Einsatz „bei Patienten mit einem therapiefraktären septischen Schock, die trotz Volumentherapie und Vasopressorentherapie in hoher Dosis nicht zu stabilisieren sind, als Ultima Ratio-Therapie erwogen werden.“[21]
-    Early Goal-Directed Therapy[22] (frühe zielgerichtete Therapie)
+    Eine Reihe von klinischen Untersuchungen belegt, dass Cortisol in Stressdosierung die Ansprechbarkeit auf Katecholamine verbessern und die Therapiedauer signifikant senken kann. Die Therapie soll innerhalb von 24 h nach Diagnosestellung „septischer Schock“ begonnen werden, wenn trotz ausreichender Volumensubstitution Katecholamine (in steigenden Dosierungen) benötigt werden, um einen adäquaten Blutdruck aufrecht zu halten. Die Therapie wird ausschleichend beendet, sobald keine Katecholamine mehr benötigt werden. Auf Grund neuerer Studiendaten   wird der Einsatz von Cortisol mit den damit verbundenen Komplikationen inzwischen kritisch gesehen. Nach den aktuellen deutschen Leitlinien zur Sepsis kann der Einsatz „bei Patienten mit einem therapiefraktären septischen Schock, die trotz Volumentherapie und Vasopressorentherapie in hoher Dosis nicht zu stabilisieren sind, als Ultima Ratio-Therapie erwogen werden.“ 
+    Early Goal-Directed Therapy  (frühe zielgerichtete Therapie)
 
-Häufige Nebenwirkungen sind ein erhöhter Insulinbedarf (steroidinduzierter Diabetes mellitus) und Pseudoaldosteronismus mit Hypernatriämie (>150 mmol/l) und erhöhtem Kaliumbedarf (>240 mmol/d). Bei der Korrektur der hyperglykämischen Stoffwechsellage sollte eine zu starke Blutzuckersenkung vermieden werden. Der Blutzuckerzielbereich sollte zwischen 150 und 200 mg/dl gehalten werden.[23][24]
+Häufige Nebenwirkungen sind ein erhöhter Insulinbedarf (steroidinduzierter Diabetes mellitus) und Pseudoaldosteronismus mit Hypernatriämie (>150 mmol/l) und erhöhtem Kaliumbedarf (>240 mmol/d). Bei der Korrektur der hyperglykämischen Stoffwechsellage sollte eine zu starke Blutzuckersenkung vermieden werden. Der Blutzuckerzielbereich sollte zwischen 150 und 200 mg/dl gehalten werden.  
 
 Die jeweiligen Organbeteiligungen bei der schweren Sepsis erfordern oft unterstützend organersetzende Maßnahmen. Dazu gehören die Beatmungstherapie, Extrakorporale Membranoxygenierung und Nierenersatzverfahren.
 Fachgesellschaften und Forschungsbereiche
@@ -1645,41 +1645,616 @@ Oxycodon (auch Dihydroxycodeinon) ist ein stark wirkendes Opioid der Stufe III i
 Inhaltsverzeichnis
 Entwicklungsgeschichte und Gegenwart
 
-Oxycodon wurde 1916 von Martin Freund (1863–1920) und Edmund Speyer (1878–1942) an der Universität Frankfurt/Main[4] entwickelt[5][6] und ein Jahr später von Merck in Darmstadt unter dem Namen Eukodal als schmerz- und hustenstillendes Mittel auf den Markt gebracht.[7][8] Seit 1919 wurde es als Analgetikum therapeutisch genutzt. Eukodal war bis 1990 in Deutschland im Handel und wurde wegen des sehr hohen Sucht- und Missbrauchspotentials vom Markt genommen.[9]
+Oxycodon wurde 1916 von Martin Freund (1863–1920) und Edmund Speyer (1878–1942) an der Universität Frankfurt/Main  entwickelt   und ein Jahr später von Merck in Darmstadt unter dem Namen Eukodal als schmerz- und hustenstillendes Mittel auf den Markt gebracht.   Seit 1919 wurde es als Analgetikum therapeutisch genutzt. Eukodal war bis 1990 in Deutschland im Handel und wurde wegen des sehr hohen Sucht- und Missbrauchspotentials vom Markt genommen. 
 
-Die ersten Fälle von Oxycodon-Missbrauch, der in Analogie zum Morphinismus Eukodalismus genannt wird,[7] wurden zu Beginn der 1920er Jahre geschildert.[10] Der US-amerikanische Pharmakonzern Purdue Pharma L.P. wurde im Jahr 2007 zu 634,5 Mio. US-Dollar Strafe verurteilt, weil er in der Packungsbeilage nicht ausreichend gekennzeichnet hatte, dass Oxycodon wie andere Opioide ein hohes Abhängigkeitspotenzial besitzt.[11]
+Die ersten Fälle von Oxycodon-Missbrauch, der in Analogie zum Morphinismus Eukodalismus genannt wird,  wurden zu Beginn der 1920er Jahre geschildert.  Der US-amerikanische Pharmakonzern Purdue Pharma L.P. wurde im Jahr 2007 zu 634,5 Mio. US-Dollar Strafe verurteilt, weil er in der Packungsbeilage nicht ausreichend gekennzeichnet hatte, dass Oxycodon wie andere Opioide ein hohes Abhängigkeitspotenzial besitzt. 
 
 In Deutschland und den Vereinigten Staaten wird Oxycodon unter den Markennamen Oxygesic (und generischen Namensformen) bzw. Oxycontin als verschreibungspflichtiges Medikament vertrieben. Zusätzlich unterliegt Oxycodon in Deutschland dem Betäubungsmittelgesetz. Oxycodon ist in verschiedenen Arzneiformen erhältlich. Es gibt u. a. Tabletten mit schneller Wirkung, Retardtabletten, Zäpfchen, Kapseln und Injektionslösungen.
 
 Seit Herbst 2006 gibt es Oxycodon zusammen mit dem Opioidantagonisten Naloxon als Kombinationspräparat. Diese Kombination, unter dem Handelsnamen Targin von Mundipharma vertrieben, soll hauptsächlich der von Opioiden verursachten Verstopfung (Obstipation) entgegenwirken. Zudem kann der Naloxon-Anteil, wie auch bei der Kombination Tilidin/Naloxon, die missbräuchliche Verwendung speziell durch Drogenabhängige verhindern.
 
-2010 lag Oxycontin, das seit den 1990er Jahren aggressiv beworben worden war, in den Vereinigten Staaten auf Platz fünf der umsatzstärksten Medikamente. Der Umsatz betrug über 3,5 Mrd. US-Dollar.[12] In den letzten Jahren ist der Umsatz jedoch deutlich zurückgegangen, da inzwischen striktere Vorschriften eingeführt wurden. Im Jahr 2013 lag Oxycontin in den Vereinigten Staaten auf Platz 18 der umsatzstärksten Medikamente. Der Umsatz betrug nur noch 2,5 Mrd. US-Dollar.[13]
+2010 lag Oxycontin, das seit den 1990er Jahren aggressiv beworben worden war, in den Vereinigten Staaten auf Platz fünf der umsatzstärksten Medikamente. Der Umsatz betrug über 3,5 Mrd. US-Dollar.  In den letzten Jahren ist der Umsatz jedoch deutlich zurückgegangen, da inzwischen striktere Vorschriften eingeführt wurden. Im Jahr 2013 lag Oxycontin in den Vereinigten Staaten auf Platz 18 der umsatzstärksten Medikamente. Der Umsatz betrug nur noch 2,5 Mrd. US-Dollar. 
 
-In den Vereinigten Staaten wird Oxycodon auch zur Behandlung mäßiger Schmerzen verwendet.[14] Aufgrund seiner leichten Verfügbarkeit avancierte Oxycodon besonders unter der weißen Landbevölkerung zu einer verbreiteten Droge – ein Umstand, der ihm den Beinamen Hillbilly Heroin eintrug.[15] Der US-Staat Florida kämpft seit 2010 gegen sog. pill mills, Schmerzkliniken, in denen Opioide wie Oxycontin verschrieben werden. Durch staatliche Regulierung wurde die Verfügbarkeit seither verringert. Allerdings ist dafür ein illegaler Handel mit der Substanz aufgeblüht, und viele Oxycontin-Abhängige sind überdies auf Heroin umgestiegen, da es inzwischen günstiger und teilweise auch besser verfügbar ist.[16] Dies hat dazu beigetragen, dass die Zahl der Heroinsüchtigen in den USA in den letzten Jahren gerade außerhalb der Ballungsgebiete stark zugenommen hat. Man spricht von einer regelrechten „Epidemie“ und einer „Opioidkrise“.
+In den Vereinigten Staaten wird Oxycodon auch zur Behandlung mäßiger Schmerzen verwendet.  Aufgrund seiner leichten Verfügbarkeit avancierte Oxycodon besonders unter der weißen Landbevölkerung zu einer verbreiteten Droge – ein Umstand, der ihm den Beinamen Hillbilly Heroin eintrug.  Der US-Staat Florida kämpft seit 2010 gegen sog. pill mills, Schmerzkliniken, in denen Opioide wie Oxycontin verschrieben werden. Durch staatliche Regulierung wurde die Verfügbarkeit seither verringert. Allerdings ist dafür ein illegaler Handel mit der Substanz aufgeblüht, und viele Oxycontin-Abhängige sind überdies auf Heroin umgestiegen, da es inzwischen günstiger und teilweise auch besser verfügbar ist.  Dies hat dazu beigetragen, dass die Zahl der Heroinsüchtigen in den USA in den letzten Jahren gerade außerhalb der Ballungsgebiete stark zugenommen hat. Man spricht von einer regelrechten „Epidemie“ und einer „Opioidkrise“.
 Wirkung
 
-Oxycodon wirkt an verschiedenen Opioidrezeptoren im Gehirn als Agonist und hat keine antagonistischen Effekte. Die schmerzstillende Wirkung,[17] also die analgetische Potenz, entspricht etwa der zweifachen des Morphins. Durch seine zusätzliche Wirkung am κ-Rezeptor wurde sowohl eine bessere Verträglichkeit als auch eine bessere Wirkung bei neuropathischen Schmerzen propagiert, wofür es jedoch keine kontrollierten, randomisierten Studien gibt.
+Oxycodon wirkt an verschiedenen Opioidrezeptoren im Gehirn als Agonist und hat keine antagonistischen Effekte. Die schmerzstillende Wirkung,  also die analgetische Potenz, entspricht etwa der zweifachen des Morphins. Durch seine zusätzliche Wirkung am κ-Rezeptor wurde sowohl eine bessere Verträglichkeit als auch eine bessere Wirkung bei neuropathischen Schmerzen propagiert, wofür es jedoch keine kontrollierten, randomisierten Studien gibt.
 
 Oxycodon wirkt auch dämpfend auf das Hustenzentrum; die Substanz wurde daher in der Vergangenheit wie Codein auch als Hustenmittel-Wirkstoff verwendet.
 
-Die für die Wirkstoffkombination Oxycodon/Naloxon propagierte Reduktion der Opioid-induzierten Darmträgheit, die ansonsten bei bis zu 90 % der Patienten auftritt,[18] wird durch Naloxon erreicht. Allerdings benötigt auch unter Targin bis zur Hälfte der Patienten ein Laxans, um eine Verstopfung zu verhindern. Es liegt (Stand 2011) keine herstellerunabhängige klinische Studie vor, die der Frage nachgeht, ob durch die konsequente Verordnung stark wirkender Opioide kombiniert mit Laxantien das gleiche Ergebnis (Vermeidung der Obstipation) kostengünstiger als mit Targin erreicht wird.[19]
+Die für die Wirkstoffkombination Oxycodon/Naloxon propagierte Reduktion der Opioid-induzierten Darmträgheit, die ansonsten bei bis zu 90 % der Patienten auftritt,  wird durch Naloxon erreicht. Allerdings benötigt auch unter Targin bis zur Hälfte der Patienten ein Laxans, um eine Verstopfung zu verhindern. Es liegt (Stand 2011) keine herstellerunabhängige klinische Studie vor, die der Frage nachgeht, ob durch die konsequente Verordnung stark wirkender Opioide kombiniert mit Laxantien das gleiche Ergebnis (Vermeidung der Obstipation) kostengünstiger als mit Targin erreicht wird. 
 Nebenwirkungen
 
-Oxycodon kann abhängig machen. Es kann, wie alle anderen Opioide, eine psychische Abhängigkeit und bei langfristiger Einnahme auch eine körperliche Abhängigkeit verursachen. Zudem gibt es ein Missbrauchspotenzial ähnlich dem anderer starker Opioide.[20][21]
+Oxycodon kann abhängig machen. Es kann, wie alle anderen Opioide, eine psychische Abhängigkeit und bei langfristiger Einnahme auch eine körperliche Abhängigkeit verursachen. Zudem gibt es ein Missbrauchspotenzial ähnlich dem anderer starker Opioide.  
 
-Oxycodon hat ein signifikantes Euphorisierungspotenzial. Die stärkere suchterzeugende Wirkung im Vergleich zu Morphin erklärt sich aus der Tatsache, dass (auch bei den retardierten Präparaten) etwa ein Drittel des Wirkstoffes innerhalb der ersten 15 Minuten freigesetzt wird, die Wirkung tritt dann nach ca. 10–20 Minuten ein. Kontrollierte Studien zu diesem für die Praxis relevanten Problem wurden bisher nicht veröffentlicht.[19] Es wird davor gewarnt, dass durch missbräuchliches Zerreiben oder Mörsern der Tabletten das Retardierungssystem zerstört und der gesamte Inhalt sofort wirksam wird, sodass eine tödliche Überdosierung durch Atemdepression auftreten kann.[19]
+Oxycodon hat ein signifikantes Euphorisierungspotenzial. Die stärkere suchterzeugende Wirkung im Vergleich zu Morphin erklärt sich aus der Tatsache, dass (auch bei den retardierten Präparaten) etwa ein Drittel des Wirkstoffes innerhalb der ersten 15 Minuten freigesetzt wird, die Wirkung tritt dann nach ca. 10–20 Minuten ein. Kontrollierte Studien zu diesem für die Praxis relevanten Problem wurden bisher nicht veröffentlicht.  Es wird davor gewarnt, dass durch missbräuchliches Zerreiben oder Mörsern der Tabletten das Retardierungssystem zerstört und der gesamte Inhalt sofort wirksam wird, sodass eine tödliche Überdosierung durch Atemdepression auftreten kann. 
 
-Oxycodon weist außerdem die üblichen unerwünschten Wirkungen der Opioide auf, z. B.: Krämpfe der Bronchialmuskeln, Krämpfe der glatten Muskulatur der Gallengänge, Miosis, Stimmungsveränderungen (unter anderem Angst, Depression, Euphorie), Schlafstörungen, Nervosität, Veränderungen der Leistungsfähigkeit (wie Denkstörungen, Sprachstörungen, Verwirrtheit, Erinnerungslücken), Wahrnehmungsstörungen (etwa Depersonalisation, Halluzinationen, Geschmacksstörungen, Sehstörungen), Sedierung (Müdigkeit bis Benommenheit), Schwindel, Kopfschmerzen, Tremor, unwillkürliche Muskelkontraktionen, Koordinationsstörungen, Unwohlsein, epileptische Krampfanfälle (besonders bei Vorliegen einer Epilepsie bzw. Neigung zu Krampfanfällen), Blutdrucksenkung, Verstopfung, Übelkeit, Erbrechen, Magen-Darm-Beschwerden, Blasenentleerungsstörungen (Harnverhalt), Schwitzen.[22]
+Oxycodon weist außerdem die üblichen unerwünschten Wirkungen der Opioide auf, z. B.: Krämpfe der Bronchialmuskeln, Krämpfe der glatten Muskulatur der Gallengänge, Miosis, Stimmungsveränderungen (unter anderem Angst, Depression, Euphorie), Schlafstörungen, Nervosität, Veränderungen der Leistungsfähigkeit (wie Denkstörungen, Sprachstörungen, Verwirrtheit, Erinnerungslücken), Wahrnehmungsstörungen (etwa Depersonalisation, Halluzinationen, Geschmacksstörungen, Sehstörungen), Sedierung (Müdigkeit bis Benommenheit), Schwindel, Kopfschmerzen, Tremor, unwillkürliche Muskelkontraktionen, Koordinationsstörungen, Unwohlsein, epileptische Krampfanfälle (besonders bei Vorliegen einer Epilepsie bzw. Neigung zu Krampfanfällen), Blutdrucksenkung, Verstopfung, Übelkeit, Erbrechen, Magen-Darm-Beschwerden, Blasenentleerungsstörungen (Harnverhalt), Schwitzen. 
 Betäubungsmittelrechtliche Regelungen
 
-Oxycodon ist in Deutschland und in Österreich ein verkehrsfähiges und verschreibungsfähiges Betäubungsmittel[23] und darf nur auf einem Betäubungsmittelrezept verordnet werden. Der unerlaubte Besitz sowie der ungenehmigte Handel und die Weitergabe von Betäubungsmitteln werden mit Freiheitsstrafe bis zu fünf Jahren oder einer Geldstrafe bestraft (Betäubungsmittelgesetz § 29).
+Oxycodon ist in Deutschland und in Österreich ein verkehrsfähiges und verschreibungsfähiges Betäubungsmittel  und darf nur auf einem Betäubungsmittelrezept verordnet werden. Der unerlaubte Besitz sowie der ungenehmigte Handel und die Weitergabe von Betäubungsmitteln werden mit Freiheitsstrafe bis zu fünf Jahren oder einer Geldstrafe bestraft (Betäubungsmittelgesetz § 29).
 
 Das Mitführen eines Opioid-Ausweises (Name des Medikamentes, verordnete Dosis, Name des Patienten, Geburtsdatum, verordnender Arzt) kann gerade für Führer von Kraftfahrzeugen oder anderen versicherungsrelevanten Fahrzeugen bei Verkehrskontrollen sinnvoll sein, um nachzuweisen, dass kein Drogenmissbrauch vorliegt. Für Alkoholkontrollen ist der Opioid-Ausweis unerheblich. Bei Reisen ins Ausland wird der Ausweis nicht als offizielles Dokument anerkannt.
 
-Für Reisen unter Mitnahme von Betäubungsmitteln gelten innerhalb und außerhalb Europas besondere Vorschriften. Regelungen und Formulare können auf der Homepage des Bundesinstitutes für Arzneimittel und Medizinprodukte (BfArM) eingesehen werden.[24]
+Für Reisen unter Mitnahme von Betäubungsmitteln gelten innerhalb und außerhalb Europas besondere Vorschriften. Regelungen und Formulare können auf der Homepage des Bundesinstitutes für Arzneimittel und Medizinprodukte (BfArM) eingesehen werden. 
 Oxycodon als gesellschaftliches Problem
 
-Der Dokumentarfilm Oxyana (2013) von Sean Dunne zeigt am Beispiel der Kleinstadt Oceana (Wyoming County, West Virginia), welche dramatischen Folgen der massenhafte Missbrauch von Schmerzmitteln wie Oxycodon für Betroffene, Familien und die Gesellschaft hat.[25] Tom Petty starb am 2. Oktober 2017 an einer Überdosis von Fentanyl und Oxycodon.[26] 
+Der Dokumentarfilm Oxyana (2013) von Sean Dunne zeigt am Beispiel der Kleinstadt Oceana (Wyoming County, West Virginia), welche dramatischen Folgen der massenhafte Missbrauch von Schmerzmitteln wie Oxycodon für Betroffene, Familien und die Gesellschaft hat.  Tom Petty starb am 2. Oktober 2017 an einer Überdosis von Fentanyl und Oxycodon.  
 {END Oxycodon}
+
+
+{BEGIN Hirnstamm}
+Als Hirnstamm (lat. Truncus cerebri oder Truncus encephali) werden die unterhalb des Zwischenhirns (Diencephalon) lokalisierten Bereiche des Gehirns ohne Berücksichtigung des Kleinhirns (Cerebellum) bezeichnet.
+
+Zum Hirnstamm gehören damit: 
+
+    Mittelhirn (Mesencephalon)
+    Brücke (Pons) als Teil des Hinterhirns (Metencephalon)
+    verlängertes Mark (Medulla oblongata) bzw. Markhirn (Myelencephalon)
+
+Die Bezeichnung Stammhirn ist nicht synonym zu Hirnstamm. Der Ausdruck Stammhirn steht für einen Begriff, der neben dem Hirnstamm zusätzlich das Zwischenhirn, gelegentlich darüber hinaus auch noch das Kleinhirn und Teile des Endhirns (als Stammganglien) umfasst. Es ist jedoch weder aus entwicklungsgeschichtlicher Perspektive noch nach funktionellen Aspekten sonderlich sinnvoll, das Zwischenhirn mit Mittelhirn, Brücke und verlängertem Mark zusammenzufassen, weniger noch mitsamt Kleinhirn und Anteilen des Endhirns.
+
+Die anatomischen Grundstrukturen des Hirnstamms veränderten sich im Lauf der Evolution relativ wenig, verglichen mit der stammesgeschichtlichen Entwicklung des Vorderhirns. Die Unterteilung des Hirnstamms in mesencephale, metencephale und myelencephale Anteile wird am deutlichsten erkennbar auf seiner zur Körpervorderseite zeigenden (ventralen) Oberfläche, wo die Brücke als querer Wulst auffällt.
+Inhaltsverzeichnis
+
+    1 Funktion
+    2 Erkrankungen
+    3 Siehe auch
+    4 Nachweise
+
+Funktion
+
+Der Hirnstamm steuert die überlebenswichtigen Funktionen. Zum Beispiel die Atmung, den Blutdruck, die Reflexe etc.
+Erkrankungen
+Schädigungen des Hirnstamms verursachen Hirnstammsyndrome. Eine Schädigung der Bahnen zu den körperabwärts gelegenen (kaudalen) Hirnnervenkernen führt zur Pseudobulbärparalyse. 
+{END Hirnstamm}
+
+
+{BEGIN Amiodaron}
+Amiodaron ist ein Arzneistoff, der als sog. Antiarrhythmikum zur Behandlung von zahlreichen Herzrhythmusstörungen eingesetzt wird. Amiodaron ist ein sehr wirksames Medikament gegen tachykarde Herzrhythmusstörungen, ist allerdings auch mit schwerwiegenden Nebenwirkungen behaftet.
+Inhaltsverzeichnis
+Eigenschaften
+
+Amiodaron, ein Benzofuran-Derivat, hat strukturelle Ähnlichkeiten mit Thyroxin und Procainamid. Ursprünglich war es aufgrund seiner Fähigkeit, periphere und koronare Arterien zu erweitern, seit 1961 in Belgien zur Behandlung der Angina pectoris entwickelt worden, bis zufällig entdeckt wurde, dass es eine außerordentlich hemmende Wirkung auf ventrikuläre und supraventrikuläre Herzrhythmusstörungen hat. Selbst beim Einsatz bei Patienten mit schwerer Pumpfunktionsstörung der linken Herzkammer kommt es kaum zu einer Verschlechterung der Herzleistung, obwohl das Medikament eine mäßige negativ inotrope Wirksamkeit besitzt.  Seine extreme Löslichkeit in Fettgewebe bewirkt das außerordentlich hohe Verteilungsvolumen und ist auch für die lange und individuell sehr variable Halbwertszeit von 30 bis weit über 100 Tagen verantwortlich.
+Wirkungsweise
+
+Amiodaron ist ein Antiarrhythmikum mit komplexer Wirkungsweise, die im Einzelnen noch nicht vollständig verstanden wird. Aufgrund seiner Eigenschaft, die Refraktärzeit und das Aktionspotential des Herzmuskelgewebes zu verlängern, wird es zwar der Klasse III nach Vaughan Williams (vgl. Antiarrhythmikum) mit einer starken Hemmung der Kaliumkanäle zugeordnet, aber es besitzt auch eine mäßig stark hemmende Wirkung auf α-, β- (Klasse II) und muskarinartige Rezeptoren und hat eine gewisse blockierende Wirkung sowohl auf schnelle und mittlere Natrium- (Klasse IA und IB) als auch Calciumkanäle (Klasse IV). Mit allen bekannten Antiarrhythmika teilt es die Fähigkeit, selbst Herzrhythmusstörungen auslösen zu können. Während dies allerdings seltener als bei anderen Antiarrhythmika vorkommt, ist hingegen vergleichsweise oft mit schwerwiegenden unerwünschten Wirkungen außerhalb des Herzens zu rechnen. Amiodaron wirkt zudem als FIASMA (funktioneller Hemmer der sauren Sphingomyelinase). 
+Anwendung
+
+Die Gesundheitsbehörde der USA empfiehlt Amiodaron wegen seiner hohen Toxizität nur  bei lebensbedrohlichen ventrikulären Arrhythmien, die nicht auf andere Therapiemaßnahmen ansprechen. Die langsam-intravenöse Dosierung  beträgt dabei 5 mg/kg bzw. 300 mg bei Erwachsenen, ggf. gefolgt von einer Dauerinfusion mit 10 bis 20 mg/kg/24 Stunden.
+
+In Deutschland  gilt die Zulassung für
+
+    symptomatische und behandlungsbedürftige tachykarde supraventrikuläre Herzrhythmusstörungen wie
+        AV-junktionale Tachykardie (AV-Knoten-Reentrytachykardie),
+        supraventrikuläre Tachykardie bei WPW-Syndrom oder
+        (paroxysmales) Vorhofflimmern und -flattern sowie
+    schwerwiegende symptomatische tachykarde ventrikuläre Herzrhythmusstörungen
+        bei Patienten, „bei denen der Einsatz anderer Antiarryhthmika nach ärztlichem Ermessen nicht vertretbar ist“.
+
+Es ist bislang das Mittel der ersten Wahl  bei Patienten mit Kammertachykardien oder Kammerflimmern im Rahmen einer Reanimation  sowie bei Patienten mit struktureller Herzerkrankung mit hochgradig eingeschränkter Pumpfunktion, wenn kein Schrittmacher (ICD) implantiert werden kann.
+
+Bei Patienten mit bereits implantiertem Herzschrittmacher verringert Amiodaron die Rate an Kammertachykardien.
+
+Patienten mit struktureller Herzerkrankung (wie Infarktnarbe oder verminderter Pumpfunktion) können Amiodaron zur Stabilisierung des Sinusrhythmus nach erfolgreicher Kardioversion eines Vorhofflimmerns erhalten. Die orale oder intravenöse Verabreichung von Amiodaron kann Vorhofflimmern beenden, jedoch ist dies weder so zuverlässig noch verträglich wie die elektrische Kardioversion durch einen Elektroschock unter Kurznarkose.
+Gegenanzeigen und Anwendungsbeschränkungen
+
+Vorsicht ist geboten bei bradykarden Herzrhythmusstörungen, Allergie gegen Iod oder (auch latente) Überfunktion der Schilddrüse.
+
+Bei einer Verlängerung der QT-Zeit im EKG über 25 % der Norm oder über 500 ms muss mit gefährlichen Herzrhythmusstörungen gerechnet und die Behandlung ggf. beendet werden. Bei Erregungsleitungsstörungen darf Amiodaron nur unter Schutz eines Herzschrittmachers und auf einer Intensivstation angewandt werden.
+
+Bei Möglichkeit einer Schwangerschaft ist Amiodaron nicht anwendbar. Frauen im gebärfähigen Alter müssen während der Therapie eine sichere Empfängnisverhütung betreiben. 
+
+Die intravenöse Anwendung von Amiodaron ist bei Kindern hinsichtlich ihrer Sicherheit und Wirksamkeit nicht belegt und deshalb kontraindiziert.
+Nebenwirkungen
+
+Während Amiodaron nach seiner Einführung zunächst als gut verträgliches und „ideales Antiarrhythmikum“ gefeiert wurde, stellten sich erst im Laufe der Zeit die zahlreichen unerwünschten Wirkungen von teilweise lebensbedrohlichen Ausmaßen heraus.
+Lunge
+
+Die schwerste Nebenwirkung besteht in der Entwicklung einer tödlichen interstitiellen Lungenfibrose, die häufiger bei Patienten mit vorgeschädigtem Lungengewebe aufzutreten scheint. Bei etwa 5 % der behandelten Patienten kommt es zu dieser Entzündung der Lungenbläschen mit Vermehrung von Bindegewebe, was als fibrosierende Alveolitis bezeichnet wird. Schon nach einer Behandlungsdauer von wenigen Monaten wurde diese Nebenwirkung beobachtet. Neben den pharmakologischen Eigenschaften von Amiodaron, das durch seine ausgeprägte Hemmung der Phospholipase der Lunge zu einer Anhäufung von Surfactantphospholipiden führt, wird noch eine besondere genetische Empfänglichkeit für die Lungenfibrose vermutet.  Wenn die Fibrose in ihrem Vorstadium, der so genannten Pneumonitis, rechtzeitig erkannt wird, ist sie vollständig reversibel. Daher muss in regelmäßigen Abständen nach ihr gefahndet werden. Wiederholte Röntgenaufnahmen des Brustkorbs sind hierzu geeignet. Auch Funktionsuntersuchungen der Lunge werden empfohlen, werden aber erst im fortgeschrittenen Verlauf auffällig. Am spezifischsten für eine Amiodaron-bedingte Schädigung gilt eine dramatisch verminderte Diffusionskapazität der Lunge (DLCO im Lungenfunktionstest).
+Schilddrüse
+
+Wegen des hohen Jodgehaltes des Medikaments (37 %) kommt es zu Schilddrüsenfunktionsstörungen. Amiodaron-induzierte Hypothyreosen kommen dabei bei Patienten vor, bei denen große Jodmengen eine inhibitorische Wirkung erzeugen.  Diesen Effekt machte man sich zur Behandlung der Hyperthyreose im Rahmen des Plummern zunutze. Über- oder Unterfunktionen der Schilddrüse findet man bei bis zu 40 % der Langzeitbehandelten. Die Schilddrüsenfunktion sollte halbjährlich durch eine TSH-Messung überwacht werden. Es kommt relativ häufig zu einem Absinken des biologisch deutlich stärker wirksamen fT3 in hypothyreote Bereiche, ohne dass klinisch eine Hypothyreose vorliegen muss. Grund hierfür ist eine Konversionsstörung bei der Umwandlung von fT4 in fT3, die sich in einer verminderten Summenaktivität peripherer Dejodinasen ausdrückt. Amiodaron blockiert teilweise die für diesen Vorgang verantwortlichen Dejodasen. Die alleinige Bestimmung des freien Thyroxin FT4 gilt im Fall der Amiodaron-Thyreopathie als unzuverlässig.
+
+Die gefürchtetste Nebenwirkung ist die amiodaroninduzierte Thyreotoxikose (AIT, Stoffwechsel­störung durch Funktionsstörungen der Schilddrüse), die in schweren Fällen tödlich verlaufen kann. Sie beruht auf zwei verschiedenen Mechanismen (s. Tabelle).  Ihre Gefährlichkeit ist unter anderem in der Tatsache begründet, dass das vorgeschädigte Herz von Patienten, die mit Amiodaron behandelt werden, eine besonders geringe Toleranz für eine hyperthyreote Stoffwechsellage aufweist.
+	AIT Typ 1 	AIT Typ 2
+Auftreten 	früh (Wochen) 	spät (Monate)
+Vorbestehende Schilddrüsenerkrankung 	häufig (z. B. Autonomie oder Morbus Basedow) 	selten
+Mechanismus 	Vermehrte Bildung von Schilddrüsenhormonen 	Vermehrte Freisetzung von Schilddrüsenhormonen
+Jod- oder Technetium-Uptake 	vermehrt 	vermindert
+Interleukin-6-Spiegel 	normal 	erhöht
+Verlauf 	schwer 	mild bis schwer
+Absetzen von Amiodaron 	erforderlich 	nicht erforderlich
+Therapie 	Perchlorat, Thyreostatika, Operation 	Steroide
+Auge
+
+Mikroablagerungen in der Hornhaut des Auges finden sich bei mehr als 90 % der Patienten, die das Medikament seit mehr als einem halben Jahr einnehmen (Cornea verticillata, auch Vortexkeratopathie genannt). Die Einlagerungen können durch eine Spaltlampenuntersuchung zuverlässig durch den Augenarzt erkannt werden. 1 bis 10 % der Patienten geben einen leichten Blaustich in ihrer optischen Wahrnehmung an. Die Hornhautablagerungen sollten nur bei ausgeprägten Sehbehinderungen zum Absetzen des Medikamentes führen. Manchen Kardiologen gilt die Keratopathie jedoch eher als Hinweis auf die zuverlässige Einnahme des Medikamentes und nicht als eine bedeutsame Nebenwirkung. 1 bis 2 % der Patienten erleiden allerdings eine optische Neuropathie mit Gesichtsfeldausfällen, die zum Absetzen des Medikamentes zwingen.
+Magen-Darm-Trakt
+
+Rund die Hälfte der Patienten zeigt eine reversible Erhöhung der Leberenzyme als Zeichen eines Leberzellschadens. Diese kann trotz weiterer Einnahme des Medikaments wieder verschwinden. In sehr seltenen Fällen kann Amiodaron zum Bild einer akuten Hepatitis oder eines chronischen Leberschadens bis zur Leberzirrhose führen. Die durch Amiodaron verursachte Zirrhose erscheint lichtmikroskopisch ähnlich der Alkoholzirrhose. Die Unterscheidung kann durch Elektronenmikroskopie gestellt werden. 
+Haut
+
+Sonnenexponierte Haut kann sich bei hellhäutigen Menschen aschgrau oder bläulich verfärben. Die Hautverfärbung kann nach Absetzen des Medikamentes verblassen, normalisiert sich jedoch nicht immer vollständig.
+
+Eine vermehrte Lichtempfindlichkeit der Haut als Reaktion gegen UV-A-Strahlen kann versuchsweise durch entsprechende Cremes gemindert werden.
+Nervensystem
+
+Das Medikament kann zu einer demyelinisierenden Polyneuropathie führen, welche klinisch fast nicht von anderen demyelinisierenden Neuropathien zu unterscheiden ist.
+
+Das Medikament kann zu Schlafstörungen (schlechte Träume bis zu Albträume) führen. Die Häufigkeitsangabe wird mit „häufig“ angegeben.
+Überwachungsparameter
+
+Serielle Laboruntersuchungen auf Amiodaron-bedingte Nebenwirkungen sind teuer und von beschränktem Wert. Zu Behandlungsbeginn ist es aber sinnvoll, das Blutbild und andere Blutuntersuchungen durchzuführen, ebenso Funktion von Schilddrüse und Lunge zu testen und eine Spaltlampenuntersuchung vornehmen zu lassen. Die ärztliche Aufmerksamkeit sollte auf die bei eventuellen Nebenwirkungen zu erwartende klinische Symptomatik gerichtet sein: Reizhusten, lastabhängige Atemnot, Sehstörungen, Abgeschlagenheit und Hautveränderungen geben Anlass zur weiteren Diagnostik.
+Hemmung der Vitamin-A-Aufnahme
+
+Amiodaron hemmt das Enzym Retinylester-Hydrolase sowohl in der Leber als auch im Darm gemäß einer Studie an Ratten. Länger dauernde Einnahme erzeugt daher einen künstlichen Vitamin-A-Mangel, der auch durch Zufuhr des Vitamins nicht behoben werden kann. 
+Wechselwirkung
+
+Amiodaron kann andere Medikamente in ihrer Wirkung nachhaltig verstärken – und umgekehrt. Bei vielen Antiarrhythmika ist dies der Fall, was zur kritischen Verlangsamung der Herzfrequenz oder umgekehrt zu den gefürchteten Torsade-de-pointes-Tachykardien führen kann. Spontane Blutungen können auftreten, wenn die Wirkung von Cumarin durch Amiodaron verstärkt wird.
+
+Die Aufsättigung mit Amiodaron führt durchschnittlich über eine Interaktion über das Cytochrom P450 2D6 zu einer Verdopplung der Plasmaspiegel des Betablockers Metoprolol. 
+
+Umgekehrt kann die Einnahme von Grapefruitsaft über eine komplette Hemmung der N‐Desethylamiodaron-Produktion die Plasmakonzentration von Amiodaron erheblich erhöhen.  
+{END Amiodaron}
+
+{BEGIN Embolie}
+Unter Embolie [ɛmboˈliː] (griechisch ἐμβάλλω emballo „hineinwerfen“ und Embolus „Gefäßpfropf“) versteht man in der Medizin den teilweisen oder vollständigen Verschluss eines Blutgefäßes durch mit dem Blut eingeschwemmtem Material. Dazu gehören körpereigene und fremde Substanzen wie Fetttropfen, Blutgerinnsel oder Luftblasen.
+Inhaltsverzeichnis
+Einteilung
+Zementembolie nach Kyphoplastie im Röntgenbild mit dünner, röntgendichter Struktur auf den rechten Hilus projiziert. Rechts Computertomographie, die den Austritt aus dem Wirbel in eine Vene zeigt.
+
+Embolien lassen sich einteilen:
+
+    nach der Ursache:
+        Thrombembolie (Einschwemmen eines Blutgerinnsels)
+        Fettembolie (Einschwemmen von Fetttröpfchen, z. B. nach großen, offenen Knochenbrüchen)
+        Gas- bzw. Luftembolie (nach Injektion von Luft oder durch Gasbläschenbildung bei zu schnellem Auftauchen aus großer Tiefe, siehe Taucher- bzw. Dekompressionskrankheit; in der Veterinärmedizin: Gasblasenkrankheit der Fische)
+        Tumorembolie (Verstopfung der Gefäße durch Tumorgewebe)
+        Fruchtwasserembolie (Geburtskomplikation)
+        Einen bakteriell infizierten Embolus nennt man auch septischen Embolus.
+        Cholesterinembolie (nicht synonym mit Fettembolie): meist aus rupturierten Plaques der Arterienwand
+        Zementembolie durch in Venen übergetretenen Knochenzement zum Beispiel im Rahmen einer Kyphoplastie
+    nach Ort der Embolie:
+        Lungenembolie (= venöse Embolie): Der Embolus stammt aus Körper­venen und verstopft nach Passage des Herzens Lungenarterien.
+        Arterielle Embolie: Embolus stammt aus dem Herzen oder großen Arterien und verstopft Arterien (z. B. Schlaganfall, Myokardinfarkt, Mesenterialinfarkt, Verschluss einer Beinarterie, Retinaler Arterienverschluss)
+        Paradoxe Embolie (= gekreuzte Embolie): Embolus stammt aus den Venen und verstopft Arterien (abgesehen von den Lungenarterien). Nur möglich bei Durchtritt des Thrombus durch eine offene Vorhofscheidewand (Foramen ovale).
+        Ein Embolus, der auf einer Gefäßaufzweigung (Bifurkation) hängt, wird als reitender Embolus bezeichnet.
+
+Häufigste Embolien sind die Thrombembolie nach einer Thrombose der tiefen Beinvenen (Lungenembolie) und Thrombembolien in den Arterien des Gehirns (Schlaganfall). In Deutschland sterben jährlich 20.000 bis 25.000 Menschen an einer Embolie.
+Prophylaxe
+
+Thrombosen können bei Risikopatienten durch die prophylaktische subkutane Injektion von Heparinen, heute meist niedermolekulares Heparin oder vor allem auch durch physikalische Maßnahmen wie Frühmobilisierung, intermittierender Kompression oder Medizinische Thromboseprophylaxestrümpfe (MTPS) vermieden werden. Heparine werden bei Patienten mit hohem Risiko gegeben, physikalische Prophylaxe ist bei allen Risikogruppen indiziert. Siehe hierzu auch die AWMF S3-Leitlinie zur ambulanten und stationären Thromboembolie-Prophylaxe, die von 20 operierenden ärztlichen Berufsgruppen ratifiziert wurde.
+Therapie
+Embolien, die aus Thromben entstanden sind, können unter Umständen mit Medikamenten aufgelöst werden (Thrombolyse). Gelegentlich ist auch eine Operation zur Entfernung des Embolus notwendig (Embolektomie). 
+{END Embolie}
+
+
+{BEGIN Möbius-Syndrom}
+Beim Möbius-Syndrom (Synonym: okulofaziale Parese) handelt es sich um ein seltenes, angeborenes Syndrom, welches sporadisch auftritt und sich in erster Linie durch eine beidseitige Lähmung der mimischen Gesichtsmuskulatur (Fazialisparese) äußert. Die Ursache wird in einer Kernaplasie im Hirnstamm vermutet. Die Bewegungen sind dabei soweit eingeschränkt, dass beispielsweise Lächeln oder Stirnrunzeln nur schwer oder ganz unmöglich werden können und das Gesicht einen maskenhaften Ausdruck erhält. Kombinationen mit Störungen von Augenmuskeln, insbesondere einer Abduzensparese, sowie Lähmungserscheinungen, die auf Läsionen unterhalb (infranukleär) oder oberhalb (supranukleär) der Nervenkerngebiete zurückzuführen sind, bspw. Blicklähmungen, sind häufig.
+
+In einigen Fällen geht das Möbius-Syndrom mit anderen körperlichen Beeinträchtigungen, wie Fehlbildungen an Fingern und Händen, einher. Eine weitere, wenn auch seltene, Verbindung besteht im Zusammenhang mit Ohrmissbildungen, Schwerhörigkeit und Taubheit.  Kombinationen mit anderen Syndromen, zum Beispiel dem Kallmann- oder dem Poland-Syndrom, sind möglich.
+
+Ein Leben ohne Mimik und insbesondere mimisches Lachen stößt im sozialen Umfeld immer wieder auf Ablehnung und ist mit konkreter Ausgrenzung verbunden. Jede Sozialisationsphase stellt sich als große Herausforderung dar. Die Krankheit wurde zuerst 1888 von dem deutschen Neurologen Paul Julius Möbius (1853–1907) beschrieben. 
+{END Möbius-Syndrom}
+
+
+
+{BEGIN Schlaganfall}
+Ein Schlaganfall (auch Gehirnschlag, Hirnschlag, Apoplexie,  zerebraler Insult, apoplektischer Insult, Apoplexia cerebri, Ictus apoplecticus, veraltet Schlagfluss, umgangssprachlich Schlag, in der medizinischen Umgangssprache häufig auch Apoplex oder Insult) ist eine plötzlich („schlagartig“) auftretende Erkrankung des Gehirns, die oft zu einem länger anhaltenden Ausfall von Funktionen des Zentralnervensystems führt und durch kritische Störungen der Blutversorgung des Gehirns verursacht wird.
+Inhaltsverzeichnis
+Begriffsklärung
+
+Die Terminologie des Schlaganfalls wurde  und wird nicht einheitlich benutzt. Gleichbedeutend zum Begriff Schlaganfall sind auch die englischen Termini Stroke, Cerebrovascular accident (CVA) und Cerebrovascular Insult (CVI).  Diese Bezeichnungen werden häufig als Oberbegriff für unterschiedliche neurologische Krankheitsbilder benutzt, deren wichtigste Gemeinsamkeit plötzliche Symptome nach einer auf das Gehirn begrenzten Durchblutungsstörung sind, wobei der Funktionsverlust definitionsgemäß  nicht auf primäre Störungen der Erregbarkeit von Nervenzellen zurückzuführen sein darf (konvulsive Störung, siehe Epilepsie).
+Epidemiologie
+Deutschlandlastige Artikel 	Dieser Artikel oder Absatz stellt die Situation in Deutschland dar. Hilf mit, die Situation in anderen Staaten zu schildern.
+
+Jährliche Häufigkeiten in Deutschland: 
+
+    durch Minderdurchblutung primär ischämische Hirninfarkte (Inzidenz 160–240 Ereignisse/100.000 Einwohner)
+    Hirnblutungen (24/100.000)
+    Einblutungen in den das Gehirn umgebenden Liquorraum, sogenannte Subarachnoidalblutungen (6/100.000)
+    Schlaganfälle ungeklärter Ursache (8/100.000)
+
+Somit gehört der Schlaganfall zu den häufigsten schweren Erkrankungen in Deutschland und ist auch eine häufige Todesursache in Deutschland: 2015 stellte das Statistische Bundesamt 56.982 Todesfälle durch zerebrovaskuläre Krankheiten fest, was einem Anteil von 6,2 % entspricht. 
+
+Darüber hinaus ist der Schlaganfall die häufigste Ursache für mittlere und schwere Behinderung.
+
+51 % aller Schlaganfälle betreffen die Altersgruppe der über 75-Jährigen. Mit zunehmendem Alter steigt das Schlaganfallrisiko überproportional. 
+Formen eines Schlaganfalls – Minderdurchblutung oder Blutung
+→ Hauptartikel: Ischämischer Schlaganfall
+→ Hauptartikel: Hirnblutung
+
+Dem Schlaganfall liegt ein plötzlicher Mangel der Nervenzellen an Sauerstoff und anderen Substraten zugrunde. Grob unterscheiden lassen sich die plötzlich auftretende Minderdurchblutung (Ischämischer Schlaganfall oder Hirninfarkt) und die akute Hirnblutung (hämorrhagischer Infarkt oder Insult), die sekundär aufgrund ihrer raumfordernden Wirkung bzw. aufgrund des Fehlens des Bluts in nachgeordneten Regionen ebenfalls zu einer Ischämie führt. Bei primär ischämischen Infarkten kann es ebenfalls zu sekundären Blutungen im Infarktgebiet (hämorrhagische Infarzierung) kommen. 
+
+Die Unterscheidung zwischen Minderdurchblutung und Blutung ist erst durch bildgebende Verfahren wie die Computertomographie (CT) oder Magnetresonanztomographie (MRT, englisch MRI) sicher möglich, wobei in den ersten Stunden beide Bildgebungsmethoden noch unauffällig sein können, dies insbesondere beim primär ischämischen Hirninfarkt. Die Verdachtsdiagnose einer Subarachnoidalblutung, welche infolge einer geplatzten Arterie (zum Beispiel aufgrund eines Aneurysmas) entsteht, kann - insbesondere bei nur milder Symptomatik (zum Beispiel alleinige Kopfschmerzen) - durch den Nachweis von Blutbestandteilen im Nervenwasser bei der Lumbalpunktion bestätigt werden.
+
+Minderdurchblutungen, die kürzer als 24 Stunden andauern und von bloßem Auge ohne sichtbare Folgen bleiben, wurden früher als transitorische ischämische Attacke (TIA) bezeichnet. In den Leitlinien der Deutschen Gesellschaft für Neurologie von 2005 wird darauf hingewiesen, dass die klassische Differenzierung von transitorisch ischämischen Attacken (TIA) und vollendeten ischämischen Schlaganfällen als überholt gilt. Gleichwohl wird der Unterschied in manchen Lehrbüchern noch erwähnt. Zwei Gründe dafür sind, dass bei vielen Patienten mit einer sogenannten TIA morphologische Hirnverletzungen nachweisbar sind und dass das Risiko für einen Re-Infarkt nach TIA und vollendetem Schlaganfall etwa gleichermaßen erhöht ist. Abgesehen von der Frage der Lyse sollen sowohl vollendete Schlaganfälle als auch früher als TIA bezeichnete Zustände gleich behandelt werden.  Der Begriff (prolongiertes) reversibles ischämisches neurologisches Defizit (RIND/PRIND) für länger als 24 Stunden, aber kürzer als drei Wochen anhaltende Befunde soll ebenfalls nicht mehr angewendet werden, da dies bereits einem manifesten Schlaganfall entspricht.  Gleiches gilt für die Beschreibung eines partiell reversiblen ischämischen neurologischen Syndroms (PRINS).
+Symptome
+
+Als Zeichen eines Schlaganfalls können plötzlich, und je nach Schweregrad auch gleichzeitig, mehrere Symptome auftreten: 
+
+    Bewusstseinsstörungen (Somnolenz, Koma), Orientierungsstörungen
+    Taubheitsgefühl im Gesicht, in einem Arm, Bein oder einer ganzen Körperhälfte
+    Lähmung oder Schwäche im Gesicht, in einem Arm, Bein oder einer ganzen Körperhälfte
+    Verwirrung, Sprach- oder Wortfindungs-, Schrift- oder Verständnisstörung
+    Schluckstörungen (Dysphagie)
+    schmerzlose Sehstörung auf einem oder beiden Augen, einseitige Pupillenerweiterung, Gesichtsfeldausfall, Doppelbilder
+    Schwindel, Gangstörung, Gleichgewichts- oder Koordinationsstörung (Ataxie)
+    stärkster Kopfschmerz ohne erkennbare Ursache bei evtl. entgleistem (überhöhtem) Blutdruck, Übelkeit, Erbrechen
+    Fehlende Wahrnehmung eines Teils der Umwelt oder des eigenen Körpers (Neglect)
+
+Ursachen
+
+    arterielle Embolien durch Blutgerinnsel
+    Thrombosen der venösen Abflussgefäße
+    Gefäßverengung durch Gefäßverkrampfungen
+    Gefäßrisse: entweder spontan oder z. B. infolge hohen Blutdrucks
+    Spontanblutungen bei gestörter Blutgerinnung
+    Subarachnoidalblutung, sub- oder epidurale Hämatome
+
+Diagnostik
+
+Die Diagnose des Schlaganfalls wird klinisch gestellt, in der Regel durch einen Neurologen. Dieser bedient sich hierfür unterschiedlicher Untersuchungsmethoden, um die zahlreichen unterschiedlichen Funktionen des Gehirns zu überprüfen. Häufig orientieren sich diese Untersuchungen an Scoringsystemen wie der National Institutes of Health Stroke Scale (NIHSS), die eine quantitative Einschätzung der Schwere des Schlaganfalls ermöglicht. Je nach vermuteter Lokalisation des Schlaganfalls im Gehirn können jedoch auch speziellere Untersuchungen, z. B. des Kleinhirns oder der Hirnnerven, indiziert sein. Bei sich erhärtendem oder zumindest nicht mit Sicherheit ausgeschlossenem Verdacht auf Schlaganfall folgt in jedem Fall eine bildgebende Diagnostik.
+
+Bildgebende Verfahren wie die Computertomographie (CT) oder Magnetresonanztomographie (MRT, englisch MRI) ermöglichen die sofortige Diagnose einer Hirnblutung. Beim ischämischen Schlaganfall hingegen kann eine native (d. h. ohne Kontrastmittel) CT- bzw. MRT-Untersuchung während der ersten Stunden unauffällige Bilder liefern. Je nach Ursache, Lokalisation und Schwere des Schlaganfalls können sich eine CT-Angiographie (CTA) und eine CT-Perfusion anschließen. Diffusionsgewichtete Aufnahmen (DW-MRI) ermöglichen in der MRT-Untersuchung schon wenige Minuten nach Beginn des Schlaganfalls eine Darstellung des Infarktgebiets.
+
+Eine feine Subarachnoidalblutung kann unter Umständen in den bildgebenden Verfahren unsichtbar sein. Sie kann dann sensitiver durch den Nachweis von Blutbestandteilen im Nervenwasser durch eine Lumbalpunktion festgestellt werden.
+
+Eine Blutabnahme bei Verdacht auf Schlaganfall ist obligatorisch. Hierbei wird neben einem Blutbild insbesondere der Gerinnungsstatus bestimmt. Blut-Biomarker (z. B. S-100B, NSE, GFAP), die auf Schäden des Gehirns hinweisen können, können die Diagnostik ergänzen, sind jedoch nicht spezifisch für einen Schlaganfall und in der Frühphase bisweilen unauffällig.
+
+Speziell für Rettungsdienstpersonal wurde 1997 die Cincinnati Prehospital Stroke Scale (CPSS) entwickelt.   Diese wird aus drei Kriterien der NIHSS gebildet und soll als ein einfaches Instrument zur Diagnose eines Schlaganfalls dienen. Auch in der Laien-Ausbildung für Erste Hilfe werden die Kriterien der CPSS oft mit dem englischen Akronym "FAST" vermittelt (Face, Arms, Speech, Time).  Dieser Test besteht aus vier Schritten:
+
+    Face (Gesicht): Die Person auffordern, z. B. breit zu lächeln oder die Zähne zu zeigen, da eine gelähmte Gesichtshälfte ein Symptom eines Schlaganfalls sein kann. Eine andere Methode ist, die betroffene Person die Backen aufblasen zu lassen und darauf leichten Widerstand auszuüben; betroffene Personen können eine Seite nicht aufblasen oder nicht gegen den Widerstand aufgeblasen halten.
+    Arms (Arme): Die Person wird aufgefordert, beide Arme mit nach oben geöffneten Handflächen nach vorne zu strecken, sodass die Arme ohne Unterstützung im 90°-Winkel zur Körperachse gehalten werden. Bei einer Lähmung kann ein Arm nicht in die verlangte Position gebracht oder in ihr gehalten werden, sinkt oder dreht sich nach innen.
+    Speech (Sprache): Man achtet auf die Aussprache der Person. Sie kann undeutlich oder verlangsamt sein, sich "verwaschen" anhören, oder die Person scheint Schwierigkeiten zu haben, ihre Gedanken in Worte zu fassen.
+    Time (Zeit): Besteht der Verdacht eines Schlaganfalls, muss die betroffene Person so schnell wie möglich mit dem Rettungsdienst in eine geeignete Klinik transportiert werden. Auf langwierige Behandlungen vor Ort („stay and play“) wird verzichtet, hier gilt der Grundsatz „load and go“, weil es keine wirksame präklinische Therapie gibt. Die Behandlung muss binnen kürzester Zeit erfolgen, um Hirnschädigungen so gering wie möglich zu halten. Wichtig ist ein Festhalten des zeitlichen Beginns der Symptome und der zeitliche Verlauf (Verschlechterung bzw. Besserung).
+
+Einschränkungen erfährt die CPSS insbesondere durch ihre Fokussierung auf Symptome eines kortikalen Infarkts. Sie ist damit zwar in der Lage, eine Vielzahl von schweren Schlaganfällen mit relativ hoher Sensitivität zu erkennen, verpasst aber unter Umständen seltenere Schlaganfälle in anderen Bereichen.
+Therapie
+
+Schlaganfallpatienten, auch Verdachtsfälle, sollten unverzüglich ärztlich untersucht werden. Die sogenannte „time-to-needle“ (Zeitspanne, innerhalb derer eine etwaige Lyse-Behandlung [s. u.] begonnen sein muss) liegt bei 4,5 Stunden nach dem Schlaganfall.  Nach dem unverzüglichen Absetzen eines Notrufs sollte der Patient beobachtet und mit erhöhtem Oberkörper gelagert werden. Keine körperliche Belastung. Nichts trinken, nichts essen, da Aspirationsgefahr besteht. Das bedeutet, dass das Gehirn evtl. den Schluckvorgang nicht mehr richtig steuern kann, und so die Gefahr des Verschluckens besteht. Notfalltransport mit Rettungswagen, eventuell mit Notarzt, in eine Stroke Unit (spezialisierte Abteilung zur Schlaganfall-Behandlung – nicht unbedingt/immer Bestandteil einer neurologischen Klinik) zur genauen Diagnostik, ggf. Lyse-Behandlung und Therapie der Folgen.  Auf dem Land – mit einer entsprechend geringen Dichte an Stroke Units – kommt häufig auch ein Rettungshubschrauber zum Einsatz, da mit diesem ein schnellerer Transport in ein weiter entferntes, dafür geeignetes Krankenhaus durchgeführt werden kann. Zum Teil sind die zurückzulegenden Entfernungen so groß, dass selbst nachts der Einsatz eines Intensivtransporthubschraubers (welcher eine wesentlich höhere Vorlaufzeit als ein RTH hat) in Erwägung gezogen werden kann.
+
+Bei hämorrhagischen Schlaganfällen ist die Lyse-Behandlung nicht angezeigt. In vielen Ischämie-Fällen hingegen gelingt es durch die intravenöse Verabreichung von Medikamenten (Thrombolyse), das Blutgerinnsel aufzulösen und das Gehirn vor einem dauerhaften Schaden zu bewahren. Eine frühe Thrombolyse verbessert nachweislich die Prognose der Patienten. 
+
+Ein recht neues Verfahren, die Neurothrombektomie, entfernt mechanisch mit einem Katheter (neuro thrombectomy catheter ) das Blutgerinnsel im Gehirn.  „Mehr als 60 Prozent der Patienten mit großen Schlaganfällen können nach der Katheterbehandlung bereits nach drei Monaten wieder ein eigenständiges Leben führen. Bei der medikamentösen Therapie liegt diese Quote bei nur etwa 15 Prozent“.  Insbesondere für Patienten, bei denen das Blutgerinnsel ein großes Gefäß im Gehirn verschließt, ist die Thrombektomie wirkungsvoll. In rund 90 Prozent der Fälle kann das Gefäß wieder eröffnet werden. Die Neurothrombektomie kann allerdings bei nur etwa 10 bis 15 Prozent der ischämischen Schlaganfälle eingesetzt werden. Bislang wird dieses Verfahren in Deutschland in etwa 140 Krankenhäusern angeboten und wird stetig auf neue Kliniken ausgeweitet (Stand Oktober 2017).  Im Lauf des Jahrs 2015 zeigten fünf Studien eine Überlegenheit des Katheters gegenüber der medikamentösen Therapie. 
+Prävention
+
+Der persönliche Lebensstil beeinflusst das Risiko, einen Schlaganfall zu erleiden. Vor allem ein normaler Blutdruck, gute Blutzuckerwerte und Nicotin-Abstinenz können das Schlaganfallrisiko reduzieren. Allein ein Blutdruck im Normbereich vermindert das Schlaganfallrisiko um 60 Prozent. Weitere Aspekte eines gesunden Lebensstils sind die körperliche Aktivität, die Vermeidung von Übergewicht, normale Cholesterin-Werte und eine gesunde Ernährung. 
+
+Im Rahmen der Ursachensuche und damit im Sinne der Sekundärprävention nach einem Schlaganfall sollte auch nach einem intermittierenden (paroxysmalen) Vorhofflimmern gesucht werden. Hierbei wird ein Untersuchungszeitraum von 24 bis 72 Stunden empfohlen. Bei Nachweis von auch nur zeitweisem Vorhofflimmern sollte eine Gerinnungshemmung mit Phenprocoumon oder direkten oralen Antikoagulanzien (DOAK) erfolgen. 
+Rehabilitation
+Funktionserholung nach großem kortikalen Schlaganfall [fMRT]
+Aktivitätsmuster bei Gesunden und Schlaganfall-Patienten, gemessen mit fMRT
+
+Die medizinische Rehabilitation von Patienten mit zerebrovaskulärer Insuffizienz beginnt idealerweise postakut in oben genannten spezialisierten Behandlungszentren, sogenannten Stroke Units. Rehabilitative Ansätze wie das des Bobath-Konzepts erfordern ein hohes Maß an interdisziplinärer Zusammenarbeit und sind bei konsequenter Ausführung für den Rehabilitationsverlauf maßgeblich mitverantwortlich. Ein neuer und wissenschaftlich mehrfach validierter Ansatz ist die „Constraint-Induced Movement Therapy“ (CIMT),  bei der durch Immobilisation des gesunden Arms für den Großteil der Wachperiode der Patient zum Gebrauch der erkrankten Hand „gezwungen“ wird, wodurch krankhafte Anpassungsphänomene wie der „erlernte Nichtgebrauch“ verhindert werden können. Diese Therapiemethode ist auch bei schwer betroffenen Patienten und im chronischen Stadium einsetzbar. Die Methode ist im deutschsprachigen Raum auch als „Taubsche Bewegungsinduktion“. bekannt. 
+
+Im Zentrum der neurologischen Rehabilitation stehen vor allem Maßnahmen, welche die Körperwahrnehmung des Betroffenen fördern und im besten Falle zur vollständigen Kompensation verlorener Fähigkeiten führen.
+
+So werden beispielsweise zur Wiederherstellung der Gehfähigkeit Gangmuster mit Physiotherapeuten eingeübt. Ergotherapeuten arbeiten gezielt mit den Patienten zur (teilweisen) Wiederherstellung der sensomotorischen Fähigkeiten.
+
+Die Bedeutung einer gezielten Logopädie bereits in der Frühphase und über einen langen Zeitraum wird häufig unterschätzt und nur laienhaft angegangen. Für bestimmte Therapiebereiche gibt es bisher kein ausreichendes Angebot im ambulanten Bereich, wie in der Sprachtherapie v. a. bei Aphasie und Dysarthrie. In der rehabilitativen Therapie ist ein hochfrequentes, repetitives Üben bestimmter Aufgaben sinnvoll, die Teletherapie ermöglicht eine supervidierte Versorgung von Patienten.  Eine intensive Behandlung ist im niedergelassenen Setting nicht zu erbringen. Nur durch Nutzung computergestützter Verfahren kann die Intensität so erhöht werden, dass die sich aus den Vorgaben der Metastudie ergebenden Zielgrößen erreicht werden. Machbarkeitsstudien belegen, dass für etwa 50–60 % der aphasischen Patienten Teletherapie sinnvoll ist. Tatsächlich konnte durch die Teletherapiestudie erstmals gezeigt werden, dass Therapiefrequenz durch supervidierte Teletherapie ohne Qualitätsverlust so angehoben wird, dass Patienten nachweislich davon profitieren.
+
+Moderne Ansätze der Neurorehabilitation versuchen krankhafte Hirnaktivität zu beeinflussen. So findet sich bei einigen Patienten eine enthemmte Aktivität der nicht-geschädigten Hemisphäre, welche die motorischen Funktionen der vom Schlaganfall betroffenen Hirnhälfte stört. Eine Reduktion der Überaktivität, zum Beispiel mit Hilfe der transkraniellen Magnetstimulation (TMS), kann bei einem Teil der Patienten zu einer besseren Funktion der gelähmten Hand führen.  Derzeit läuft an den National Institutes of Health (NIH) eine Multicenter-Studie zur Wirksamkeit der Magnetstimulationstherapie in Kombination mit einer pharmakologischen Stimulation mit dem Dopamin-Präparat „Levo-DOPA“. Durch Letzteres sollen die TMS-Effekte verstärkt werden. Auch andere Medikamente aus der Gruppe der monoaminergen Substanzen wie Paroxetin (serotonerg), Fluoxetin (serotonerg) oder Reboxetin (adrenerg) können Schlaganfall-Defizite transient verbessern, wie in Placebo-kontrollierten Studien gezeigt werden konnte.  Ein neuer technischer Ansatz zur Verbesserung von Ausfällen besteht in der transkraniellen Gleichstrom-Behandlung (transcranial direct current stimulation, tDCS), was derzeit in mehreren Kliniken, unter anderem in Deutschland, überprüft wird.  
+
+{END Schlaganfall}
+
+
+
+{BEGIN Endorphine}
+Endorphine sind körpereigene Opioidpeptide, die in der Hypophyse und im Hypothalamus von Wirbeltieren produziert werden. Endorphine entstehen als Zerlegungsprodukte dreier Präkursor-Proteine − es werden nämlich
+
+    Proenkephalin-A in verschiedene Enkephaline
+    Proenkephalin-B in Dynorphine und
+    Proopiomelanocortin unter anderem in α/β/γ/σ-Endorphin und Met-Enkephalin zerlegt.
+
+Das Wort Endorphin ist eine Wortkreuzung aus endogenes Morphin mit der Bedeutung ‚ein vom Körper selbst produziertes Opioid‘.
+Inhaltsverzeichnis
+Entdeckungsgeschichte
+
+Opiate gehören zu einer einigermaßen gut definierten Substanzgruppe, die wegen ihrer schmerzstillenden Wirkung von großer Bedeutung ist, deren Missbrauch andererseits zur Abhängigkeit führt. Als ab Mitte der 1960er Jahre der Missbrauch in den USA und in den westlichen Ländern zunahm, wurden Anstrengungen unternommen, den Wirkungsmechanismus der Opiate aufzuklären. Damals suchten die Forscher nach den natürlichen Liganden, die alsdann 1973 von Solomon H. Snyder, Candace Pert, Lars Terenius und anderen unabhängig voneinander nachgewiesen wurden. An diese Opioidrezeptoren des Gehirns dockten auch die exogen verabreichten Opiate an.      Nachgewiesen wurden die Endorphine schließlich im Jahr 1975 von den schottischen Forschern John Hughes und Hans Walter Kosterlitz im Zwischenhirn des Schweines. Der erste gebräuchliche Name war deswegen auch Enkephaline (vom griechischen Wort en-kephalos, „im Kopf“).
+Chemie
+
+Chemisch gesehen handelt es sich um kurze Neuropeptide, die sich an Opioidrezeptoren binden. Endorphine besitzen als gemeinsames Strukturmerkmal eine Peptidgruppe mit vier Aminosäuren (Tetrapeptid) der Sequenz Tyrosin-Glycin-Glycin-Phenylalanin (im Bsp. unten fett). Die ersten im Labor synthetisierten Opioidpeptide waren Methionin-Enkephalin und Leucin-Enkephalin.
+
+Aminosäuresequenzen von
+
+    α-Endorphin: Tyr-Gly-Gly-Phe-Met-Thr-Ser-Glu-Lys-Ser-Gln-Thr-Pro-Leu-Val-Thr-OH 
+    β-Endorphin: Tyr-Gly-Gly-Phe-Met-Thr-Ser-Glu-Lys-Ser-Gln-Thr-Pro-Leu-Val-Thr-Leu-Phe-Lys-Asn-Ala-Ile-Ile-Lys-Asn-Ala-Tyr-Lys-Lys-Gly-Glu-OH. 
+    γ-Endorphin: Tyr-Gly-Gly-Phe-Met-Thr-Ser-Glu-Lys-Ser-Gln-Thr-Pro-Leu-Val-Thr-Leu-OH 
+
+Physiologie
+
+Endorphine regeln Empfindungen wie Schmerz (Analgesie) und Hunger. Sie stehen in Verbindung mit der Produktion von Sexualhormonen und werden mitverantwortlich gemacht für die Entstehung von Euphorie. Das Endorphinsystem wird unter anderem in Notfallsituationen aktiviert. Bisher wurde angenommen, dass die Endorphinausschüttung der Grund sei, warum manche schwer verletzte Menschen zunächst keine Schmerzen verspüren. Neuere Erkenntnisse weisen darauf hin, dass das aus der Hypophyse in die freie Blutbahn freigesetzte beta-Endorphin (1-31) zwar an Opioidrezeptoren bindet, aber keine Analgesie vermittelt. Dies schließt aber nicht aus, dass beta-Endorphin (1-31) in anderen Medien (Liquor, Geweben) eine analgetisch wirkende Komponente besitzen könnte (dies konnte jedoch bisher noch nicht explizit gezeigt werden).   
+
+Bestimmte körperliche Anstrengungen (siehe Runner’s High) und Schmerzerfahrungen können möglicherweise durch die Ausschüttung von Endorphinen ein Glücksempfinden hervorrufen. Diese Wirkung wird inzwischen medizinisch anerkannt, wenn auch individuell höchst unterschiedlich erlebt.   
+Wirkung, Rezeptoren
+
+Opioidrezeptoren für Endorphine und Opiate finden sich beispielsweise in der grauen Substanz des Rückenmarks. Weiterhin sind sie auch an vegetativen Synapsen und anderen Gehirnbereichen zu finden. Selbst in peripheren Strukturen wie beispielsweise Gelenken gibt es wahrscheinlich Opioidrezeptoren.
+
+Im Rückenmark wird bei Erregung der Endorphinrezeptoren ein Schmerzreiz unterdrückt, wenn er über die zuführenden (afferenten) Nerven im Rückenmark ankommt und umgeschaltet und ins Gehirn weitergeleitet werden soll. 
+
+Der genaue Wirkmechanismus der Endorphine ist noch nicht in allen Details geklärt. Man weiß aber, dass Endorphine die dopaminerge Erregungsleitung manipulieren können. Die Ausschüttung von Dopamin in den synaptischen Spalt wird verstärkt. 
+{END Endorphine}
+
+
+{BEGIN Temporallappen}
+
+Der Temporallappen (lateinisch tempus, deutsch ‚Schläfe‘) oder Schläfenlappen (lat. Lobus temporalis ) ist einer der vier Lappen des Großhirns und macht dessen laterobasalen (seitlich und unten gelegenen) Anteil aus. Er wird nach oben und vorne vom Sulcus lateralis (Fissura Sylvii) gegen den Scheitellappen (Parietallappen, Lobus parietalis) und den Stirnlappen (Frontallappen, Lobus frontalis) abgegrenzt, nach hinten grenzt er an den Hinterhauptlappen (Occipitallappen, Lobus occipitalis). Der Temporallappen enthält den primären auditorischen Cortex, das Wernicke-Sprachzentrum und wichtige Strukturen für das Gedächtnis.
+Inhaltsverzeichnis
+Funktion und Lokalisation
+Gehirn Aufsicht auf die Gyri temporales transversi
+Primärer auditorischer Cortex
+
+In der Tiefe des Sulcus lateralis liegen die Gyri temporales transversi (Heschl’sche Querwindungen, benannt nach dem österreichischen Anatom Richard Heschl (1824–1881)), die den primären auditorischen Cortex bilden (Brodmann-Areal 41). Die Nervenfasern aus dem Ohr ziehen nach der Kreuzung zur Gegenseite über den Lemniscus lateralis zu den Colliculi inferiores und von dort über den Pedunculus colliculi inferioris zum Corpus geniculatum mediale. Durch die Capsula interna erreichen sie dann die primäre Hörrinde. Die Hörrinde zeigt analog dem sensorischen und motorischen Cortex eine tonotopische Gliederung nach Frequenzen. Die Hörbahn besitzt mehrere Kommissurensysteme, die einen Faserwechsel ermöglichen. So gelangen auch einige Faserbündel zur gleichseitigen Hörrinde, was Bedeutung für das Richtungshören hat.
+Wernicke-Sprachzentrum
+
+Im Gyrus temporalis superior befindet sich ein sensorisches Sprachzentrum (das sogenannte Wernicke-Zentrum, Brodmann-Areal A22), das für das Sprachverständnis wichtig ist. An der Verarbeitung und dem Verständnis von Sprache sind noch eine ganze Reihe weiterer Areale beteiligt. Das Wernicke-Areal kommt nur in der dominanten Hirnhemisphäre vor (das heißt, in der Hirnhälfte, in welcher die Sprache sowohl motorisch, als auch sensorisch verarbeitet wird), die bei Rechtshändern normalerweise links lokalisiert ist, sich bei Linkshändern jedoch wahlweise links oder rechts befinden kann.
+Frontalschnitt des Gehirns in Höhe des Hippocampus
+Gedächtnisstrukturen
+
+Der mediale Teil des Temporallappens enthält den Hippocampus, den entorhinalen, perirhinalen und parahippocampalen Cortex, die das bedeutendste „Koordinationszentrum“ des deklarativen (expliziten) Gedächtnisses darstellen.
+
+Der untere temporale Bereich (IT) selbst ist Teil des visuellen Arbeitsgedächtnis (working memory). Hier wird das, was gerade wahrgenommen wird, kurzzeitig gespeichert (Sekunden bis Minuten). Auch der Vergleich mit den nächstfolgenden Wahrnehmungsinhalten erfolgt hier. Der Hippocampus wird erst dann benötigt, wenn bestimmte Informationen mittel- bis langfristig im Gedächtnis behalten werden sollen.
+Neocorticale assoziative Areale
+
+Viele Bereiche des Temporallappens sind auch für die Erkennung von komplexen nichträumlichen auditorischen und visuellen Reizen zuständig, wie z. B. dem Erkennen von Körperteilen – insbesondere Gesichtern – und anderer bedeutungsvoller Gegenstände (Nahrung, Beute).
+
+Bei elektrischer Reizung des IT (Versuche von Wilder Penfield 1959 bei epileptischen Patienten) kommt es zu Erlebnishalluzinationen (experiential response), die die Patienten als zusammenhängende Erinnerungen an vergangene Erlebnisse beschreiben. Diese Gedächtnisreaktionen ließen sich nur bei Reizung des Temporallappens erzeugen, sie waren eher selten (8 % der Reizversuche) und ihre Entstehung und Bedeutung ist noch nicht geklärt.
+Blutversorgung des Temporallappens
+
+Der basale und hintere mediale Teil des Temporallappens wird von den Arteriae cerebri posteriores versorgt, die aus der Arteria basilaris hervorgehen. Der laterale und vordere mediale Teil erhält seine Blutversorgung über Äste der Arteriae cerebri mediae aus der Arteria carotis interna. Der Blutabfluss erfolgt über die absteigenden oberflächlichen Venen des Gehirns (Venae superficiales descendentes cerebri) und über die mittlere oberflächliche Hirnvene (Vena media superficialis cerebri). Die absteigenden Venen drainieren in den Sinus transversus. Die Abflüsse der mittleren Vene gehen sowohl in den Sinus cavernosus, als auch in den Sinus transversus. Der Sinus transversus leitet das Blut schließlich in die innere Drosselvene, die aus dem Schädel führt.
+Pathologie
+
+Entsprechend den vielfältigen funktionellen Bereichen des Temporallappens treten bei traumatischen oder iatrogenen Läsionen vielfache Störungen und Beeinträchtigungen auf.
+
+Der erste und bestuntersuchte Fall war der Fließbandarbeiter Henry Gustav Molaison, dem aufgrund einer nicht behandelbaren Epilepsie die medialen Bereiche beider Temporallappen entfernt wurden. Nach der Operation litt der Patient unter einer schwerwiegenden anterograden Amnesie, er war nicht mehr in der Lage, neu Gelerntes in das Langzeitgedächtnis zu übertragen. Dabei zeigte er eine normale Sprachbeherrschung und sein Vokabular und Intelligenzquotient blieben im etwas überdurchschnittlichen Bereich. Durch den Gedächtnisverlust war er nicht mehr zu explizitem Lernen fähig. Allerdings war er noch sehr wohl in der Lage zu impliziten Lernvorgängen, auch wenn er sich dessen nicht bewusst war.
+
+Läsionen des assoziativen temporalen Cortex können zu multiplen visuellen und auditorischen Defiziten führen (Agnosien). So kann das Erkennen oder Benennen von Objekten gestört sein (Objektagnosie) oder das Erkennen von Gesichtern (Prosopagnosie). Auditive Agnosien betreffen die Unfähigkeit, Töne, Melodien, Rhythmen oder Tempi von Musik zu erkennen (Amusie). Weiterhin kann es zu Wort- und Sprachverständnisstörungen (Aphasien) kommen, wenn der linke obere und mittlere Bereich des Temporallappens betroffen ist (Wernicke-Areal). 
+{END Temporallappen}
+
+
+
+{BEGIN Leukozyt}
+
+
+Leukozyten (Einzahl der Leukozyt, von altgriechisch λευκός leukós, deutsch ‚weiß‘ sowie altgriechisch κύτος kýtos, deutsch ‚Höhlung, Gefäß, Hülle‘ ) oder weiße Blutzellen (veraltet -körperchen) sind im Blut, im Knochenmark, in den lymphatischen Organen und anderen Körpergeweben der Wirbeltiere zu finden.  Im Gegensatz zu den Erythrozyten (roten Blutzellen) enthalten Leukozyten nicht den roten Farbstoff Hämoglobin. Besonders augenfällig ist der Unterschied bei den Säugern, deren reife Erythrozyten ohne Zellkern auskommen (daher im Deutschen auch rote Blutkörperchen genannt). Leukozyten haben spezielle Funktionen in der Abwehr von Krankheitserregern und körperfremden Strukturen. Sie gehören zum Immunsystem und sind dort Teil der spezifischen und unspezifischen Immunabwehr, weshalb sie auch als Immunozyten (Immunzellen) bezeichnet werden. Der Anteil der Leukozyten im peripheren Blut wird mit einem Differentialblutbild erfasst.
+Von links nach rechts: Erythrozyt (rotes Blutkörperchen), Thrombozyt und Leukozyt im Rasterelektronenmikroskop.
+Inhaltsverzeichnis
+
+    1 Bau der Leukozyten
+    2 Bildung der Leukozyten
+    3 Funktionen der Leukozyten
+    4 Morphologie der Leukozyten
+    5 Funktionen der einzelnen Leukozyten
+    6 Bindung der Leukozyten an die Blutgefäße
+    7 Zahlen und Werte
+    8 Krankheiten im Zusammenhang mit Leukozyten
+        8.1 Leukämie
+        8.2 HIV
+        8.3 Adhäsionsdefizit
+    9 Quellen
+    10 Einzelnachweise
+    11 Weblinks
+
+Bau der Leukozyten
+Schematisierter Aufbau des Knochenmarks mit Vorstufen der Leukozyten und Erythrozyten
+
+Leukozyten sind, je nach ihrer Art, unterschiedlich in Gestalt und Aufbau. Die Größe der Leukozyten schwankt zwischen 7 µm bei Lymphozyten und 20 µm bei Monozyten. Die Roten Blutkörperchen sind etwa 7,5 µm groß. Die Lebensdauer der Zellen reicht von wenigen Tagen bis zu mehreren Monaten. Bestimmte Leukozyten sind amöboid beweglich und können aktiv aus dem Blut in die verschiedenen Zellgewebe einwandern, sogenannte Leukodiapedese oder Leukozytenadhäsion.  
+Bildung der Leukozyten
+
+Die Bildung der Leukozyten ist ein Vorgang, der beim Erwachsenen im roten Knochenmark (Medulla osseum rubrum) von Brustbein und Becken beginnt. Diesen Vorgang nennt man Leukopoese (auch Leukozytopoese). Bei Kindern befindet sich blutbildendes rotes Knochenmark zusätzlich in den langen Röhrenknochen der Arme und Beine. Die weißen Blutkörperchen werden dort aus so genannten Vorläuferzellen der Stammzellen gebildet und differenzieren anschließend innerhalb der unterschiedlichen Kategorien der Leukozyten weiter, je nach den ihnen zugedachten Aufgaben und Funktionen. Um diese erfüllen zu können, müssen Teile der Leukozyten nach ihrer Bildung in bestimmten Organen geprägt werden. Im Lymphsystem, das heißt in Lymphknoten, Thymus, Milz, Mandeln, Knochenmark, müssen sie lernen, welche Stoffe zum Körper des Organismus gehören und welche als fremd anzusehen sind. Die Stammzellen selbst besitzen weitreichende Möglichkeiten sich zu entwickeln, sie sind pluripotent. Bei ihrer Teilung entstehen nicht zwei gleiche Tochterzellen, sondern jeweils eine neue pluripotente Stammzelle und eine Vorläuferzelle der einzelnen Blutzellen (determinierte Stammzelle), welche anschließend weiter heranreift. Je nachdem, welcher Wachstumsfaktor (Zytokine) einwirkt, entstehen so die unterschiedlichen Arten entweder der Leukozyten, der Erythrozyten oder der Megakaryozyten.
+Neutrophiler Granulozyt wandert aus dem Blutgefäß in das Gewebe ein, sezerniert proteolytische Enzyme, um interzelluläre Verbindungen zu lösen (zur Verbesserung seiner Beweglichkeit) und phagozytiert Bakterien
+Funktionen der Leukozyten
+
+Weiße Blutkörperchen machen für den Organismus unverträgliche Stoffe bzw. Krankheitserreger unschädlich. Dazu zählen Bakterien, Viren, Tumorzellen, Toxine, körperfremde Partikel, Würmer, Pilze und Protozoen (Einzeller). Die einzelnen Untergruppen der Leukozyten haben dabei verschiedene Funktionen innerhalb des Immunsystems – von der Phagozytose über die Markierung von Antigenen bis hin zur Bekämpfung von körpereigenen und körperfremden Zellen und Krebszellen.
+
+Neutrophile Granulozyten, Monozyten, Makrophagen und Dendritische Zellen zum Beispiel sind als Bestandteil der unspezifischen Abwehr zur Phagozytose fähig. Dabei nehmen sie Fremdmaterial auf und machen es unschädlich. Sie werden daher auch Fresszellen genannt.
+
+B-Lymphozyten hingegen produzieren nach geeigneter Stimulation speziell gegen bestimmte Erreger oder schädigende Stoffe gerichtete Antikörper. Sie gehören somit zur spezifischen Abwehr.
+
+T-Lymphozyten koordinieren unter anderem spezifische und unspezifische Abwehr. Auch an Entzündungen sind Leukozyten beteiligt und in der Lage, durch freigesetzte Botenstoffe (Mediatoren) wie Zytokine und Leukotriene diese aufrecht zu halten, zu modulieren oder zu beenden. Leukozyten spielen außerdem eine wesentliche Rolle bei allen Autoimmunkrankheiten.
+Morphologie der Leukozyten
+
+Es gibt zahlreiche Möglichkeiten, die unterschiedlichen Leukozytenarten zu kategorisieren.
+
+    Aufgrund ihrer Abstammung und Farbe in der Pappenheim-Färbung können sie wie folgt unterschieden werden. Alle Zellen der lymphatischen Reihe gehen auf lymphatische Vorläuferzellen zurück, die der myeloiden Reihe entwickeln sich aus myeloiden Vorläuferzellen. Auch die roten Blutkörperchen und die Blutplättchen entwickeln sich aus myeloiden Vorläuferzellen, diese werden aber nicht zu den Leukozyten gezählt und sind daher in der folgenden Tabelle nicht aufgeführt.
+
+lymphatische Reihe 	myeloide Reihe
+Lymphozyten 	Monozyten (Vorläufer der Makrophagen)
+Dendritische Zellen
+Mastzellen
+Granulozyten
+
+Granulozyten unterscheiden sich von den anderen Immunzellen (Agranulozyten) durch ihre unregelmäßig gelappten Zellkerne und durch das Vorhandensein kleiner Partikel im Cytoplasma. Die Agranulozyten besitzen dagegen runde oder bohnenförmige Zellkerne und keine Partikel im Cytoplasma.
+
+    Lymphozyten und Granulozyten werden in weitere Zelltypen unterteilt:
+
+Lymphozyten 	Granulozyten
+B-Lymphozyten
+T-Lymphozyten
+NK-Zellen 	neutrophile Granulozyten
+eosinophile Granulozyten
+basophile Granulozyten
+Funktionen der einzelnen Leukozyten
+
+    Neutrophiler Granulozyt
+
+    Eosinophiler Granulozyt
+
+    Basophiler Granulozyt
+
+    Lymphozyt
+
+    Monozyt
+
+Die einzelnen Blutzellen haben innerhalb des Immunsystems verschiedene Funktionen, welche im Folgenden kurz dargestellt sind. Nähere Informationen gibt es unter den entsprechenden Begriffen.
+Immunzellen 	Aufgabe und Funktion
+Monozyten 	Vorläufer der Makrophagen im Blut
+Makrophagen 	Phagozytose, im Gewebe und der Lymphflüssigkeit
+Mastzellen 	setzen nach Aktivierung Substanzen frei, die die Permeabilität der Blutgefäße beeinflussen
+Antigenpräsentierende Zellen
+(zum Beispiel Makrophagen, B-Zellen und Langerhanszellen) 	markieren Antigene und leiten damit die Immunantwort ein
+Granulozyten 	
+neutrophile Granulozyten 	Phagozytose von Bakterien, Viren und Pilzen im Blut
+eosinophile Granulozyten 	Abwehr von Parasiten, beteiligt an allergischen Reaktionen
+basophile Granulozyten 	Abwehr von Parasiten, Auslösern allergischer Reaktionen, Entzündungsreaktionen, Juckreiz
+B-Zell-Gruppe 	
+B-Lymphozyten 	Vorläufer der Plasmazellen im Blut
+Plasmazellen 	Spezialisierung auf Antikörperproduktion
+B-Gedächtniszellen 	langlebige B-Zellen mit einem Gedächtnis für spezielle Antigene
+T-Zell-Gruppe 	
+T-Helferzellen 	aktivieren Plasmazellen und Killerzellen
+erkennen Antigene auf den Antigen präsentierenden Zellen
+Regulatorische T-Zellen 	bremsen die Immunantwort, hemmen die Funktion der B-Zellen und anderer T- Zellen
+T-Gedächtniszellen 	langlebige T-Zellen mit einem Gedächtnis für spezielle Antigene
+T-Killerzellen (zytotoxische T-Zellen) 	erkennen und zerstören von Viren befallene Körperzellen und Tumorzellen, indem sie auf bestimmte Antigene der befallenen Zellen reagieren
+Killerzellen 	
+natürliche Killerzellen (NK) 	greifen unspezifische Tumorzellen an und Zellen, die von Viren befallen sind
+Bindung der Leukozyten an die Blutgefäße
+
+Die weißen Blutkörperchen sind sozusagen die Wächter des Immunsystems und patrouillieren ständig im gesamten Organismus auf der Suche nach Erregern oder zu zerstörenden Zellstrukturen. Dazu nutzen sie den Blutkreislauf, um von einem Ort zum anderen zu gelangen und tasten während dieser Phase die Wände der Gefäßzellen systematisch nach Stoppsignalen ab, die beispielsweise Krebszellen anzeigen. Des Weiteren dringen in jeder Minute hunderte von weißen Blutkörperchen in das Gewebe ein und suchen dort nach Verletzungen und Entzündungen. Dies tun sie, indem sie an den Wänden der Zellen entlang rollen und dort nach bestimmten Strukturen suchen, die einen solchen Zustand anzeigen.
+Zahlen und Werte
+
+    Normalwerte von Leukozyten im menschlichen Blut
+
+Normalwerte 	häufig benutzt 	SI-Einheit
+Erwachsene 	4 000 – 10 000 /µl (4–10 /nl) 	4–10 × 109/l
+Schulkinder 	5 000 – 15 000 /µl (5–15 /nl) 	5–15 × 109/l
+Kleinkinder 	6 000 – 17 500 /µl (6–17,5 /nl) 	6–17,5 × 109/l
+Neugeborene 	9 000 – 30 000 /µl (9–30 /nl) 	9–30 × 109/l
+
+Eine die Normwerte übersteigende Anzahl von Leukozyten pro Volumen wird als Leukozytose bezeichnet.
+Eine Unterschreitung der Normwerte der Leukozyten pro Volumen wird als Leukopenie bezeichnet.
+
+    prozentualer Anteil der Untergruppen an der Gesamtzahl der Leukozyten im Organismus
+
+Leukozytenuntergruppen 	Anteil in %
+Monozyten 	2 – 8
+Lymphozyten 	20 – 45
+Neutrophile Granulozyten segmentkernig 	50 – 70
+Neutrophile Granulozyten stabkernig 	3 – 5
+Eosinophile Granulozyten 	2 – 4
+Basophile Granulozyten 	0 – 1
+
+    Auf siebenhundert rote Blutkörperchen kommt unter normalen Bedingungen etwa ein weißes Blutkörperchen.
+
+Krankheiten im Zusammenhang mit Leukozyten
+Leukämie
+
+Bei den Leukämien verändern sich einzelne Untergruppen der Leukozyten zu Tumorzellen. Am häufigsten betroffen sind die Lymphozyten. Der Entstehungsort der Krankheit ist das Knochenmark, wo die Tumorzellen mit dem Blutstrom in Kontakt kommen und dadurch im ganzen Körper verteilt werden. Durch ihr massenhaftes Auftreten rufen die Tumorzellen Krankheitssymptome in allen Organen hervor. Vor allen Dingen im Knochenmark verdrängen sie die Erythrozyten, normalen Leukozyten und Thrombozyten und hemmen auf diese Weise deren Bildung. Die Betroffenen fallen durch Müdigkeit, Blässe, Blutungsneigung und allgemeines Krankheitsgefühl auf. Gleichzeitig entsteht eine Anfälligkeit für Infektionen, weil die entarteten Leukozyten ihre eigentliche Aufgabe der Immunabwehr nicht erfüllen.
+HIV
+
+Das Humane Immundefizienz-Virus vermehrt sich vorwiegend über T-Helferzellen.  Mit der Zeit sinkt die Anzahl der vorhandenen T-Helferzellen, bis schließlich die komplette Immunabwehr zusammenbricht. Es treten die Symptome des AIDS auf. Die Erkrankten sterben oft an opportunistischen Infektionen. Ein typisches Beispiel für eine solche Infektion ist eine Lungenentzündung durch Pneumocystis jirovecii, an der gesunde Menschen nur sehr selten erkranken.
+Adhäsionsdefizit
+
+Hierbei handelt es sich um eine Gruppe (seltener) erblicher Glykoproteinbiosynthese-Störungen, die zu geistigen und körperlichen Behinderungen und einer vermehrten Infektanfälligkeit führen können. Derzeit sind neun verschiedene Subtypen der Erkrankung bekannt. Die Zahl der Erkrankten wird in Europa auf 300 geschätzt. Typisch ist eine Leukozytose ohne ersichtlichen Grund. Die Adhäsionsfähigkeit der Leukozyten an die Blutgefäßwand ist bei diesem Krankheitsbild erheblich eingeschränkt.  Das Krankheitsbild ist auch in der Veterinärmedizin bekannt.  
+
+{END Leukozyt}
+
+
+
+
+{BEGIN Herpes Zoster}
+Herpes Zoster
+Zur Navigation springen
+Zur Suche springen
+Klassifikation nach ICD-10
+B02 	Herpes Zoster
+ICD-10 online (WHO-Version 2016)
+Gürtelrose (Herpes Zoster)
+Gürtelrose am Hals entlang des C3 mit Schmerzen hinter dem rechten Ohr
+
+Herpes Zoster, auch kurz Zoster,   umgangssprachlich Gürtelrose, manchmal auch Kopfrose  oder Gesichtsrose genannt, ist eine Viruserkrankung, die hauptsächlich durch einen schmerzhaften, streifenförmigen Hautausschlag mit Blasen auf einer Körperseite in Erscheinung tritt. Der Ausschlag entsteht durch das Übergreifen einer Entzündung von einem Nerv (z. B. eines Ganglions) auf das umliegende Dermatom.
+
+Die Krankheit wird durch das zur Familie der Herpesviridae gehörende Varizella-Zoster-Virus (VZV) ausgelöst. Sie tritt meist bei älteren Menschen oder solchen mit geschwächtem Immunsystem (durch Stress, infolge anderer Erkrankungen wie beispielsweise bei AIDS oder durch eine spezielle immunsuppressive Therapie) auf. Das Virus wird häufig bereits in der Kindheit übertragen und verursacht bei der Primärinfektion die Windpocken.  Ein Herpes Zoster ist immer eine endogene Reaktivierung einer alten VZV-Infektion (Erregerpersistenz).
+
+Seit Anfang 2018 ist der Zoster-Impfstoff Shingrix® zugelassen, um der Erkrankung Herpes Zoster vorzubeugen. Die Zulassung gilt für alle Personen ab 50 Jahren.
+Inhaltsverzeichnis
+Etymologie
+
+Der volkstümliche deutsche Ausdruck Gürtelrose entstand, weil sich der rötliche Ausschlag bei besonders ausgeprägten Erscheinungsformen von der Wirbelsäule ausgehend halbseitig oder ganz gürtelförmig um den Körper schlingt und dort eine Wundrose hervorruft.  Der Sammelbegriff Wundrose ist ein altertümlicher Ausdruck für eine akute, lokal begrenzte Hautentzündung, der oft undifferenziert für verschiedene Krankheitsbilder unterschiedlicher Ursachen verwendet wurde.
+
+Die Bezeichnung Herpes Zoster leitet sich ab von altgriechisch ζωστήρ zoster (‚Gürtel‘ in Bezug auf den „gürtelartigen“ Verlauf erstmals bei Plinius d. Ä. ). Vergleiche auch altgriechisch ἕρπειν herpein, deutsch ‚kriechen‘.
+
+Der englische Begriff für den Herpes Zoster, Shingles, wiederum ist dem lateinischen cingulum für ‚Gürtel‘ entlehnt.
+
+Alte Bezeichnungen sind unter anderem Fieberflechte  sowie „Feuergürtel“ (lateinisch zona ignea), in Frankreich und England auch Zone bzw. Zona, und der ansonsten für den Ergotismus verwendete Begriff Ignis sacer („Heiliges Feuer“). 
+
+Häufig werden die verkürzten Fachbegriffe Zoster (für Herpes Zoster, ausgelöst durch das Varizella-Zoster-Virus (VZV)) und Herpes (für Herpes simplex, eine durch Herpes-simplex-Viren hervorgerufene Erkrankung) verwechselt, obwohl es sich um zwei verschiedene Erkrankungen handelt, die sich im Erreger und insbesondere in den Folgeerkrankungen deutlich unterscheiden.
+Epidemiologie
+
+In Deutschland erkranken jährlich etwa 350.000 bis 400.000 Menschen an einem Herpes Zoster, rund 2/3 davon sind über 50 Jahre. Die jüngste Studie für Deutschland hat gezeigt, dass jährlich mehr als 306.000 Menschen über dem 50. Lebensjahr an Herpes Zoster erkranken. Daraus resultiert eine Inzidenz von 9,6 pro 1000 Personen pro Jahr. 
+
+Da bis zum vollendeten 40. Lebensjahr rund 98 % der Bevölkerung mit dem Varizella-Zoster-Virus meist entweder klinisch manifest in Form der Windpocken oder in Form einer stillen Feiung Kontakt hatten, sind nahezu alle Menschen gefährdet. Rund 25 bis 30 % der Bevölkerung erleiden im Laufe ihres Lebens einen Zoster. Bei den 85-Jährigen haben bereits 50 % eine Erkrankung durchlebt.
+Erreger
+
+Als Erreger dieser Erkrankung ist das Varizella-Zoster-Virus (VZV) – auch als Humanes Herpes-Virus-3 (HHV-3) bezeichnet – nachgewiesen. Dieses Virus ist ein behülltes, doppelsträngiges DNA-Virus (dsDNA) und gehört zur Familie der Herpesviridae, zur Unterfamilie Alphaherpesvirinae und zur Gattung Varicellovirus. Alle Viren dieser Familie sind mit einem ikosaedrischen Kapsid ausgestattet, das von einer Virushülle umgeben ist. Dazwischen findet sich als Besonderheit das Tegument aus verschiedenen funktionellen Proteinen. Das Varizella-Zoster-Virus ist mit den Herpes-simplex-Viren relativ nahe verwandt, dennoch gibt es keine Kreuzprotektion.
+
+Schätzungen zufolge sind rund 90 Prozent der über 14-jährigen Europäer durch Windpocken-Infektionen Träger von Varizella-Zoster-Viren. Die Tatsache, dass außer bei erheblich immunsupprimierten Menschen und bei nicht erfolgter Doppelinfektion oder Sekundärinfektion (siehe auch Infektion) die von diesen Erregern verursachte Erkrankung nur extrem selten einen tödlichen Verlauf nimmt, zeigt zum einen, dass diese Viren stark an den Menschen als ihren Reservoirwirt angepasst sind. Die Schädigung des Reservoirwirts bis hin zu seinem Tod ist für ein Virus kein vorteilhafter Effekt, da es zur eigenen Vermehrung auf diesen Wirt angewiesen ist. Die dennoch von diesem Virus beim Reservoirwirt ausgelösten Erkrankungen sind letztlich nur Nebeneffekte der Infektion. Dennoch kommen tödliche Verläufe auch in Deutschland vor, wobei das Risiko, an den Windpocken zu sterben, mit dem Alter deutlich ansteigt (laut RKI bis 31/100.000).
+Übertragung
+
+Die Erstinfektion eines gesunden Menschen äußert sich üblicherweise in der weitverbreiteten Kinderkrankheit Windpocken. Die hochansteckenden Erregerviren werden per Tröpfcheninfektion, also direktes Einatmen von Ausatmungströpfchen (Exspirationströpfchen) infizierter Personen, oder über Kontaktinfektion beziehungsweise Schmierinfektion mit den Viren der auf Gegenständen oder Körperoberflächen niedergegangenen infektiösen Exspirationströpfchen übertragen, wenn sie anschließend sofort über die Schleimhäute beispielsweise in Mund, Nase oder Augen in den Körper gelangen.  Da die Erreger an der Luft nur für etwa zehn Minuten infektiös sind, ist eine Übertragung durch herumliegende Kleidung oder Spielzeug in der Regel nicht zu befürchten. Weiterhin ist durch den virushaltigen Bläscheninhalt des Hautausschlags eine Schmierinfektion möglich. Auch der Speichel und die Tränenflüssigkeit (Konjunktivalflüssigkeit) infizierter Personen ist infektiös. Sehr selten ist die Möglichkeit einer diaplazentaren Übertragung des Varizella-Zoster-Virus durch die Schwangere auf den Fetus. Dabei kann es in etwa ein bis zwei Prozent der Varizellenerkrankungen bei Schwangeren zum fetalen Varizellensyndrom führen. 
+
+Auch wenn die Betroffenen normalerweise nach einer Windpocken-Erkrankung ein Leben lang immun gegen die Krankheit sind, verbleibt das Virus nach Abklingen der Symptome im Körper und kann später, beispielsweise ausgelöst durch Stress oder ein geschwächtes Immunsystem, in seltenen Fällen auch durch Sonneneinwirkung (UV-Licht), reaktiviert werden. Die Viren verbleiben latent in den Nervenwurzeln des Rückenmarks, den Spinalganglien, sowie in den Ganglien der Hirnnerven. Der Herpes Zoster kann nicht direkt übertragen werden; es erfolgt immer nur eine Reaktivierung einer bereits stattgefundenen Infektion („Kein Zoster ohne vorherige Windpocken“) oder einer Impfung mit Lebendimpfstoff gegen Varizellen. Herpes Zoster ist demnach keine Infektion im eigentlichen Sinne, sondern die erneute Aktivierung des Varizella-Zoster-Virus nach einer mehr oder weniger langen Latenzzeit. Für Menschen, die in der Kindheit an Windpocken erkrankt waren und über ein voll aktives Immunsystem verfügen (d. h. immunkompetent und nicht immunsupprimiert sind), besteht in der Regel keine Gefahr, sich an einem Herpes-Zoster-Erkrankten anzustecken. Eine Übertragung der Viren erfolgt bei Herpes Zoster nur durch den virushaltigen Bläscheninhalt (Schmierinfektion), nicht aber über die Atemwege als Tröpfcheninfektion. Nur bis zur Verkrustung der Bläschen bleibt der Erkrankte über den Bläscheninhalt ansteckungsfähig. Es können durch Herpes Zoster – ohne eine frühere Windpocken-Erkrankung oder Windpocken-Lebendimpfung – im Infektionsfall dann die Windpocken ausgelöst werden.
+Krankheitsverlauf/Symptome
+Verlauf von Herpes Zoster. a) Hautoberfläche; b) Nervenfaser; c) aktivierte Viren; d) inaktive Viren
+Verlauf
+
+In der Latenzphase der Erkrankung kommt es zu einer Reaktivierung der Varizella-Zoster-Viren, die nach Erstinfektion in den Spinalganglien verblieben sind. Diese Phase ist durch eine Entzündung des Nervengewebes ausgezeichnet. Es kommt typischerweise zu starken Schmerzen und weiteren Symptomen wie Brennen in dem Hautbereich, der durch den Nervenstrang versorgt wird. Schmerzen, die vor oder begleitend mit dem dermatomalen Ausschlag auftreten, nennt man zosterassoziierte Schmerzen. Im Gegensatz dazu wird der Schmerz, der nach der Hautsymptomatik auftritt und oftmals von Dauer ist, postzosterische oder postherpetische Neuralgie (PHN) genannt.
+
+In 80 % der Fälle geht der Manifestation des Zoster an der Haut ein Frühstadium (Prodromalstadium) voraus. Dies dauert etwa drei bis fünf Tage. Die Symptome in dieser Phase können sehr variabel sein. In den meisten Fällen wird über Allgemeinsymptome wie leichtes Fieber, Müdigkeit und Abgeschlagenheit (auch B-Symptomatik genannt) berichtet. Seltenere Beschwerden wie Brennen, Parästhesien und Schmerzen mit unterschiedlichem Charakter sind je nach befallenem Dermatom oftmals Anlass für Fehldiagnosen wie Bandscheibenvorfall, Nierenkolik, Herzinfarkt, Blinddarmentzündung, Cholezystitis und Gallenkolik.
+
+Das Nervengewebe entzündet sich bei einer Reaktivierung des latenten Virus. Symptome sind Brennen und teils starke Schmerzen in dem Hautbereich, der durch den betroffenen Nervenstrang versorgt wird, und in dem Nervenstrang selbst. Auch können Allgemeinsymptome wie Abgeschlagenheit und Müdigkeit im Frühstadium auftreten. Die Schmerzen treten häufig vor der Bildung der Hauterscheinungen auf, die in der Regel zwei bis drei Tage später folgen. Im befallenen Nervensegment entwickeln sich schubweise einseitig auftretende, schmerzhafte kleine erhabene Stellen mit Rötung der Haut (1). In den folgenden zwölf bis 24 Stunden bilden sich in diesem Erythem oft gruppiert stehende bis zu reiskorngroße prall gespannte Bläschen (2), die eine wasserklare Flüssigkeit enthalten. In der Regel ist dieses Stadium nach zwei bis drei Tagen abgeschlossen. Zu einer Verschmelzung (Konfluenz) dieser Bläschen kommt es nach weiteren zwei bis vier Tagen. Bereits am dritten Tag können die Bläschen eintrüben. Die Bläschen füllen sich anschließend mit Lymphe und brechen auf (3) und können im Normalfall über ca. sieben bis zwölf Tage abtrocknen. Binnen zwei bis sieben Tagen trocknen sie dann aus, dabei bildet sich eine gelb-braune Borke aus (4). Diese Phase kann ein bis vier Wochen dauern, in der Regel heilt der Zoster jedoch binnen zwei bis drei Wochen ab. Abwehrgeschwächte Patienten leiden gelegentlich an chronischen Verläufen mit monatelang bestehenden Hautveränderungen und mehrmaligen Bläscheneruptionen.    Häufig bilden sich Narben, insbesondere nach einer Zweitinfektion z. B. durch Bakterien.  In sehr seltenen Fällen kann der Ausschlag aber auch ganz ausbleiben.
+
+Als Folge der Gürtelrose können noch lange neurologisch bedingte Schmerzen auftreten.  Das Auftreten solch einer (postherpetischen) Neuralgie ist bisher nicht ausreichend geklärt. Es werden Schädigungen der Nerven vermutet. 
+Lokalisation
+Lokalisation auf der Brust
+
+Die Lokalisation der Gürtelrose wird durch das Versorgungsgebiet der befallenen Nerven bestimmt. Überdurchschnittlich häufig (in 50–56 % der Fälle) handelt es sich um einen Befall der Interkostalnerven (im Bereich des Brustkorbes).  Seltener können auch Rücken, Arme oder Beine betroffen sein.
+
+Bei Zoster ophthalmicus sind Gesicht und Augen betroffen (Nervus ophthalmicus aus dem Nervus trigeminus). Sind die Augen betroffen, kann durch Hornhautvernarbung teilweise oder vollständige Erblindung die Folge sein. Bei Befall der Gesichtsnerven (Nervus facialis) kann es zu vorübergehenden Lähmungserscheinungen oder Verlust des Geschmackssinns kommen.
+
+Zoster oticus bezeichnet einen Befall des Gehörgangs und/oder der Ohrmuschel. Mögliche Folgen sind hier neben den Zoster-typischen starken Schmerzen Schwerhörigkeit (Nervus cochlearis) und Störungen des Gleichgewichtssinnes (Nervus vestibularis). Auch kann im Rahmen eines Zoster oticus eine Neuralgie zusammen mit einer Fazialisparese auftreten (Ramsay-Hunt-Syndrom/Ramsay-Hunt-Neuralgie).  Unbehandelt können dauerhafte Hörbeeinträchtigungen oder Taubheit die Folge sein.
+
+Zoster generalisatus bezeichnet einen Befall des gesamten Nervensystems; diese Krankheitsform ist lebensbedrohlich, tritt aber üblicherweise nur bei starker primärer Schwächung des Immunsystems auf (z. B. bei AIDS, Leukämie oder anderen Krebs-Formen).
+
+Zoster genitalis tritt im Genitalbereich auf. Er zieht über das ganze Geschlechtsteil wie Penis, Schamlippen, Klitoris großflächig bis auf die Oberschenkel. Im Lymphabflussgebiet des betroffenen Hautareals lassen sich nicht selten aktivierte Lymphknoten nachweisen.
+
+Zum Zoster disseminatus kommt es bei Streuung der Viren im Blut. Dies ist allerdings nur bei ein bis zwei Prozent der Patienten mit gesundem Immunsystem der Fall. Bei abwehrgeschwächten Patienten wird es häufiger beobachtet.  
+
+In der Regel ist nur ein Dermatom vom charakteristischen Zosterexanthem betroffen (Zoster segmentalis). Es sind jedoch auch Überlappungen im Befall der Dermatome beschrieben. Zoster duplex, bei dem es zu einer Überschreitung der Mittellinie des Körpers kommt, ist eher selten. In sehr seltenen Fällen werden mehrere Hautsegmente asymmetrisch befallen, insbesondere wenn es zu einer Zweitinfektion z. B. durch Bakterien kommt. 
+Komplikationen
+Zoster ophthalmicus in Gesicht und Auge
+
+Herpes-Zoster-Komplikationen sind mit über 20 % der Fälle relativ häufig. Insbesondere die postherpetische Neuralgie (PHN), auch als Post-Zoster-Neuralgie (PZN) bezeichnet, ist dabei überaus häufig und führt zu schweren, oft als brennend beschriebenen Schmerzen. Die PZN/PHN kann im schlimmsten Fall sogar lebenslang fortbestehen und ist für die Betroffenen zum Teil unerträglich. Auch die selteneren Zoster-Formen wie Zoster generalisatus, Zoster ophthalmicus (10–15 %, davon mit Augenbeteiligung 30–40 %) und Zoster oticus werden gelegentlich zu den Komplikationen gezählt. Nicht selten heilen auch die Bläschen nur unter Pigmentierungsstörungen und Narbenbildung ab (im Gegensatz zu den Windpocken, sofern diese nicht durch Kratzen zu Vernarbungen geführt haben). Andere Komplikationen sind seltener und betreffen meist nur stark immungeschwächte Menschen. Zu den Komplikationen gehören Zoster-Meningitis (Hirnhautentzündung), Zoster-Enzephalitis (Hirngewebsentzündung) und Zoster-Myelitis (Rückenmarksentzündung).
+
+Ebenso kommt es häufig zu Lähmungen peripherer Nerven, insbesondere des Gesichtsnervs. Die Lähmungserscheinungen bilden sich in der Regel jedoch zurück. 
+
+Eine Herpes-Zoster-Infektion ist Indikator für ein leicht erhöhtes Risiko für kardiovaskuläre Erkrankungen wie Schlaganfall und Herzinfarkt.  Dies sollte bei der individuellen Planung von Vorsorgeuntersuchungen berücksichtigt werden.
+Diagnose und Differentialdiagnose
+
+Der Herpes Zoster ist vorwiegend eine Diagnose auf der Basis der klinischen Symptome. Spezielle virologische Nachweisverfahren sind nur bei komplizierten Verläufen (Beteiligung des Zentralnervensystems, generalisierter Zoster) oder bei unsicheren klinischen Zeichen notwendig. Führend ist in allen Fällen der direkte Virusnachweis mittels PCR, entweder aus betroffenem Gewebe oder Gewebsflüssigkeit oder aus punktiertem Bläscheninhalt. Da es sich um eine Reaktivierung handelt, sind serologische Methoden zum Nachweis spezifischer Antikörper nur sehr eingeschränkt aussagefähig. Bei Reaktivierungen des VZV kann das Anti-VZV-IgA bei gleichzeitig negativem Anti-VZV-IgM für mehrere Monate nachweisbar sein.
+
+Differentialdiagnostisch ist beim Auftreten von typischen Bläschen auf der Haut auch an eine atypische Lokalisation einer Herpes-simplex-Infektion zu denken. Diese den Zoster nachahmende Form des Herpes simplex bezeichnet man auch als „Zosteriformer Herpes simplex“. Umgekehrt kann ein unregelmäßig lokalisierter Zoster als „Herpetiformer Zoster“ auch eine Herpes-simplex-Infektion nachahmen. Als weitere mögliche Ursache für ständig wieder auftretende Hautbläschen kommt auch ein Morbus Hailey-Hailey in Betracht.
+Therapie Stand 2018
+
+Das Varizella-Zoster-Virus kann mit Virostatika behandelt werden. Eventuell mögliche Komplikationen können nur bei rechtzeitiger Behandlung, im von Patienten und Ärzten meist nicht korrekt eingeschätzten Prodromalstadium, reduziert werden, so dass diese Chance in der Regel nicht genutzt werden kann.
+
+Wichtig ist die frühzeitige medikamentöse Behandlung mit Virostatika bei sehr ausgedehntem Befund, beispielsweise Beteiligung des Auges oder Ohres und insbesondere bei vorbestehender Abwehrschwäche (z. B. Tumorerkrankung, schwerem Diabetes mellitus oder HIV). Üblicherweise erfolgt die Behandlung mit Aciclovir, Brivudin, Famciclovir oder Valaciclovir, meistens in Tablettenform. Medizinische Studien legen nahe, dass der Wirkstoff Brivudin wie auch Valaciclovir und Famciclovir effektiver als Aciclovir wirken.    Im Vergleich zu Aciclovir, Valaciclovir und Famciclovir muss Brivudin nur einmal täglich verabreicht werden.  Allerdings sollte Brivudin nicht länger als 7 Tage angewendet werden, da eine Verlängerung der Behandlung über den empfohlenen Zeitraum von 7 Tagen hinaus mit einem erhöhten Risiko für die Entstehung einer Leberentzündung (Hepatitis) verbunden ist.  Famciclovir sollte nicht bei Kindern und Jugendlichen angewendet werden. 
+
+In komplizierteren Fällen (Beteiligung des Auges, des Ohres, des Rückenmarks) ist eine intravenöse Behandlung mit Aciclovir erforderlich. In der Regel ist die zusätzliche Gabe von starken Schmerzmitteln angezeigt. Bei einigen der betroffenen Patienten können die akuten Schmerzen nicht durch Schmerzmittel beeinflusst werden. Manchmal kommen Pflaster oder andere Anwendungen mit Lokalanästhetika zum Einsatz. 
+
+Die im oberen Abschnitt Komplikationen beschriebenen Fälle von postherpetischer Neuralgie sind oftmals schwer zu behandeln. In Betracht kommen hier neben Schmerzmitteln auch Antidepressiva und Antikonvulsiva, gelegentlich sogar chirurgische Eingriffe. Die Behandlung mit Elektrotherapie (Galvanisation, Reizstrom oder transkutane elektrische Nervenstimulation) kann Schmerzen lindern. Dabei sind jedoch Hautläsionen (Bläschen und Pusteln) zu berücksichtigen.
+Vorbeugung/Impfung
+
+In Deutschland sind zwei unterschiedliche Impfstoffe gegen Herpes zoster für Personen ab 50 Jahren zugelassen und verfügbar: ein Lebendimpfstoff (Zostavax®) und ein Totimpfstoff mit Wirkverstärker (Shingrix®). Während für den Lebendimpfstoff nur eine Impfdosis erforderlich ist, muss der Totimpfstoff in zwei Impfdosen im Abstand von 2 Monaten verabreicht werden. Die Impfung mit dem Herpes-zoster-Lebendimpfstoff Zostavax® wird von der Ständigen Impfkommission (STIKO) derzeit nicht als Standardimpfung empfohlen. Zur Impfung mit dem Totimpfstoff liegt noch keine abschließende Bewertung durch die STIKO vor. 
+
+Shingrix wurde im Anfang 2018 zugelassen und konnte in Studien eine Wirksamkeit von über 90 % für alle Personen ab 50 Jahren belegen. Außerdem kann mit diesem Impfstoff die folgenschwere Komplikation Post-Zoster-Neuralgie (PZN) verhindert werden. Zostavax wurde am 25. Mai 2006 in den USA durch die zuständige Behörde FDA zugelassen. Mit einer derartigen Impfung könnten 51 % der Gürtelrosen-Krankheitsfälle verhindert und auch eine PZN (Post-Zoster-Neuralgie) um 66,5 % vermieden werden. Wenn trotz Impfung dennoch eine Gürtelrose auftritt, verläuft diese in der Regel deutlich milder und mit weniger Komplikationen. 
+
+Die für den an Windpocken oder an Gürtelrose Erkrankten höchste Verantwortung gegenüber Dritten besteht darin, Kontakt mit Schwangeren zu vermeiden. Haben diese nämlich – insbesondere bei einer ungeplanten „plötzlichen“ Schwangerschaft – keine entsprechende Impfung erhalten und auch sonst keine oder nicht genügend Antikörper gegen das Virus im Körper, kann eine Windpockeninfektion während der Schwangerschaft zu Entwicklungsstörungen beim Kind führen. Bei einem Windpockenausbruch bei der Mutter in den letzten Tagen vor der Geburt besteht sogar Lebensgefahr für das Kind.
+
+In der Bundesrepublik Deutschland werden sowohl Varilrix  als auch Varivax , zwei ab dem ersten Lebensjahr zugelassene Varizellen-Impfstoffe, von der Ständigen Impfkommission als Standardimpfstoffe empfohlen.  
+
+{END Herpes Zoster}
 
 
