@@ -1,68 +1,75 @@
 E01
-Lassen Sie ihn mich ansehen=let me look at him
-derzeit=currently
-ausüben=exert, practice
-Glas splitter
-Geisteszustand=state of mind
-Zustand=condition
-Umgang=contact
-Einwände=objection
-Vertragen=tolerate
-räumliche=spacial
-beachtlich=remarkable
-in Einsatz=operation
-Vorzüge=advantage
-unschätzbar=invaluable
+Lassen Sie ihn mich ansehen=let me look at him 03:07
+derzeit=currently 03:43
+ausüben=exert, practice 03:47
+Glas splitter=splinter  04:07
+Geisteszustand=state of mind 04:29
+Zustand=condition 04:35
+Vorstand=board 04:56
+Umgang=contact 
+Einwände=objection 05:10
+Vertragen=tolerate 05:22
+räumliche=spacial 06:02
+beachtlich=remarkable 06:09
+in Einsatz=operation 06:11
+Vorzüge=advantage 06:12
+unschätzbar=invaluable 06:14
 unbestreitbar=incontrovertible 
-Vetternwirtschaft=nepotism
-Vettern=cousin
-aus der Buchhaltung feuern=firing from accounting
-entlassen=dismiss
-das Licht ausmachen=turn off the light
-Einverständniserklärung=consent form
-Einwilligungserklärung=letter of consent
-sie steht nur nicht auf dich=she just does not care about you
-verheimlichen=conceal
-Pulsadern=puls vein
-Ellenbogen=elbow
-venenstauung=vein stasis
-hebt sich=lifts
-behebung=remediation, removal
-anhalten=stop
+Vetternwirtschaft=nepotism 06:29
+Vettern=cousin 06:29
+aus der Buchhaltung feuern=firing from accounting 06:32
+entlassen=dismiss 06:32
+das Licht ausmachen=turn off the light 06:44
+Einverständniserklärung=consent form 06:48
+Einwilligungserklärung=letter of consent 06:48
+sie steht nur nicht auf dich=she just does not care about you 07:20
+verheimlichen=conceal 07:36
+Pulsadern=puls vein  08:40
+Ellenbogen=elbow  08:40
+venenstauung=vein stasis  08:45
+hebt sich=lifts  08:45
+behebung=remediation, removal 08:45
+anhalten=stop 09:00
 weismachen=make believe
-klarkommen mit=cope with
-Abmachung=agreement
-bestanden=pass
+mit Lügen umgehen=go around, circumvent   09:45
+klarkommen mit=cope with 09:45
+Abmachung=agreement 
+bestanden=pass 11:14
 Einstellung=attitude
-Vorgesetzter=supervisor
-untergebene=subordinate
-Unterstellte=subordinate
+Vorgesetzter=supervisor 11:30
+untergebene=subordinate 11:35
+Unterstellte=subordinate  11:35
 beschaffen=procure
 entweichen=escape
 einwegventil=disposable valve
 streicheln=caress   16:10
 Ausschlag=deflection
-spannung=tension
-Vorhof=atrium
-Eiter=pus   17:30
+spannung=tension 13:20
+https://de.wikipedia.org/wiki/Aorta#Abschnitte Aorta Abscendens
+ 17:12
+https://de.wikipedia.org/wiki/Herz#R%C3%A4ume_und_Gef%C3%A4%C3%9Fe  Vorhof Atrium 17:17
+https://de.wikipedia.org/wiki/Eiter pus   17:30
+https://de.wikipedia.org/wiki/Noradrenalin 01 17:41
 vorgeschichte=prehistory
 absaugen=vacuum
 Verabreichen=administer
 blutbild=blood count
-benehmen sie sich=behave yourself
+benehmen sie sich=behave yourself 18:45
 vorliegend=present
-übersehen=overlook
-Hase=rabbit
-Einschränkung=limitation
-benachteiligt=disadvantaged
-vermasseln=to goof,to botch
-vorgespielt=audition
-abstimmung=vote
+übersehen=overlook 19:29
+Hase=rabbit 20:19
+Einschränkung=limitation 21:56
+benachteiligt=disadvantaged 22:45
+https://de.wikipedia.org/wiki/Perikarderguss Herzbeutelerguss 24:44 
+https://en.wikipedia.org/wiki/Brachiocephalic_vein  26:35
+vermasseln=to goof,to botch 32:52
+vorgespielt=audition 34:12
+abstimmung=vote 34:38
 
 
 E02
 Stockwerk=floor
-Akte=file
+Akte=file 02:45
 durchalten=hold on, persevere
 weitläufig=spacious
 vollständig=entirely
@@ -70,10 +77,13 @@ dabei=there
 am Sabbern=salivating, on the drool
 aufregend=exciting 05:20
 Nosophobie
+verrichtet=perform 05:57
+https://de.wikipedia.org/wiki/Amoxicillin 07:09 
 pobacken=buttocks  09:00
-verrichtet=perform
-fachgerecht=professional
-Nasenscheidewand=nose septum
+fachgerecht=professional 10:14
+mitleiderregend=pitiful 10:33
+bedauernswert=pitiable 10:33
+Nasenscheidewand=nose septum 
 Nasenscheidewandverkrümmung
 verkrümmung=curvature
 Furz,Fürze,furzen=fart
@@ -87,20 +97,28 @@ angeordnet=disposed
 gelogen=lügen=lie  16:20
 anweisung=instruction
 vorgestellt=imagine
+https://de.wikipedia.org/wiki/Skalpell Zehner 17:50
 erbrochenes=vomited 18:25
+https://de.wikipedia.org/wiki/Retraktor_(Chirurgie) 20:00
+streitsüchtigen=contentious 20:42
 freilegen=uncover
-
 zankenden=streitenden=squabbling
 aufträge=assignments
-trottel=fool
+Trottel=fool 22:36
+Scheibe=pane 23:20
+https://de.wikipedia.org/wiki/Leiomyosarkom 24:51
 bedauerlicherweise=regrettably
 anbieten=offer
-betreuung=care, support
-aufstechen=puncture
+Betreuung=care, support 25:06
+aufstechen=puncture 25:44
 versprechen=promise
-kleingeredet=played down   27.50
+kleingeredet=played down 27.15
 beurteilen=judge  29:30
 entnehmen=remove 30:35
+angeheuert=hired 28:00
+vermitteln=convey 29:20
+https://de.wikipedia.org/wiki/Lactate 31:06
+https://de.wikipedia.org/wiki/Amylasen 31:06
 angeboren=innate,congenital
 abwimmeln=get rid of
 beharrlich=persevering
@@ -665,19 +683,13 @@ Zusagen=promise 34:53
 
 GLOSSARY
 
-1
-https://de.wikipedia.org/wiki/Aorta#Abschnitte Aorta Abscendens
-https://de.wikipedia.org/wiki/Herz#R%C3%A4ume_und_Gef%C3%A4%C3%9Fe  Vorhof (Atrium)
-https://de.wikipedia.org/wiki/Noradrenalin 01 17:41
-https://en.wikipedia.org/wiki/Brachiocephalic_vein  26:35
 
 2
 https://de.wikipedia.org/wiki/Angiomyolipom
 https://de.wikipedia.org/wiki/Retroperitonealraum
-https://de.wikipedia.org/wiki/Amoxicillin
 https://de.wikipedia.org/wiki/Geh%C3%B6rgang 
-https://de.wikipedia.org/wiki/Skalpell Zehner
-https://de.wikipedia.org/wiki/Leiomyosarkom
+
+
 https://de.wikipedia.org/wiki/D%C3%BCnndarm
 
 03
@@ -685,7 +697,7 @@ https://de.wikipedia.org/wiki/Anastomose  34:40
 
 04
 https://de.wikipedia.org/wiki/Nervus_pudendus
-https://de.wikipedia.org/wiki/Retraktor_(Chirurgie) 28
+
 
 16
 
