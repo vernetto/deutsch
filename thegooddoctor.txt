@@ -325,12 +325,20 @@ aufstellen=set up,position 01:21
 Einteilung=classification 01:31
 eingestuft=classified 01:31
 geschleudert=hurled 02:12
-prellungen=bruises
+prellungen=bruises 02:15
+https://de.wikipedia.org/wiki/Defibrillation 02:18
+https://de.wikipedia.org/wiki/Blutkreislauf 02:51
+https://de.wikipedia.org/wiki/Torquer Führungsdraht 04:00
+https://en.wikipedia.org/wiki/Resuscitative_endovascular_balloon_occlusion_of_the_aorta  REBOA 04:30
 Schwanenfrau=swan wife
-Ruß=soot
-Schlinge=loop,noose
+Ruß=soot 05:29
+https://de.wikipedia.org/wiki/Koniotomie 05:32
+https://de.wikipedia.org/wiki/Escharotomie 05:33
+Schlinge=loop,noose 05:50
+https://de.wikipedia.org/wiki/Petrischale 05:59
 Brustbein=sternum
 kühne=bold
+überfordert=overwhelmed 07:20
 zögerten=hesitated
 Nebenanschluss=shunt
 gelegt=placed
@@ -356,7 +364,7 @@ eingeschätzt=evaluated,estimated
 ausrichten=tell 39:55
 patientenverfügung=patient disposal
 
-https://en.wikipedia.org/wiki/Resuscitative_endovascular_balloon_occlusion_of_the_aorta  REBOA
+
 https://de.wikipedia.org/wiki/Elektroenzephalografie
 https://de.wikipedia.org/wiki/Patientenverf%C3%BCgung
 
