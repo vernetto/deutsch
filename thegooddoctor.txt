@@ -76,7 +76,6 @@ vollständig=entirely
 dabei=there
 am Sabbern=salivating, on the drool
 aufregend=exciting 05:20
-Nosophobie
 verrichtet=perform 05:57
 https://de.wikipedia.org/wiki/Amoxicillin 07:09 
 pobacken=buttocks  09:00
@@ -265,43 +264,66 @@ eklig=disgusting
 herrühren=result from, be due to
 tollpatschig=clumsy 04:43
 https://de.wikipedia.org/wiki/Nystagmus 04:58
+beleidige=insult 07:07
+ungelegen=inopportune 07:13
 verblüffend=perplexing
+Abzeichen=badge 07:57
+https://de.wikipedia.org/wiki/Hypochondrie#Nosophobie 08:49
+Pobacken=buttocks 09:04
+beeinträchtigt=impair 10:33
+wir würden es gern dabei belassen=we would like to leave it at that 11:17
 unheimlich=creepy
 vorgetäuscht=feigned 12:30
-Ich fühle mich geehrt=I feel honored 13:20
+Ich fühle mich geehrt=I feel honored 13:17
+geschmeichelt=flattered 13:17
 verlegt=relocated  13:30
+verraten=reveal 13:41
 rausgeschmissen=kicked out, in a fix 14:08
+belügt/belügen=deceives 15:11
 Ich hab's mir ausgedacht=I thought it all up 15:35
+angesehen/ansehen=to look at 16:15
+https://de.wikipedia.org/wiki/Neutrophiler_Granulozyt 19:40
+https://en.wikipedia.org/wiki/ELISA 20:16
+https://de.wikipedia.org/wiki/Echinococcus 20:26
+munkeln=to rumor 20:55
 zurechtkommen=cope
-ausschlag=rash
 wieso sie's geplatzt=why did she burst? 21:19
 Schmeichler=flatterer 21:53
+Ausschlag=rash 23:03
+https://de.wikipedia.org/wiki/Prednison 24:18
 wie stelle ich das an? How do I do it? 25:34
+https://de.wikipedia.org/wiki/Erythrozyt 25:43
+Schürze=apron 27:11
 im Stich gelassen=let down 27:45
+Nachtragen=grudge 27:57
+https://de.wikipedia.org/wiki/Histiozytose_X 28:37
+zusammenhang=connection 29:59
+https://de.wikipedia.org/wiki/Embolie 30:25
+https://de.wikipedia.org/wiki/H%C3%A4modynamik 30:30 
+verschweigen=conceal 32:40
 Lenden=lumbar
 vornehmen=make, carry out
 zerrung=strain
 zange=tongs
 Brusthöhle=thoracic cavity
-Eindringling=intruder 36:30
+Eindringling=intruder 36:28
 Fluchen=curse
 trübe=cloudy
 
 https://de.wikipedia.org/wiki/Allergen 03:00
-https://de.wikipedia.org/wiki/Bauchspeicheldr%C3%BCse  Pankreas
 https://de.wikipedia.org/wiki/Anaphylaxie
-https://de.wikipedia.org/wiki/Hypochondrie#Nosophobie
-https://de.wikipedia.org/wiki/Neutrophiler_Granulozyt 19:40
-https://de.wikipedia.org/wiki/Echinococcus 20:26
-https://de.wikipedia.org/wiki/Prednison 24:18
-https://de.wikipedia.org/wiki/Erythrozyt
+
 
 
 E06
 
-Leder=leather
+Leder=leather 00:30
+ausgestorben=deserted 00:38
 Arschkriecher=ass-kisser 00:55
 verlegen=move 01:08
+aufstellen=set up,position 01:21
+Einteilung=classification 01:31
+eingestuft=classified 01:31
 geschleudert=hurled 02:12
 prellungen=bruises
 Schwanenfrau=swan wife
