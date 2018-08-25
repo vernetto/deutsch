@@ -366,23 +366,34 @@ ausrutscher=slip 23:25
 schweifen=roam around 23:40
 https://de.wikipedia.org/wiki/Hirnblutung 24:40
 https://de.wikipedia.org/wiki/Exzision Wundausschneidung=debridement 25:46
+https://de.wikipedia.org/wiki/Hirnblutung#Subduralh%C3%A4matom 26:57
+https://de.wikipedia.org/wiki/Neuronale_Plastizit%C3%A4t 32:55
+versauen=mess up 37:08
 aufgeregt=excited
-verknüpfen=connect,link
+verknüpfen=connect,link 
 eingeschätzt=evaluated,estimated
 ausrichten=tell 39:55
-patientenverfügung=patient disposal
+https://de.wikipedia.org/wiki/Patientenverf%C3%BCgung patientenverfügung=patient disposal
 
 
 https://de.wikipedia.org/wiki/Elektroenzephalografie
-https://de.wikipedia.org/wiki/Patientenverf%C3%BCgung
+
 
 
 E07
 
 abgesturzt=crashed
 Anteilnahme=sympathy 00:55
+belastenden=stressful 01:14
+https://de.wikipedia.org/wiki/Nitroglycerin Nitro-infusion 01:39
+https://de.wikipedia.org/wiki/Herzschrittmacher Doppelschrittmacher 02:33
+https://de.wikipedia.org/wiki/Haloperidol Haldol 03:18
+https://de.wikipedia.org/wiki/Psychose  Psychotisch 03:25 
 anfassen=touch 03:33
+hervorragend=outstanding 03:59
+https://de.wikipedia.org/wiki/Lidocain 04:39
 verlaufen=run 05:00
+https://de.wikipedia.org/wiki/Cholangitis 06:20
 Griff/Griffe=handle/s 08:30
 vernarbte=scarred 09:45
 Gehalt=salary 11:10
@@ -403,9 +414,8 @@ ich verlaufe mich=I am lost
 Verlegung=relocation
 beseitigt=eliminated 39:50
 
-https://de.wikipedia.org/wiki/Haloperidol Haldol
-https://de.wikipedia.org/wiki/Lidocain 04:39
-https://de.wikipedia.org/wiki/Cholangitis 06:20
+
+
 https://de.wikipedia.org/wiki/Midazolam
 https://de.wikipedia.org/wiki/Phlegmone 33:20
 
