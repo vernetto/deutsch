@@ -421,10 +421,15 @@ https://de.wikipedia.org/wiki/Phlegmone 33:20
 
 
 E08
+Ausschuss=Committee 00:30
 unfassbar=incomprehensible  01:55
+abgestellt=shut 01:57
 stolpern=stumble 02:16
 verklagen=sue 02:19
 Ohrenstöpsel=ear plugs 02:35
+schmeissen=throw 03:06
+https://de.wikipedia.org/wiki/Arterielle_Hypotonie  04:10
+Austritt=exit 06:02
 Zwerchfell=Diafragma
 verbandmull=garze 08:50
 ich benehm mich daneben=I am wrong
@@ -432,6 +437,7 @@ unangebracht=inappropriate 12:12
 vorbeugen=avoid 12:18
 hellseher=clairvoyant 12:58
 wieso=why 14:09
+https://de.wikipedia.org/wiki/Systemisches_inflammatorisches_Response-Syndrom 14:35
 entzündungshemmer=anti-inflammatory products  14:50
 anbieten=offer 17:28
 beatmen=ventilate
