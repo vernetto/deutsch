@@ -339,25 +339,33 @@ https://de.wikipedia.org/wiki/Petrischale 05:59
 Brustbein=sternum
 kühne=bold
 überfordert=overwhelmed 07:20
+https://de.wikipedia.org/wiki/Nosokomiale_Infektion 08:19
 zögerten=hesitated
 Nebenanschluss=shunt
 gelegt=placed
-Oberschenkel=thigh
-Unterschenkel=lower leg
-Bräutigam=groom (fiancé)
+Oberschenkel=thigh 10:58
+Unterschenkel=lower leg 10:58
+Bräutigam=groom (fiancé) 12:20
+angesprochen=mentioned 13:15
 gewöhnen=accustom
 Schienen=rails
 gerinnung=clotting
-Schmeichelei=flattery
-Ausweg=way out
+Schmeichelei=flattery 15:20
+Ausweg=way out 16:00
 Verschluss des Stumpfes=closure of the stump
-einstweilige=provisional
+einstweilige=provisional 18:10
 unterbinden=prevent,stop
 eingereicht=submitted
-entzugsklinik=withdrawal clinic
-Süchtig=addicted
-betrogen=cheated
-Wundausschneidung=debridement
+überwinden=overcome 21:45
+entzugsklinik=withdrawal clinic 22:22
+Süchtig=addicted 22:39
+https://de.wikipedia.org/wiki/Wakeboard 22:47
+betrogen=cheated 23:12
+zufällig=by chance
+ausrutscher=slip 23:25
+schweifen=roam around 23:40
+https://de.wikipedia.org/wiki/Hirnblutung 24:40
+https://de.wikipedia.org/wiki/Exzision Wundausschneidung=debridement 25:46
 aufgeregt=excited
 verknüpfen=connect,link
 eingeschätzt=evaluated,estimated
