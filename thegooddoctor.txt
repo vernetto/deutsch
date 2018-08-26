@@ -466,7 +466,7 @@ Schicksalsschlag=blow of fate
 knötchen=nodule
 heiserkeit=hoarseness 03:14 
 aufgesetzter kichern=false laugh 06:23
-Ringelflechte=ringworm 06:44
+https://de.wikipedia.org/wiki/Tinea_corporis Ringelflechte=ringworm 06:44
 an der Spüle=at the sink 07:02
 verlegt=misplaced 07:22
 https://de.wikipedia.org/wiki/Kardiomyopathie 07:54
@@ -493,6 +493,8 @@ angenommen=assumed
 angefordert=requested
 abgefunden=resigned 22:04
 vernachlässigen=neglect 23:35
+beigebracht 24:25
+https://en.wikipedia.org/wiki/Septal_myectomy septummyectomie 26:50
 erfasst=detected 39:38
 aufgegeben=give up 40:07
 Igel=Hedgehog  41:30
