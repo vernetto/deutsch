@@ -495,8 +495,12 @@ abgefunden=resigned 22:04
 vernachlässigen=neglect 23:35
 beigebracht 24:25
 https://en.wikipedia.org/wiki/Septal_myectomy septummyectomie 26:50
+Abfluss=outflow 33:24
+gluck-sorenson laryngektomie 34:08
+https://de.wikipedia.org/wiki/Cefotaxim 34:13
 erfasst=detected 39:38
 aufgegeben=give up 40:07
+verklagt=sued
 Igel=Hedgehog  41:30
 zulegte=grew
 
@@ -505,13 +509,16 @@ zulegte=grew
 
 
 E10
+https://de.wikipedia.org/wiki/Fasziotomie 00:25
 Ihr beide werdet euch mögen=You both will like each other  01:50
 Abweichung=deviation 02:38
 Seitenband=collateral ligament 02:59
 Griffstärke=grip strength
 Sie haben wohl den Kürzeren gezogen=You have probably lost the short straw	
 zuversichtlich=confident 05:55
-Sackgasse=cul de sac
+Hohlhandmuskel Musculus palmaris longus 06:08
+Hohlhand=hand palm 06:08
+Sackgasse=cul de sac 10:06
 Vorschlag=proposition,suggestion
 vertraulich=confidential
 ratschläge=advice
