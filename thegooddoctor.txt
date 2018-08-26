@@ -439,24 +439,25 @@ hellseher=clairvoyant 12:58
 wieso=why 14:09
 https://de.wikipedia.org/wiki/Systemisches_inflammatorisches_Response-Syndrom 14:35
 entzündungshemmer=anti-inflammatory products  14:50
+https://de.wikipedia.org/wiki/Fentanyl 16:08
 anbieten=offer 17:28
 beatmen=ventilate
-Verlangt=desires
+Verlangt=desires 19:28
 aufgeregt=excited 18:48
 ich kann viele Menschen nicht leiden= I can't stand many people 20:30
 aufsatz=essay 20:57
+https://de.wikipedia.org/wiki/Dialyse 21:58
 ausgeschwemmt=flushed 22:18
 endgültig=definitely 24:00
 boshaft=wicked 24:01
 kotzbrocken=son of a bitch 24:02
+ablassen=drain 32:20
 deswegen=therefore 35:18
 abgeschätzt/abschätzen=evaluate
 abservieren=to polish off 36:30
 
-
-
 https://de.wikipedia.org/wiki/Milz
-https://de.wikipedia.org/wiki/Fentanyl 16:10
+
 
 
 E09
@@ -465,16 +466,28 @@ Schicksalsschlag=blow of fate
 knötchen=nodule
 heiserkeit=hoarseness 03:14 
 aufgesetzter kichern=false laugh 06:23
+Ringelflechte=ringworm 06:44
 an der Spüle=at the sink 07:02
 verlegt=misplaced 07:22
+https://de.wikipedia.org/wiki/Kardiomyopathie 07:54
+https://de.wikipedia.org/wiki/Metoprolol 08:15
 bildungsplan=education plan 11:54
 taub=deaf 12:08
 worauf willst du hinaus=what are you after? 12:29
+trübe=cloudy 13:25
+Windbeutel=a type of dessert 13:57
 ein heißer Feger=a hottie 14:37
 abgelenkt=distracted 14:43
+beängstigend=frightening 15:41
+eines Tages=one day 15:51
+https://de.wikipedia.org/wiki/Endokard 16:26
 wucherung=proliferation 16:28
+https://de.wikipedia.org/wiki/Mitralklappe 17:40
+Aufmüpfigkeit=insubordination 18:45
+Versagenangst=fear of failure 19:03
 ohne Anlass=without cause 19:42
 erfahren=find out, learn 20:13
+https://de.wikipedia.org/wiki/Ektopie 20:33
 kehlkopf=larynx
 angenommen=assumed
 angefordert=requested
@@ -485,9 +498,8 @@ aufgegeben=give up 40:07
 Igel=Hedgehog  41:30
 zulegte=grew
 
-https://de.wikipedia.org/wiki/Metoprolol 08:15
-https://de.wikipedia.org/wiki/Endokard 16:26
-https://de.wikipedia.org/wiki/Ektopie 20:33
+
+
 
 
 E10
