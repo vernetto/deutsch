@@ -516,13 +516,18 @@ Seitenband=collateral ligament 02:59
 Griffstärke=grip strength
 Sie haben wohl den Kürzeren gezogen=You have probably lost the short straw	
 zuversichtlich=confident 05:55
-Hohlhandmuskel Musculus palmaris longus 06:08
+https://de.wikipedia.org/wiki/Musculus_palmaris_longus Hohlhandmuskel  06:08
 Hohlhand=hand palm 06:08
 Sackgasse=cul de sac 10:06
-Vorschlag=proposition,suggestion
+Vorschlag=proposition,suggestion 10:58
+überlassen=leave something 12:24
+Ratschlag=advice 12:51
+auf den Keks gehen=to get on my nerves 15:46
+arschkriecherei=ass licking 15:52
+https://de.wikipedia.org/wiki/Plexus_brachialis  Armgeflecht 16:36
+https://de.wikipedia.org/wiki/Schwannom 16:47
 vertraulich=confidential
 ratschläge=advice
-arschkriecherei=ass licking
 verdrängung=repression
 unangemessen=inadequate
 Starke Leistung=great job 20:52
@@ -541,8 +546,8 @@ Muskelstarre=muscle rigidity 35:20
 auftreten=occur 37:30
 hinzunehmen=accept
 
-https://de.wikipedia.org/wiki/Musculus_palmaris_longus 06:13
-https://de.wikipedia.org/wiki/Schwannom 
+
+
 https://de.wikipedia.org/wiki/Maligne_Hyperthermie
 https://de.wikipedia.org/wiki/Dantrolen 
 
