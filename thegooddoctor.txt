@@ -493,7 +493,7 @@ angenommen=assumed
 angefordert=requested
 abgefunden=resigned 22:04
 vernachlässigen=neglect 23:35
-beigebracht 24:25
+beigebracht=taught 24:25
 https://en.wikipedia.org/wiki/Septal_myectomy septummyectomie 26:50
 Abfluss=outflow 33:24
 gluck-sorenson laryngektomie 34:08
@@ -562,6 +562,7 @@ E11
 ausrichten=give a message 01:05
 vorwitzig=inquisitive 02:43
 einweisen=assign 05:04
+https://en.wikipedia.org/wiki/Craniopagus_twins 05:20
 genehmigt=approved 08:42
 vertuschen=cover up 08:44
 ausgeweitet=expanded 08:46
@@ -585,25 +586,33 @@ Schallwelle=sound wave
 anfängt=begins
 aufhört=ends
 
-https://en.wikipedia.org/wiki/Craniopagus_twins
 https://de.wikipedia.org/wiki/Darmbein fossa iliaca
 https://de.wikipedia.org/wiki/Harnr%C3%B6hre Urethra
 https://en.wikipedia.org/wiki/Superior_sagittal_sinus
 
 E12
 umwerfend=fantastic 02:20
+veranlassen=arrange 02:51
 https://de.wikipedia.org/wiki/Circulus_arteriosus_cerebri Willis Kreis 04:32
 I habe belogen=I have lied 04:50
 nachkommen=to comply with 05:00
 ich werde die kündigung einreichen=I will file the cancellation 05:22
+holen=summon 06:23
+https://de.wikipedia.org/wiki/Arteria_cerebri_media 08:25
+https://de.wikipedia.org/wiki/Koryph%C3%A4e 15:07
+angreifen=attack 15:20
+sauer auf ihn=hin böse=angry with him 16:10
 https://de.wikipedia.org/wiki/Extrakorporale_Membranoxygenierung ECMO 18:30
+eingetreten=occurred 21:06
 du hier ausreichend gefordert wirst=you are sufficiently challenged here 27:54
 https://de.wikipedia.org/wiki/Elektrokardiogramm EKG 30:03
 https://de.wikipedia.org/wiki/Elektroenzephalografie EEG 30:03
 herausschlagen=knock out, gush 31:33
+zur  Kasse bitten=make someone to pay 31:45
 ihretwegen=because of she 32:29
 https://de.wikipedia.org/wiki/Adrenalin Epinephrin 33:56
 bereuen=regret 39:33
+aufbewahren=store 42:00
 Ich breche ab=I cancel
 genesung=recovery
 deshalb=that's why
@@ -614,17 +623,31 @@ haben sie den Stecker gezogen=they pulled the plug
 
 E13
 https://de.wikipedia.org/wiki/Aneurysma 00:40
+https://de.wikipedia.org/wiki/Diltiazem 00:55
+zugezogen=suffered 01:04
 https://de.wikipedia.org/wiki/Subarachnoidalblutung 02:38
-urteilsvermögen=discernment 03:26
+urteilsvermögen=discernment 03:20
+aus dem verkehr gezogen=withdraw from circulation 03:24
+Gehaltserhöhung=salary increase 03:35
+gespielt=faked 03:42
 https://de.wikipedia.org/wiki/Bronchoskopie 03:56
+vorliegen=to exist 04:00
 unterlassen=refrain from 04:08
 fassen sie mich nicht an=don't touch me 04:10
+grundsätze=principles 04:25
+Veranlagung=predisposition 06:42
+bindegewebe=connective tissue 06:42
+https://de.wikipedia.org/wiki/Rachen Pharynx 06:48
+https://de.wikipedia.org/wiki/Kehldeckel Epiglottis 06:51
 https://en.wikipedia.org/wiki/Carina_of_trachea 07:12
+Verabredung=meeting 08:58
+Vorschrift=process 09:29
+Vorrang=precedence 11:04
 https://de.wikipedia.org/wiki/Luftr%C3%B6hre 
 https://de.wikipedia.org/wiki/Ondansetron 12:54
 https://www.healthline.com/health/endovascular-embolization 14:59
 https://de.wikipedia.org/wiki/Embolisation 15:00
-Veranlagung=predisposition
+wehrlos=defenseless 18:35
 stimmbänder=vocal cords
 Anastomose=Anastomosis
 Heuchlerei=hypocrisy 20:02
@@ -637,6 +660,7 @@ https://de.wikipedia.org/wiki/Labetalol 28:25
 https://de.wikipedia.org/wiki/Calciumantagonist  Calciumkanalblocker  28:47
 https://de.wikipedia.org/wiki/Entz%C3%BCndung 29:43
 https://de.wikipedia.org/wiki/Methylprednisolon 32:45
+das nehme ich auf meine Kappe=I will take full responsibility, I take the blame 32:50
 
 
 E14
@@ -650,12 +674,17 @@ schwindelig=dizzy 04:09
 https://de.wikipedia.org/wiki/Paracetamol Vicodin 04:21
 https://de.wikipedia.org/wiki/Ofloxacin 04:23
 https://de.wikipedia.org/wiki/Azithromycin 04:28
+https://de.wikipedia.org/wiki/Prednison 04:30
 https://de.wikipedia.org/wiki/Ultraschall 05:09
 https://de.wikipedia.org/wiki/Intrauterine_Insemination IUI 05:36
 Künstlichen Befruchtung=artificial insemination 05:36
 https://de.wikipedia.org/wiki/In-vitro-Fertilisation IVF 05:37 
+mich eingeschlossen=me included 05:48
 Meerjungfrau=mermaid 07:15
-Spülung=flush 08:???
+Spülung=flush 07:35
+ansammlung=accumulation 07:35
+Rückstände=backlog 07:36
+veröffentlicht=published 07:48
 Hoden=testicle 09:26
 https://de.wikipedia.org/wiki/Osteopenie 09:52 
 https://de.wikipedia.org/wiki/Mikrolithiasis 10:09
@@ -666,6 +695,7 @@ https://de.wikipedia.org/wiki/Leuprorelin 10:30
 https://en.wikipedia.org/wiki/Histrelin  10:30
 Segen=blessing 11:06
 Eierstock=ovary 11:15
+absetzen=drop,stop 11:47
 echt drauf=really on it 12:32
 Anstand=decency 12:34
 Laken=sheet 12:56
@@ -677,10 +707,15 @@ https://de.wikipedia.org/wiki/Enterostoma Kolostomie 16:28
 einstellung=employment 19:18
 Absage=cancellation 20:13
 mitversorgt=jointly supplied 20:15
+beidseitige=both sides 23:??
+Kacke=shit 24:32
+https://de.wikipedia.org/wiki/Stuhltransplantation  Mikrobiomtransfer 24:40
 erwartungsgemäß=as expected 28:19
-treiben=float
+gemobbt=bullied 28:41
+treiben=float 29:03
 https://de.wikipedia.org/wiki/Samenstrang 31:52
 https://de.wikipedia.org/wiki/Gastrointestinaler_Stromatumor 32:31
+Leck=leak 33:02
 untertreibung=understatement 34:48
 https://de.wikipedia.org/wiki/Endokrinologie 37:14
 bescheidenheit=modesty 38:03
@@ -696,13 +731,16 @@ Spätzünder=late starter 01:55
 https://de.wikipedia.org/wiki/Herzektopie 03:11
 schlamper=untidy person 09:29
 zerknittert=creased 09:32
+abstoßung=rejection 09:49
 Haken=catch 10:15
 Schlitterpfad=slippery slope 11:19
 gratwanderung=tight rope 11:19
 geschubst=pushed 12:33
+geboxt=punched 12:40
 öse=loop 13:27
 Schwestern=nuns,nurses 19:50
 götterspeise=jelly 19:50
+https://de.wikipedia.org/wiki/Mediastinum 26:50
 Krücke=crutch 27:10
 Handschellen=handcuffs 28:05
 zugeständnis=concession 28:49
@@ -720,15 +758,19 @@ rummelplatz=fair
 Auflage=edition 00:26
 zweierlei=dual 00:31
 https://de.wikipedia.org/wiki/Spondylosis_deformans 00:39
+https://de.wikipedia.org/wiki/Ibuprofen 01:00
 schätzungsweise=approximately 01:02
 ausgesessen=eat out 01:12
 Nacken=neck
 kribbeln=tingle 01:34
 lähmung=paralysis
-bandscheibenvorfall=disk prolapse
-Absätze=heels
+https://de.wikipedia.org/wiki/Bandscheibenvorfall disk prolapse 01:36
+Absätze=heels 02:00
+eindeutig=clearly 03:28
+https://de.wikipedia.org/wiki/Bauchdeckenstraffung 03:43
 flitterwochen=honeymoon 07:29
-nichts für ungut=no offense 08:??
+nichts für ungut=no offense 08:08
+ausgiebige=extensive 08:15
 Schwager=brother in law 08:44
 ich stelle bevorzugt Menschen mit Behinderung ein=I prefer 08:47
 https://de.wikipedia.org/wiki/Varikozele 09:51
@@ -744,7 +786,7 @@ falsche vorwand=false pretense 18:34
 kirmes=rummel=funfair 24:48
 vorbestraft=previously convicted 24:58
 https://de.wikipedia.org/wiki/Oxycodon 26:15
-flügel (SING) flügel (PLUR)=wings 26:58
+Flügel (SING) Flügel (PLUR)=wings 26:58
 Zahnseide=dental floss 27:01
 Wucherung=proliferation 33:03
 https://de.wikipedia.org/wiki/Amiodaron 33:51
