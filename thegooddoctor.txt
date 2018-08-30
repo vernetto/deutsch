@@ -801,24 +801,38 @@ E17
 https://de.wikipedia.org/wiki/M%C3%B6bius-Syndrom 00:47
 überschlafen=sleep on 01:16
 https://de.wikipedia.org/wiki/Clindamycin 02:55
-hingewiesen=pointed out 05:53
+ehrlich gesagt=honestly 
+einfallsreich=imaginative,ingenious 05:45
+geistreich=witty 05:45
+hingewiesen=pointed out 05:50
+schwanke=vary,fluctuate 06:00
 unergründlich=unfathomable,inscrutable 06:00
 unnahbar=unapproachable 06:00
 bewusst verachtet=deliberately despised 06:03
-erbost=infuriated 08:07
+zugänglich=approachable 06:05
+kostspielig=expensive 06:37
+Zicke=bitch 
+keine scheu=don't be shy 07:36
+erbost=aufgebracht=infuriated 08:07
 eingeredet=persuaded 08:10
 ausgeredet=dissuaded 08:12
+aufzählen=enumerate 08:14
 https://de.wikipedia.org/wiki/Schlaganfall 08:30
 https://de.wikipedia.org/wiki/Endorphine 08:40
 https://de.wikipedia.org/wiki/Temporallappen 08:46
 ansteckend=contagious 08:49
 ausgeschüttet=distributed 09:15
 abgeraten=discouraged 11:13
+Fehlbildung=malformation 15:32
+ihr zustösst=it happens to her 16:??
+aufgeflogen=compromised 24:27
 Süchtig=addicted 24:53
+das Gewissen=the conscience 26:01
 https://de.wikipedia.org/wiki/Leukozyt 26:32
 https://de.wikipedia.org/wiki/Swan-Ganz-Katheter 26:47
 https://de.wikipedia.org/wiki/%C3%9Cbertragung_(Psychoanalyse) 29:15
 vorübergehend=temporarily 30:01
+unerwiderte=unreciprocated 30:16
 Verwundbar=vulnerable 30:16
 unauffällig=inconspicuous 31:13
 https://de.wikipedia.org/wiki/Suxamethonium Succinyldicholin 32:17
@@ -830,9 +844,12 @@ Türstopper=door stopper 42:00
 
 
 E18
-
-https://de.wikipedia.org/wiki/Gliom 05:36
+irgendwohin=somewhere 03:06
+loslegen=get started 04:25
+https://de.wikipedia.org/wiki/Gliom 05:20
+Zimt=cinnamon 06:55
 https://de.wikipedia.org/wiki/Thorakotomie 07:42
+https://de.wikipedia.org/wiki/Omentum 08:00 
 https://de.wikipedia.org/wiki/Diffusions-Tensor-Bildgebung DTI 10:14
 hinsetzen=sit down 10:32
 beschwatzen=cajole, talk into 11:30
@@ -852,18 +869,6 @@ https://de.wikipedia.org/wiki/Siebbein#Au%C3%9Fenw%C3%A4nde Lamina cribrosa 31:3
 absägen=saw off 32:25 
 mitbewerber=competitor 32:30
 Zusagen=promise 34:53
-
-
-
-16
-
-https://en.wikipedia.org/wiki/Spondylolisthesis#Anterolisthesis  16 00:39
-https://de.wikipedia.org/wiki/L%C3%A4cheln
-
-https://de.wikipedia.org/wiki/Omentum_minus
-
-https://de.wikipedia.org/wiki/Natriumhydrogencarbonat
-https://de.wikipedia.org/wiki/Amphetamin
 
 
 
