@@ -4,9 +4,9 @@ derzeit=currently 03:43
 ausüben=exert, practice 03:47
 Glas splitter=splinter  04:07
 Geisteszustand=state of mind 04:29
-Zustand=condition 04:35
+Zustand=condition 04:30
+Umgang=contact 04:32
 Vorstand=board 04:56
-Umgang=contact 
 Einwände=objection 05:10
 Vertragen=tolerate 05:22
 räumliche=spacial 06:02
@@ -855,13 +855,15 @@ hinsetzen=sit down 10:32
 beschwatzen=cajole, talk into 11:30
 https://de.wikipedia.org/wiki/Disseminierte_intravasale_Koagulopathie 11:47
 https://de.wikipedia.org/wiki/MDMA 
- Molly=Ecstasy 16:31
+Molly=Ecstasy 16:31
 aufgeben=give up 17:26
 wage es nicht=don't you dare 17:30
 https://de.wikipedia.org/wiki/Glioblastom 19:47
 Bildgebung=imaging 22:10
 Ermessen=judgement
 https://de.wikipedia.org/wiki/Gewebespezifischer_Plasminogenaktivator  TPA infusion 24:37
+Anstecksträusschen=boutonnière,corsage 25:08
+dazuzählen=add 25:42
 nicht im geringsten=not in the least 27:17
 https://de.wikipedia.org/wiki/Paroxysmale_n%C3%A4chtliche_H%C3%A4moglobinurie  PNH 27:53
 https://de.wikipedia.org/wiki/Durchflusszytometrie 28:01
@@ -869,6 +871,7 @@ https://de.wikipedia.org/wiki/Siebbein#Au%C3%9Fenw%C3%A4nde Lamina cribrosa 31:3
 absägen=saw off 32:25 
 mitbewerber=competitor 32:30
 Zusagen=promise 34:53
-
+anstellung=situation 34:55
+Vorwand=excuse 41:45
 
 
