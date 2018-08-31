@@ -149,16 +149,17 @@ https://de.wikipedia.org/wiki/Geh%C3%B6rgang
 
 E03
 
-leihen=lend,borrow
-ausleihen=lend
-ausgeliehen=borrowed
+leihen=lend,borrow 01:50
+ausleihen=lend 01:50
+ausgeliehen=borrowed 01:50
 eingezogen=moved in 01:55
 hast du welche=do you have any? 02:10
-lehrer=teacher  3:18
-vorsichtsmaßnahme=precaution
+lehrer=teacher 3:18
+vorsichtsmaßnahme=precaution 04:45
 bereits=already  04:50
-reibungslos=smooth
-fahrgelegenheit=means of transport
+reibungslos=smooth 05:40
+ein kurzer Kniff=a short pinch 06:52
+Fahrgelegenheit=means of transport 10:54
 unvollständig=incomplete 11:52
 verschwendung=waste 12:08
 verengt=narrows 12:16
@@ -167,18 +168,20 @@ such dir zwei aus=pick two 12:41
 Gabe=gift 13:21
 abstellen=turn off 14:40
 Absicht=intention 16:06
+Stift=pen 20:16
+Filzstift=felt pen 20:16
 Gesicht/Gesichter=face/faces
 Geschichte/Geschichten=story/stories
 Belohnung=reward 25:00
-https://de.wikipedia.org/wiki/Speiser%C3%B6hre esophagus 26:00
-https://de.wikipedia.org/wiki/Varizenblutung 26:43
+https://de.wikipedia.org/wiki/Speiser%C3%B6hre esophagus 25:57
+https://de.wikipedia.org/wiki/Varizenblutung 26:00
+https://de.wikipedia.org/wiki/Blutgruppe Blut Typ 26:05
+steif=stiff 28:26
+fest=hard 28:26
+Gerinnsel=clot 28:28
 verblieben=remained 28:52
-geronnen=clot 28:52
-steif=stiff
-fest=hard
-Gerinnsel=clot
-anhalten=stop
-spülen=rinse
+anhalten=stop 29:03
+spülen=rinse 
 Lappen=lobe
 strohhalm=drinking straw 30:15
 unversehrt=intact
