@@ -91,8 +91,11 @@ pobacken=buttocks  09:00
 fachgerecht=professional 10:14
 mitleiderregend=pitiful 10:33
 bedauernswert=pitiable 10:33
-
-Eingriff=operation
+die Schule schwänzen=skip the school 12:06
+https://de.wikipedia.org/wiki/D-Dimer  12:22
+https://de.wikipedia.org/wiki/Lactate  12:22
+https://de.wikipedia.org/wiki/Amylasen 12:22
+https://de.wikipedia.org/wiki/Malrotation 13:08
 umwerfen=overthrow
 hackbraten=meatloaf
 falschliegen=to be wrong
@@ -117,15 +120,15 @@ anbieten=offer
 Betreuung=care, support 25:06
 aufstechen=puncture 25:44
 versprechen=promise
+lediglich=merely 27:14
 kleingeredet=played down 27.15
-beurteilen=judge  29:30
+Eingriff=operation 27:19
 entnehmen=remove 30:35
 angeheuert=hired 28:00
 vermitteln=convey 29:20
-https://de.wikipedia.org/wiki/Lactate 31:06
-https://de.wikipedia.org/wiki/Amylasen 31:06
+beurteilen=judge  29:30
 angeboren=innate,congenital
-abwimmeln=get rid of
+abwimmeln=get rid of 33:04
 beharrlich=persevering 33:10
 sich übergeben=vomit 33:34
 halt durch=hang on,persevere 34:40
