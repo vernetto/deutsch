@@ -33,23 +33,22 @@ anhalten=stop 09:00
 weismachen=make believe
 mit Lügen umgehen=go around, circumvent   09:45
 klarkommen mit=cope with 09:45
-Abmachung=agreement 
+Abmachung=agreement  11:07
 bestanden=pass 11:14
-Einstellung=attitude
+Einstellung=attitude 11:28
 Vorgesetzter=supervisor 11:30
 untergebene=subordinate 11:35
 Unterstellte=subordinate  11:35
-beschaffen=procure
+beschaffen=procure 
 entweichen=escape
+spannung=tension 13:20
+Ausschlag=deflection
 einwegventil=disposable valve
 streicheln=caress   16:10
-Ausschlag=deflection
-spannung=tension 13:20
-https://de.wikipedia.org/wiki/Aorta#Abschnitte Aorta Abscendens
- 17:12
+https://de.wikipedia.org/wiki/Aorta#Abschnitte Aorta Abscendens 17:12
 https://de.wikipedia.org/wiki/Herz#R%C3%A4ume_und_Gef%C3%A4%C3%9Fe  Vorhof Atrium 17:17
 https://de.wikipedia.org/wiki/Eiter pus   17:30
-https://de.wikipedia.org/wiki/Noradrenalin 01 17:41
+https://de.wikipedia.org/wiki/Noradrenalin 17:41
 vorgeschichte=prehistory
 absaugen=vacuum
 Verabreichen=administer
@@ -62,30 +61,37 @@ Einschränkung=limitation 21:56
 benachteiligt=disadvantaged 22:45
 https://de.wikipedia.org/wiki/Perikarderguss Herzbeutelerguss 24:44 
 https://en.wikipedia.org/wiki/Brachiocephalic_vein  26:35
+durchkommen=get through 27:55
 vermasseln=to goof,to botch 32:52
 vorgespielt=audition 34:12
 abstimmung=vote 34:38
 
 
 E02
-Stockwerk=floor
+ernsthaft=seriously 00:23
+zurücktreten=step back 00:58
+Stockwerk=floor 02:07
+https://de.wikipedia.org/wiki/Prostatektomie 02:31
 Akte=file 02:45
 durchalten=hold on, persevere
 weitläufig=spacious
 vollständig=entirely
-dabei=there
-am Sabbern=salivating, on the drool
+dabei=there 05:03
+am Sabbern=salivating, on the drool 05:15
 aufregend=exciting 05:20
 verrichtet=perform 05:57
 https://de.wikipedia.org/wiki/Amoxicillin 07:09 
+https://de.wikipedia.org/wiki/Geh%C3%B6rgang 07:16
+Furz,Fürze,furzen=fart 07:47
+zwanglos=casually 07:50
+Nasenscheidewand=nose septum 07:58 
+https://de.wikipedia.org/wiki/Septumdeviation Nasenscheidewandverkrümmung 07:58
+verkrümmung=curvature 07:58
 pobacken=buttocks  09:00
 fachgerecht=professional 10:14
 mitleiderregend=pitiful 10:33
 bedauernswert=pitiable 10:33
-Nasenscheidewand=nose septum 
-Nasenscheidewandverkrümmung
-verkrümmung=curvature
-Furz,Fürze,furzen=fart
+
 Eingriff=operation
 umwerfen=overthrow
 hackbraten=meatloaf
