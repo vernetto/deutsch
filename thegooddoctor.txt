@@ -323,6 +323,7 @@ zusammenhang=connection 29:59
 https://de.wikipedia.org/wiki/Embolie 30:25
 https://de.wikipedia.org/wiki/H%C3%A4modynamik 30:30 
 verschweigen=conceal 32:40
+Ich lag auch richtig=I was right 33:07
 Lenden=lumbar
 vornehmen=make, carry out
 zerrung=strain
