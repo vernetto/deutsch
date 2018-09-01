@@ -204,14 +204,14 @@ E04
 scheitert=fails 00:41
 Schraubenzieher=screwdriver 01:28
 abgehakt=check off 01:30
-hört auf damit (aufhören)=stop it
+hört auf damit (aufhören)=stop it 02:00
 Gemüsefach=vegetable compartment
 https://de.wikipedia.org/wiki/Stei%C3%9Fbein coccyx 03:18
 Schwangerschaft=pregnancy 03:22
 Fehlgeburten=miscarriages 03:23
 Dienstpläne=duty rosters 03:37
 durchsetzen=prevail
-https://de.wikipedia.org/wiki/Scheitel-Stei%C3%9F-L%C3%A4nge Crown-rump length 03:59
+https://de.wikipedia.org/wiki/Scheitel-Stei%C3%9F-L%C3%A4nge Scheitel-Steiß-Länge = Crown-rump length 03:59
 abbruch=abort,cancellation 04:28
 https://de.wikipedia.org/wiki/Antiphospholipid-Syndrom 04:48
 eingehen=undertake 04:58
@@ -219,7 +219,9 @@ durchmachen=go through 05:04
 https://de.wikipedia.org/wiki/Heparin 05:19
 Geschwür=ulcer 07:09
 https://de.wikipedia.org/wiki/Schamlippe labium 07:15
+ungewöhnlich=unusual 07:22
 eindämmen=contain
+Anlegen=mooring 08:06
 Kränkung=offense 08:13
 https://de.wikipedia.org/wiki/Spekulum 08:43
 einschätzung=assessment 08:51
@@ -242,22 +244,24 @@ kokosnuss=coconut
 durchmacht=going through
 es kommt nicht mehr vor=It will not happen again 17:08
 auf jeden fall=definitely
-ausstieg verpasst=missed the exit
+ausstieg verpasst=missed the exit 18:25
 an ihre stelle=in your place 18:34
-widerlich=ekelhaft=disgusting 20:00
+widerlich=ekelhaft=disgusting 19:55
+beschissen=crappy 20:05
 wasserhahn=water tap 20:13
 Abwasch=washing 
 Leck=leak
 hinterfragt=question 20:20
 andermal=some other time
-aufziehen=verspotten=tease
+aufziehen=verspotten=tease 25:08
 anfassen=touch
 sie hätte nicht anfassen dürfen=you should not have touched it
 Spüle=kitchen sink
 ausschlagen=knock out
-dehnen=stretch  34:40 
+
 https://de.wikipedia.org/wiki/Hypokinese 27:58
 verlangt=required 28:55
+dehnen=stretch  34:40 
 Schenkel=thigh 34:54
 reizen=stimulate
 kaiserschnitt=Caesarean section 36:40
@@ -270,18 +274,22 @@ https://de.wikipedia.org/wiki/Nervus_pudendus
 E05
 
 rangehst, rangehen=answer (to the phone) 01:24
+Schimmel=mold 02:26
+Schalentiere=shellfish,crustacean 02:26
 https://de.wikipedia.org/wiki/Lipasen 03:27
 https://de.wikipedia.org/wiki/Bauchspeicheldr%C3%BCse Pankreas 03:28
-eklig=disgusting
+eklig=disgusting 04:29
 herrühren=result from, be due to
 tollpatschig=clumsy 04:43
 https://de.wikipedia.org/wiki/Nystagmus 04:58
+verblüffend=perplexing 05:57
 beleidige=insult 07:07
 ungelegen=inopportune 07:13
-verblüffend=perplexing
 Abzeichen=badge 07:57
+zwischenmenschlich=interpersonal 08:10
 https://de.wikipedia.org/wiki/Hypochondrie#Nosophobie 08:49
 Pobacken=buttocks 09:04
+überzeugen=look,convince 09:11
 beeinträchtigt=impair 10:33
 wir würden es gern dabei belassen=we would like to leave it at that 11:17
 unheimlich=creepy
@@ -302,13 +310,15 @@ zurechtkommen=cope
 wieso sie's geplatzt=why did she burst? 21:19
 Schmeichler=flatterer 21:53
 Ausschlag=rash 23:03
+hintereinander=in a row,behind each other 23:49
+https://de.wikipedia.org/wiki/Epstein-Barr-Virus 23:59
+https://de.wikipedia.org/wiki/Histiozytose_X angerhans-cell histiocytosis 24.02
 https://de.wikipedia.org/wiki/Prednison 24:18
 wie stelle ich das an? How do I do it? 25:34
 https://de.wikipedia.org/wiki/Erythrozyt 25:43
 Schürze=apron 27:11
 im Stich gelassen=let down 27:45
 Nachtragen=grudge 27:57
-https://de.wikipedia.org/wiki/Histiozytose_X 28:37
 zusammenhang=connection 29:59
 https://de.wikipedia.org/wiki/Embolie 30:25
 https://de.wikipedia.org/wiki/H%C3%A4modynamik 30:30 
