@@ -181,22 +181,22 @@ fest=hard 28:26
 Gerinnsel=clot 28:28
 verblieben=remained 28:52
 anhalten=stop 29:03
-spülen=rinse 
+spülen=rinse 29:25
 Lappen=lobe
 strohhalm=drinking straw 30:15
-unversehrt=intact
+unversehrt=intact 30:19
 Blankoscheck=blank check 30:45
 gereicht (reichen)=pass,offer
 Formsache=formality 33:20
 Nachteile=disadvantage 33:23
 borniert=narrow-minded 33:32
 Gefässzange=vascular tongs 34:17
+https://de.wikipedia.org/wiki/Anastomose  34:40
+erwürgt=strangled 34:54
 https://de.wikipedia.org/wiki/Kiefer_(Anatomie) 36:04
 knochensäge=bone saw 36:06
 Schwamm=sponge
 Stab=rod
-
-https://de.wikipedia.org/wiki/Anastomose  34:40
 
 
 E04
