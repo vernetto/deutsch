@@ -312,7 +312,7 @@ Schmeichler=flatterer 21:53
 Ausschlag=rash 23:03
 hintereinander=in a row,behind each other 23:49
 https://de.wikipedia.org/wiki/Epstein-Barr-Virus 23:59
-https://de.wikipedia.org/wiki/Histiozytose_X angerhans-cell histiocytosis 24.02
+https://de.wikipedia.org/wiki/Histiozytose_X Langerhans-cell histiocytosis 24.02
 https://de.wikipedia.org/wiki/Prednison 24:18
 wie stelle ich das an? How do I do it? 25:34
 https://de.wikipedia.org/wiki/Erythrozyt 25:43
@@ -330,13 +330,10 @@ zerrung=strain
 zange=tongs
 Brusthöhle=thoracic cavity
 Eindringling=intruder 36:28
-Fluchen=curse
+Fluchen=curse 38:33
 trübe=cloudy
-
-https://de.wikipedia.org/wiki/Allergen 03:00
-https://de.wikipedia.org/wiki/Anaphylaxie
-
-
+hergeben=give 40:17
+Schleier=veil 40:48
 
 E06
 
@@ -353,19 +350,23 @@ https://de.wikipedia.org/wiki/Defibrillation 02:18
 https://de.wikipedia.org/wiki/Blutkreislauf 02:51
 https://de.wikipedia.org/wiki/Torquer Führungsdraht 04:00
 https://en.wikipedia.org/wiki/Resuscitative_endovascular_balloon_occlusion_of_the_aorta  REBOA 04:30
-Schwanenfrau=swan wife
 Ruß=soot 05:29
 https://de.wikipedia.org/wiki/Koniotomie 05:32
 https://de.wikipedia.org/wiki/Escharotomie 05:33
 Schlinge=loop,noose 05:50
+Einschnürung=cnstriction 05:52
 https://de.wikipedia.org/wiki/Petrischale 05:59
-Brustbein=sternum
+https://de.wikipedia.org/wiki/Herzbeuteltamponade 06:10
+Brustbein=sternum 06:24
+Verwegenheit=temerity 06:53
 kühne=bold
+Schwanenfrau=swan wife 07:15
 überfordert=overwhelmed 07:20
 https://de.wikipedia.org/wiki/Nosokomiale_Infektion 08:19
 zögerten=hesitated
 Nebenanschluss=shunt
 gelegt=placed
+schon gut=all right 10:41
 Oberschenkel=thigh 10:58
 Unterschenkel=lower leg 10:58
 Bräutigam=groom (fiancé) 12:20
@@ -380,23 +381,25 @@ einstweilige=provisional 18:10
 unterbinden=prevent,stop
 eingereicht=submitted
 überwinden=overcome 21:45
-entzugsklinik=withdrawal clinic 22:22
+Entzugsklinik=withdrawal clinic 22:22
 Süchtig=addicted 22:39
 https://de.wikipedia.org/wiki/Wakeboard 22:47
 betrogen=cheated 23:12
-zufällig=by chance
 ausrutscher=slip 23:25
 schweifen=roam around 23:40
 https://de.wikipedia.org/wiki/Hirnblutung 24:40
+https://de.wikipedia.org/wiki/Kollagen 25:10
 https://de.wikipedia.org/wiki/Exzision Wundausschneidung=debridement 25:46
 https://de.wikipedia.org/wiki/Hirnblutung#Subduralh%C3%A4matom 26:57
+Klingen=blade 31:22
 https://de.wikipedia.org/wiki/Neuronale_Plastizit%C3%A4t 32:55
 versauen=mess up 37:08
+https://de.wikipedia.org/wiki/Myokardinfarkt Herzanfall 37:59
 aufgeregt=excited
 verknüpfen=connect,link 
 eingeschätzt=evaluated,estimated
 ausrichten=tell 39:55
-https://de.wikipedia.org/wiki/Patientenverf%C3%BCgung patientenverfügung=patient disposal
+https://de.wikipedia.org/wiki/Patientenverf%C3%BCgung patientenverfügung=patient disposal 40:47
 
 
 https://de.wikipedia.org/wiki/Elektroenzephalografie
@@ -409,6 +412,7 @@ abgesturzt=crashed
 Anteilnahme=sympathy 00:55
 belastenden=stressful 01:14
 https://de.wikipedia.org/wiki/Nitroglycerin Nitro-infusion 01:39
+https://de.wikipedia.org/wiki/Atropin 0:47
 https://de.wikipedia.org/wiki/Herzschrittmacher Doppelschrittmacher 02:33
 https://de.wikipedia.org/wiki/Haloperidol Haldol 03:18
 https://de.wikipedia.org/wiki/Psychose  Psychotisch 03:25 
@@ -416,30 +420,41 @@ anfassen=touch 03:33
 hervorragend=outstanding 03:59
 https://de.wikipedia.org/wiki/Lidocain 04:39
 verlaufen=run 05:00
+https://de.wikipedia.org/wiki/Ikterus Ikterisch 05:12
+ausgefallen ist=has failed 05:30
+https://de.wikipedia.org/wiki/Gallengang 06:17
 https://de.wikipedia.org/wiki/Cholangitis 06:20
+https://de.wikipedia.org/wiki/Ketogene_Di%C3%A4t 06:32
+https://de.wikipedia.org/wiki/Endoskopisch_retrograde_Cholangiopankreatikographie ERCP 07:12s
 Griff/Griffe=handle/s 08:30
+https://de.wikipedia.org/wiki/Exspiration endexspiratorisches co2 08:32
+https://de.wikipedia.org/wiki/Midazolam 08:41
 vernarbte=scarred 09:45
+https://en.wikipedia.org/wiki/Stimming 10:00
+Atemsättigung=respiratory saturation 10:22
 Gehalt=salary 11:10
 Kumpel=pal 11:15
+Ausgabe=expenditure 11:35
 notaufnahme=emergency department
 lastenaufzug=goods lift
 absichtlich=intentionally
 knistern=crackle
-abhauen=bugger off
-erhebliche=substantial
-verschleppung=spreading
+abhauen=bugger off 17:05
+erhebliche=substantial 17:32
+verschleppung=spreading 17:33
 versagt=failed 19:28
+in einem Rutsch=in a go 27:20
+Verlegung=relocation 28:35
 umfang=scope
 Knöchel=ankle
 kindermädchen=nannies
 Haushälter=housekeeper
 ich verlaufe mich=I am lost
-Verlegung=relocation
 beseitigt=eliminated 39:50
 
 
 
-https://de.wikipedia.org/wiki/Midazolam
+
 https://de.wikipedia.org/wiki/Phlegmone 33:20
 
 
