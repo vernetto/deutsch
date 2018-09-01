@@ -445,17 +445,19 @@ verschleppung=spreading 17:33
 versagt=failed 19:28
 in einem Rutsch=in a go 27:20
 Verlegung=relocation 28:35
+sie wirken erstaunlich ausgeglichen=you look surprisingly balanced 30:03
+wirken=look 30:03
+https://de.wikipedia.org/wiki/Jejunum 32:53
+https://de.wikipedia.org/wiki/Phlegmone 33:20
+VaW  Anordnung zum Verzicht auf Wiederbelebung "der Patient keine Herz-Lungen-Wiederbelebung (HLW) wünscht" 34:58
+https://en.wikipedia.org/wiki/Eosinophilic_gastroenteritis 36:06
 umfang=scope
 Knöchel=ankle
 kindermädchen=nannies
 Haushälter=housekeeper
 ich verlaufe mich=I am lost
+
 beseitigt=eliminated 39:50
-
-
-
-
-https://de.wikipedia.org/wiki/Phlegmone 33:20
 
 
 E08
@@ -467,6 +469,7 @@ verklagen=sue 02:19
 Ohrenstöpsel=ear plugs 02:35
 schmeissen=throw 03:06
 https://de.wikipedia.org/wiki/Arterielle_Hypotonie  04:10
+https://de.wikipedia.org/wiki/Sonografie Sonogramm 05:46
 Austritt=exit 06:02
 Zwerchfell=Diafragma
 verbandmull=garze 08:50
@@ -476,13 +479,15 @@ vorbeugen=avoid 12:18
 hellseher=clairvoyant 12:58
 wieso=why 14:09
 https://de.wikipedia.org/wiki/Systemisches_inflammatorisches_Response-Syndrom 14:35
-entzündungshemmer=anti-inflammatory products  14:50
+entzündungshemmer=anti-inflammatory products 14:50	
+Genick,Hals=neck 15:56
 https://de.wikipedia.org/wiki/Fentanyl 16:08
 anbieten=offer 17:28
+anordnen=prescribe 17:55
 beatmen=ventilate
 Verlangt=desires 19:28
 aufgeregt=excited 18:48
-ich kann viele Menschen nicht leiden= I can't stand many people 20:30
+ich kann viele Menschen nicht leiden=I can't stand many people 20:30
 aufsatz=essay 20:57
 https://de.wikipedia.org/wiki/Dialyse 21:58
 ausgeschwemmt=flushed 22:18
