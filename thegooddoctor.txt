@@ -536,7 +536,6 @@ ohne Anlass=without cause 19:42
 erfahren=find out, learn 20:13
 https://de.wikipedia.org/wiki/Ektopie 20:33
 angenommen=assumed
-angefordert=requested
 abgefunden=resigned 22:04
 vernachlässigen=neglect 23:35
 beigebracht=taught 24:25
@@ -545,14 +544,12 @@ https://en.wikipedia.org/wiki/Septal_myectomy septummyectomie 26:50
 Abfluss=outflow 33:24
 gluck-sorenson laryngektomie 34:08
 https://de.wikipedia.org/wiki/Cefotaxim 34:13
+angefordert=requested 34:23
 erfasst=detected 39:38
 aufgegeben=give up 40:07
 verklagt=sued
 Igel=Hedgehog  41:30
 zulegte=grew
-
-
-
 
 
 E10
@@ -588,8 +585,9 @@ Stock im Arsch=stick in the ass 24:50
 schmarotzer=parasite 27:40
 feindselig=hostile 29:21
 abgestempelt=labeled 29:22
+übertreiben=exaggerate 29:44
 hochachtung=esteem 33:08
-stur=stubborn
+https://de.wikipedia.org/wiki/Ventrikul%C3%A4re_Tachykardie 34:53
 kleinhirn=cerebellum 34:58
 verhärten=harden 35:17
 Muskelstarre=muscle rigidity 35:20
@@ -598,12 +596,7 @@ https://de.wikipedia.org/wiki/Dantrolen 35:37
 https://en.wikipedia.org/wiki/Vecuronium_bromide 35:47
 auftreten=occur 37:30
 hinzunehmen=accept 37:54
-
-
-
-
-
-
+stur=stubborn 39:58
 
 E11
 ausrichten=give a message 01:05
