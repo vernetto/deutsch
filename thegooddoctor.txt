@@ -619,9 +619,9 @@ deren entsheidung=their decision 23:02
 gelingt=succeed 23:57
 zach=quick 25:56
 siehe mich an=look at me
+überzeugen=convince 32:47
+Kater=hangover 33:10
 ich kündige mein job=I resign 38:48
-überzeugen=convince
-Kater=hangover
 Schallwelle=sound wave
 anfängt=begins
 aufhört=ends
@@ -641,14 +641,15 @@ holen=summon 06:23
 https://de.wikipedia.org/wiki/Arteria_cerebri_media 08:25
 https://de.wikipedia.org/wiki/Koryph%C3%A4e 15:07
 angreifen=attack 15:20
-sauer auf ihn=hin böse=angry with him 16:10
+vergleich=comparison 15:58
+sauer auf ihn-=hin böse=angry with him 16:10
 https://de.wikipedia.org/wiki/Extrakorporale_Membranoxygenierung ECMO 18:30
 eingetreten=occurred 21:06
 du hier ausreichend gefordert wirst=you are sufficiently challenged here 27:54
 https://de.wikipedia.org/wiki/Elektrokardiogramm EKG 30:03
 https://de.wikipedia.org/wiki/Elektroenzephalografie EEG 30:03
 herausschlagen=knock out, gush 31:33
-zur  Kasse bitten=make someone to pay 31:45
+zur Kasse bitten=make someone to pay 31:45
 ihretwegen=because of she 32:29
 https://de.wikipedia.org/wiki/Adrenalin Epinephrin 33:56
 bereuen=regret 39:33
@@ -657,7 +658,6 @@ Ich breche ab=I cancel
 genesung=recovery
 deshalb=that's why
 gemaßregelt=reprimanded
-vergleich=comparison
 haben sie den Stecker gezogen=they pulled the plug
 
 
@@ -715,7 +715,12 @@ https://de.wikipedia.org/wiki/Paracetamol Vicodin 04:21
 https://de.wikipedia.org/wiki/Ofloxacin 04:23
 https://de.wikipedia.org/wiki/Azithromycin 04:28
 https://de.wikipedia.org/wiki/Prednison 04:30
+https://de.wikipedia.org/wiki/Ciprofloxacin CIPRO 04:35
 https://de.wikipedia.org/wiki/Ultraschall 05:09
+https://de.wikipedia.org/wiki/Luteinisierendes_Hormon LH test 05:18
+https://de.wikipedia.org/wiki/Follikelstimulierendes_Hormon 05:18
+https://de.wikipedia.org/wiki/Estradiol 05:21
+https://de.wikipedia.org/wiki/Anti-M%C3%BCller-Hormon AMH 05:21
 https://de.wikipedia.org/wiki/Intrauterine_Insemination IUI 05:36
 Künstlichen Befruchtung=artificial insemination 05:36
 https://de.wikipedia.org/wiki/In-vitro-Fertilisation IVF 05:37 
@@ -725,11 +730,13 @@ Spülung=flush 07:35
 ansammlung=accumulation 07:35
 Rückstände=backlog 07:36
 veröffentlicht=published 07:48
+Transkatheter-Aortenklappen-Implantation (TAVI) 07:55
 Hoden=testicle 09:26
 https://de.wikipedia.org/wiki/Osteopenie 09:52 
 https://de.wikipedia.org/wiki/Mikrolithiasis 10:09
 https://de.wikipedia.org/wiki/Mumps 10:09
 https://de.wikipedia.org/wiki/Hypospadie 10:11
+intraepitheliale neoplasie 10:11
 https://de.wikipedia.org/wiki/Leistenbruch Leistenhernie  10:14
 https://de.wikipedia.org/wiki/Leuprorelin 10:30
 https://en.wikipedia.org/wiki/Histrelin  10:30
@@ -744,10 +751,14 @@ Erreger=pathogen,germ 14:03
 https://en.wikipedia.org/wiki/Clostridium_difficile_infection 14:06
 https://de.wikipedia.org/wiki/Orchiektomie 14:19
 https://de.wikipedia.org/wiki/Enterostoma Kolostomie 16:28
+Ausscheidungen=excretions 16:30
 einstellung=employment 19:18
 Absage=cancellation 20:13
 mitversorgt=jointly supplied 20:15
+Anschuldigung=accusation 22:23
+Sorgerecht=custody 22.29
 beidseitige=both sides 23:??
+Ausweglos=hopeless 23:35
 Kacke=shit 24:32
 https://de.wikipedia.org/wiki/Stuhltransplantation  Mikrobiomtransfer 24:40
 erwartungsgemäß=as expected 28:19
