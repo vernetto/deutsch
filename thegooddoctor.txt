@@ -86,9 +86,10 @@ weitläufig=spacious
 vollständig=entirely
 dabei=there 05:03
 am Sabbern=salivating, on the drool 05:15
-Flur=corridor
+Flur=corridor 05:18
 aufregend=exciting 05:20
 verrichtet=perform 05:57
+abnehmen=take 05:58
 https://de.wikipedia.org/wiki/Amoxicillin 07:09 
 https://de.wikipedia.org/wiki/Geh%C3%B6rgang 07:16
 Furz,Fürze,furzen=fart 07:47
@@ -97,9 +98,11 @@ Nasenscheidewand=nose septum 07:58
 https://de.wikipedia.org/wiki/Septumdeviation Nasenscheidewandverkrümmung 07:58
 verkrümmung=curvature 07:58
 pobacken=buttocks  09:00
+vorsehen=provide,intend 10:12
 fachgerecht=professional 10:14
 mitleiderregend=pitiful 10:33
 bedauernswert=pitiable 10:33
+ich schaffe es nicht=I cannot do it 11:00
 die Schule schwänzen=skip the school 12:06
 https://de.wikipedia.org/wiki/D-Dimer  12:22
 https://de.wikipedia.org/wiki/Lactate  12:22
@@ -116,7 +119,9 @@ anweisung=instruction
 vorgestellt=imagine
 https://de.wikipedia.org/wiki/Skalpell Zehner 17:50
 erbrochenes=vomited 18:25
+aufbewahrt=kept 18:26
 https://de.wikipedia.org/wiki/Retraktor_(Chirurgie) 20:00
+umschlossen=enclosed 19:57
 streitsüchtigen=contentious 20:42
 freilegen=uncover
 zankenden=streitenden=squabbling
@@ -140,9 +145,13 @@ angeboren=innate,congenital
 abwimmeln=get rid of 33:04
 beharrlich=persevering 33:10
 sich übergeben=vomit 33:34
+sieh mich an=look at me 34:10
 halt durch=hang on,persevere 34:40
+https://de.wikipedia.org/wiki/Schock_(Medizin)#Hypovol%C3%A4mischer_Schock 35:02
 https://de.wikipedia.org/wiki/D%C3%BCnndarm =small intestine 36:07
 auf eigene Faust=on your initiative 36:17
+übereinstimmend=matching 37:18
+Schlacht=battle 37:22
 aufgedreht=in high spirits 37:50
 stinkig=pissed off 38:03
 verpfiffen=to blow the whistle on someone 38:19
