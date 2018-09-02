@@ -1,5 +1,6 @@
 E01
 Lassen Sie ihn mich ansehen=let me look at him 03:07
+https://de.wikipedia.org/wiki/Vena_jugularis_interna Jugular vene 03:36
 derzeit=currently 03:43
 ausüben=exert, practice 03:47
 Glas splitter=splinter  04:07
@@ -62,10 +63,11 @@ benachteiligt=disadvantaged 22:45
 https://de.wikipedia.org/wiki/Perikarderguss Herzbeutelerguss 24:44 
 https://en.wikipedia.org/wiki/Brachiocephalic_vein  26:35
 durchkommen=get through 27:55
+reif=mature 32:14
 vermasseln=to goof,to botch 32:52
 vorgespielt=audition 34:12
 abstimmung=vote 34:38
-
+umgehend=immediately 35:19
 
 E02
 ernsthaft=seriously 00:23
@@ -73,11 +75,18 @@ zurücktreten=step back 00:58
 Stockwerk=floor 02:07
 https://de.wikipedia.org/wiki/Prostatektomie 02:31
 Akte=file 02:45
+https://de.wikipedia.org/wiki/Funktionelle_Dyspepsie Magenverstimmung 03:42
+https://de.wikipedia.org/wiki/Flatulenz Blähung 03:42
+https://de.wikipedia.org/wiki/Obstipation Verstopfung 03:42
+https://de.wikipedia.org/wiki/%C3%9Cbelkeit 03:42
+https://de.wikipedia.org/wiki/Computertomographie CT 04:00
+https://de.wikipedia.org/wiki/Angiomyolipom 04:08
 durchalten=hold on, persevere
-weitläufig=spacious
+weitläufig=spacious 
 vollständig=entirely
 dabei=there 05:03
 am Sabbern=salivating, on the drool 05:15
+Flur=corridor
 aufregend=exciting 05:20
 verrichtet=perform 05:57
 https://de.wikipedia.org/wiki/Amoxicillin 07:09 
@@ -142,7 +151,7 @@ Heuchlerin=hypocrite  38:45
 gern geschehen=you are welcome 39:23
 Lorbeeren=laurels 41:16
 
-https://de.wikipedia.org/wiki/Angiomyolipom
+
 https://de.wikipedia.org/wiki/Retroperitonealraum
 https://de.wikipedia.org/wiki/Geh%C3%B6rgang 
 
