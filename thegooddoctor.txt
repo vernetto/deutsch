@@ -817,6 +817,7 @@ https://de.wikipedia.org/wiki/Mediastinum 26:50
 nach oben zu buckeln=to arch up 27:05
 Krücke=crutch 27:10
 zugeständnis=concession 28:49
+Akne=acne ????
 Trübsal blasen=to mope (feel dejected) 38:20
 Leb wohl=farewell 40:44
 Steckdose=socket
@@ -824,11 +825,9 @@ hinfallen=tumble
 voreingenommen=biased
 eine rede halten=to hold a talk
 wirkungsvoll=effective
-zugeständnisse=concessions
-Akne=acne
+
 
 E16
-rummelplatz=fair
 Auflage=edition 00:26
 zweierlei=dual 00:31
 https://de.wikipedia.org/wiki/Spondylosis_deformans 00:39
@@ -837,9 +836,10 @@ schätzungsweise=approximately 01:02
 ausgesessen=eat out 01:12
 Nacken=neck
 kribbeln=tingle 01:34
-lähmung=paralysis
+lähmung=paralysis 01:34
 https://de.wikipedia.org/wiki/Bandscheibenvorfall disk prolapse 01:36
 Absätze=heels 02:00
+folgt daraus=it follows from it 03:16
 https://de.wikipedia.org/wiki/Bauchdeckenstraffung 03:43
 flitterwochen=honeymoon 07:29
 nichts für ungut=no offense 08:08
@@ -865,14 +865,18 @@ jeder hat sein päckchen zu tragen=everybody has a cross to bear 30:05
 https://de.wikipedia.org/wiki/Medulla_oblongata 33:01
 Wucherung=proliferation 33:03
 Stab=bar 33:08
+https://en.wikipedia.org/wiki/Neurogenic_shock 33:26
+https://de.wikipedia.org/wiki/Dexamethason 33:34
 https://de.wikipedia.org/wiki/%C3%96dem 33:36
 https://de.wikipedia.org/wiki/Amiodaron 33:51
 ausstehen=stand 40:34
 
 
 E17
+Abschluss=degree 00:35
 https://de.wikipedia.org/wiki/M%C3%B6bius-Syndrom 00:47
-überschlafen=sleep on 01:16
+überschlafen=sleep on 01:26 
+Ich bin voll dabei=I am fully involved  01:26
 https://de.wikipedia.org/wiki/Clindamycin 02:55
 ehrlich gesagt=honestly 
 einfallsreich=imaginative,ingenious 05:45
@@ -884,20 +888,25 @@ unnahbar=unapproachable 06:00
 bewusst verachtet=deliberately despised 06:03
 zugänglich=approachable 06:05
 kostspielig=expensive 06:37
-Zicke=bitch 
+hineinversetzen=empathize 06:59
+Zicke=bitch 07:08
+Anteilnahme=sympathy 07:13
 keine scheu=don't be shy 07:36
 erbost=aufgebracht=infuriated 08:07
 eingeredet=persuaded 08:10
 ausgeredet=dissuaded 08:12
 aufzählen=enumerate 08:14
+Folgeschäden=consequential damages 08:14
 https://de.wikipedia.org/wiki/Schlaganfall 08:30
-https://de.wikipedia.org/wiki/Endorphine 08:40
+belegen=prove 08:41
+https://de.wikipedia.org/wiki/Endorphine 08:42
 https://de.wikipedia.org/wiki/Temporallappen 08:46
 ansteckend=contagious 08:49
 ausgeschüttet=distributed 09:15
 abgeraten=discouraged 11:13
 Fehlbildung=malformation 15:32
-ihr zustösst=it happens to her 16:??
+ihr zustösst=it happens to her 16:15
+wertvorstellungen=worth notion 18:13
 aufgeflogen=compromised 24:27
 Süchtig=addicted 24:53
 das Gewissen=the conscience 26:01
@@ -925,6 +934,7 @@ https://de.wikipedia.org/wiki/Thorakotomie 07:42
 https://de.wikipedia.org/wiki/Omentum 08:00 
 https://de.wikipedia.org/wiki/Diffusions-Tensor-Bildgebung DTI 10:14
 hinsetzen=sit down 10:32
+https://de.wikipedia.org/wiki/Prellung Quetschung ????
 beschwatzen=cajole, talk into 11:30
 https://de.wikipedia.org/wiki/Disseminierte_intravasale_Koagulopathie 11:47
 https://de.wikipedia.org/wiki/MDMA 
