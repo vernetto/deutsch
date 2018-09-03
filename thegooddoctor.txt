@@ -245,32 +245,38 @@ viel Vergnügen=have fun 06:54
 Geschwür=ulcer 07:09
 https://de.wikipedia.org/wiki/Schamlippe labium 07:15
 ungewöhnlich=unusual 07:22
+https://de.wikipedia.org/wiki/Trans%C3%B6sophageale_Echokardiographie TEE 07:47
 eindämmen=contain
 Anlegen=mooring 08:06
 Kränkung=offense 08:13
 https://de.wikipedia.org/wiki/Spekulum 08:43
 einschätzung=assessment 08:51
 meine einschätzung nach=the way I see it 08:51
+https://de.wikipedia.org/wiki/Chlamydien 08:52
 entzündet=inflamed 09:02
 Drüse=gland 09:02
 https://de.wikipedia.org/wiki/Glandula_vestibularis_major Bartholin-Drüse 09:03
 https://de.wikipedia.org/wiki/Musculus_ischiocavernosus 09:03
-Scheidenwand=vaginal wall
-Ich lag falsch=I was wrong
-Nabelschnur=umbilical cord
-sämtliche=all
-Nähte=stitches
+anstecken=infect 09:45
+Scheidenwand=vaginal wall 09:53
+Ich lag falsch=I was wrong 09:59
+Voraussetzung=requirement 10:09
+Nabelschnur=umbilical cord 10:15
+Schoss=lap 10:22
+sämtliche=all 10:31
+Nähte=stitches 10:32
 beistand=assistance
 fassen=understand 14:11
-unterleib=abdomen 14:25
+https://de.wikipedia.org/wiki/Anamnese 14:22
+Unterleib=abdomen 14:25
 ausgerissen=run away 14:40
-gemeinnützige=charitable 
-kokosnuss=coconut
-durchmacht=going through
+gemeinnützige=charitable 15:05
+Kokosnuss=coconut 15:11
+durchmacht=going through 16:16
 es kommt nicht mehr vor=It will not happen again 17:08
-auf jeden fall=definitely
-ausstieg verpasst=missed the exit 18:25
-an ihre stelle=in your place 18:34
+auf jeden Fall=definitely 17:54
+Ausstieg verpasst=missed the exit 18:25
+an ihre Stelle=in your place 18:34
 widerlich=ekelhaft=disgusting 19:55
 beschissen=crappy 20:05
 wasserhahn=water tap 20:13
