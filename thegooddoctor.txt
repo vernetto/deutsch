@@ -177,6 +177,8 @@ vorsichtsmaßnahme=precaution 04:45
 bereits=already  04:50
 reibungslos=smooth 05:40
 ein kurzer Kniff=a short pinch 06:52
+mal überlegen=let me think 09:25
+beeilen=hurry up 09:57
 Fahrgelegenheit=means of transport 10:54
 unvollständig=incomplete 11:52
 verschwendung=waste 12:08
@@ -201,9 +203,11 @@ verblieben=remained 28:52
 anhalten=stop 29:03
 spülen=rinse 29:25
 Lappen=lobe
-strohhalm=drinking straw 30:15
+Strohhalm=drinking straw 30:15
 unversehrt=intact 30:19
 Blankoscheck=blank check 30:45
+Ausschuss=Committee 31:44
+eine freude machen=to please me 32:04
 gereicht (reichen)=pass,offer
 Formsache=formality 33:20
 Nachteile=disadvantage 33:23
@@ -479,7 +483,6 @@ beseitigt=eliminated 39:50
 
 
 E08
-Ausschuss=Committee 00:30
 unfassbar=incomprehensible  01:55
 abgestellt=shut 01:57
 stolpern=stumble 02:16
