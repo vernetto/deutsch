@@ -227,18 +227,21 @@ scheitert=fails 00:41
 Schraubenzieher=screwdriver 01:28
 abgehakt=check off 01:30
 hört auf damit (aufhören)=stop it 02:00
-Gemüsefach=vegetable compartment
-https://de.wikipedia.org/wiki/Stei%C3%9Fbein coccyx 03:18
+Gemüsefach=vegetable compartment 02:35
+ausgelaugt=drained 02:46
+https://de.wikipedia.org/wiki/Stei%C3%9Fbein Steißbein=coccyx 03:18
 Schwangerschaft=pregnancy 03:22
+https://de.wikipedia.org/wiki/Antiphospholipid-Syndrom 03:17
 Fehlgeburten=miscarriages 03:23
 Dienstpläne=duty rosters 03:37
-durchsetzen=prevail
+durchsetzen=prevail 03:55
 https://de.wikipedia.org/wiki/Scheitel-Stei%C3%9F-L%C3%A4nge Scheitel-Steiß-Länge = Crown-rump length 03:59
-abbruch=abort,cancellation 04:28
-https://de.wikipedia.org/wiki/Antiphospholipid-Syndrom 04:48
+Abbruch=abort,cancellation 04:28
 eingehen=undertake 04:58
 durchmachen=go through 05:04
 https://de.wikipedia.org/wiki/Heparin 05:19
+verteidigen=defend 06:48
+viel Vergnügen=have fun 06:54
 Geschwür=ulcer 07:09
 https://de.wikipedia.org/wiki/Schamlippe labium 07:15
 ungewöhnlich=unusual 07:22
