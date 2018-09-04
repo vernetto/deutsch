@@ -265,7 +265,7 @@ Nabelschnur=umbilical cord 10:15
 Schoss=lap 10:22
 sämtliche=all 10:31
 Nähte=stitches 10:32
-beistand=assistance
+beistand=assistance 13:52
 fassen=understand 14:11
 https://de.wikipedia.org/wiki/Anamnese 14:22
 Unterleib=abdomen 14:25
@@ -285,13 +285,13 @@ Leck=leak
 hinterfragt=question 20:20
 andermal=some other time
 aufziehen=verspotten=tease 25:08
-anfassen=touch
-sie hätte nicht anfassen dürfen=you should not have touched it
-Spüle=kitchen sink
-ausschlagen=knock out
-
 https://de.wikipedia.org/wiki/Hypokinese 27:58
 verlangt=required 28:55
+anfassen=touch 31:46
+sie hätte nicht anfassen dürfen=you should not have touched it 31:46
+Spüle=kitchen sink 32:08
+ausschlagen=knock out 32:18
+https://de.wikipedia.org/wiki/Nervus_pudendus 34:34
 dehnen=stretch  34:40 
 Schenkel=thigh 34:54
 reizen=stimulate
@@ -299,12 +299,13 @@ kaiserschnitt=Caesarean section 36:40
 hübsch=pretty
 anfühlt=feels
 
-https://de.wikipedia.org/wiki/Nervus_pudendus
+https://de.wikipedia.org/wiki/Myom
 
 
 E05
 
 rangehst, rangehen=answer (to the phone) 01:24
+allerseits=everyone 02:00
 Schimmel=mold 02:26
 Schalentiere=shellfish,crustacean 02:26
 https://de.wikipedia.org/wiki/Lipasen 03:27
@@ -350,7 +351,8 @@ https://de.wikipedia.org/wiki/Erythrozyt 25:43
 Schürze=apron 27:11
 im Stich gelassen=let down 27:45
 Nachtragen=grudge 27:57
-zusammenhang=connection 29:59
+https://de.wikipedia.org/wiki/Knochenmarkpunktion Bone Marrow examination 28:08
+Zusammenhang=connection 29:59
 https://de.wikipedia.org/wiki/Embolie 30:25
 https://de.wikipedia.org/wiki/H%C3%A4modynamik 30:30 
 verschweigen=conceal 32:40
