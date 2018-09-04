@@ -378,7 +378,7 @@ aufstellen=set up,position 01:21
 Einteilung=classification 01:31
 eingestuft=classified 01:31
 geschleudert=hurled 02:12
-prellungen=bruises 02:15
+Prellungen=bruises 02:15
 https://de.wikipedia.org/wiki/Defibrillation 02:18
 https://de.wikipedia.org/wiki/Blutkreislauf 02:51
 https://de.wikipedia.org/wiki/Torquer Führungsdraht 04:00
@@ -402,23 +402,25 @@ gelegt=placed
 schon gut=all right 10:41
 Oberschenkel=thigh 10:58
 Unterschenkel=lower leg 10:58
+https://de.wikipedia.org/wiki/Hyphaema 11:27
 Bräutigam=groom (fiancé) 12:20
 angesprochen=mentioned 13:15
-gewöhnen=accustom
+gewöhnen=accustom 13:30
 Schienen=rails
-gerinnung=clotting
+Gerinnung=clotting 14:41
 Schmeichelei=flattery 15:20
 Ausweg=way out 16:00
-Verschluss des Stumpfes=closure of the stump
+Verschluss des Stumpfes=closure of the stump 17:43
 einstweilige=provisional 18:10
-unterbinden=prevent,stop
+unterbinden=prevent,stop 18:10
 eingereicht=submitted
+aussagen=testify 19:07
 überwinden=overcome 21:45
 Entzugsklinik=withdrawal clinic 22:22
 Süchtig=addicted 22:39
 https://de.wikipedia.org/wiki/Wakeboard 22:47
 betrogen=cheated 23:12
-ausrutscher=slip 23:25
+Ausrutscher=slip 23:25
 schweifen=roam around 23:40
 https://de.wikipedia.org/wiki/Hirnblutung 24:40
 https://de.wikipedia.org/wiki/Kollagen 25:10
@@ -426,11 +428,11 @@ https://de.wikipedia.org/wiki/Exzision Wundausschneidung=debridement 25:46
 https://de.wikipedia.org/wiki/Hirnblutung#Subduralh%C3%A4matom 26:57
 Klingen=blade 31:22
 https://de.wikipedia.org/wiki/Neuronale_Plastizit%C3%A4t 32:55
+eingeschätzt=evaluated,estimated 35:27
 versauen=mess up 37:08
 https://de.wikipedia.org/wiki/Myokardinfarkt Herzanfall 37:59
 aufgeregt=excited
 verknüpfen=connect,link 
-eingeschätzt=evaluated,estimated
 ausrichten=tell 39:55
 https://de.wikipedia.org/wiki/Patientenverf%C3%BCgung patientenverfügung=patient disposal 40:47
 
