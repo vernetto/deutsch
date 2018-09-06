@@ -433,21 +433,22 @@ versauen=mess up 37:08
 https://de.wikipedia.org/wiki/Myokardinfarkt Herzanfall 37:59
 aufgeregt=excited
 verknüpfen=connect,link 
-ausrichten=tell 39:55
-https://de.wikipedia.org/wiki/Patientenverf%C3%BCgung patientenverfügung=patient disposal 40:47
-
+ausrichten=tell 39:43
+verschwimmen=become blurred 40:00
+https://de.wikipedia.org/wiki/Patientenverf%C3%BCgung Patientenverfügung=patient disposal 40:47
 
 https://de.wikipedia.org/wiki/Elektroenzephalografie
 
-
-
 E07
 
-abgesturzt=crashed
+abgesturzt=crashed 00:20
+Ich komme klar=I am OK 00:37
 Anteilnahme=sympathy 00:55
-belastenden=stressful 01:14
+belastenden=stressful 01:06
 https://de.wikipedia.org/wiki/Nitroglycerin Nitro-infusion 01:39
-https://de.wikipedia.org/wiki/Atropin 0:47
+https://de.wikipedia.org/wiki/Bradykardie 01:43
+https://de.wikipedia.org/wiki/Atropin 1:47
+https://de.wikipedia.org/wiki/Brain_natriuretic_Peptide BNP 01:56
 https://de.wikipedia.org/wiki/Herzschrittmacher Doppelschrittmacher 02:33
 https://de.wikipedia.org/wiki/Haloperidol Haldol 03:18
 https://de.wikipedia.org/wiki/Psychose  Psychotisch 03:25 
@@ -478,6 +479,7 @@ abhauen=bugger off 17:05
 erhebliche=substantial 17:32
 verschleppung=spreading 17:33
 versagt=failed 19:28
+ich verlaufe mich=I am lost 23:17
 in einem Rutsch=in a go 27:20
 Verlegung=relocation 28:35
 sie wirken erstaunlich ausgeglichen=you look surprisingly balanced 30:03
@@ -490,8 +492,6 @@ umfang=scope
 Knöchel=ankle
 kindermädchen=nannies
 Haushälter=housekeeper
-ich verlaufe mich=I am lost
-
 beseitigt=eliminated 39:50
 
 
@@ -519,8 +519,8 @@ https://de.wikipedia.org/wiki/Fentanyl 16:08
 anbieten=offer 17:28
 anordnen=prescribe 17:55
 beatmen=ventilate
-Verlangt=desires 19:28
 aufgeregt=excited 18:48
+Verlangt=desires 19:28
 ich kann viele Menschen nicht leiden=I can't stand many people 20:30
 aufsatz=essay 20:57
 https://de.wikipedia.org/wiki/Dialyse 21:58
@@ -549,6 +549,7 @@ an der Spüle=at the sink 07:02
 verlegt=misplaced 07:22
 hemmend=inhibitory 07:52
 https://de.wikipedia.org/wiki/Kardiomyopathie 07:54
+https://de.wikipedia.org/wiki/Betablocker 08:14
 https://de.wikipedia.org/wiki/Metoprolol 08:15
 Kehlkopf=larynx 11.39
 bildungsplan=education plan 11:54
