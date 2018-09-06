@@ -8,3 +8,5 @@
 
 
 
+https://de.wikipedia.org/wiki/Seitenkettentheorie
+
