@@ -2,6 +2,7 @@ E01
 Lassen Sie ihn mich ansehen=let me look at him 03:07
 https://de.wikipedia.org/wiki/Vena_jugularis_interna Jugular vene 03:36
 derzeit=currently 03:43
+
 ausüben=exert, practice 03:47
 Glas splitter=splinter  04:07
 Geisteszustand=state of mind 04:29
