@@ -2,7 +2,6 @@ E01
 Lassen Sie ihn mich ansehen=let me look at him 03:07
 https://de.wikipedia.org/wiki/Vena_jugularis_interna Jugular vene 03:36
 derzeit=currently 03:43
-
 ausüben=exert, practice 03:47
 Glas splitter=splinter  04:07
 Geisteszustand=state of mind 04:29
@@ -594,7 +593,7 @@ Ihr beide werdet euch mögen=You both will like each other  01:50
 Abweichung=deviation 02:38
 Seitenband=collateral ligament 02:59
 Griffstärke=grip strength
-Sie haben wohl den Kürzeren gezogen=You have probably lost the short straw	
+Sie haben wohl den Kürzeren gezogen=You have probably lost the short straw04:56
 zuversichtlich=confident 05:55
 https://de.wikipedia.org/wiki/Musculus_palmaris_longus Hohlhandmuskel  06:08
 Hohlhand=hand palm 06:08
@@ -613,7 +612,7 @@ vertraulich=confidential
 ratschläge=advice
 unangemessen=inadequate
 Starke Leistung=great job 20:52
-https://de.wikipedia.org/wiki/Hirnstamm 21:14 brainstem 21:14
+https://de.wikipedia.org/wiki/Hirnstamm brainstem 21:14
 verdrängung=repression 21:43
 aufmüpfig=rebellious 24:40
 aufsässig=defiant 24:40
@@ -651,13 +650,13 @@ durchgemacht=undergo 14:24
 neben=next 17:46
 abstossung=rejection
 ablenken=distract 19:00
-deren entsheidung=their decision 23:02
+deren Entscheidung=their decision 23:02
 gelingt=succeed 23:57
 zach=quick 25:56
 siehe mich an=look at me
 überzeugen=convince 32:47
 Kater=hangover 33:10
-ich kündige mein job=I resign 38:48
+ich kündige mein Job=I resign 38:48
 Schallwelle=sound wave
 anfängt=begins
 aufhört=ends
@@ -672,13 +671,13 @@ veranlassen=arrange 02:51
 https://de.wikipedia.org/wiki/Circulus_arteriosus_cerebri Willis Kreis 04:32
 I habe belogen=I have lied 04:50
 nachkommen=to comply with 05:00
-ich werde die kündigung einreichen=I will file the cancellation 05:22
+ich werde die Kündigung einreichen=I will file the cancellation 05:22
 holen=summon 06:23
 https://de.wikipedia.org/wiki/Arteria_cerebri_media 08:25
 https://de.wikipedia.org/wiki/Koryph%C3%A4e 15:07
 angreifen=attack 15:20
-vergleich=comparison 15:58
-sauer auf ihn-=hin böse=angry with him 16:10
+Vergleich=comparison 15:58
+sauer auf ihn=ihn böse=angry with him 16:10
 https://de.wikipedia.org/wiki/Extrakorporale_Membranoxygenierung ECMO 18:30
 eingetreten=occurred 21:06
 du hier ausreichend gefordert wirst=you are sufficiently challenged here 27:54
@@ -847,6 +846,7 @@ https://de.wikipedia.org/wiki/Spagat 20:27
 Angestellter=employee 20:44
 Angeber=show-off 22:15
 schwul=gay 22.17
+Augenlider=eyelids 23:43
 https://de.wikipedia.org/wiki/Hypoxie_(Medizin) hypoxisch 23:55
 https://de.wikipedia.org/wiki/Steroide 24:22
 https://de.wikipedia.org/wiki/Mediastinum 26:50
@@ -886,6 +886,8 @@ https://de.wikipedia.org/wiki/Varikozele 09:51
 Bestätigung=confirmation 10:50
 https://de.wikipedia.org/wiki/Meningeom 10:57
 https://de.wikipedia.org/wiki/Hirnhaut Dura 11:13
+https://en.wikipedia.org/wiki/Medullary_pyramids_(brainstem) Pyramis Medullae 11:33
+https://de.wikipedia.org/wiki/Medulla_oblongata 11:33
 https://de.wikipedia.org/wiki/Subarachnoidalraum 11:25
 https://de.wikipedia.org/wiki/Sepsis 13:49
 abwälzen=unload 16:29
@@ -898,7 +900,6 @@ https://de.wikipedia.org/wiki/Oxycodon 26:15
 Flügel (SING) Flügel (PLUR)=wings 26:58
 Zahnseide=dental floss 27:01
 jeder hat sein päckchen zu tragen=everybody has a cross to bear 30:05
-https://de.wikipedia.org/wiki/Medulla_oblongata 33:01
 Wucherung=proliferation 33:03
 Stab=bar 33:08
 https://en.wikipedia.org/wiki/Neurogenic_shock 33:26
@@ -913,8 +914,10 @@ Abschluss=degree 00:35
 https://de.wikipedia.org/wiki/M%C3%B6bius-Syndrom 00:47
 überschlafen=sleep on 01:26 
 Ich bin voll dabei=I am fully involved  01:26
+aufrichtig=sincerely 02:10
 https://de.wikipedia.org/wiki/Clindamycin 02:55
 ehrlich gesagt=honestly 
+dir ich nicht aufgefallen=you didn't notice 04:58
 einfallsreich=imaginative,ingenious 05:45
 geistreich=witty 05:45
 hingewiesen=pointed out 05:50
@@ -951,7 +954,7 @@ https://de.wikipedia.org/wiki/Swan-Ganz-Katheter 26:47
 https://de.wikipedia.org/wiki/%C3%9Cbertragung_(Psychoanalyse) 29:15
 vorübergehend=temporarily 30:01
 unerwiderte=unreciprocated 30:16
-Verwundbar=vulnerable 30:16
+verwundbar=vulnerable 30:16
 unauffällig=inconspicuous 31:13
 https://de.wikipedia.org/wiki/Suxamethonium Succinyldicholin 32:17
 https://de.wikipedia.org/wiki/Cholinesterasen Plasmacholinesterase 32:22
