@@ -296,6 +296,7 @@ Leck=leak
 hinterfragt=question 20:20
 andermal=some other time
 aufziehen=verspotten=tease 25:08
+https://de.wikipedia.org/wiki/Myom 26:02
 https://de.wikipedia.org/wiki/Hypokinese 27:58
 verlangt=required 28:55
 anfassen=touch 31:46
@@ -309,9 +310,6 @@ reizen=stimulate
 kaiserschnitt=Caesarean section 36:40
 hübsch=pretty
 anfühlt=feels
-
-https://de.wikipedia.org/wiki/Myom
-
 
 E05
 
@@ -330,6 +328,7 @@ beleidige=insult 07:07
 ungelegen=inopportune 07:13
 Abzeichen=badge 07:57
 zwischenmenschlich=interpersonal 08:10
+deuten=interpret 08:12
 https://de.wikipedia.org/wiki/Hypochondrie#Nosophobie 08:49
 Pobacken=buttocks 09:04
 überzeugen=look,convince 09:11
