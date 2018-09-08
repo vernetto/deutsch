@@ -212,13 +212,16 @@ Strohhalm=drinking straw 30:15
 unversehrt=intact 30:19
 Blankoscheck=blank check 30:45
 Ausschuss=Committee 31:44
-eine freude machen=to please me 32:04
-gereicht (reichen)=pass,offer
+gereicht (reichen)=pass,offer 32:04
+eine Freude machen=to please me 32:04
 Formsache=formality 33:20
 Nachteile=disadvantage 33:23
+gravierend=serious 33:26
 borniert=narrow-minded 33:32
+sekundär=zweitrangig=secundary 33:56
 Gefässzange=vascular tongs 34:17
-https://de.wikipedia.org/wiki/Anastomose  34:40
+https://de.wikipedia.org/wiki/Anastomose 34:40
+Empfangsarterie 34:40
 erwürgt=strangled 34:54
 https://de.wikipedia.org/wiki/Kiefer_(Anatomie) 36:04
 knochensäge=bone saw 36:06
@@ -241,16 +244,18 @@ Fehlgeburten=miscarriages 03:23
 Dienstpläne=duty rosters 03:37
 durchsetzen=prevail 03:55
 https://de.wikipedia.org/wiki/Scheitel-Stei%C3%9F-L%C3%A4nge Scheitel-Steiß-Länge = Crown-rump length 03:59
+beanspruchen=strain 04:18
+Blutversorgung=blood supply 04:18
 Abbruch=abort,cancellation 04:28
 eingehen=undertake 04:58
 durchmachen=go through 05:04
 https://de.wikipedia.org/wiki/Heparin 05:19
+https://de.wikipedia.org/wiki/Trans%C3%B6sophageale_Echokardiographie TEE 05:49
 verteidigen=defend 06:48
 viel Vergnügen=have fun 06:54
 Geschwür=ulcer 07:09
 https://de.wikipedia.org/wiki/Schamlippe labium 07:15
 ungewöhnlich=unusual 07:22
-https://de.wikipedia.org/wiki/Trans%C3%B6sophageale_Echokardiographie TEE 07:47
 eindämmen=contain
 Anlegen=mooring 08:06
 Kränkung=offense 08:13
@@ -264,6 +269,7 @@ https://de.wikipedia.org/wiki/Glandula_vestibularis_major Bartholin-Drüse 09:03
 https://de.wikipedia.org/wiki/Musculus_ischiocavernosus 09:03
 anstecken=infect 09:45
 Scheidenwand=vaginal wall 09:53
+https://de.wikipedia.org/wiki/Geb%C3%A4rmutterhals Cervix oder Muttermund 09:53
 Ich lag falsch=I was wrong 09:59
 Voraussetzung=requirement 10:09
 Nabelschnur=umbilical cord 10:15
