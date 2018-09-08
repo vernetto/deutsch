@@ -957,8 +957,16 @@ einlösen=redeem,honour 14:41
 übernehmen=take over,assume 15:28
 Fehlbildung=malformation 15:32
 sabbert=salivate 15:30
+namhafte=renowned 15:55
 ihr zustösst=it happens to her 16:15
 wertvorstellungen=worth notion 18:13
+bestehlen=steal 20:17
+voraussetzt=presupposes 20:31
+verklagt=sued 20:50
+den Schein wahren=to preserve the appearance 20:54
+erstatten wir Anzeige=we will report 20:55
+erheben wir Klage=we raise a complaint 20:55
+rührselig=touching 24:13
 aufgeflogen=compromised 24:27
 Süchtig=addicted 24:53
 das Gewissen=the conscience 26:01
@@ -978,19 +986,28 @@ Türstopper=door stopper 42:00
 
 
 E18
+einrenken=to put it right 02:30
+Bordstein=curb 02:57
 irgendwohin=somewhere 03:06
+ansprechbar=responsive 03:26
+https://de.wikipedia.org/wiki/Phenylephrin 03:48
 loslegen=get started 04:25
 https://de.wikipedia.org/wiki/Gliom 05:20
+durcheinander=confused 06:10
 Zimt=cinnamon 06:55
 https://de.wikipedia.org/wiki/Thorakotomie 07:42
 https://de.wikipedia.org/wiki/Omentum 08:00 
 https://de.wikipedia.org/wiki/Diffusions-Tensor-Bildgebung DTI 10:14
 hinsetzen=sit down 10:32
-https://de.wikipedia.org/wiki/Prellung Quetschung ????
+dickköpfig=stubborn 11:00
 beschwatzen=cajole, talk into 11:30
-https://de.wikipedia.org/wiki/Disseminierte_intravasale_Koagulopathie 11:47
-https://de.wikipedia.org/wiki/MDMA 
-Molly=Ecstasy 16:31
+https://de.wikipedia.org/wiki/Disseminierte_intravasale_Koagulopathie DIC 11:47
+https://de.wikipedia.org/wiki/Prellung Quetschung 12.10
+https://de.wikipedia.org/wiki/Amphetamin 15:02
+gestehen=confess 15:20
+keine Ursache=never mind 15:30
+https://de.wikipedia.org/wiki/MDMA 16.27
+Molly=Ecstasy 16:27
 aufgeben=give up 17:26
 wage es nicht=don't you dare 17:30
 https://de.wikipedia.org/wiki/Glioblastom 19:47
@@ -999,11 +1016,11 @@ Ermessen=judgement
 https://de.wikipedia.org/wiki/Gewebespezifischer_Plasminogenaktivator  TPA infusion 24:37
 Anstecksträusschen=boutonnière,corsage 25:08
 dazuzählen=add 25:42
-nicht im geringsten=not in the least 27:17
-https://de.wikipedia.org/wiki/Paroxysmale_n%C3%A4chtliche_H%C3%A4moglobinurie  PNH 27:53
+nicht im Geringsten=not in the least 27:17
+https://de.wikipedia.org/wiki/Paroxysmale_n%C3%A4chtliche_H%C3%A4moglobinurie PNH 27:53
 https://de.wikipedia.org/wiki/Durchflusszytometrie 28:01
 https://de.wikipedia.org/wiki/Siebbein#Au%C3%9Fenw%C3%A4nde Lamina cribrosa 31:36
-absägen=saw off 32:25 
+absägen=saw off 32:25
 mitbewerber=competitor 32:30
 Zusagen=promise 34:53
 anstellung=situation 34:55
