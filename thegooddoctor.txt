@@ -50,7 +50,6 @@ https://de.wikipedia.org/wiki/Aorta#Abschnitte Aorta Abscendens 17:12
 https://de.wikipedia.org/wiki/Herz#R%C3%A4ume_und_Gef%C3%A4%C3%9Fe  Vorhof Atrium 17:17
 https://de.wikipedia.org/wiki/Eiter pus   17:30
 https://de.wikipedia.org/wiki/Noradrenalin 17:41
-vorgeschichte=prehistory
 absaugen=vacuum
 Verabreichen=administer
 Blutbild=blood count
@@ -74,6 +73,7 @@ ernsthaft=seriously 00:23
 zurücktreten=step back 00:58
 Stockwerk=floor 02:07
 https://de.wikipedia.org/wiki/Prostatektomie 02:31
+in Gang kommen=get going 02:40
 Akte=file 02:45
 https://de.wikipedia.org/wiki/Funktionelle_Dyspepsie Magenverstimmung 03:42
 https://de.wikipedia.org/wiki/Flatulenz Blähung 03:42
@@ -81,6 +81,7 @@ https://de.wikipedia.org/wiki/Obstipation Verstopfung 03:42
 https://de.wikipedia.org/wiki/%C3%9Cbelkeit 03:42
 https://de.wikipedia.org/wiki/Computertomographie CT 04:00
 https://de.wikipedia.org/wiki/Angiomyolipom 04:08
+https://de.wikipedia.org/wiki/Morphin 04:38
 durchalten=hold on, persevere
 weitläufig=spacious 
 vollständig=entirely
@@ -130,40 +131,38 @@ Trottel=fool 22:36
 Scheibe=pane 23:20
 https://de.wikipedia.org/wiki/Leiomyosarkom 24:51
 bedauerlicherweise=regrettably
-anbieten=offer
+anbieten=offer 25:03
 Betreuung=care, support 25:06
 aufstechen=puncture 25:44
-versprechen=promise
+versprechen=promise 26:40
+zugesagt=promised 27:12
 lediglich=merely 27:14
 kleingeredet=played down 27.15
 Eingriff=operation 27:19
-entnehmen=remove 30:35
 angeheuert=hired 28:00
 vermitteln=convey 29:20
 beurteilen=judge  29:30
-angeboren=innate,congenital
+entnehmen=remove 30:35
+angeboren=innate,congenital 32:28
 abwimmeln=get rid of 33:04
 beharrlich=persevering 33:10
 sich übergeben=vomit 33:34
 sieh mich an=look at me 34:10
 halt durch=hang on,persevere 34:40
 https://de.wikipedia.org/wiki/Schock_(Medizin)#Hypovol%C3%A4mischer_Schock 35:02
-https://de.wikipedia.org/wiki/D%C3%BCnndarm =small intestine 36:07
+https://de.wikipedia.org/wiki/D%C3%BCnndarm = small intestine 36:07
 auf eigene Faust=on your initiative 36:17
 übereinstimmend=matching 37:18
 Schlacht=battle 37:22
 aufgedreht=in high spirits 37:50
 stinkig=pissed off 38:03
 verpfiffen=to blow the whistle on someone 38:19
-den Kopf hinhalten lassen=let go of the head
+den Kopf hinhalten lassen=let go of the head 38:25
 Heuchlerin=hypocrite  38:45
 gern geschehen=you are welcome 39:23
 Lorbeeren=laurels 41:16
 
-
 https://de.wikipedia.org/wiki/Retroperitonealraum
-https://de.wikipedia.org/wiki/Geh%C3%B6rgang 
-
 
 E03
 
@@ -176,8 +175,16 @@ lehrer=teacher 3:18
 vorsichtsmaßnahme=precaution 04:45
 bereits=already  04:50
 reibungslos=smooth 05:40
+Kurzatmigkeit=shortness of breath 06:46
 ein kurzer Kniff=a short pinch 06:52
+Glieder=limbs 06:53
+genau genommen=strictly speaking 08:03
+wonach suchst du=what are you searching for 08:34
+https://de.wikipedia.org/wiki/Arterienklemme Gefässklemme 08:50
+ausruhen=relax 09:12
 mal überlegen=let me think 09:25
+Reize=stimuli 09:30
+vorgeschichte=prehistory 09:46
 beeilen=hurry up 09:57
 Fahrgelegenheit=means of transport 10:54
 unvollständig=incomplete 11:52
@@ -190,8 +197,6 @@ abstellen=turn off 14:40
 Absicht=intention 16:06
 Stift=pen 20:16
 Filzstift=felt pen 20:16
-Gesicht/Gesichter=face/faces
-Geschichte/Geschichten=story/stories
 Belohnung=reward 25:00
 https://de.wikipedia.org/wiki/Speiser%C3%B6hre esophagus 25:57
 https://de.wikipedia.org/wiki/Varizenblutung 26:00
