@@ -27,12 +27,12 @@ sie steht nur nicht auf dich=she just does not care about you 07:20
 verheimlichen=conceal 07:36
 Pulsadern=puls vein  08:40
 Ellenbogen=elbow  08:40
-venenstauung=vein stasis  08:45
+Venenstauung=vein stasis  08:45
 hebt sich=lifts  08:45
-behebung=remediation, removal 08:45
+Behebung=remediation, removal 08:45
 anhalten=stop 09:00
-weismachen=make believe
-mit Lügen umgehen=go around, circumvent   09:45
+weismachen=make believe 09:23
+mit Lügen umgehen=go around, circumvent 09:45
 klarkommen mit=cope with 09:45
 Abmachung=agreement  11:07
 bestanden=pass 11:14
@@ -53,7 +53,7 @@ https://de.wikipedia.org/wiki/Noradrenalin 17:41
 vorgeschichte=prehistory
 absaugen=vacuum
 Verabreichen=administer
-blutbild=blood count
+Blutbild=blood count
 benehmen sie sich=behave yourself 18:45
 vorliegend=present
 übersehen=overlook 19:29
@@ -1020,10 +1020,13 @@ nicht im Geringsten=not in the least 27:17
 https://de.wikipedia.org/wiki/Paroxysmale_n%C3%A4chtliche_H%C3%A4moglobinurie PNH 27:53
 https://de.wikipedia.org/wiki/Durchflusszytometrie 28:01
 https://de.wikipedia.org/wiki/Siebbein#Au%C3%9Fenw%C3%A4nde Lamina cribrosa 31:36
+https://de.wikipedia.org/wiki/Tentorium_cerebelli 31:36
 absägen=saw off 32:25
 mitbewerber=competitor 32:30
 Zusagen=promise 34:53
-anstellung=situation 34:55
+Anstellung=situation 34:55
+ablassen=drain 37:29
+heikel=tricky 37:32
 Vorwand=excuse 41:45
 
 
