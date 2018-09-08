@@ -334,6 +334,7 @@ Pobacken=buttocks 09:04
 überzeugen=look,convince 09:11
 beeinträchtigt=impair 10:33
 wir würden es gern dabei belassen=we would like to leave it at that 11:17
+geht es darum?=is it about that? 12:11
 unheimlich=creepy
 vorgetäuscht=feigned 12:30
 Ich fühle mich geehrt=I feel honored 13:17
