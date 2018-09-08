@@ -949,7 +949,14 @@ https://de.wikipedia.org/wiki/Barschartige Barsche 10:25
 ungestimmt=outtuned 11:12
 abgeraten=discouraged 11:13
 einsehen=realize 11:19
+widerspenstig=recalcitrant 12:15
+Fiesling=bastard 12:53
+ich habe dich lieb=I love you 13:49
+Vergünstigungen=amenities,perks 14:28
+einlösen=redeem,honour 14:41
+übernehmen=take over,assume 15:28
 Fehlbildung=malformation 15:32
+sabbert=salivate 15:30
 ihr zustösst=it happens to her 16:15
 wertvorstellungen=worth notion 18:13
 aufgeflogen=compromised 24:27
