@@ -692,6 +692,7 @@ Kater=hangover 33:10
 worüber=about what 38:14
 beförderung=promotion 38:14
 ich kündige mein Job=I resign 38:48
+
 Schallwelle=sound wave
 anfängt=begins
 aufhört=ends
@@ -701,17 +702,24 @@ https://de.wikipedia.org/wiki/Harnr%C3%B6hre Urethra
 https://en.wikipedia.org/wiki/Superior_sagittal_sinus
 
 E12
+pass auf=watch out 01:25
+https://de.wikipedia.org/wiki/S%C3%A4ttigung_(Physiologie) repletion 01:49
 umwerfend=fantastic 02:20
 veranlassen=arrange 02:51
+weshalb=why 04:23
 https://de.wikipedia.org/wiki/Circulus_arteriosus_cerebri Willis Kreis 04:32
+vorhanden=available 04:30
 I habe belogen=I have lied 04:50
 nachkommen=to comply with 05:00
 ich werde die Kündigung einreichen=I will file the cancellation 05:22
 holen=summon 06:23
 https://de.wikipedia.org/wiki/Arteria_cerebri_media 08:25
+fachrichtung=branch of study 10:17
+Verwarnung=reprimand 14:38
 https://de.wikipedia.org/wiki/Koryph%C3%A4e 15:07
 angreifen=attack 15:20
-Vergleich=comparison 15:58
+gemaßregelt=reprimanded 15:24
+Vergleich=comparison 15:38
 sauer auf ihn=ihn böse=angry with him 16:10
 https://de.wikipedia.org/wiki/Extrakorporale_Membranoxygenierung ECMO 18:30
 eingetreten=occurred 21:06
