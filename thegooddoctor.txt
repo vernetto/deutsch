@@ -335,7 +335,6 @@ Pobacken=buttocks 09:04
 beeinträchtigt=impair 10:33
 wir würden es gern dabei belassen=we would like to leave it at that 11:17
 geht es darum?=is it about that? 12:11
-unheimlich=creepy
 vorgetäuscht=feigned 12:30
 Ich fühle mich geehrt=I feel honored 13:17
 geschmeichelt=flattered 13:17
@@ -375,8 +374,8 @@ zange=tongs
 Brusthöhle=thoracic cavity
 Eindringling=intruder 36:28
 Fluchen=curse 38:33
-trübe=cloudy
 hergeben=give 40:17
+trübe=cloudy 40:48
 Schleier=veil 40:48
 
 E06
@@ -434,8 +433,10 @@ betrogen=cheated 23:12
 Ausrutscher=slip 23:25
 schweifen=roam around 23:40
 https://de.wikipedia.org/wiki/Hirnblutung 24:40
+https://de.wikipedia.org/wiki/Buntbarsche 25:05
 https://de.wikipedia.org/wiki/Kollagen 25:10
 https://de.wikipedia.org/wiki/Exzision Wundausschneidung=debridement 25:46
+über den Tellerrand hinaus denken=think out of the box 25:50
 https://de.wikipedia.org/wiki/Hirnblutung#Subduralh%C3%A4matom 26:57
 Klingen=blade 31:22
 https://de.wikipedia.org/wiki/Neuronale_Plastizit%C3%A4t 32:55
@@ -482,15 +483,16 @@ Atemsättigung=respiratory saturation 10:22
 Gehalt=salary 11:10
 Kumpel=pal 11:15
 Ausgabe=expenditure 11:35
-notaufnahme=emergency department
-lastenaufzug=goods lift
-absichtlich=intentionally
-knistern=crackle
+notaufnahme=emergency department 11:40
+lastenaufzug=goods lift 11:46
+absichtlich=intentionally 
+knistern=crackle 16:47
 abhauen=bugger off 17:05
 erhebliche=substantial 17:32
 verschleppung=spreading 17:33
 versagt=failed 19:28
 ich verlaufe mich=I am lost 23:17
+bevormundet=patronized 25:26
 in einem Rutsch=in a go 27:20
 Verlegung=relocation 28:35
 sie wirken erstaunlich ausgeglichen=you look surprisingly balanced 30:03
