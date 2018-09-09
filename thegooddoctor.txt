@@ -501,11 +501,12 @@ https://de.wikipedia.org/wiki/Jejunum 32:53
 https://de.wikipedia.org/wiki/Phlegmone 33:20
 VaW  Anordnung zum Verzicht auf Wiederbelebung "der Patient keine Herz-Lungen-Wiederbelebung (HLW) wünscht" 34:58
 https://en.wikipedia.org/wiki/Eosinophilic_gastroenteritis 36:06
+beseitigt=eliminated 39:50
+
 umfang=scope
 Knöchel=ankle
 kindermädchen=nannies
 Haushälter=housekeeper
-beseitigt=eliminated 39:50
 
 
 E08
@@ -514,7 +515,8 @@ abgestellt=shut 01:57
 stolpern=stumble 02:16
 verklagen=sue 02:19
 Ohrenstöpsel=ear plugs 02:35
-schmeissen=throw 03:06
+schmeissen=throw 03:03
+Räumungsbescheid=eviction notice 03:03
 https://de.wikipedia.org/wiki/Arterielle_Hypotonie  04:10
 https://de.wikipedia.org/wiki/Sonografie Sonogramm 05:46
 Austritt=exit 06:02
@@ -524,6 +526,7 @@ ich benehm mich daneben=I am wrong
 unangebracht=inappropriate 12:12
 vorbeugen=avoid 12:18
 hellseher=clairvoyant 12:58
+haftungsrisiko=liability risk 13:36
 wieso=why 14:09
 https://de.wikipedia.org/wiki/Systemisches_inflammatorisches_Response-Syndrom 14:35
 entzündungshemmer=anti-inflammatory products 14:50	
@@ -532,6 +535,7 @@ https://de.wikipedia.org/wiki/Fentanyl 16:08
 anbieten=offer 17:28
 anordnen=prescribe 17:55
 beatmen=ventilate
+https://de.wikipedia.org/wiki/Kreatinin 18:30
 aufgeregt=excited 18:48
 Verlangt=desires 19:28
 ich kann viele Menschen nicht leiden=I can't stand many people 20:30
@@ -553,9 +557,9 @@ https://de.wikipedia.org/wiki/Milz
 
 E09
 Niedlichkeit=cuteness 01:43
-Schicksalsschlag=blow of fate
-knötchen=nodule
-heiserkeit=hoarseness 03:14 
+Schicksalsschlag=blow of fate 03:03
+knötchen=nodule 03:11
+Heiserkeit=hoarseness 03:14 
 aufgesetzter kichern=false laugh 06:23
 https://de.wikipedia.org/wiki/Tinea_corporis Ringelflechte=ringworm 06:44
 an der Spüle=at the sink 07:02
@@ -577,6 +581,7 @@ eines Tages=one day 15:51
 https://de.wikipedia.org/wiki/Endokard 16:26
 wucherung=proliferation 16:28
 https://de.wikipedia.org/wiki/Mitralklappe 17:40
+Beutel=bag 18:24
 Aufmüpfigkeit=insubordination 18:45
 Versagenangst=fear of failure 19:03
 in einen Sarg=in a coffin 19:21
@@ -615,8 +620,8 @@ Vorschlag=proposition,suggestion 10:58
 überlassen=leave something 12:24
 Ratschlag=advice 12:51
 auf den Keks gehen=to get on my nerves 15:46
-arschkriecherei=ass licking 15:52
-https://de.wikipedia.org/wiki/Plexus_brachialis  Armgeflecht 16:36
+Arschkriecherei=ass licking 15:52
+https://de.wikipedia.org/wiki/Plexus_brachialis Armgeflecht 16:36
 https://de.wikipedia.org/wiki/Schwannom 16:47
 https://de.wikipedia.org/wiki/Unterschenkel 17:30
 absagen=cancel 18:12
