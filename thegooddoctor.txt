@@ -645,9 +645,11 @@ nach Ihren Maßstäben=according to your standards 27:59
 feindselig=hostile 29:21
 abgestempelt=labeled 29:22
 übertreiben=exaggerate 29:44
+beurteilen=judge 30:07
+https://de.wikipedia.org/wiki/Nucleus_ruber 30:34
 Hochachtung=esteem 33:08
 https://de.wikipedia.org/wiki/Ventrikul%C3%A4re_Tachykardie 34:53
-kleinhirn=cerebellum 34:58
+Kleinhirn=cerebellum 34:58
 verhärten=harden 35:17
 Muskelstarre=muscle rigidity 35:20
 https://de.wikipedia.org/wiki/Maligne_Hyperthermie 35:33
@@ -656,10 +658,15 @@ https://en.wikipedia.org/wiki/Vecuronium_bromide 35:47
 auftreten=occur 37:30
 hinzunehmen=accept 37:54
 stur=stubborn 39:58
+ausfechten=fight out 41:20
+Wesen=creature 41:28
 
 E11
 ausrichten=give a message 01:05
+nachsichtig=indulgent 01:44 
+begehrten=sought after 01:47
 vorwitzig=inquisitive 02:43
+Penner=tramp 02:45
 einweisen=assign 05:04
 https://en.wikipedia.org/wiki/Craniopagus_twins 05:20
 genehmigt=approved 08:42
@@ -667,7 +674,6 @@ vertuschen=cover up 08:44
 ausgeweitet=expanded 08:46
 umzugsunternehmen=removals company 09:11
 Gerüche=smells 11:24
-Penner=tramp 12:05
 versetzen sie sich in meine Lage=put yourself in my position 14:13
 belästigt=molested 14:18
 durchgemacht=undergo 14:24
