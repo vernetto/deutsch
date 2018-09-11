@@ -857,6 +857,9 @@ durchgemacht=undergone 25:29
 erwartungsgemäß=as expected 28:19
 gemobbt=bullied 28:41
 treiben=float 29:03
+https://de.wikipedia.org/wiki/Epididymitis 31:14
+https://de.wikipedia.org/wiki/Nierenstein 31:14
+https://de.wikipedia.org/wiki/Leistenbruch 31:14
 https://de.wikipedia.org/wiki/Samenstrang 31:48
 https://de.wikipedia.org/wiki/Gastrointestinaler_Stromatumor 32:31
 https://de.wikipedia.org/wiki/Tachykardie 32:38
