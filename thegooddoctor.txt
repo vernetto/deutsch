@@ -8,6 +8,7 @@ Geisteszustand=state of mind 04:29
 Zustand=condition 04:30
 Umgang=contact 04:32
 Vorstand=board 04:56
+nachgeschlagen=looked up 05:05
 Einwände=objection 05:10
 Vertragen=tolerate 05:22
 räumliche=spacial 06:02
@@ -15,7 +16,7 @@ beachtlich=remarkable 06:09
 in Einsatz=operation 06:11
 Vorzüge=advantage 06:12
 unschätzbar=invaluable 06:14
-unbestreitbar=incontrovertible 
+unbestreitbar=incontrovertible 06:15
 Vetternwirtschaft=nepotism 06:29
 Vettern=cousin 06:29
 aus der Buchhaltung feuern=firing from accounting 06:32
@@ -25,6 +26,8 @@ Einverständniserklärung=consent form 06:48
 Einwilligungserklärung=letter of consent 06:48
 sie steht nur nicht auf dich=she just does not care about you 07:20
 verheimlichen=conceal 07:36
+https://de.wikipedia.org/wiki/Thorax Brustkorb 08:31
+https://de.wikipedia.org/wiki/Paradoxe_Atmung 08:32
 Pulsadern=puls vein  08:40
 Ellenbogen=elbow  08:40
 Venenstauung=vein stasis  08:45
@@ -38,16 +41,18 @@ Abmachung=agreement  11:07
 bestanden=pass 11:14
 Einstellung=attitude 11:28
 Vorgesetzter=supervisor 11:30
-untergebene=subordinate 11:35
+Untergebene=subordinate 11:35
 Unterstellte=subordinate  11:35
-beschaffen=procure 
-entweichen=escape
+beschaffen=procure 12:07
 spannung=tension 13:20
-Ausschlag=deflection
-einwegventil=disposable valve
+https://de.wikipedia.org/wiki/Spannungspneumothorax 13:20
+entweichen=escape 14:05
+Einwegventil=disposable valve 14:12
 streicheln=caress   16:10
+Ausschlag=deflection 16:42
+hingewiesen=pointed out 17:02
 https://de.wikipedia.org/wiki/Aorta#Abschnitte Aorta Abscendens 17:12
-https://de.wikipedia.org/wiki/Herz#R%C3%A4ume_und_Gef%C3%A4%C3%9Fe  Vorhof Atrium 17:17
+https://de.wikipedia.org/wiki/Herz#R%C3%A4ume_und_Gef%C3%A4%C3%9Fe Herz - Räume_und_Gefäße - Vorhof Atrium 17:17
 https://de.wikipedia.org/wiki/Eiter pus   17:30
 https://de.wikipedia.org/wiki/Noradrenalin 17:41
 absaugen=vacuum
@@ -1092,6 +1097,7 @@ dazuzählen=add 25:42
 nicht im Geringsten=not in the least 27:17
 https://de.wikipedia.org/wiki/Paroxysmale_n%C3%A4chtliche_H%C3%A4moglobinurie PNH 27:53
 https://de.wikipedia.org/wiki/Durchflusszytometrie 28:01
+https://de.wikipedia.org/wiki/Aneurysma#Aneurysma_spurium/falsum Pseudoaneurysma 28:50
 https://de.wikipedia.org/wiki/Siebbein#Au%C3%9Fenw%C3%A4nde Lamina cribrosa 31:36
 https://de.wikipedia.org/wiki/Tentorium_cerebelli 31:36
 absägen=saw off 32:25
