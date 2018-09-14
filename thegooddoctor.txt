@@ -363,6 +363,7 @@ munkeln=to rumor 20:55
 zurechtkommen=cope
 wieso sie's geplatzt=why did she burst? 21:19
 Schmeichler=flatterer 21:53
+herumbohren=drill around 22:01
 Ausschlag=rash 23:03
 hintereinander=in a row,behind each other 23:49
 https://de.wikipedia.org/wiki/Epstein-Barr-Virus 23:59
@@ -378,6 +379,7 @@ Zusammenhang=connection 29:59
 https://de.wikipedia.org/wiki/Embolie 30:25
 https://de.wikipedia.org/wiki/H%C3%A4modynamik 30:30 
 verschweigen=conceal 32:40
+deine Erwartung gerecht werden=meet your expectations 33:03
 Ich lag auch richtig=I was right 33:07
 Lenden=lumbar
 vornehmen=make, carry out
@@ -473,6 +475,7 @@ https://de.wikipedia.org/wiki/Nitroglycerin Nitro-infusion 01:39
 https://de.wikipedia.org/wiki/Bradykardie 01:43
 https://de.wikipedia.org/wiki/Atropin 1:47
 https://de.wikipedia.org/wiki/Brain_natriuretic_Peptide BNP 01:56
+https://de.wikipedia.org/wiki/Herzstillstand 02:28
 https://de.wikipedia.org/wiki/Herzschrittmacher Doppelschrittmacher 02:33
 https://de.wikipedia.org/wiki/Haloperidol Haldol 03:18
 https://de.wikipedia.org/wiki/Psychose  Psychotisch 03:25 
@@ -495,13 +498,13 @@ Atemsättigung=respiratory saturation 10:22
 Gehalt=salary 11:10
 Kumpel=pal 11:15
 Ausgabe=expenditure 11:35
-notaufnahme=emergency department 11:40
-lastenaufzug=goods lift 11:46
+Notaufnahme=emergency department 11:40
+Lastenaufzug=goods lift 11:46
 absichtlich=intentionally 
 knistern=crackle 16:47
-abhauen=bugger off 17:05
+abhauen=bugger off 17:00
 erhebliche=substantial 17:32
-verschleppung=spreading 17:33
+Verschleppung=spreading 17:33
 versagt=failed 19:28
 ich verlaufe mich=I am lost 23:17
 bevormundet=patronized 25:26
