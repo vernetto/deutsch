@@ -65,7 +65,9 @@ Hase=rabbit 20:19
 Einschränkung=limitation 21:56
 benachteiligt=disadvantaged 22:45
 https://de.wikipedia.org/wiki/Perikarderguss Herzbeutelerguss 24:44 
+abbekommen=received 26:27
 https://en.wikipedia.org/wiki/Brachiocephalic_vein  26:35
+gutheissen=approve 27:02
 durchkommen=get through 27:55
 reif=mature 32:14
 vermasseln=to goof,to botch 32:52
@@ -87,8 +89,8 @@ https://de.wikipedia.org/wiki/%C3%9Cbelkeit 03:42
 https://de.wikipedia.org/wiki/Computertomographie CT 04:00
 https://de.wikipedia.org/wiki/Angiomyolipom 04:08
 https://de.wikipedia.org/wiki/Morphin 04:38
-durchalten=hold on, persevere
-weitläufig=spacious 
+durchalten=hold on, persevere 04:42
+weitläufig=spacious  
 vollständig=entirely
 dabei=there 05:03
 am Sabbern=salivating, on the drool 05:15
@@ -193,9 +195,9 @@ vorgeschichte=prehistory 09:46
 beeilen=hurry up 09:57
 Fahrgelegenheit=means of transport 10:54
 unvollständig=incomplete 11:52
-verschwendung=waste 12:08
+Verschwendung=waste 12:08
 verengt=narrows 12:16
-gefässe=vessels 12:17
+Gefässe=vessels 12:17
 such dir zwei aus=pick two 12:41
 Gabe=gift 13:21
 abstellen=turn off 14:40
@@ -315,6 +317,7 @@ reizen=stimulate
 kaiserschnitt=Caesarean section 36:40
 hübsch=pretty
 anfühlt=feels
+Spinner=madman 41:52
 
 E05
 
@@ -340,6 +343,7 @@ Pobacken=buttocks 09:04
 beeinträchtigt=impair 10:33
 wir würden es gern dabei belassen=we would like to leave it at that 11:17
 geht es darum?=is it about that? 12:11
+ausflippen=freak out 12:25
 vorgetäuscht=feigned 12:30
 Ich fühle mich geehrt=I feel honored 13:17
 geschmeichelt=flattered 13:17
@@ -349,6 +353,9 @@ rausgeschmissen=kicked out, in a fix 14:08
 belügt/belügen=deceives 15:11
 Ich hab's mir ausgedacht=I thought it all up 15:35
 angesehen/ansehen=to look at 16:15
+Zweitmeinung=second opinion 16:21
+zuziehen=to call in 16:22
+eingeholt (einholen)=to haul inboard 16:22
 https://de.wikipedia.org/wiki/Neutrophiler_Granulozyt 19:40
 https://en.wikipedia.org/wiki/ELISA 20:16
 https://de.wikipedia.org/wiki/Echinococcus 20:26
