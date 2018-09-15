@@ -506,40 +506,48 @@ abhauen=bugger off 17:00
 erhebliche=substantial 17:32
 Verschleppung=spreading 17:33
 versagt=failed 19:28
+er blick zu dir auf=he looks up to you 20:08
+Umfang=diameter 20:29
+Knöchel=ankle 20:30
 ich verlaufe mich=I am lost 23:17
 bevormundet=patronized 25:26
+Kissen=pillow 26:??
 in einem Rutsch=in a go 27:20
 Verlegung=relocation 28:35
-sie wirken erstaunlich ausgeglichen=you look surprisingly balanced 30:03
+sie wirken erstaunlich ausgeglichen=you look surprisingly balanced 30:03 
 wirken=look 30:03
+https://de.wikipedia.org/wiki/Akutes_Abdomen#Ursachen Darmperforation 31:28
+Kohlenstoffanteil=carbon-share 32:18
 https://de.wikipedia.org/wiki/Jejunum 32:53
 https://de.wikipedia.org/wiki/Phlegmone 33:20
 VaW  Anordnung zum Verzicht auf Wiederbelebung "der Patient keine Herz-Lungen-Wiederbelebung (HLW) wünscht" 34:58
 https://en.wikipedia.org/wiki/Eosinophilic_gastroenteritis 36:06
+eingesetz=introduced 38:27
 beseitigt=eliminated 39:50
 
-umfang=scope
-Knöchel=ankle
 kindermädchen=nannies
 Haushälter=housekeeper
 
 
 E08
 unfassbar=incomprehensible  01:55
+sich erlauben=take the liberty of 01:56
 abgestellt=shut 01:57
 stolpern=stumble 02:16
 verklagen=sue 02:19
 Ohrenstöpsel=ear plugs 02:35
 schmeissen=throw 03:03
 Räumungsbescheid=eviction notice 03:03
-https://de.wikipedia.org/wiki/Arterielle_Hypotonie  04:10
+auf der stelle=on the spot 03:49
+https://de.wikipedia.org/wiki/Arterielle_Hypotonie  Hypotensiv 04:10
 https://de.wikipedia.org/wiki/Sonografie Sonogramm 05:46
 Austritt=exit 06:02
 Zwerchfell=Diafragma
 verbandmull=garze 08:50
-ich benehm mich daneben=I am wrong
+https://de.wikipedia.org/wiki/Milz 09:04
 unangebracht=inappropriate 12:12
 vorbeugen=avoid 12:18
+ich benehm mich daneben=I am wrong 12:38
 hellseher=clairvoyant 12:58
 haftungsrisiko=liability risk 13:36
 wieso=why 14:09
@@ -561,13 +569,12 @@ https://de.wikipedia.org/wiki/Thoraxdrainage 22:28
 endgültig=definitely 24:00
 boshaft=wicked 24:01
 Kotzbrocken=son of a bitch 24:02
+https://de.wikipedia.org/wiki/Arteria_intercostalis_suprema Oberste intercostalis arteria 31:42
 ablassen=drain 32:20
+herumsitzen=sit around 34:52 
 deswegen=therefore 35:18
 abgeschätzt/abschätzen=evaluate
 abservieren=to polish off 36:30
-
-https://de.wikipedia.org/wiki/Milz
-
 
 
 E09
