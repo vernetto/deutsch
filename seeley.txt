@@ -574,4 +574,168 @@ zum Herzen.
 Die Brusthöhle enthält drei seröse membrangeformte Hohlräume: eine Perikardhöhle und zwei Pleurahöhlen. Die Perikardhöhle (per-i-kar'dē-ăl; um das Herz) umgibt das Herz (Abb. 1.16a). Das viszerale Perikard bedeckt das Herz, das in einem mit dem parietalen Perikard ausgekleideten Bindegewebssack enthalten ist. Die Perikardhöhle, die Perikardflüssigkeit enthält, befindet sich zwischen dem viszeralen Perikard und dem parietalen Perikard. Jede Lunge ist von viszeraler Pleura bedeckt und von einer pleuralen (ploor 'ăl; mit den Rippen verbundenen) Höhle umgeben (Abb. 1.16b). Parietale Pleura säumen die innere Oberfläche der Thoraxwand, die äußere Oberfläche des parietalen Perikards und die obere Oberfläche des Zwerchfells. Die Pleurahöhle liegt zwischen der Pleura visceralis und der Pleura parietalis und enthält Pleuraflüssigkeit. Die Bauchhöhlenhöhle enthält einen serösen membrangesäumten Hohlraum, der als peritoneal (per'i-tō-nē'al; überstreckt) bezeichnet wird (Abb. 1.16c). Viszerales Peritoneum bedeckt viele Organe der Bauchhöhle. Das parietale Peritoneum säumt die Wand der Bauchhöhlenhöhle und die untere Fläche des Zwerchfells. Die Peritonealhöhle befindet sich zwischen dem viszeralen Peritoneum und dem parietalen Peritoneum und enthält Peritonealflüssigkeit. Die serösen Membranen können sich entzünden, meist als Folge einer Infektion. Perikarditis (per'i-kar-dī'tis) ist eine Entzündung des Perikards, Pleuritis (ploor'i-sē) ist eine Entzündung der Pleura, und Peritonitis (per'i-tō-nī'tis) ist eine Entzündung des Peritoneums . Mesenterien (mes'en-ter-ēz), die aus zwei miteinander verwachsenen Peritoneumschichten bestehen (Abb. 1.16c), verbinden das viszerale Peritoneum einiger abdominopelvischer Organe mit dem parietalen Peritoneum an der Körperwand oder mit dem viszeralen Peritoneum anderer abdominopelvischer Organe Organe. Die Mesenterien verankern die Organe an der Körperwand und bieten einen Weg für Nerven und Blutgefäße, um die Organe zu erreichen. Andere Bauchmuskelorgane sind enger mit der Körperwand verbunden und haben keine Mesenterien. Das parietale Peritoneum bedeckt diese anderen Organe, von denen man sagt, dass sie retroperitoneal sind (re'tro-per'i-tō-nē'al; hinter dem Peritoneum). Zu den retroperitonealen Organen gehören die Nieren, die Nebennieren, die Bauchspeicheldrüse, Teile des Darms und die Harnblase (Abb. 1.16c).
 
 
+Parietales Perikard
+Viszerales Perikard
+Perikardhöhle mit Perikardflüssigkeit
+Herz
+
+Parietale Pleura
+Viszerale Pleura
+Pleurahöhle mit Pleuraflüssigkeit
+Membran
+
+(a) Frontaler Schnitt mit dem parietalen Perikard (blau), dem viszeralen Perikard (rot) und der Perikardhöhle. (b) Frontaler Schnitt mit Darstellung der Pleura parietalis (blau), der viszeralen Pleura (rot) und der Pleurahöhlen. (c) Sagittalschnitt durch die Bauchhöhle mit Darstellung des parietalen Peritoneums (blau), des viszeralen Peritoneums (rot), der Peritonealhöhle, der Mesenterien (lila) und Teile des retroperitonealen Organs
+
+
+Die erste Vorhersage in jedem Kapitel dieses Textes soll Ihnen helfen, die Fähigkeiten zu entwickeln, um kritische Fragen erfolgreich zu beantworten. Der erste Schritt im Prozess besteht immer darin, die Frage selbst zu analysieren. In diesem Fall werden Sie gebeten, die Mechanismen zu beurteilen, die den Blutzuckerspiegel von Renzo beeinflussen, und es gibt Hinweise darauf, dass ein homöostatischer Mechanismus beteiligt ist. Darüber hinaus beschreibt die Frage eine Reihe von Ereignissen, die helfen, eine Erklärung zu schaffen: Renzo fühlt sich nach dem Essen nicht befriedigt, hat den Blutzucker erhöht und dann wird ihm eine Insulinpumpe verschrieben. In Kapitel 1 lernen wir, dass Homöostase die Existenz und Aufrechterhaltung einer relativ konstanten inneren Umgebung ist. Renzo erfuhr Hunger trotz Essen, und sein Blutzuckerspiegel war höher als normal. In dieser Situation sahen wir eine Störung der Homöostase, weil sein Blutzucker nach dem Essen zu hoch blieb. Normalerweise würde erhöhter Blutzucker nach einer Mahlzeit durch die Aktivität des von der Bauchspeicheldrüse sezernierten Insulins in den normalen Bereich zurückkehren. Wenn der Blutzucker wieder normal ist, stoppt die Insulinsekretion. In Renzos Fall hat seine Bauchspeicheldrüse aufgehört, Insulin herzustellen. So verschrieb der Arzt eine Insulinpumpe, um für seine Bauchspeicheldrüse zu übernehmen. Jetzt, wenn Renzo isst, setzt die Insulinpumpe Insulin in sein Blut und sein Blutzuckerspiegel wird in der Nähe des Sollwerts gehalten.
+
+
+
+
+Kenntnisse der Anatomie und Physiologie können genutzt werden, um Probleme zu lösen, die den Körper betreffen, wenn er gesund oder krank ist. 1.1 Anatomie und Physiologie (S. 2) 1. Anatomie ist das Studium der Körperstrukturen. ■ Die Entwicklungsanatomie berücksichtigt anatomische Veränderungen von der Empfängnis bis zum Erwachsenenalter. Embryologie konzentriert sich auf die ersten 8 Wochen der Entwicklung. ■ Zytologie untersucht Zellen und Histologie untersucht Gewebe. ■ Grobe Anatomie untersucht Organe aus einer systemischen oder einer regionalen Perspektive. 2. Die Oberflächenanatomie verwendet oberflächliche Strukturen, um tiefere Strukturen zu lokalisieren, und die anatomische Bildgebung ist eine nichtinvasive Technik zur Identifizierung tiefer Strukturen. 3. Physiologie ist das Studium der Körperfunktionen. Es kann von einem zellularen oder einem Systemstandpunkt aus betrachtet werden. 4. Die Pathologie befasst sich mit allen Aspekten der Krankheit. Die Bewegungsphysiologie untersucht Veränderungen, die durch Bewegung verursacht werden. 1.2 Strukturelle und funktionelle Organisation des menschlichen Körpers (S. 4) 1. Chemische Grundeigenschaften sind für die Struktur und die Funktionen des Lebens verantwortlich. 2. Zellen sind die grundlegenden strukturellen und funktionellen Einheiten von Organismen wie Pflanzen und Tieren. Organellen sind kleine Strukturen innerhalb von Zellen, die bestimmte Funktionen erfüllen. 3. Gewebe bestehen aus Gruppen von Zellen ähnlicher Struktur und Funktion und den sie umgebenden Materialien. Die vier primären Gewebetypen sind Epithel-, Binde-, Muskel- und Nervengewebe. 4. Organe sind Strukturen, die aus zwei oder mehr Geweben bestehen, die bestimmte Funktionen erfüllen. 5. Organe sind in den 11 Organsystemen des menschlichen Körpers angeordnet (siehe Abbildung 1.3). 6. Organsysteme interagieren, um einen ganzen, funktionierenden Organismus zu bilden. 1.3 Eigenschaften des Lebens (S. 4) Der Mensch teilt viele Eigenschaften mit anderen Organismen, wie Organisation, Stoffwechsel, Reaktionsfähigkeit, Wachstum, Entwicklung und Fortpflanzung. 1.4 Biomedizinische Forschung (S. 6) Ein großer Teil unseres Wissens über den Menschen stammt aus der Forschung an anderen Organismen. 1.5 Homöostase (S. 9) Die Homöostase ist der Zustand, in dem Körperfunktionen, Körperflüssigkeiten und andere Faktoren der inneren Umwelt auf einem Niveau gehalten werden, das geeignet ist, das Leben zu unterstützen. Negatives Feedback 1. Negative Rückkopplungsmechanismen halten die Homöostase aufrecht. 2. Viele Gegenkopplungsmechanismen bestehen aus einem Rezeptor, einem Kontrollzentrum und einem Effektor. Positive Feedback 1. Positive Feedback-Mechanismen führen in der Regel zu Abweichungen vom Sollwert. 2. Obwohl einige positive Rückkopplungsmechanismen für die Aufrechterhaltung der Homöostase im Körper normal sind, können einige Mechanismen mit positiven Rückkopplungen schädlich sein. 3. Normale positive Feedback-Mechanismen umfassen Blutgerinnung und Geburtsarbeit. Schädliche positive Rückkopplungsbeispiele umfassen einen verringerten Blutfluss zum Herzen. 1.6 Terminologie und Körperplan (S. 12) Körperpositionen 1. Ein Mensch steht aufrecht mit nach vorne gerichtetem Gesicht, die Arme hängen an den Seiten und die Handflächen nach vorne sind in anatomischer Position. 2. Eine nach oben liegende Person liegt auf dem Rücken; eine nach unten liegende Person ist anfällig. Richtungsangaben Richtungsangaben beziehen sich immer auf die anatomische Position, unabhängig von der tatsächlichen Körperposition (siehe Tabelle 1.2). Körperteile und Regionen 1. Der Körper kann in eine zentrale Region unterteilt werden, bestehend aus Kopf, Hals und Rumpf, sowie den oberen und unteren Gliedmaßen. 2. Oberflächlich kann das Abdomen in Quadranten oder in neun Regionen unterteilt werden. Diese Unterteilungen sind nützlich, um innere Organe zu lokalisieren oder den Ort eines Schmerzes oder eines Tumors zu beschreiben. Ebenen 1. Ebenen des Körpers ■ Eine Sagittalebene teilt den Körper in rechte und linke Teile. Eine Medianebene teilt den Körper in gleiche rechte und linke Hälften. ■ Eine transversale (horizontale) Ebene teilt den Körper in obere und untere Teile. ■ Eine frontale (koronare) Ebene teilt den Körper in vordere und hintere Teile. 2. Abschnitte eines Organs ■ Ein Längsschnitt eines Organs teilt es entlang der langen Achse. ■ Ein Quer- (Quer-) Schnitt schneidet rechtwinklig zur Längsachse eines Organs. ■ Ein schräger Schnitt schneidet die Längsachse eines Organs in einem anderen Winkel als einem rechten Winkel
+
+
+Körperhöhlen 1. Das Mediastinum unterteilt die Brusthöhle. 2. Das Zwerchfell trennt die Brust- und Bauchhöhle. 3. Beckenknochen umgeben die Beckenhöhle. Seröse Membranen 1. Seröse Membranen säumen die Rumpfhöhlen. Der parietale Teil einer serösen Membran säumt die Wand der Höhle und der viszerale Teil steht in Kontakt mit den inneren Organen. ■ Die serösen Membranen sezernieren Flüssigkeit, die den Raum zwischen den viszeralen und parietalen Membranen ausfüllt. Die serösen Membranen schützen die Organe vor Reibung. Die Perikardhöhle umgibt das Herz, die Pleurahöhlen umgeben die Lungen und die Peritonealhöhle umgibt bestimmte Bauch- und Beckenorgane. 2. Mesenterien sind Teile des Peritoneums, die die Bauchorgane an Ort und Stelle halten und einen Durchgang für Blutgefäße und Nerven zu den Organen schaffen. 3. Retroperitoneale Organe befinden sich "hinter" dem parietalen Peritoneum.
+
+
+Brad und seine Laborpartnerin Angie mischten eine kleine Menge Stärke in ein Reagenzglas mit Wasser. Dann fügten sie Jod hinzu, das die Stärkemoleküle blau färbte. Als nächstes wurde Speichel in das Reagenzglas gegeben. Nach 30 Minuten verschwand die blaue Farbe. Diese Übung demonstriert die Folgen des Metabolismus in Abwesenheit von Homöostase (beschrieben in Kapitel 1). Die Homöostase beinhaltet oft ein Gleichgewicht von chemischen Reaktionen, die Moleküle, wie zum Beispiel Stärke, bilden und zerstören. Im Reagenzglas trat nur eine Reaktion auf. Nachdem Sie das Kapitel gelesen haben, werden Sie erfahren haben, dass die Geschwindigkeit einer chemischen Reaktion durch Enzyme in Zellen und Körperflüssigkeiten stark erhöht werden kann, und Sie werden die Rolle von zwei chemischen Phänomenen Aktivierungsenergie und Zersetzungsreaktionen verstehen. Können Sie unter Berücksichtigung der Eigenschaften von Enzymen und chemischen Reaktionen erklären, warum die blaue Farbe im Reagenzglas verschwunden ist? Foto:
+
+Das Leben ist Chemie. Chemikalien bilden die Strukturen des Körpers und die Wechselwirkungen von Chemikalien untereinander sind für die Funktionen des Körpers verantwortlich. Nervenimpulsbildung, Verdauung, Muskelkontraktion und Metabolismus können chemisch beschrieben werden, ebenso wie viele abnormale Zustände und Krankheiten sowie deren Behandlungen. Diese vielfältigen Funktionen beinhalten komplizierte Interaktionen zwischen Molekülen. Zum Beispiel interagieren Chemikalien im Speichel mit Nahrung, um die Verdauung zu unterstützen, und Membranproteine ​​sammeln sich, um eine Pore für Ionen zu bilden, die in und aus unseren Zellen gelangen, um die Erzeugung von Nervenimpulsen und die Muskelkontraktion zu unterstützen. Um Anatomie und Physiologie zu verstehen, ist ein grundlegendes Wissen über Chemie notwendig - die wissenschaftliche Disziplin, die sich mit der atomaren Zusammensetzung von Substanzen und den Reaktionen, denen sie ausgesetzt sind, beschäftigt. Dieses Kapitel ist keine umfassende Behandlung der Chemie, es werden jedoch einige grundlegende chemische Konzepte in Bezug auf lebende Systeme behandelt. Wenn nötig, beziehen Sie sich auf dieses Kapitel, wenn chemische Prozesse später im Buch besprochen werden. Foto: Die chemische Zusammensetzung der Körperstrukturen bestimmt ihre Funktion. Dieses Banddiagramm eines Kaliumkanalproteins (Kv1.2) zeigt die vier Untereinheiten (in verschiedenen Farben), die zusammengebaut sind, um eine Pore für die Passage von Kaliumionen (violette Kugeln) durch die Plasmamembran zu erzeugen. Eine Ansicht von der Seite (rechts) und eine Draufsicht (links) des Kanals werden gezeigt.
+
+Lernerfolge. Nachdem Sie diesen Abschnitt gelesen haben, sollten Sie in der Lage sein, A, Masse und Gewicht zu definieren. B. Unterscheiden Sie zwischen Elementen und Atomen und geben Sie die vier häufigsten Elemente im Körper an. Benennen Sie die subatomaren Teilchen eines Atoms und geben Sie deren Masse, Ladung und Position in einem Atom an. D. Bestimmen Sie Ordnungszahl, Massenzahl, Isotop, Atommasse und Mol. e. Vergleichen und kontrastieren Sie ionische und kovalente Bindungen. F. Di ff erentiate zwischen einem Molekül und einer Verbindung. G. Erklären Sie, was eine Wasserstoffbrücke erzeugt und wie wichtig sie ist. H. Beschreiben Sie die Löslichkeit und den Prozess der Dissoziation und sagen Sie voraus, ob eine Verbindung oder ein Molekül ein Elektrolyt oder ein Nichtelektrolyt ist. Materie, Masse und Gewicht Alle lebenden und nichtlebenden Dinge sind aus Materie zusammengesetzt, was alles ist, was den Raum einnimmt und Masse hat. Masse ist die Menge an Materie in einem Objekt und Gewicht ist die Gravitationskraft, die auf ein Objekt einer bestimmten Masse wirkt. Zum Beispiel resultiert das Gewicht eines Apfels aus der Schwerkraft, die an der Masse des Apfels "zieht". Die internationale Einheit für Masse ist das Kilogramm (kg), das die Masse eines Platin-Iridium-Zylinders ist, der beim Internationalen Büro für Maße und Gewichte in Frankreich aufbewahrt wird. Die Masse aller anderen Objekte wird mit diesem Zylinder verglichen. Zum Beispiel haben ein 2,2-Pfund-Bleigewicht und 1 Liter (L) (1,06 qt) Wasser jeweils eine Masse von ungefähr 1 kg. Ein Objekt mit 1/1000 der Masse eines Kilogramms hat eine Masse von 1 Gramm (g). Elemente und Atome Ein Element ist die einfachste Art von Materie mit einzigartigen chemischen Eigenschaften. Eine Liste der allgemein im menschlichen Körper vorkommenden Elemente findet sich in Tabelle 2.1. Ungefähr 96% des Körpergewichts resultieren aus den Elementen Sauerstoff, Kohlenstoff, Wasserstoff und Stickstoff. Der Großteil des Körpergewichts stammt aus Sauerstoff. Sauerstoff ist auch das häufigste Element in der Erdkruste. Kohlenstoff spielt eine besonders wichtige Rolle in der Chemie des Körpers, teilweise aufgrund seiner Neigung, kovalente Bindungen mit sich selbst und anderen Molekülen zu bilden. Viele Elemente sind nur in Spuren vorhanden, spielen aber dennoch eine wesentliche Rolle im Körper. Elemente können mehrere Rollen haben und in verschiedenen Zuständen im Körper existieren. Zum Beispiel trägt mineralisiertes Kalzium zur festen Matrix von Knochen bei, während gelöstes Kalzium hilft, Enzymaktivitäten und Signalgebung des Nervensystems zu regulieren. Ein Atom (atomos, unteilbar) ist das kleinste Teilchen eines Elements, das die chemischen Eigenschaften dieses Elements aufweist. Ein Element besteht aus Atomen nur einer Art. Zum Beispiel besteht das Element Kohlenstoff nur aus Kohlenstoffatomen und das Element Sauerstoff besteht nur aus Sauerstoffatomen. Ein Element oder ein Atom dieses Elements wird oft durch ein Symbol dargestellt. In der Regel ist das Symbol der erste Buchstabe des Namens des Elements, z. B. C für Kohlenstoff, H für Wasserstoff und
+
+Hydrogen Carbon Nitrogen Oxygen Fluorine Sodium Magnesium Phosphorus Sulfur Chlorine Potassium Calcium Iron Iodine
+
+Wasserstoff-Kohlenstoff-Stickstoff-Sauerstoff-Fluor-Natrium-Magnesium-Phosphor-Schwefel-Chlor-Kalium-Kalzium-Eisen-Jod
+
+Figure 2.1 Modell eines Atoms Der kleine, dichte Kern besteht aus positiv geladenen Protonen und ungeladenen Neutronen. Der größte Teil des Volumens eines Atoms wird von sich schnell bewegenden, negativ geladenen Elektronen besetzt, die sich als Elektronenwolke darstellen lassen. Die wahrscheinliche Position eines Elektrons wird durch die Farbe der Elektronenwolke angezeigt. Je dunkler die Farbe in jedem kleinen Teil der Elektronenwolke ist, desto wahrscheinlicher ist das Elektron dort.
+
+Wasserstoff-, Kohlenstoff- und Sauerstoffatome Innerhalb des Kerns ist die Anzahl der positiv geladenen Protonen (p +) und ungeladenen Neutronen (n0) angegeben. Die negativ geladenen Elektronen (e-) liegen um den Kern herum. Atome sind elektrisch neutral, weil die Anzahl der Protonen und die Anzahl der Elektronen in einem Atom gleich sind.
+
+
+Ca für Kalzium. Gelegentlich wird das Symbol vom lateinischen, griechischen oder arabischen Namen für das Element übernommen, z. B. das Symbol für Natrium ist Na aus dem lateinischen Wort natrium. Atomstruktur Die Eigenschaften der Materie ergeben sich aus der Struktur, Organisation und dem Verhalten der Atome. Atome bestehen aus subatomaren Teilchen, von denen einige eine elektrische Ladung haben. Die drei Haupttypen subatomarer Teilchen sind Neutronen, Protonen und Elektronen (Abbildung 2.1). Ein Neutron hat keine elektrische Ladung, ein Proton hat eine positive Ladung und ein Elektron hat eine negative Ladung. Die positive Ladung eines Protons ist gleich groß wie die negative Ladung eines Elektrons. Die Anzahl der Protonen und die Anzahl der Elektronen in jedem Atom sind gleich und die einzelnen Ladungen löschen sich gegenseitig aus. Daher ist jedes Atom elektrisch neutral. Protonen und Neutronen bilden den Kern in der Mitte eines Atoms, und Elektronen bewegen sich um den Kern (Abbildung 2.1). Der Kern macht 99,97% der Masse eines Atoms aus, aber nur 1 Zehntel Billionstel seines Volumens. Der größte Teil des Volumens eines Atoms ist von den Elektronen besetzt. Da sich Elektronen immer um den Kern herum bewegen, kann die Region, in der sie sich am wahrscheinlichsten befinden, durch eine Elektronenwolke dargestellt werden. Atomzahl und Massenzahl Jedes Element ist eindeutig durch die Anzahl der Protonen in den Atomen dieses Elements definiert. Zum Beispiel haben nur Wasserstoffatome 1 Proton, nur Kohlenstoffatome haben 6 Protonen und nur Sauerstoffatome haben 8 Protonen (Abbildung 2.2; siehe Tabelle 2.1). Die Ordnungszahl eines Elements ist gleich der Anzahl der Protonen in jedem Atom, und da die Anzahl der Elektronen gleich der Anzahl der Protonen ist, ist die Ordnungszahl auch die Anzahl der Elektronen. Es gibt 90 natürlich vorkommende Elemente, aber zusätzliche Elemente wurden durch Änderung der Atomkerne synthetisiert. Weitere Informationen zu den Elementen finden Sie im Periodensystem in Anhang A. Protonen und Neutronen haben etwa die gleiche Masse und sind für den größten Teil der Atome verantwortlich. Elektronen hingegen haben sehr wenig Masse. Die Massenzahl eines Elements ist die Anzahl der Protonen plus die Anzahl der Neutronen in jedem Atom. Zum Beispiel ist die Massenzahl für Kohlenstoff 12, weil sie 6 Protonen und 6 Neutronen hat. Predict 3 Die Atomzahl von Kalium ist 19, und die Massenzahl ist 39. Wie viele Protonen, Neutronen und Elektronen sind in einem Atom Kalium? Isotope und atomare Massenisotope (ī'sō-tōpz) sind zwei oder mehr Formen desselben Elements, die die gleiche Anzahl von Protonen und Elektronen, aber eine unterschiedliche Anzahl von Neutronen aufweisen. Somit haben Isotope die gleiche Ordnungszahl, aber unterschiedliche Massenzahlen. Es gibt drei Wasserstoffisotope: Wasserstoff, Deuterium und Tritium. Alle drei Isotope haben ein Proton und ein Elektron, aber Wasserstoff hat keine Neutronen in seinem Kern, Deuterium hat ein Neutron und Tritium hat zwei Neutronen (Abbildung 2.3). Isotope können mit dem Symbol des Elements bezeichnet werden, dem die Massenzahl (Anzahl der Protonen und Neutronen) des Isotops vorausgeht. Somit ist Wasserstoff 1H, Deuterium ist 2H und Tritium ist 3H. a) Wasserstoff hat 1 Proton und keine Neutronen in seinem Kern. (b) Deuterium hat 1 Proton und 1 Neutron in seinem Kern. (c) Tritium hat 1 Proton und 2 Neutronen in seinem Kern.
+
+Einzelne Atome haben sehr wenig Masse. Ein Wasserstoffatom hat eine Masse von 1,67 × 10-24 g (siehe Anhang B für eine Erläuterung der wissenschaftlichen Notation von Zahlen). Um zu vermeiden, mit so kleinen Zahlen zu arbeiten, verwenden Wissenschaftler ein System der relativen Atommasse. In diesem System ist ein Dalton (Da) oder eine einheitliche atomare Masseneinheit (U) 1/12 der Masse von 12C, ein Kohlenstoffatom mit 6 Protonen und 6 Neutronen. Somit hat 12C eine Atommasse von genau 12 Da. Eine natürlich vorkommende Kohlenstoffprobe enthält jedoch hauptsächlich 12C und eine kleine Menge anderer Kohlenstoffisotope wie 13C, die 6 Protonen und 7 Neutronen enthält. Die Atommasse eines Elements ist die durchschnittliche Masse seiner natürlich vorkommenden Isotope, wobei die relative Häufigkeit jedes Isotops berücksichtigt wird. Zum Beispiel beträgt die Atommasse des Elements Kohlenstoff 12,01 Da (siehe Tabelle 2.1), was aufgrund der zusätzlichen Masse der kleinen Menge anderer Kohlenstoffisotope etwas mehr als 12 Da ist. Da die Atommasse ein Durchschnitt ist, kann eine Kohlenstoffprobe so behandelt werden, als hätten alle Kohlenstoffatome eine Atommasse von 12,01 Da. Die Mole- und Molarenmasse So wie ein Lebensmittelhändler in vielen Dutzend Eier verkauft, gruppiert ein Chemiker Atome in vielen 6.022 × 1023, die Avogadro-Zahl genannt wird, oder 1 Mol (abgekürzt Mol). Anders ausgedrückt, ein Mol einer Substanz enthält Avogadros Anzahl von Einheiten, wie Atome, Ionen oder Moleküle. Die Masse von 1 Mol einer Substanz, ausgedrückt in Gramm, wird als Molmasse bezeichnet. Molare Masse ist ein bequemer Weg, um die Anzahl der Atome in einer Probe eines Elements zu bestimmen. Da 12 g von 12C als Standard verwendet wird, ist die atomare Masse einer Einheit, die in einheitlichen atomaren Masseneinheiten ausgedrückt ist, dieselbe wie die molare Masse, ausgedrückt in Gramm. Somit haben Kohlenstoffatome eine Atommasse von 12,01 Da und 12,01 g Kohlenstoff haben eine Avogadro-Zahl (1 Mol) von Kohlenstoffatomen. Aus dem gleichen Grund haben 1,008 g Wasserstoff (1 Mol) die gleiche Anzahl an Atomen wie 12,01 g Kohlenstoff (1 Mol). ASeSSS YOu PROGRESS 1. Defne Angelegenheit. Wie unterscheiden sich Masse und Gewicht eines Objekts? 2. Differenzieren zwischen Element und Atom. Welche vier Elemente sind in der größten Fülle im menschlichen Körper gefunden? 3. Geben Sie für jedes subatomare Teilchen eines Atoms seine Ladung und Position an. Welche Region eines Atoms ist am stärksten für die Masse des Atoms verantwortlich? Sein Volumen? 4. Welches subatomare Teilchen bestimmt die Ordnungszahl? Was bestimmt die Massenzahl? 5. Was ist ein Isotop? Wie werden Isotope bezeichnet? 6. Was ist Avogadros Nummer? Wie steht es mit einem Mol und einer Molmasse? Elektronen und chemische Bindung Die äußersten Elektronen eines Atoms bestimmen sein chemisches Verhalten. Wenn diese äußersten Elektronen zwischen Atomen übertragen oder geteilt werden, tritt eine chemische Bindung auf. Zwei Haupttypen chemischer Bindungen sind ionische und kovalente Bindungen. Ionenbindungen Bedenken Sie, dass ein Atom elektrisch neutral ist, da es eine gleiche Anzahl von Protonen und Elektronen aufweist. Ein Atom kann jedoch Elektronen an andere Atome abgeben oder abgeben. Wenn dies geschieht, ist die Anzahl der Protonen und Elektronen nicht mehr gleich, und ein geladenes Teilchen, Ion genannt ("on"), wird gebildet. Nachdem ein Atom ein Elektron verliert, hat es ein weiteres Proton als es Elektronen hat und ist positiv geladen. Ein Natriumatom (Na) kann ein Elektron verlieren, um ein positiv geladenes Natriumion (Na +) zu werden (Abbildung 2.4a). Nachdem ein Atom ein Elektron gewonnen hat, hat es ein Elektron mehr als Protonen und ist negativ geladen. Ein Chloratom (Cl) kann ein Elektron aufnehmen, um ein negativ geladenes Chloridion (Cl-) zu werden.
+
+
+
+
+_____________________
+
+
+
+Chapter One
+l. a; 2. b; 3. a; 4. c; 5. e; 6. a; 7. b; 8. c; 9. d; 10. c;
+11. d; 12. a; 13. b; 14. b; 15. a; 16. c; 17. b; 18. a;
+19. e
+Chapter Two
+l. e; 2. b; 3. b; 4. a; 5. d; 6. b; 7. e; 8. c; 9. e; 10. c;
+11. d; 12. b; 13. c; 14. c; 15. d; 16. c; 17. d; 18. e;
+19. b; 20. d; 21. b; 22. c; 23. d; 24. a; 25. e
+Chapter Three
+l. a; 2. e; 3. c; 4. e; 5. c; 6. e; 7. b; 8. a; 9. a; 10. d;
+11. d; 12. b; 13. b; 14. c; 15. c; 16. c; 17. b; 18. e; 19. c;
+20. a; 21. d; 22. c
+Chapter Four
+l. e; 2. c; 3. a; 4. b; 5. d; 6. c; 7. d; 8. b; 9. a; 10. b;
+11. e; 12. a; 13. d; 14. b; 15. b; 16. d; 17. d; 18. a;
+19. e; 20. b; 21. c; 22. c; 23. b; 24. c; 25. b; 26. d
+Chapter Five
+l. d; 2. e; 3. b; 4. a; 5. c; 6. d; 7. c; 8. d; 9. b; 10. a;
+11. b; 12. b; 13. c; 14. c; 15. d; 16. b; 17. c; 18. b;
+19. a; 20. b; 21. d; 22. c; 23. d; 24. c
+Chapter Six
+l. e; 2. d; 3. a; 4. b; 5. d; 6. c; 7. a; 8. b; 9. e; 10. c;
+11. d; 12. d; 13. c; 14. b; 15. c; 16. e; 17. d; 18. a;
+19. b; 20. c; 21. a; 22. e; 23. c; 24. e; 25. d
+Chapter Seven
+l. c; 2. c; 3. c; 4. d; 5. c; 6. a; 7. d; 8. a; 9. b; 10. a;
+11. c; 12. a; 13. a; 14. d; 15. e; 16. b; 17. a; 18. c;
+19. b; 20. c; 21. a
+Chapter Eight
+l. d; 2. d; 3. c; 4. d; 5. b; 6. e; 7. d; 8. c; 9. d; 10. e;
+11. a; 12. b; 13. c; 14. d; 15. b; 16. b; 17. a; 18. c; 19. c
+Chapter Nine
+l. c; 2. e; 3. d; 4. c; 5. e; 6. b; 7. a; 8. b; 9. d; 10. b;
+11. d; 12. c; 13. e; 14. d; 15. c; 16. c; 17. a; 18. b;
+19. d; 20. a; 21. d; 22. c; 23. c; 24. c; 25. a
+Chapter Ten
+l. d; 2. b; 3. b; 4. c; 5. c; 6. d; 7. b; 8. c; 9. a; 10. a;
+11. d; 12. a; 13. b; 14. d; 15. b; 16. d; 17. a; 18. c;
+19. a; 20. e; 21. c; 22. b; 23. b; 24. d
+
+Chapter Eleven
+l. b; 2. c; 3. c; 4. b; 5. c; 6. a; 7. b; 8. d; 9. a; 10. c;
+11. b; 12. a; 13. a; 14. b; 15. d; 16. c; 17. e; 18. b;
+19. d; 20. d; 21. b; 22. b; 23. e; 24. e; 25. e; 26. a
+Chapter Twelve
+l. d; 2. c; 3. c; 4. b; 5. b; 6. d; 7. c; 8. c; 9. c; 10. d;
+11. d; 12. c; 13. e; 14. c; 15. d
+Chapter Thirteen
+l. a; 2. c; 3. b; 4. e; 5. d; 6. b; 7. b; 8. b; 9. a; 10. e;
+11. d; 12. d; 13. a; 14. c; 15. d; 16. b; 17. b; 18. a;
+19. d; 20. b; 21. b; 22. e; 23. b; 24. c; 25. c; 26. b
+Chapter Fourteen
+l. c; 2. d; 3. e; 4. c; 5. a; 6. d; 7. b; 8. e; 9. a; 10. b;
+11. b; 12. e; 13. c; 14. c; 15. b; 16. d; 17. a; 18. b;
+19. b; 20. d; 21. b; 22. b; 23. d; 24. e; 25. d; 26. b;
+27. b; 28. d; 29. e; 30. c
+Chapter Fifteen
+l. e; 2. c; 3. a; 4. b; 5. b; 6. a; 7. c; 8. d; 9. c; 10. d;
+11. c; 12. c; 13. a; 14. d; 15. c; 16. d; 17. a; 18. d;
+19. c; 20. a; 21. a; 22. b; 23. d; 24. a; 25. c
+Chapter Sixteen
+l. e; 2. d; 3. a; 4. e; 5. b; 6. d; 7. e; 8. d; 9. d; 10. d;
+11. c; 12. a; 13. c; 14. e; 15. d; 16. c; 17. e
+Chapter Seventeen
+l. c; 2. b; 3. e; 4. d; 5. b; 6. a; 7. e; 8. b; 9. a; 10. e;
+11. e; 12. e; 13. d; 14. c; 15. a; 16. c
+Chapter Eighteen
+l. e; 2. d; 3. e; 4. a; 5. c; 6. b; 7. b; 8. e; 9. c; 10. d;
+11. e; 12. b; 13. c; 14. a; 15. a; 16. d; 17. c; 18. d;
+19. e; 20. e; 21. b; 22. d; 23. a; 24. a; 25. b; 26. e;
+27. c; 28. c; 29. e; 30. d
+Chapter Nineteen
+1. e; 2. c; 3. a; 4. d; 5. a; 6. d; 7. c; 8. d; 9. b; 10. a;
+11. c; 12. b; 13. e; 14. e; 15. b; 16. a; 17. a; 18. d;
+19. d; 20. c; 21. c
+Chapter Twenty
+1. e; 2. c; 3. a; 4. b; 5. c; 6. e; 7. a; 8. c; 9. d; 10. a;
+11. b; 12. a; 13. a; 14. e; 15. b; 16. c; 17. d; 18. a;
+19. a; 20. d; 21. c; 22. c; 23. c; 24. e; 25. c
+
+Chapter Twenty-One
+1. b; 2. a; 3. a; 4. d; 5. d; 6. c; 7. d; 8. a; 9. a; 10. d;
+11. e; 12. c; 13. a; 14. b; 15. b; 16. a; 17. e; 18. d;
+19. b; 20. b; 21. d; 22. d; 23. c; 24. b; 25. e
+Chapter Twenty-Two
+1. d; 2. b; 3. e; 4. e; 5. d; 6. b; 7. e; 8. b; 9. a; 10. d;
+11. d; 12. d; 13. b; 14. e; 15. e; 16. a; 17. d; 18. c;
+19. a; 20. b; 21. c; 22. a; 23. d; 24. d; 25. d
+Chapter Twenty-Three
+1. a; 2. e; 3. d; 4. c; 5. d; 6. b; 7. c; 8. b; 9. d; 10. a;
+11. d; 12. c; 13. c; 14. c; 15. d; 16. b; 17. c; 18. b;
+19. c; 20. a; 21. c
+Chapter Twenty-Four
+1. a; 2. d; 3. d; 4. a; 5. b; 6. a; 7. b; 8. a; 9. c; 10. d;
+11. c; 12. e; 13. d; 14. d; 15. e; 16. b; 17. b; 18. a;
+19. e; 20. e; 21. e; 22. a; 23. c; 24. a
+Chapter Twenty-Five
+1. d; 2. a; 3. e; 4. b; 5. d; 6. e; 7. e; 8. b; 9. d; 10. d;
+11. a; 12. e; 13. c; 14. a; 15. b; 16. c
+Chapter Twenty-Six
+1. d; 2. b; 3. c; 4. e; 5. b; 6. b; 7. e; 8. a; 9. b; 10. b;
+11. a; 12. a; 13. a; 14. c; 15. d; 16. c; 17. b; 18. e;
+19. d; 20. a; 21. d; 22. e; 23. d; 24. c; 25. c; 26. d
+Chapter Twenty-Seven
+1. a; 2. b; 3. c; 4. d; 5. a; 6. a; 7. b; 8. a; 9. b; 10. d;
+11. b; 12. a; 13. a; 14. c; 15. c; 16. d
+Chapter Twenty-Eight
+1. e; 2. a; 3. a; 4. b; 5. d; 6. e; 7. b; 8. d; 9. c; 10. b;
+11. c; 12. a; 13. e; 14. b; 15. c; 16. c; 17. b; 18. a;
+19. c; 20. a; 21. c; 22. e; 23. e; 24. c; 25. d; 26. c; 27. a
+Chapter Twenty-Nine
+1. b; 2. e; 3. a; 4. a; 5. d; 6. a; 7. c; 8. b; 9. c; 10. a;
+11. a; 12. e; 13. d; 14. c; 15. c; 16. e; 17. a; 18. b;
+19. a; 20. c; 21. d; 22. c; 23. b; 24. c; 25. c
 

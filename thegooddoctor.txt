@@ -584,6 +584,7 @@ knötchen=nodule 03:11
 Heiserkeit=hoarseness 03:14 
 aufgesetzter kichern=false laugh 06:23
 https://de.wikipedia.org/wiki/Tinea_corporis Ringelflechte=ringworm 06:44
+https://de.wikipedia.org/wiki/Schuppenflechte psoriasis 06:44
 an der Spüle=at the sink 07:02
 verlegt=misplaced 07:22
 hemmend=inhibitory 07:52
@@ -591,7 +592,7 @@ https://de.wikipedia.org/wiki/Kardiomyopathie 07:54
 https://de.wikipedia.org/wiki/Betablocker 08:14
 https://de.wikipedia.org/wiki/Metoprolol 08:15
 Kehlkopf=larynx 11.39
-bildungsplan=education plan 11:54
+Bildungsplan=education plan 11:54
 taub=deaf 12:08
 worauf willst du hinaus=what are you after? 12:29
 trübe=cloudy 13:05
@@ -615,7 +616,7 @@ abgefunden=resigned 22:04
 vernachlässigen=neglect 23:35
 beigebracht=taught 24:25
 eindeutig=clearly 24:46
-https://en.wikipedia.org/wiki/Septal_myectomy septummyectomie 26:50
+https://en.wikipedia.org/wiki/Septal_myectomy Septummyectomie 26:50
 Abfluss=outflow 33:24
 gluck-sorenson laryngektomie 34:08
 https://de.wikipedia.org/wiki/Cefotaxim 34:13
@@ -667,7 +668,6 @@ nach Ihren Maßstäben=according to your standards 27:59
 feindselig=hostile 29:21
 abgestempelt=labeled 29:22
 übertreiben=exaggerate 29:44
-beurteilen=judge 30:07
 https://de.wikipedia.org/wiki/Nucleus_ruber 30:34
 Hochachtung=esteem 33:08
 https://de.wikipedia.org/wiki/Ventrikul%C3%A4re_Tachykardie 34:53
@@ -700,9 +700,9 @@ versetzen sie sich in meine Lage=put yourself in my position 14:13
 belästigt=molested 14:18
 durchgemacht=undergo 14:24
 neben=next 17:46
-abstossung=rejection
+Abstossung=rejection
 ablenken=distract 19:00
-klingel=bell 22:27
+Klingel=bell 22:27
 deren Entscheidung=their decision 23:02
 gelingt=succeed 23:57
 zach=quick 25:56
@@ -811,10 +811,11 @@ https://de.wikipedia.org/wiki/Calciumantagonist  Calciumkanalblocker  28:47
 https://de.wikipedia.org/wiki/Entz%C3%BCndung 29:43
 https://de.wikipedia.org/wiki/Methylprednisolon 32:45
 das nehme ich auf meine Kappe=I will take full responsibility, I take the blame 32:50
-
+https://de.wikipedia.org/wiki/Methylprednisolon 33:02
 
 E14
 anzapfen=tap  00:37
+Wettstreit=Wettbewerb=contest 01:21
 Einsatz=commitment 02:15
 verreist=out of town 02:47
 abgesehen davon=apart from this 03:35
