@@ -829,7 +829,7 @@ https://de.wikipedia.org/wiki/Prednison 04:30
 https://de.wikipedia.org/wiki/Ciprofloxacin CIPRO 04:35
 https://de.wikipedia.org/wiki/Ultraschall 05:09
 https://de.wikipedia.org/wiki/Luteinisierendes_Hormon LH test 05:18
-https://de.wikipedia.org/wiki/Follikelstimulierendes_Hormon 05:18
+https://de.wikipedia.org/wiki/Follikelstimulierendes_Hormon FSH 05:18
 https://de.wikipedia.org/wiki/Estradiol 05:21
 https://de.wikipedia.org/wiki/Anti-M%C3%BCller-Hormon AMH 05:21
 https://de.wikipedia.org/wiki/Intrauterine_Insemination IUI 05:36
@@ -847,7 +847,7 @@ https://de.wikipedia.org/wiki/Osteopenie 09:52
 https://de.wikipedia.org/wiki/Mikrolithiasis 10:09
 https://de.wikipedia.org/wiki/Mumps 10:09
 https://de.wikipedia.org/wiki/Hypospadie 10:11
-intraepitheliale neoplasie 10:11
+intraepitheliale Neoplasie 10:11
 https://de.wikipedia.org/wiki/Leistenbruch Leistenhernie  10:14
 https://de.wikipedia.org/wiki/Leuprorelin 10:30
 https://en.wikipedia.org/wiki/Histrelin  10:30
@@ -874,15 +874,17 @@ beidseitige=both sides 22:55
 Ausweglos=hopeless 23:35
 überweise=transfer 23:40
 Kacke=shit 24:32
-https://de.wikipedia.org/wiki/Stuhltransplantation  Mikrobiomtransfer 24:40
+https://de.wikipedia.org/wiki/Stuhltransplantation  FMT Mikrobiomtransfer 24:40
 unterbreiten=present 24:57
 durchgemacht=undergone 25:29
+https://de.wikipedia.org/wiki/Megakolon 27:15
 erwartungsgemäß=as expected 28:19
 gemobbt=bullied 28:41
 treiben=float 29:03
 https://de.wikipedia.org/wiki/Epididymitis 31:14
 https://de.wikipedia.org/wiki/Nierenstein 31:14
 https://de.wikipedia.org/wiki/Leistenbruch 31:14
+https://de.wikipedia.org/wiki/Hodentorsion 31:28
 https://de.wikipedia.org/wiki/Samenstrang 31:48
 https://de.wikipedia.org/wiki/Lymphadenopathie 32:25
 https://de.wikipedia.org/wiki/Gastrointestinaler_Stromatumor 32:31
@@ -890,6 +892,8 @@ https://de.wikipedia.org/wiki/Tachykardie 32:38
 https://de.wikipedia.org/wiki/Arterielle_Hypotonie Hypotension 32:40
 Leck=leak 33:02
 auskurieren=cure 33:07
+Abhandlung=treatise 33:21
+https://de.wikipedia.org/wiki/Grey-Turner-Zeichen 34:04
 untertreibung=understatement 34:48
 das lag an mir=that was up to me 36:25
 https://de.wikipedia.org/wiki/Endokrinologie 37:14
@@ -910,7 +914,7 @@ Spätzünder=late starter 01:55
 https://de.wikipedia.org/wiki/Herzektopie 03:11
 Menschenmenge=crowd 03:56
 Ausrede=excuse 05:57
-schlamper=untidy person 09:29
+Schlamper=untidy person 09:29
 zerknittert=creased 09:32
 abstoßung=rejection 09:49
 Haken=catch 10:15
@@ -925,6 +929,7 @@ geschubst=pushed 12:33
 geboxt=punched 12:40
 Handschellen=handcuffs 13:14
 gefesselt=bound 13:14
+Gardinenstangen=curtain rods 13:22
 öse=loop 13:27
 voreingenommen=biased 16:22
 vorbildlich=exemplary 18:54
@@ -991,6 +996,7 @@ angepiepst=paged 18:28
 falsche vorwand=false pretense 18:34
 kirmes=rummel=funfair 24:48
 vorbestraft=previously convicted 24:58
+strafminderung=reduction on punishment
 https://de.wikipedia.org/wiki/Oxycodon 26:15
 Flügel (SING) Flügel (PLUR)=wings 26:58
 Zahnseide=dental floss 27:01
