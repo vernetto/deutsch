@@ -622,6 +622,8 @@ Einzelne Atome haben sehr wenig Masse. Ein Wasserstoffatom hat eine Masse von 1,
 
 Positiv geladene Ionen werden Kationen (kat'ī-onz) genannt, und negativ geladene Ionen werden Anionen (an'-onz) genannt. Da entgegengesetzt geladene Ionen zueinander hingezogen werden, bleiben Kationen und Anionen nahe beieinander und bilden eine ionische (ī-on'ik) -Bindung. Zum Beispiel werden Na + und Cl- durch Ionenbindung zusammengehalten, um eine Reihe von Ionen zu bilden, die Natriumchlorid (NaCl) oder Tafelsalz genannt werden (Abbildung 2.4b, c). Einige häufig im Körper vorkommende Ionen sind in Tabelle 2.2 aufgeführt. Kovalente Bindungen Eine kovalente Bindung entsteht, wenn Atome ein oder mehrere Elektronenpaare teilen. Die resultierende Kombination von Atomen wird Molekül genannt. Ein Beispiel ist die kovalente Bindung zwischen zwei Wasserstoffatomen, um ein Wasserstoffmolekül zu bilden (Abbildung 2.5). Jedes Wasserstoffatom hat 1 Elektron. Wenn die beiden Wasserstoffatome näher zusammenrücken, beginnt der positiv geladene Kern jedes Atoms, das Elektron des anderen Atoms anzuziehen. In einem optimalen Abstand ziehen die 2 Kerne gegenseitig die 2 Elektronen an, und jedes Elektron wird von beiden Kernen geteilt. Die beiden Wasserstoffatome werden nun durch eine kovalente Bindung zusammengehalten. Die Teilung eines Elektronenpaars um zwei Atome führt zu einer einzigen kovalenten Bindung. Eine einzelne Linie zwischen den Symbolen der beteiligten Atome (z. B. H-H) repräsentiert eine einzelne kovalente Bindung. Eine doppelte kovalente Bindung entsteht, wenn zwei Atome 4 Elektronen teilen, 2 von jedem Atom. Wenn sich ein Kohlenstoffatom mit zwei Sauerstoffatomen zu Kohlendioxid verbindet, bilden sich zwei kovalente Doppelbindungen. Doppelte kovalente Bindungen sind durch eine doppelte Linie zwischen den Atomen (O C O) gekennzeichnet. Zwischen den beiden Wasserstoffatomen besteht keine Wechselwirkung, da sie zu weit voneinander entfernt sind. Der positiv geladene Kern jedes Wasserstoffatoms beginnt, das Elektron des anderen anzulocken. Eine kovalente Bindung wird gebildet, wenn die Elektronen zwischen den Kernen geteilt werden, da die Elektronen von jedem Kern gleich angezogen werden. Wenn Elektronen wie in einem Wasserstoffmolekül gleichmäßig zwischen Atomen verteilt sind, werden die Bindungen als unpolare kovalente Bindungen bezeichnet. Atome, die durch eine kovalente Bindung aneinander gebunden sind, teilen ihre Elektronen nicht immer gleich, weil der Kern eines Atoms die Elektronen stärker anzieht als der Atomkern des anderen Atoms. Bindungen dieses Typs werden als polare kovalente Bindungen bezeichnet und sind sowohl in der lebenden als auch in der nicht lebenden Materie üblich. Polare kovalente Bindungen können zu polaren Molekülen führen, die elektrisch asymmetrisch sind. Zum Beispiel ziehen Sauerstoffatome Elektronen stärker an als Wasserstoffatome. Wenn kovalente Bindungen zwischen einem Sauerstoffatom und zwei Wasserstoffatomen ein Wassermolekül bilden, liegen die Elektronen näher am Sauerstoffkern als an den Wasserstoffkernen. Da Elektronen negativ geladen sind, ist die Sauerstoffseite des Moleküls etwas negativer als die Wasserstoffseite (Abbildung 2.6). Moleküle und Verbindungen Ein Molekül besteht aus zwei oder mehr Atomen, die chemisch zu einer Struktur kombiniert sind, die sich als unabhängige Einheit verhält. Manchmal sind die Atome, die sich verbinden, vom gleichen Typ, wie zwei Wasserstoffatome, die sich verbinden, um ein Wasserstoffmolekül zu bilden. Typischerweise besteht ein Molekül jedoch aus zwei oder mehr verschiedenen Arten von Atomen, wie etwa zwei Wasserstoffatomen und einem Sauerstoffatom, die sich unter Bildung von Wasser verbinden. Ein Glas Wasser besteht also aus einer Ansammlung einzelner Wassermoleküle, die nebeneinander angeordnet sind.
 
+
+
 Calcium Ca2 + Teil von Knochen und Zähnen; Funktionen in der Blutgerinnung, Muskelkontraktion, Freisetzung von Neurotransmittern
 Natrium Na + Membranpotentiale, Wasserhaushalt
 Kalium K + Membranpotentiale
@@ -636,123 +638,9 @@ Magnesium Mg2 + Notwendig für Enzyme
 Iodid I - Gegenwart in Schilddrüsenhormonen
 * Die Ionen sind Teil der Strukturen oder spielen eine wichtige Rolle in den aufgelisteten Prozessen.
 
+Figure 2.6 Polarkovalente Bindungen (a) Ein Wassermolekül entsteht, wenn zwei Wasserstoffatome kovalente Bindungen mit einem Sauerstoffatom eingehen. (b) Die Wasserstoffatome und Sauerstoffatome teilen Elektronenpaare (angezeigt durch die schwarzen Punkte), aber das Teilen ist ungleich. Der gestrichelte Umriss zeigt die erwartete Position der Elektronenwolke, wenn die Elektronen gleichmäßig geteilt werden. Aber die eigentliche Elektronenwolke (gelb) ist zum Sauerstoff hin verschoben. Folglich hat die Sauerstoffseite des Moleküls eine leicht negative Ladung (angezeigt durch δ-), und die Wasserstoffseite des Moleküls hat eine leicht positive Ladung (angezeigt durch δ +). Eine Verbindung ist eine Substanz, die aus der chemischen Kombination von zwei oder mehr verschiedenen Arten von Atomen resultiert. Wasser ist ein Molekül, das auch eine Verbindung ist, weil es eine Kombination aus zwei verschiedenen Atomen, Wasserstoff und Sauerstoff ist. Aber nicht alle Moleküle sind Verbindungen. Zum Beispiel ist ein Wasserstoffmolekül keine Verbindung, weil es nicht aus verschiedenen Arten von Atomen besteht. Einige Verbindungen sind Moleküle und andere nicht. (Denken Sie daran, dass eine Struktur eine unabhängige Einheit sein muss, um ein Molekül zu sein.) Kovalente Verbindungen, in denen verschiedene Arten von Atomen durch kovalente Bindungen zusammengehalten werden, sind Moleküle, weil die gemeinsame Nutzung von Elektronen zu unterschiedlichen Einheiten führt. Auf der anderen Seite sind ionische Verbindungen, in denen Ionen durch die Anziehungskraft zwischen entgegengesetzten Ladungen zusammengehalten werden, keine Moleküle, da sie nicht aus verschiedenen Einheiten bestehen. Kochsalz (NaCl) ist ein Beispiel für eine Substanz, die eine Verbindung, aber kein Molekül ist. Ein Stück NaCl besteht nicht aus einzelnen Natriumchloridmolekülen, die nebeneinander angeordnet sind. Stattdessen ist NaCl eine organisierte Anordnung von einzelnen Na + und individuellen Cl-, in denen jedes geladene Ion von mehreren Ionen der entgegengesetzten Ladung umgeben ist (siehe Abbildung 2.4b).
 
-_____________________
+Protonen, Neutronen und Elektronen sind für die chemischen Eigenschaften von Atomen verantwortlich. Sie haben auch andere Eigenschaften, die in einer klinischen Umgebung nützlich sein können. Zum Beispiel wurden sie verwendet, um Methoden zur Untersuchung des Inneren des Körpers zu entwickeln. Gesundheitsfachkräfte und Forscher verwenden häufig radioaktive Isotope, da empfindliche Messgeräte ihre Radioaktivität selbst dann nachweisen können, wenn sie in sehr geringen Mengen vorhanden sind. Radioaktive Isotope haben instabile Kerne, die sich spontan zu stabileren Kernen verändern. Als Ergebnis werden entweder neue Isotope oder neue Elemente erzeugt. Bei diesem Prozess des Atomwechsels emittieren die Atomkerne radioaktiver Isotope Alphateilchen, Betateilchen und Gammastrahlen. Alpha (α) -Partikel sind positiv geladene Heliumionen (He2 +), die aus 2 Protonen und 2 Neutronen bestehen. Beta (& beta;) - Teilchen sind Elektronen, die gebildet werden, wenn Neutronen in Protonen umgewandelt werden. Ein Elektron wird aus dem Neutron ausgestoßen, und das erzeugte Proton verbleibt im Kern. Gamma (γ) -Strahlen sind eine Form von elektromagnetischer Strahlung (hochenergetische Photonen), die von Kernen freigesetzt werden, wenn sie Energie verlieren. Alle Isotope eines Elements haben die gleiche Ordnungszahl und ihr chemisches Verhalten ist sehr ähnlich. Zum Beispiel kann 3H (Tritium) 1H (Wasserstoff) ersetzen, und entweder 125 Iod oder 131 Iod kann 126 Iod in chemischen Reaktionen ersetzen. Einige Verfahren, die zur Bestimmung der Konzentration von Substanzen, wie Hormonen, verwendet werden, hängen von der Aufnahme kleiner Mengen radioaktiver Isotope wie 125 Iodin in die zu messenden Substanzen ab. Mit diesen Verfahren können Ärzte Störungen der Schilddrüse, der Nebenniere und der Fortpflanzungsorgane genauer diagnostizieren. Radioaktive Isotope werden auch zur Behandlung von Krebs verwendet. Einige der von Isotopen freigesetzten Partikel haben einen sehr hohen Energiegehalt und können Gewebe durchdringen und zerstören. Schnell wachsende Gewebe, wie Tumore, sind empfindlicher gegenüber Strahlung als gesunde Zellen. Somit können radioaktive Isotope verwendet werden, um Tumore zu zerstören. Medizinische Einrichtungen verwenden auch Strahlung, um Materialien zu sterilisieren, die keinen hohen Temperaturen ausgesetzt sein können (z. B. einige Gewebe- und Kunststoffgegenstände, die während chirurgischer Eingriffe verwendet werden). Zusätzlich können radioaktive Emissionen verwendet werden, um Nahrungsmittel und andere Gegenstände zu sterilisieren. Röntgenstrahlen sind elektromagnetische Strahlungen mit einer viel kürzeren Wellenlänge als sichtbares Licht. Wenn elektrischer Strom verwendet wird, um ein Filament auf sehr hohe Temperaturen zu erhitzen, wird die Energie der Elektronen so groß, dass einige Elektronen von dem heißen Filament emittiert werden. Wenn diese Elektronen bei hohen Geschwindigkeiten auf eine positive Elektrode treffen, setzen sie einen Teil ihrer Energie in Form von Röntgenstrahlen frei. Röntgenstrahlen dringen nicht so leicht in dichtes Material ein, wie sie weniger dichtes Material durchdringen, und Röntgenstrahlen können photographischen Film belichten. Folglich kann ein Röntgenstrahl durch eine Person und auf einen fotografischen Film gelangen. Dichte Körpergewebe absorbieren die Röntgenstrahlen; auf dem Film sind diese Bereiche unterbelichtet und erscheinen daher weiß oder hell in der Farbe. Im Gegensatz dazu passieren die Röntgenstrahlen leicht weniger dichtes Gewebe, so dass der Film in diesen Bereichen überbelichtet ist und sie schwarz oder dunkel in der Farbe erscheinen. In einem Röntgenfilm des Skelettsystems sind die dichten Knochen weiß und die weniger dichten Weichteile sind dunkel, oft so dunkel, dass keine Details zu sehen sind. Gesundheitsexperten verwenden Röntgenstrahlen, um festzustellen, ob Knochen gebrochen sind oder andere Anomalien aufweisen. Weichteile können mit Röntgenstrahlen mit niedriger Energie fotografiert werden. Mammogramme sind energiearme Röntgenbilder der Brust, die Tumore sichtbar machen können, da Tumore etwas dichter sind als normales Gewebe. Röntgenopake Substanzen sind dichte Materialien, die Röntgenstrahlen absorbieren. Wenn einem Patienten eine strahlungsundurchlässige Flüssigkeit verabreicht wird, nimmt die Flüssigkeit die Form des Organs an, in das sie eingebracht wird. Wenn beispielsweise ein Patient eine Bariumlösung schluckt, kann der Umriß des oberen Verdauungstrakts unter Verwendung von Röntgenstrahlen fotografiert werden, um eine Anomalie wie etwa ein Geschwür festzustellen.
 
-
-
-Chapter One
-l. a; 2. b; 3. a; 4. c; 5. e; 6. a; 7. b; 8. c; 9. d; 10. c;
-11. d; 12. a; 13. b; 14. b; 15. a; 16. c; 17. b; 18. a;
-19. e
-Chapter Two
-l. e; 2. b; 3. b; 4. a; 5. d; 6. b; 7. e; 8. c; 9. e; 10. c;
-11. d; 12. b; 13. c; 14. c; 15. d; 16. c; 17. d; 18. e;
-19. b; 20. d; 21. b; 22. c; 23. d; 24. a; 25. e
-Chapter Three
-l. a; 2. e; 3. c; 4. e; 5. c; 6. e; 7. b; 8. a; 9. a; 10. d;
-11. d; 12. b; 13. b; 14. c; 15. c; 16. c; 17. b; 18. e; 19. c;
-20. a; 21. d; 22. c
-Chapter Four
-l. e; 2. c; 3. a; 4. b; 5. d; 6. c; 7. d; 8. b; 9. a; 10. b;
-11. e; 12. a; 13. d; 14. b; 15. b; 16. d; 17. d; 18. a;
-19. e; 20. b; 21. c; 22. c; 23. b; 24. c; 25. b; 26. d
-Chapter Five
-l. d; 2. e; 3. b; 4. a; 5. c; 6. d; 7. c; 8. d; 9. b; 10. a;
-11. b; 12. b; 13. c; 14. c; 15. d; 16. b; 17. c; 18. b;
-19. a; 20. b; 21. d; 22. c; 23. d; 24. c
-Chapter Six
-l. e; 2. d; 3. a; 4. b; 5. d; 6. c; 7. a; 8. b; 9. e; 10. c;
-11. d; 12. d; 13. c; 14. b; 15. c; 16. e; 17. d; 18. a;
-19. b; 20. c; 21. a; 22. e; 23. c; 24. e; 25. d
-Chapter Seven
-l. c; 2. c; 3. c; 4. d; 5. c; 6. a; 7. d; 8. a; 9. b; 10. a;
-11. c; 12. a; 13. a; 14. d; 15. e; 16. b; 17. a; 18. c;
-19. b; 20. c; 21. a
-Chapter Eight
-l. d; 2. d; 3. c; 4. d; 5. b; 6. e; 7. d; 8. c; 9. d; 10. e;
-11. a; 12. b; 13. c; 14. d; 15. b; 16. b; 17. a; 18. c; 19. c
-Chapter Nine
-l. c; 2. e; 3. d; 4. c; 5. e; 6. b; 7. a; 8. b; 9. d; 10. b;
-11. d; 12. c; 13. e; 14. d; 15. c; 16. c; 17. a; 18. b;
-19. d; 20. a; 21. d; 22. c; 23. c; 24. c; 25. a
-Chapter Ten
-l. d; 2. b; 3. b; 4. c; 5. c; 6. d; 7. b; 8. c; 9. a; 10. a;
-11. d; 12. a; 13. b; 14. d; 15. b; 16. d; 17. a; 18. c;
-19. a; 20. e; 21. c; 22. b; 23. b; 24. d
-
-Chapter Eleven
-l. b; 2. c; 3. c; 4. b; 5. c; 6. a; 7. b; 8. d; 9. a; 10. c;
-11. b; 12. a; 13. a; 14. b; 15. d; 16. c; 17. e; 18. b;
-19. d; 20. d; 21. b; 22. b; 23. e; 24. e; 25. e; 26. a
-Chapter Twelve
-l. d; 2. c; 3. c; 4. b; 5. b; 6. d; 7. c; 8. c; 9. c; 10. d;
-11. d; 12. c; 13. e; 14. c; 15. d
-Chapter Thirteen
-l. a; 2. c; 3. b; 4. e; 5. d; 6. b; 7. b; 8. b; 9. a; 10. e;
-11. d; 12. d; 13. a; 14. c; 15. d; 16. b; 17. b; 18. a;
-19. d; 20. b; 21. b; 22. e; 23. b; 24. c; 25. c; 26. b
-Chapter Fourteen
-l. c; 2. d; 3. e; 4. c; 5. a; 6. d; 7. b; 8. e; 9. a; 10. b;
-11. b; 12. e; 13. c; 14. c; 15. b; 16. d; 17. a; 18. b;
-19. b; 20. d; 21. b; 22. b; 23. d; 24. e; 25. d; 26. b;
-27. b; 28. d; 29. e; 30. c
-Chapter Fifteen
-l. e; 2. c; 3. a; 4. b; 5. b; 6. a; 7. c; 8. d; 9. c; 10. d;
-11. c; 12. c; 13. a; 14. d; 15. c; 16. d; 17. a; 18. d;
-19. c; 20. a; 21. a; 22. b; 23. d; 24. a; 25. c
-Chapter Sixteen
-l. e; 2. d; 3. a; 4. e; 5. b; 6. d; 7. e; 8. d; 9. d; 10. d;
-11. c; 12. a; 13. c; 14. e; 15. d; 16. c; 17. e
-Chapter Seventeen
-l. c; 2. b; 3. e; 4. d; 5. b; 6. a; 7. e; 8. b; 9. a; 10. e;
-11. e; 12. e; 13. d; 14. c; 15. a; 16. c
-Chapter Eighteen
-l. e; 2. d; 3. e; 4. a; 5. c; 6. b; 7. b; 8. e; 9. c; 10. d;
-11. e; 12. b; 13. c; 14. a; 15. a; 16. d; 17. c; 18. d;
-19. e; 20. e; 21. b; 22. d; 23. a; 24. a; 25. b; 26. e;
-27. c; 28. c; 29. e; 30. d
-Chapter Nineteen
-1. e; 2. c; 3. a; 4. d; 5. a; 6. d; 7. c; 8. d; 9. b; 10. a;
-11. c; 12. b; 13. e; 14. e; 15. b; 16. a; 17. a; 18. d;
-19. d; 20. c; 21. c
-Chapter Twenty
-1. e; 2. c; 3. a; 4. b; 5. c; 6. e; 7. a; 8. c; 9. d; 10. a;
-11. b; 12. a; 13. a; 14. e; 15. b; 16. c; 17. d; 18. a;
-19. a; 20. d; 21. c; 22. c; 23. c; 24. e; 25. c
-
-Chapter Twenty-One
-1. b; 2. a; 3. a; 4. d; 5. d; 6. c; 7. d; 8. a; 9. a; 10. d;
-11. e; 12. c; 13. a; 14. b; 15. b; 16. a; 17. e; 18. d;
-19. b; 20. b; 21. d; 22. d; 23. c; 24. b; 25. e
-Chapter Twenty-Two
-1. d; 2. b; 3. e; 4. e; 5. d; 6. b; 7. e; 8. b; 9. a; 10. d;
-11. d; 12. d; 13. b; 14. e; 15. e; 16. a; 17. d; 18. c;
-19. a; 20. b; 21. c; 22. a; 23. d; 24. d; 25. d
-Chapter Twenty-Three
-1. a; 2. e; 3. d; 4. c; 5. d; 6. b; 7. c; 8. b; 9. d; 10. a;
-11. d; 12. c; 13. c; 14. c; 15. d; 16. b; 17. c; 18. b;
-19. c; 20. a; 21. c
-Chapter Twenty-Four
-1. a; 2. d; 3. d; 4. a; 5. b; 6. a; 7. b; 8. a; 9. c; 10. d;
-11. c; 12. e; 13. d; 14. d; 15. e; 16. b; 17. b; 18. a;
-19. e; 20. e; 21. e; 22. a; 23. c; 24. a
-Chapter Twenty-Five
-1. d; 2. a; 3. e; 4. b; 5. d; 6. e; 7. e; 8. b; 9. d; 10. d;
-11. a; 12. e; 13. c; 14. a; 15. b; 16. c
-Chapter Twenty-Six
-1. d; 2. b; 3. c; 4. e; 5. b; 6. b; 7. e; 8. a; 9. b; 10. b;
-11. a; 12. a; 13. a; 14. c; 15. d; 16. c; 17. b; 18. e;
-19. d; 20. a; 21. d; 22. e; 23. d; 24. c; 25. c; 26. d
-Chapter Twenty-Seven
-1. a; 2. b; 3. c; 4. d; 5. a; 6. a; 7. b; 8. a; 9. b; 10. d;
-11. b; 12. a; 13. a; 14. c; 15. c; 16. d
-Chapter Twenty-Eight
-1. e; 2. a; 3. a; 4. b; 5. d; 6. e; 7. b; 8. d; 9. c; 10. b;
-11. c; 12. a; 13. e; 14. b; 15. c; 16. c; 17. b; 18. a;
-19. c; 20. a; 21. c; 22. e; 23. e; 24. c; 25. d; 26. c; 27. a
-Chapter Twenty-Nine
-1. b; 2. e; 3. a; 4. a; 5. d; 6. a; 7. c; 8. b; 9. c; 10. a;
-11. a; 12. e; 13. d; 14. c; 15. c; 16. e; 17. a; 18. b;
-19. a; 20. c; 21. d; 22. c; 23. b; 24. c; 25. c
+Die Eigenschaften von Elementen können sich ändern, wenn sie zu Verbindungen kombiniert werden. Zum Beispiel ist das Element Wasserstoff hochentzündlich, und Sauerstoff, obwohl selbst nicht brennbar, fördert das Feuer. Wenn sie jedoch kombiniert werden, bilden Wasserstoff und Sauerstoff die sehr nicht brennbare Verbindung Wasser. Ebenso können Elemente, die für Menschen gefährlich oder toxisch sind, als Verbindungen nützlich sein. Zum Beispiel ist Natrium sehr explosiv, wenn es in Wasser gegeben wird, und Chlor ist ein starkes Desinfektionsmittel in Lösungen, wie Bleichmittel und Schwimmbadwasser. Chlor ist so giftig, dass es im Ersten Weltkrieg als Giftgas verwendet wurde, doch zusammen bilden Natrium und Chlorid das relativ sichere und nicht explosive Salz. Die Arten und Zahlen von Atomen (oder Ionen) in einem Molekül oder einer Verbindung werden typischerweise durch eine Formel dargestellt, die aus den Symbolen der Atome (oder Ionen) plus Indizes besteht, die die Menge jeder Art von Atom (oder Ion) bezeichnen. Die Formel für Glucose (ein Zucker) ist C6H12O6, was darauf hindeutet, dass Glucose 6 Kohlenstoffatome, 12 Wasserstoffatome und 6 Sauerstoffatome aufweist (Tabelle 2.3). Die Molekülmasse eines Moleküls oder einer Verbindung kann durch Addieren der Atommassen seiner Atome (oder Ionen) bestimmt werden. Der Begriff der molekularen Masse wird der Einfachheit halber für ionische Verbindungen verwendet, obwohl sie keine Moleküle sind. Zum Beispiel beträgt die atomare Masse von Natrium 22,99 und die von Chlorid 35,45. Die Molekülmasse von NaCl ist daher 58,44 (22,99 + 35,45). intermolekulare Kräfte Die schwachen elektrostatischen Anziehungen, die zwischen den entgegengesetzt geladenen Teilen von Molekülen oder zwischen Ionen und Molekülen bestehen, werden intermolekulare Kräfte genannt. Diese Kräfte, die viel schwächer sind als die Kräfte, die chemische Bindungen erzeugen, schließen Wasserstoffbrückenbindungen und die Eigenschaften der Löslichkeit und Dissoziation ein. Wasserstoffbrücken Moleküle mit polaren kovalenten Bindungen haben positive und negative "Enden". Die intermolekulare Kraft resultiert aus der Anziehung des positiven Endes eines polaren Moleküls zum negativen Ende eines anderen polaren Moleküls. Wenn Wasserstoff eine kovalente Bindung mit Sauerstoff, Stickstoff oder Fluor bildet, wird das resultierende Molekül sehr polarisiert. Wird der positiv geladene Wasserstoff eines Moleküls vom negativ geladenen Sauerstoff, Stickstoff oder Fluor eines anderen Moleküls angezogen, bildet sich eine Wasserstoffbrücke. Zum Beispiel bilden die positiv geladenen Wasserstoffatome eines Wassermoleküls Wasserstoffbrücken zu den negativ geladenen Sauerstoffatomen anderer Wassermoleküle (Abbildung 2.7). Diese Wasserstoffbrückenbindungen sind essentiell für die einzigartigen Eigenschaften von Wasser (siehe Abschnitt 2.3). Wasserstoffbrücken spielen eine wichtige Rolle bei der Bestimmung der Form komplexer Moleküle. Die Bindungen können zwischen verschiedenen polaren Teilen eines Moleküls auftreten, um das Molekül in seiner normalen dreidimensionalen Form zu halten (siehe "Proteine" und "Nukleinsäuren: DNA und RNA" in Abschnitt 2.4). Tabelle 2.4 fasst die wichtigen Eigenschaften chemischer Bindungen (ionisch und kovalent) und intermolekularer Kräfte (Wasserstoffbrücken) zusammen. Löslichkeit und Dissoziation Löslichkeit ist die Fähigkeit einer Substanz, sich in einer anderen aufzulösen - beispielsweise Zucker, der sich in Wasser auflöst. Geladene Substanzen, wie Natriumchlorid, und polare Substanzen, wie Glucose, lösen sich leicht in Wasser, während nichtpolare Substanzen, wie Öle, dies nicht tun. Wir alle haben gesehen, wie Öl auf dem Wasser schwimmt. Stoffe lösen sich in Wasser auf, wenn sie von Wassermolekülen umgeben sind. Wenn die positiven und negativen Enden der Wassermoleküle mehr von den geladenen Enden anderer Moleküle angezogen werden als von einander, brechen die Wasserstoffbrücken zwischen den Enden der Wassermoleküle und Wassermoleküle umgeben die anderen Moleküle, die sich in Wasser auflösen . Wenn sich ionische Verbindungen in Wasser auflösen, dissoziieren ihre Ionen oder trennen sich voneinander, weil Kationen von den negativen Enden der Wassermoleküle angezogen werden und Anionen von den positiven Enden der Wassermoleküle angezogen werden. Wenn NaCl in Wasser dissoziiert, trennen sich Natrium- und Chloridionen, und Wassermoleküle umgeben und isolieren die Ionen und halten sie dadurch in Lösung (Abbildung 2.8). Wenn sich Moleküle (kovalente Verbindungen) in Wasser lösen, bleiben sie normalerweise intakt, obwohl sie von Wassermolekülen umgeben sind. Daher sind Glucosemoleküle in einer Glucoselösung von Wassermolekülen umgeben. Kationen und Anionen, die in Wasser dissoziieren, werden manchmal Elektrolyte (ē-lek'trō-lītz) genannt, weil sie die Fähigkeit besitzen, einen elektrischen Strom zu leiten, der der Strom geladener Teilchen ist. Ein Elektrokardiogramm (EKG) ist eine Aufzeichnung von elektrischen Strömen, die vom Herzen erzeugt werden. Diese Ströme können durch Elektroden auf der Oberfläche des Körpers detektiert werden, da die Ionen in den Körperflüssigkeiten elektrische Ströme leiten. Moleküle, die nicht dissoziieren, bilden Lösungen, die keine Elektrizität leiten und die als Nichtelektrolyte bezeichnet werden. Reines Wasser ist ein Nichtelektrolyt.
 

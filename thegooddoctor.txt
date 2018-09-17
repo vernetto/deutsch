@@ -55,9 +55,9 @@ https://de.wikipedia.org/wiki/Aorta#Abschnitte Aorta Abscendens 17:12
 https://de.wikipedia.org/wiki/Herz#R%C3%A4ume_und_Gef%C3%A4%C3%9Fe Herz - Räume_und_Gefäße - Vorhof Atrium 17:17
 https://de.wikipedia.org/wiki/Eiter pus   17:30
 https://de.wikipedia.org/wiki/Noradrenalin 17:41
-absaugen=vacuum
-Verabreichen=administer
-Blutbild=blood count
+absaugen=vacuum 17:48
+verabreichen=administer
+Blutbild=blood count 18:15
 benehmen sie sich=behave yourself 18:45
 vorliegend=present
 übersehen=overlook 19:29
@@ -1046,6 +1046,7 @@ ansteckend=contagious 08:49
 https://de.wikipedia.org/wiki/L%C3%A4cheln Duchenne-Lächeln 09:06
 https://de.wikipedia.org/wiki/Musculus_orbicularis_oculi 09:08
 ausgeschüttet=distributed 09:13
+ausreden=talk out of 09:19
 https://de.wikipedia.org/wiki/Barschartige Barsche 10:25
 ungestimmt=outtuned 11:12
 abgeraten=discouraged 11:13
@@ -1062,6 +1063,7 @@ namhafte=renowned 15:55
 ihr zustösst=it happens to her 16:15
 wertvorstellungen=worth notion 18:13
 niedergestreckt=struck down 19:21
+zugedröhnt=stoned, drugged 19:26
 bestehlen=steal 20:17
 voraussetzt=presupposes 20:31
 verklagt=sued 20:50
