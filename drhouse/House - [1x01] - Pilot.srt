@@ -397,6 +397,9 @@ and it never gets near this office.
 00:06:28,054 --> 00:06:30,648
 Differential diagnosis, people.
 
+#https://de.wikipedia.org/wiki/Diagnose#Differenzialdiagnose
+
+
 82
 00:06:30,723 --> 00:06:34,625
 If it's not a tumor,
@@ -413,6 +416,9 @@ or some other ischemic syndrome.
 - Get her a contrast M.R.I.
 - Creutzfeldt-Jakob disease?
 
+#https://de.wikipedia.org/wiki/Creutzfeldt-Jakob-Krankheit
+
+
 85
 00:06:40,733 --> 00:06:42,394
 - Mad cow?
@@ -422,9 +428,14 @@ or some other ischemic syndrome.
 00:06:42,468 --> 00:06:44,163
 Wernicke's encephalopathy.
 
+#https://de.wikipedia.org/wiki/Wernicke-Enzephalopathie
+
 87
 00:06:44,237 --> 00:06:47,104
 No. Blood thiamine level was normal.
+
+#https://de.wikipedia.org/wiki/Thiamin
+
 
 88
 00:06:47,173 --> 00:06:49,471
