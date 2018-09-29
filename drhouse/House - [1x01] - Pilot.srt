@@ -594,6 +594,9 @@ a keen interest in your case.
 00:08:55,868 --> 00:08:58,564
 We inject gadolinium into a vein.
 
+#https://de.wikipedia.org/wiki/Gadolinium
+
+
 119
 00:08:58,638 --> 00:09:04,201
 It distributes itself throughout your brain
@@ -1135,6 +1138,9 @@ High doses of prednisone.
 You're looking for support
 for a diagnosis of cerebral vasculitis?
 
+#https://de.wikipedia.org/wiki/Vaskulitis
+
+
 228
 00:17:14,867 --> 00:17:17,631
 Inflammation of blood vessels
@@ -1146,6 +1152,8 @@ especially for someone her age.
 - So is a tumor.
 Her sed rate is elevated.
 - Mildly.
+
+#https://de.wikipedia.org/wiki/Blutsenkungsreaktion  sed rate
 
 230
 00:17:20,672 --> 00:17:23,072
@@ -2188,6 +2196,8 @@ Where there's ham, there's pork.
 Where there's pork,
 there's neurocysticercosis.
 
+#https://en.wikipedia.org/wiki/Neurocysticercosis
+
 446
 00:31:03,294 --> 00:31:05,819
 Tapeworm? You think
@@ -2298,6 +2308,8 @@ So what do we do?
 Call a vet,
 nurse the little guy back to health?
 
+#aufpeppen
+
 468
 00:32:29,113 --> 00:32:32,048
 It's too late for that.
@@ -2402,6 +2414,8 @@ I had vasculitis too.
 00:34:10,181 --> 00:34:13,116
 Now I can't walk
 and I'm wearing a diaper.
+
+#Windel
 
 490
 00:34:13,184 --> 00:34:15,209
@@ -2699,6 +2713,8 @@ It's good news.
 00:38:14,158 --> 00:38:16,149
 Albendazole.
 
+#https://de.wikipedia.org/wiki/Albendazol
+
 553
 00:38:17,928 --> 00:38:22,262
 - Two pills?
@@ -2716,9 +2732,13 @@ Possible side effects
 include abdominal pain, nausea,
 headaches, dizziness, fever...
 
+#benommenheit=numbness
+
 556
 00:38:30,341 --> 00:38:32,275
 and hair loss.
+
+#haarausfall
 
 557
 00:38:32,343 --> 00:38:35,210
@@ -3053,6 +3073,8 @@ It got you to take the case.
 You lied to a friend to save a stranger.
 You don't think
 that's kind of screwed up?
+
+#abartig
 
 626
 00:42:38,022 --> 00:42:39,785
