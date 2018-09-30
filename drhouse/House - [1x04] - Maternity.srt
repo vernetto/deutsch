@@ -626,6 +626,8 @@ between an epidemic and a coincidence.
 I'm putting a team together.
 We're gonna start swabbing.
 
+#abstreichen
+
 129
 00:08:09,789 --> 00:08:13,725
 What's she gonna swab?
@@ -701,6 +703,9 @@ so we've got something resistant.
 00:08:51,163 --> 00:08:54,189
 - The usual suspects?
 - MRSA. It's always MRSA in hospitals.
+
+#https://en.wikipedia.org/wiki/Methicillin-resistant_Staphylococcus_aureus
+
 
 143
 00:08:54,267 --> 00:08:56,758
@@ -1714,6 +1719,8 @@ B.P. 60 over 20.
 Heart rate's 180.
 Start the levophed.
 
+#https://en.wikipedia.org/wiki/Norepinephrine_(medication)  levophed
+
 346
 00:23:03,915 --> 00:23:06,315
 Still dropping.
@@ -1874,6 +1881,9 @@ What the hell is this?
 It's a superbug.
 It could be V.R.S.A.
 
+#https://en.wikipedia.org/wiki/Vancomycin-resistant_Staphylococcus_aureus
+
+
 381
 00:26:39,831 --> 00:26:42,356
 There's only been two reported cases
@@ -1913,6 +1923,8 @@ Have some azithromycin.
 Is that not working anymore?
 Well, got your levaquin.
 
+#https://de.wikipedia.org/wiki/Levofloxacin
+
 389
 00:27:04,155 --> 00:27:06,282
 Antibacterial soaps
@@ -1922,6 +1934,8 @@ in every bathroom.
 00:27:06,358 --> 00:27:09,759
 They'll be adding vancomycin
 to the water supply soon.
+
+#https://de.wikipedia.org/wiki/Vancomycin
 
 391
 00:27:09,828 --> 00:27:11,762
@@ -1947,6 +1961,8 @@ had nothing to do with it.
 Did you notice how low
 his B.P. was at the end,
 even with three pressors?
+
+#https://de.wikipedia.org/wiki/Vasopressor
 
 396
 00:27:30,215 --> 00:27:32,308

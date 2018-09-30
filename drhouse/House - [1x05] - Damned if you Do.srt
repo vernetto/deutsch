@@ -129,6 +129,8 @@ The good news is-- free samples.
 Diphenhydramine.
 It's an antihistamine.
 
+#https://de.wikipedia.org/wiki/Diphenhydramin
+
 27
 00:01:53,012 --> 00:01:55,776
 It'll stop the allergic reaction.
@@ -629,6 +631,8 @@ I notice you weren't so quick to tell her
 she's got Churg-Strauss and only
 has a couple years left.
 
+#https://de.wikipedia.org/wiki/Eosinophile_Granulomatose_mit_Polyangiitis Churg-Strauss
+
 130
 00:09:02,542 --> 00:09:04,510
 I don't tell patients bad news
@@ -744,6 +748,8 @@ It's also written on your chart.
 00:10:20,820 --> 00:10:22,845
 Took sulfasalazine,
 but it didn't work".
+
+#https://de.wikipedia.org/wiki/Sulfasalazin
 
 153
 00:10:22,922 --> 00:10:26,016
@@ -2609,6 +2615,9 @@ It can cause anaphylaxis.
 I checked the blood levels,
 and it's not eosinophilia
 or idiopathic anaphylaxis.
+
+#https://de.wikipedia.org/wiki/Anaphylaxie
+
 
 531
 00:33:55,199 --> 00:33:58,327
