@@ -306,6 +306,7 @@ aufziehen=verspotten=tease 25:08
 https://de.wikipedia.org/wiki/Myom 26:02
 https://de.wikipedia.org/wiki/Hypokinese 27:58
 verlangt=required 28:55
+#good music
 anfassen=touch 31:46
 sie hätte nicht anfassen dürfen=you should not have touched it 31:46
 Spüle=kitchen sink 32:08
@@ -356,6 +357,8 @@ angesehen/ansehen=to look at 16:15
 Zweitmeinung=second opinion 16:21
 zuziehen=to call in 16:22
 eingeholt (einholen)=to haul inboard 16:22
+Schlupfloch=fault, loophole 19:30
+Hintertür=backdoor 19:30
 https://de.wikipedia.org/wiki/Neutrophiler_Granulozyt 19:40
 https://en.wikipedia.org/wiki/ELISA 20:16
 https://de.wikipedia.org/wiki/Echinococcus 20:26
@@ -375,14 +378,17 @@ Schürze=apron 27:11
 im Stich gelassen=let down 27:45
 Nachtragen=grudge 27:57
 https://de.wikipedia.org/wiki/Knochenmarkpunktion Bone Marrow examination 28:08
+Lenden=lumbar 29:40
+vornehmen=make, carry out 29:50
 Zusammenhang=connection 29:59
 https://de.wikipedia.org/wiki/Embolie 30:25
 https://de.wikipedia.org/wiki/H%C3%A4modynamik 30:30 
+https://www.gesundheit.de/lexika/medizin-lexikon/sattelembolie 30:48
+Pfropf=cork, plug 31:03
 verschweigen=conceal 32:40
 deine Erwartung gerecht werden=meet your expectations 33:03
 Ich lag auch richtig=I was right 33:07
-Lenden=lumbar
-vornehmen=make, carry out
+
 zerrung=strain
 zange=tongs
 Brusthöhle=thoracic cavity
@@ -421,8 +427,8 @@ Schwanenfrau=swan wife 07:15
 überfordert=overwhelmed 07:20
 https://de.wikipedia.org/wiki/Nosokomiale_Infektion 08:19
 zögerten=hesitated
-Nebenanschluss=shunt
-gelegt=placed
+Nebenanschluss=shunt 10:00
+gelegt=placed 10:01
 schon gut=all right 10:41
 Oberschenkel=thigh 10:58
 Unterschenkel=lower leg 10:58
