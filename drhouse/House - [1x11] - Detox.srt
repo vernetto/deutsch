@@ -271,6 +271,8 @@ His body's reacting to something.
 We could account for the lack
 of fever and white count if it's lupus.
 
+#https://de.wikipedia.org/wiki/Lupus_erythematodes
+
 57
 00:04:42,315 --> 00:04:45,944
 Drugs will fit just as much as lupus.
@@ -657,6 +659,8 @@ We can test for the antibodies.
 Ninety-five percent of patients
 with lupus have positive A.N.A.
 
+#https://de.wikipedia.org/wiki/Antinukle%C3%A4rer_Antik%C3%B6rper
+
 137
 00:09:05,845 --> 00:09:08,279
 Not cloudy.
@@ -817,6 +821,8 @@ It's a retinal clot in the left eye.
 00:11:17,576 --> 00:11:19,976
 Coumadin would dissolve the clot,
 fix his eyesight.
+
+#https://de.wikipedia.org/wiki/Warfarin Coumadin
 
 171
 00:11:20,046 --> 00:11:22,981
