@@ -1302,10 +1302,16 @@ What's wrong?
 A.S.T. is 859.
 We're getting him to the I.C.U.
 
+#https://de.wikipedia.org/wiki/Aspartat-Aminotransferase AST
+
+
 270
 00:19:03,876 --> 00:19:05,844
 A.L.T. and G.G.T. are in the tank.
 Our antibiotics--
+
+#https://de.wikipedia.org/wiki/%CE%93-Glutamyltransferase GGT
+
 
 271
 00:19:05,911 --> 00:19:08,573
@@ -1969,6 +1975,8 @@ It's fine. Let's get you up.
 00:27:41,559 --> 00:27:43,527
 He's going into
 hypovolemic shock.
+
+#https://de.wikipedia.org/wiki/Hypovol%C3%A4mie
 
 406
 00:27:43,595 --> 00:27:47,656
