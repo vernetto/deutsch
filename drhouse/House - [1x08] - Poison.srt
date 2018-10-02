@@ -359,6 +359,8 @@ No, it's just me and Matt.
 Diazepam. Ten milligrams, stat.
 Right.
 
+#https://de.wikipedia.org/wiki/Diazepam
+
 77
 00:06:19,312 --> 00:06:22,645
 - What's going on?
@@ -994,6 +996,8 @@ Okay, I'll get Chase on it.
 The poison's called disulfoton.
 This should bond with it
 and neutralize the poison.
+
+#https://de.wikipedia.org/wiki/Disulfoton
 
 209
 00:16:09,234 --> 00:16:12,897
@@ -2550,6 +2554,8 @@ Give it to him.
 00:39:26,497 --> 00:39:30,456
 "The C.D.C. is unable to give
 an opinion at this time, ma'am.
+
+#https://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention
 
 531
 00:39:30,534 --> 00:39:34,026

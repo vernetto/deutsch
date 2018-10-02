@@ -2129,6 +2129,8 @@ Start her on I.V. chloramphenicol,
 25 milligrams per kilogram,
 four times a day.
 
+#https://de.wikipedia.org/wiki/Chloramphenicol
+
 430
 00:26:39,464 --> 00:26:41,455
 Good night.
@@ -2458,6 +2460,8 @@ And special I.V. tubing.
 00:31:51,342 --> 00:31:54,368
 Why do we need this stuff?
 Because melarsoprol melts plastic.
+
+#https://de.wikipedia.org/wiki/Melarsoprol
 
 502
 00:31:54,445 --> 00:31:56,970
