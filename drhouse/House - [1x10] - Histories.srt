@@ -225,6 +225,8 @@ She's seizing.
 - She doesn't wanna be discharged.
 She's manipulating you.
 
+#https://de.wikipedia.org/wiki/Lorazepam Ativan
+
 50
 00:04:43,549 --> 00:04:46,677
 It's real.
@@ -1064,6 +1066,8 @@ Baby, it's cold outside.
 And depression.
 They put her on Prozac.
 
+#https://de.wikipedia.org/wiki/Fluoxetin Prozac
+
 223
 00:15:17,483 --> 00:15:20,418
 Well, I'd be bummed out too.
@@ -1169,6 +1173,8 @@ associated with the cancer...
 could cause her
 to twitch like a bunny
 on crystal meth.
+
+#https://de.wikipedia.org/wiki/Methamphetamin
 
 244
 00:16:23,549 --> 00:16:25,540
@@ -1571,6 +1577,11 @@ It's not even close.
 Start her on I.N.H.,
 rifampin and streptomycin.
 
+#https://de.wikipedia.org/wiki/Isoniazid INH
+#https://de.wikipedia.org/wiki/Rifampicin
+#https://de.wikipedia.org/wiki/Streptomycin
+
+
 326
 00:21:37,429 --> 00:21:39,989
 But that's the treatment
@@ -1844,6 +1855,8 @@ The Prozac we gave her could have
 triggered serotonin syndrome,
 which would explain the fever.
 
+#https://de.wikipedia.org/wiki/Serotoninsyndrom
+
 384
 00:25:24,189 --> 00:25:26,885
 - No. Jefferson put her on Prozac
@@ -2083,6 +2096,8 @@ is nice and simple.
 Get her in isolation
 and start her on Ceftriaxone.
 
+#https://de.wikipedia.org/wiki/Ceftriaxon
+
 432
 00:28:30,408 --> 00:28:32,899
 Either she gets better,
@@ -2201,6 +2216,8 @@ I know you do.
 - Cacchi-Ricci Disease.
 - Do you even know what that is?
 
+#https://de.wikipedia.org/wiki/Markschwammniere Cacchi-Ricci
+
 455
 00:30:12,777 --> 00:30:15,712
 Or are you just guessing
@@ -2268,6 +2285,8 @@ You have no memory.
 468
 00:30:58,923 --> 00:31:00,857
 Korsakoff's syndrome.
+
+#https://de.wikipedia.org/wiki/Korsakow-Syndrom
 
 469
 00:31:00,925 --> 00:31:04,691
