@@ -2672,6 +2672,8 @@ Fear of water.
 00:36:18,142 --> 00:36:20,576
 Rabies.
 
+#https://de.wikipedia.org/wiki/Tollwut
+
 551
 00:36:20,645 --> 00:36:24,581
 There have only been, what,
