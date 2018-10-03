@@ -913,6 +913,10 @@ She was also negative for trichinosis.
 No toxoplasmosis
 or polyarteritis nodosa.
 
+#https://de.wikipedia.org/wiki/Trichinellose trichinosis
+#https://de.wikipedia.org/wiki/Toxoplasmose toxoplasmosis
+#https://de.wikipedia.org/wiki/Polyarteriitis_nodosa polyarteritis nodosa
+
 184
 00:11:56,682 --> 00:11:59,082
 Robert, what was
@@ -1661,6 +1665,8 @@ I haven't gotten it back yet.
 Her MUGA scan,
 what was the ejection fraction?
 
+#MUGA scan
+
 334
 00:23:48,360 --> 00:23:52,126
 Maybe you could treat it surgically.
@@ -1921,6 +1927,8 @@ to accidental poisoning to do the job--
 00:27:05,223 --> 00:27:07,157
 Ipecac.
 
+#Ipecac
+
 388
 00:27:07,225 --> 00:27:10,353
 Which is great if your kid's
@@ -2176,6 +2184,8 @@ What about any other criteria?
 No pneumonia, no bacteremia.
 No hep "B" or "C"
 or any other letters.
+
+#bacteremia
 
 440
 00:31:12,737 --> 00:31:14,830

@@ -319,6 +319,8 @@ reluctant, I'm assuming.
 He's also an eight on
 the Glasgow Coma Scale.
 
+#https://de.wikipedia.org/wiki/Glasgow_Coma_Scale
+
 68
 00:04:36,509 --> 00:04:38,875
 He's barely alive.
@@ -894,6 +896,8 @@ symptoms than the first time.
 00:12:35,221 --> 00:12:39,021
 His serology tests came back
 positive for hepatitis "C".
+
+#https://de.wikipedia.org/wiki/Hepatitis_C
 
 187
 00:12:39,091 --> 00:12:42,788
@@ -2403,6 +2407,8 @@ He had steak before both comas.
 00:34:43,347 --> 00:34:47,340
 Your brother has
 ornithine transcarbamylase deficiency.
+
+#https://en.wikipedia.org/wiki/Ornithine_transcarbamylase_deficiency
 
 502
 00:34:47,418 --> 00:34:49,943
