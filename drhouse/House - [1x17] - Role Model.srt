@@ -1178,6 +1178,8 @@ Definitely possible.
 The more likely diagnosis
 is hickey.
 
+#https://de.wikipedia.org/wiki/Knutschfleck
+
 243
 00:16:23,983 --> 00:16:26,713
 Well, it can't be a hickey.
@@ -1220,6 +1222,8 @@ without knowing it.
 00:16:46,171 --> 00:16:49,231
 I'm testing you for booze,
 drugs and G.H.B.
+
+#https://en.wikipedia.org/wiki/Gamma-Hydroxybutyric_acid GHB
 
 252
 00:16:49,308 --> 00:16:52,709
@@ -1495,9 +1499,14 @@ on the P.C.R. AIDS test?
 - Immunoglobulin deficiency?
 - No history of respiratory problems.
 
+#https://de.wikipedia.org/wiki/Selektiver_Immunglobulin-A-Mangel
+
 310
 00:21:33,292 --> 00:21:35,226
 Idiopathic "T" cell deficiency.
+
+#https://en.wikipedia.org/wiki/Idiopathic_CD4%2B_lymphocytopenia
+
 
 311
 00:21:35,294 --> 00:21:39,958
