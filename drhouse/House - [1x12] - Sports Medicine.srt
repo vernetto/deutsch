@@ -1015,7 +1015,8 @@ Don't worry. I'll send him a nice note.
 What about something environmental?
 
 212
-00:14:01,473 --> 00:14:03,941
+00:14:01,473 --> 0
+0:14:03,941
 Arsenic, mercury.
 The symptoms could indicate--
 
@@ -1889,6 +1890,8 @@ an I.V. push D-50.
 Kayexalate too. We gotta suck
 that potassium out of him.
 We gotta get his heart rate down.
+
+#https://en.wikipedia.org/wiki/Polystyrene_sulfonate Kayexalate 
 
 395
 00:25:31,496 --> 00:25:33,589
