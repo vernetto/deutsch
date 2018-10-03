@@ -1157,6 +1157,8 @@ Some cancer patients
 get what are called
 paraneoplastic syndromes.
 
+#https://de.wikipedia.org/wiki/Paraneoplastisches_Syndrom
+
 239
 00:15:12,611 --> 00:15:15,375
 You were making antibodies
