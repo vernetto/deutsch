@@ -2217,6 +2217,9 @@ what else should we see circling overhead?
 - He should have all sorts of weird viruses.
 - H.T.L.V. and A.T.L.V.
 
+#https://en.wikipedia.org/wiki/Human_T-lymphotropic_virus
+#https://en.wikipedia.org/wiki/Human_T-lymphotropic_virus_1
+
 458
 00:31:53,778 --> 00:31:57,475
 We can test for them.
