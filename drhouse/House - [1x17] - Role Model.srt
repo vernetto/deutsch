@@ -229,6 +229,8 @@ I don't do speeches. I'm shy.
 Eastbrook Pharmaceuticals
 has developed a new ACE inhibitor.
 
+#https://de.wikipedia.org/wiki/ACE-Hemmer
+
 48
 00:03:42,555 --> 00:03:46,548
 I would like you to extol the virtues
@@ -432,6 +434,8 @@ he's fairly healthy and can go home.
 00:06:27,019 --> 00:06:29,078
 Well, there is something
 in Broca's area,
+
+#https://en.wikipedia.org/wiki/Broca%27s_area
 
 91
 00:06:29,155 --> 00:06:31,623
