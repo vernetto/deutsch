@@ -2793,6 +2793,8 @@ you add her symptoms to his--
 00:38:38,582 --> 00:38:41,073
 Cadmium poisoning.
 
+#https://en.wikipedia.org/wiki/Cadmium_poisoning
+
 588
 00:38:41,152 --> 00:38:44,485
 It explains everything. Even why they
@@ -2990,6 +2992,8 @@ that he's being treated for Addison's?
 You're not treating him
 for Addison's.
 My report says I am.
+
+#https://de.wikipedia.org/wiki/Nebennierenrindeninsuffizienz  Addison
 
 628
 00:40:57,922 --> 00:40:59,947
