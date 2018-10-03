@@ -172,6 +172,8 @@ It's preeclampsia, isn't it?
 - Preeclampsia is a possibility.
 But let's not get ahead of ourselves.
 
+#https://de.wikipedia.org/wiki/Pr%C3%A4eklampsie
+
 38
 00:02:51,838 --> 00:02:53,772
 I've miscarried three times.
@@ -368,11 +370,17 @@ Negative for alcohol and drugs.
 She was on oxybutynin.
 For incontinence.
 
+#https://de.wikipedia.org/wiki/Oxybutynin
+
 79
 00:05:12,312 --> 00:05:16,510
 Yeah. Well, we took her off.
 No change. B.U.N. and creatinine
 are up. L.F.T.'s slightly elevated.
+
+#https://de.wikipedia.org/wiki/Blut-Harnstoff-Stickstoff BUN
+#https://de.wikipedia.org/wiki/Kreatinins
+#https://de.wikipedia.org/wiki/Leberwerte LFT
 
 80
 00:05:16,582 --> 00:05:21,042
@@ -697,6 +705,8 @@ He won't survive.
 00:09:11,584 --> 00:09:13,677
 She's on magnesium already.
 Fluids and terbutaline then.
+
+#https://de.wikipedia.org/wiki/Terbutalin
 
 147
 00:09:13,753 --> 00:09:16,813
