@@ -1,0 +1,3241 @@
+1
+00:00:28,942 --> 00:00:30,475
+<i>Er hat einen guten Puls.</i>
+
+2
+00:00:30,476 --> 00:00:32,528
+<i>Haltet seinen Kopf
+fest und dreht ihn um.</i>
+
+3
+00:00:32,529 --> 00:00:35,909
+<i>Auf mein Zeichen Jungs. Fertig. Los.</i>
+
+4
+00:00:42,047 --> 00:00:43,539
+<i>Sir, wir sind Sanitäter.</i>
+
+5
+00:00:43,540 --> 00:00:45,417
+<i>Der Postbote hat gesehen,
+dass Sie einen Anfall hatten.</i>
+
+6
+00:00:45,418 --> 00:00:48,473
+<i>Wir mussten Ihre Tür aufbrechen.</i>
+
+7
+00:00:49,129 --> 00:00:51,859
+<i>Wissen Sie, wie Sie heißen?</i>
+
+8
+00:00:53,216 --> 00:00:57,051
+<i>Auf mein Zeichen.
+Eins, zwei, drei. Rauf.</i>
+
+9
+00:00:59,013 --> 00:01:02,068
+<i>Wir bringen Sie ins Krankenhaus.</i>
+
+10
+00:01:04,848 --> 00:01:06,850
+<i>Nein, ich kann nicht ...</i>
+
+11
+00:01:06,851 --> 00:01:09,776
+<i>Nein, nein. Ich kann nicht ...</i>
+
+12
+00:01:17,240 --> 00:01:20,815
+- Hey Kumpel.
+- Kumpel. Wir wollen nur helfen.
+
+13
+00:01:24,164 --> 00:01:26,248
+- Sir!
+- Bleibt von meinem Haus fern.
+
+14
+00:01:26,249 --> 00:01:28,936
+Sie hatten eben einen Anfall.
+Es könnte ein Hirninfarkt sein.
+
+15
+00:01:28,937 --> 00:01:30,547
+Eine Blutung in Ihrem Gehirn.
+
+16
+00:01:30,548 --> 00:01:32,043
+Lasst mich alleine.
+
+17
+00:01:34,726 --> 00:01:40,725
+~ House S05E07 ~
+~ Juckreiz ~
+
+18
+00:01:41,556 --> 00:01:47,555
+~ Übersetzt von ~
+~ cimbom1905 und Drenton ~
+
+19
+00:01:48,556 --> 00:01:54,555
+~ House zuerst auf ~
+~ www.tv4user.de ~
+
+20
+00:01:56,532 --> 00:02:02,531
+~ Deine Seite für deutsche Untertitel ~
+~ zu US- und UK-Serien ~
+
+21
+00:02:04,102 --> 00:02:07,541
+35-jähriger Mann, schlimme Kopfschmerzen
+und drei Anfälle in den letzten zwei Tagen.
+
+22
+00:02:07,542 --> 00:02:10,369
+Also ist es eine Blutung,
+ein Gerinnsel, ein Tumor,
+
+23
+00:02:10,370 --> 00:02:11,877
+metabolisch oder eine Infektion.
+
+24
+00:02:11,878 --> 00:02:14,774
+- Stecken Sie ihn in ein CT.
+- Geht nicht.
+
+25
+00:02:14,775 --> 00:02:16,921
+Jetzt vermute ich, dass
+er einen Riesenschädel hat.
+
+26
+00:02:16,922 --> 00:02:18,340
+Starke Agoraphobie.
+
+27
+00:02:18,341 --> 00:02:20,138
+Die Welt macht ihm eine Höllenangst.
+
+28
+00:02:20,139 --> 00:02:22,343
+Daher können wir ihn nur mit Sachen
+testen, die wir zu ihm bringen können.
+
+29
+00:02:22,344 --> 00:02:24,813
+- Lustig.
+- Ist die Agoraphobie ein Symptom?
+
+30
+00:02:24,814 --> 00:02:26,311
+Nur dafür erschossen zu werden.
+
+31
+00:02:26,312 --> 00:02:29,038
+Er und seine Freundin wurden vor sieben
+Jahren überfallen. Da hat es angefangen.
+
+32
+00:02:29,039 --> 00:02:31,620
+Jeder kann die Menschheit hassen,
+nachdem er angeschossen wurde.
+
+33
+00:02:31,621 --> 00:02:33,474
+Aber nur ein großer Mann
+kann sie davor hassen.
+
+34
+00:02:33,475 --> 00:02:35,861
+Wie sind Sie an den Fall gekommen,
+wenn er nicht in der Notaufnahme war?
+
+35
+00:02:35,862 --> 00:02:38,212
+Ich sprach mit ihm durch seine Tür,
+letztes Jahr als er die Grippe hatte.
+
+36
+00:02:38,213 --> 00:02:40,239
+Ich leite jetzt ein Programm
+für die Gemeinschaftsinitiative.
+
+37
+00:02:40,240 --> 00:02:42,409
+Sehen Sie? Eine perfekt
+begründete Erklärung.
+
+38
+00:02:42,410 --> 00:02:44,582
+Sie ist eindeutig nicht hier,
+um zu versuchen wieder ins
+
+39
+00:02:44,583 --> 00:02:46,747
+Team zu kommen und Ihnen Ihren
+Job oder sonst was zu stehlen.
+
+40
+00:02:46,748 --> 00:02:49,458
+- Es war eine angebrachte Frage.
+- Er hat eingewilligt sich mit uns zu treffen.
+
+41
+00:02:49,459 --> 00:02:54,984
+Aber selbst wenn ich in sein Haus
+darf, ist sein Gehirn eine Blackbox.
+
+42
+00:02:55,031 --> 00:02:57,799
+Wir können das in einer
+Minute wieder aufgreifen.
+
+43
+00:02:57,800 --> 00:02:59,094
+Was ist das?
+
+44
+00:02:59,480 --> 00:03:01,042
+Menükarten zum Mitnehmen.
+
+45
+00:03:01,043 --> 00:03:05,832
+Ich hoffe, dir fällt eine bessere Antwort ein, wenn
+jemand fragen sollte, worüber wir gesprochen haben.
+
+46
+00:03:05,833 --> 00:03:07,852
+- Letzte Nacht ...
+- Vergiss es.
+
+47
+00:03:07,853 --> 00:03:10,563
+Ich weiß, das hier ist unangenehm,
+aber wir müssen darüber reden.
+
+48
+00:03:10,564 --> 00:03:14,013
+Es gibt einen Grund warum bei uns das
+Gefühl entsteht, dass es unangenehm ist.
+
+49
+00:03:14,014 --> 00:03:16,636
+Es sagt uns, nicht darüber zu reden.
+
+50
+00:03:16,637 --> 00:03:19,403
+Ich war emotional, weil die
+Adoption nicht geklappt hat.
+
+51
+00:03:19,404 --> 00:03:22,834
+Und du hast nur für einen Moment
+deine menschliche Seite gezeigt.
+
+52
+00:03:22,835 --> 00:03:24,533
+Darum haben wir uns geküsst.
+
+53
+00:03:24,534 --> 00:03:29,184
+Ich wollte mich nur dafür bedanken, ...
+dass du es nicht ausgenutzt hast.
+
+54
+00:03:29,185 --> 00:03:30,500
+Gern geschehen.
+
+55
+00:03:30,625 --> 00:03:35,890
+Wann immer du mit dem Küssen
+aufhören willst, bin ich für dich da.
+
+56
+00:03:36,618 --> 00:03:39,267
+Die tragbare Ausrüstung kann nicht zwischen
+einer Blutung und einem Tumor unterscheiden.
+
+57
+00:03:39,268 --> 00:03:42,384
+Es kann keine Vasculitis
+feststellen. Was wollte Cuddy?
+
+58
+00:03:42,385 --> 00:03:46,348
+Ich hatte letzte Nacht Erfolg bei
+ihr und nun flirtet sie heftig rum.
+
+59
+00:03:46,349 --> 00:03:49,141
+Wow. Für jemanden der mit Rohypnol
+betäubt wurde, sieht sie ziemlich gut aus.
+
+60
+00:03:49,142 --> 00:03:51,895
+Die einzige Ausrüstung, die wir haben, ist
+ein Sonogramm und ein tragbares Röntgengerät.
+
+61
+00:03:51,896 --> 00:03:56,066
+Welchen Teil von Olivin, Pyroxene
+und Amphibol verstehen Sie nicht?
+
+62
+00:03:56,067 --> 00:03:57,448
+Pyroxene.
+
+63
+00:03:57,610 --> 00:04:00,617
+- Pyro bedeutet Feuer ...
+- Das sind Indikatormineralien.
+
+64
+00:04:00,618 --> 00:04:03,220
+Wenn man die Diamanten nicht sieht,
+sucht man nach Indikatormineralien.
+
+65
+00:04:03,221 --> 00:04:07,654
+Ich vermute der Diamant ist der Tumor oder
+die Blutung oder was auch immer es ist.
+
+66
+00:04:07,655 --> 00:04:09,057
+Wir provozieren einen Anfall.
+
+67
+00:04:09,058 --> 00:04:12,929
+Der Indikator ist der Anstieg der elektrischen
+Aktivität, der sich auf die Anomalität konzentriert.
+
+68
+00:04:12,930 --> 00:04:15,569
+Wir machen ein EEG, sehen wo es sich
+konzentriert, sehen wo das Problem ist,
+
+69
+00:04:15,570 --> 00:04:18,060
+was uns sagt, was das Problem ist.
+
+70
+00:04:18,061 --> 00:04:21,684
+Der Formster und die Camster.
+Machen es wie in alten Zeiten.
+
+71
+00:04:21,685 --> 00:04:24,725
+Dankt Gott, dass sie nicht
+versucht eure Jobs zu stehlen.
+
+72
+00:04:24,726 --> 00:04:29,081
+Machen Sie es und durchsuchen
+Sie das Haus nach Giften.
+
+73
+00:04:29,173 --> 00:04:31,191
+Ich habe zugestimmt zu reden,
+nicht Sie rein zu lassen.
+
+74
+00:04:31,192 --> 00:04:34,193
+Sie könnten schwer krank
+sein, wir brauchen Zugang.
+
+75
+00:04:34,194 --> 00:04:35,453
+Ich bin im Augenblick nicht bereit dazu.
+
+76
+00:04:35,454 --> 00:04:38,607
+- Warum hat er zwei verschließbare Räume?
+- Er muss diesen Raum als Schleuse benutzen.
+
+77
+00:04:38,608 --> 00:04:41,610
+Lieferungen rein, Müll raus.
+So muss er nie rausgehen.
+
+78
+00:04:41,611 --> 00:04:44,418
+Sagen Sie bescheid, wenn Sie bereit
+sind. Wir werden nicht weg gehen.
+
+79
+00:04:44,419 --> 00:04:46,533
+- Ernsthaft?
+- Soll sie etwa zugeben,
+
+80
+00:04:46,534 --> 00:04:49,277
+dass alles, was er tun muss, ist uns für ein paar
+Minuten zu ignorieren und danach gehen wir wieder?
+
+81
+00:04:49,278 --> 00:04:51,293
+Er wurde angeschossen.
+Seine Freundin getötet.
+
+82
+00:04:51,294 --> 00:04:53,537
+Er hat wahrscheinlich eine
+posttraumatische Belastungsstörung.
+
+83
+00:04:53,538 --> 00:05:00,363
+Er glaubt nicht ein gerechtes Universum. Er
+vertraut niemandem. Sei einfach offen zu ihm.
+
+84
+00:05:00,395 --> 00:05:02,345
+Ich habe nicht angedeutet,
+dass wir ewig warten werden.
+
+85
+00:05:02,346 --> 00:05:05,926
+Wir haben das ganze Krankenhaus voller Patienten.
+Wir können Ihnen nur ein paar Minuten widmen.
+
+86
+00:05:05,927 --> 00:05:11,647
+Aber letztendlich, wenn Sie uns nicht
+rein lassen, werden wir gehen müssen.
+
+87
+00:05:12,444 --> 00:05:15,102
+- Nur eine Person kommt rein.
+- Nein.
+
+88
+00:05:15,103 --> 00:05:18,425
+Wir müssen das ganze
+Haus nach Giften absuchen.
+
+89
+00:05:18,426 --> 00:05:25,901
+Wie wäre es damit? Ich untersuche Sie in einem
+Raum, während meine Kollegen das Haus durchsuchen?
+
+90
+00:05:29,193 --> 00:05:31,036
+Ich werde nun versuchen
+einen Anfall zu provozieren.
+
+91
+00:05:31,037 --> 00:05:33,962
+Bitte sehen Sie nur gerade aus, okay?
+
+92
+00:05:35,373 --> 00:05:37,124
+- Geht es Ihnen gut?
+- Ja.
+
+93
+00:05:37,125 --> 00:05:38,295
+Es ist nur ...
+
+94
+00:05:39,110 --> 00:05:43,058
+Ich war nur seit längerem mit
+niemandem mehr alleine in einem Raum.
+
+95
+00:05:43,059 --> 00:05:47,154
+- Könnten Sie mir eine Sekunde Zeit lassen?
+- Sicher.
+
+96
+00:05:47,673 --> 00:05:50,847
+Sie sind die ... Person, mit der ich letztes
+Jahr durch die Tür gesprochen habe, richtig?
+
+97
+00:05:50,848 --> 00:05:51,595
+Ja.
+
+98
+00:05:51,720 --> 00:05:55,682
+Sie sind ... Sie sind nett ... und klug.
+
+99
+00:05:55,936 --> 00:05:58,938
+Deswegen habe ich jemanden
+erwartet, der älter ist.
+
+100
+00:05:58,939 --> 00:06:00,759
+Ich bin gar nicht so jung.
+
+101
+00:06:03,549 --> 00:06:08,238
+- Es war sicher furchtbar, angeschossen zu werden.
+- Machen Sie das nicht. Okay?
+
+102
+00:06:08,239 --> 00:06:10,579
+Sie ... Sie kennen mich nicht.
+
+103
+00:06:11,701 --> 00:06:14,537
+Ich habe hier alles, was ich brauche.
+
+104
+00:06:14,538 --> 00:06:17,707
+Ich verdiene eine Menge Geld damit,
+technische Handbücher zu schreiben.
+
+105
+00:06:17,708 --> 00:06:19,440
+Ich bekomme Sachen
+geliefert. Ich trainiere.
+
+106
+00:06:19,441 --> 00:06:22,635
+Ich sehe alles, was
+ich will im Internet.
+
+107
+00:06:22,636 --> 00:06:25,366
+Ich bin ... Ich bin glücklich hier.
+
+108
+00:06:25,923 --> 00:06:32,488
+- Sie wirken nicht besonders glücklich.
+- Stimmt. Im Augenblick bin ich es auch nicht.
+
+109
+00:06:35,606 --> 00:06:36,591
+Hau ab.
+
+110
+00:06:39,072 --> 00:06:40,932
+Hast du letzte Nacht
+mit Cuddy gesprochen?
+
+111
+00:06:40,933 --> 00:06:42,298
+Ihr geht es gut.
+
+112
+00:06:42,472 --> 00:06:44,623
+Warum sollte jemand mehr als
+ein paar Stunden brauchen,
+
+113
+00:06:44,624 --> 00:06:46,360
+um über ein nicht bekommenes
+Baby hinwegzukommen?
+
+114
+00:06:46,361 --> 00:06:48,352
+Du hast mit ihr gesprochen?
+
+115
+00:06:48,353 --> 00:06:52,838
+Ich hatte Erfolg bei ihr und
+nun flirtet Sie heftig rum.
+
+116
+00:06:55,276 --> 00:06:56,868
+Was ... was?
+
+117
+00:06:59,969 --> 00:07:03,015
+- Alle anderen dachten, ich mache Scherze.
+- Du hattest Erfolg?
+
+118
+00:07:03,016 --> 00:07:06,954
+Wie beim Rummachen oder
+Sex mit allem oder ...
+
+119
+00:07:07,079 --> 00:07:10,169
+Besorg eine Karte mit allen Grundlagen
+und ich gehe sie mit dir durch.
+
+120
+00:07:10,170 --> 00:07:12,651
+- Was hast du nun vor zu tun?
+- Was kann ich tun?
+
+121
+00:07:12,652 --> 00:07:14,888
+Ich werde sie für den Rest
+meines Lebens ignorieren.
+
+122
+00:07:14,889 --> 00:07:17,307
+Der Moskitobiss hat mich geweckt.
+
+123
+00:07:17,308 --> 00:07:19,758
+Kümmere dich nicht um den Käferbiss.
+
+124
+00:07:19,759 --> 00:07:20,978
+Sie ist dein Boss.
+
+125
+00:07:20,979 --> 00:07:24,359
+Nun hab ich zwei Gründe
+sie zu ignorieren.
+
+126
+00:07:25,182 --> 00:07:27,981
+- Es war nur ein Kuss.
+- Dafür gibt es einen Grund.
+
+127
+00:07:27,982 --> 00:07:30,712
+Ja, die großen Dinger in ihrem BH.
+
+128
+00:07:30,905 --> 00:07:33,972
+Du verheimlichst es vor mir, das
+bedeutet es bedeutet dir etwas.
+
+129
+00:07:33,973 --> 00:07:37,870
+Ja, ich habe es natürlich teuflisch geheim
+gehalten, in dem ich sage: "Ich hatte Erfolg!"
+
+130
+00:07:37,871 --> 00:07:41,310
+- Hör auf zu kratzen. Es blutet schon.
+- Hast du doch noch etwas Hilfreiches gesagt.
+
+131
+00:07:41,311 --> 00:07:45,601
+Wenn ich die Haut aufkratze,
+lass ich das Gift heraus.
+
+132
+00:07:45,968 --> 00:07:47,304
+Wenn du ...
+
+133
+00:07:47,849 --> 00:07:50,189
+Cuddy triffst ... würde das ...
+
+134
+00:07:50,368 --> 00:07:54,430
+Entschuldige. Der Empfang ist
+besser, wenn du nicht hier bist.
+
+135
+00:07:54,431 --> 00:07:56,597
+- Was habt ihr?
+- Sein Haus ist absolut sauber.
+
+136
+00:07:56,598 --> 00:08:00,225
+Keine Tiere. Keine versteckten Drogen
+oder Alkohol. Kein Blei in der Farbe.
+
+137
+00:08:00,226 --> 00:08:04,469
+Und da Sie nicht schwer atmen, nehme ich an, dass
+Sie nicht Cameron triumphal in die Luft heben.
+
+138
+00:08:04,470 --> 00:08:07,206
+Was bedeutet, dass
+es keine Anfälle gibt.
+
+139
+00:08:07,207 --> 00:08:09,730
+Hey, wenn wir schon
+von schwer atmen reden.
+
+140
+00:08:09,731 --> 00:08:11,986
+Cameron, sind Sie schon
+mit Chase verlobt?
+
+141
+00:08:11,987 --> 00:08:14,399
+Entschuldigung, wir brauchen eine
+Erklärung. Wir rufen an wegen dem Patienten
+
+142
+00:08:14,400 --> 00:08:16,700
+- und nicht wegen Dr. Camerons Liebesleben.
+- Wir sind nicht verlobt.
+
+143
+00:08:16,701 --> 00:08:19,078
+Es beschleunigt den Vorgang, wenn
+man ihm einfach die Antworten gibt.
+
+144
+00:08:19,079 --> 00:08:20,736
+Anfälle können auch
+ausgelöst werden durch ...
+
+145
+00:08:20,737 --> 00:08:22,971
+- Nach sechs Jahren?
+- Anderthalb Jahren.
+
+146
+00:08:22,972 --> 00:08:24,708
+Durch Schlafentzug oder ...
+
+147
+00:08:24,709 --> 00:08:26,917
+Schlafentzug würde zu lange dauern.
+
+148
+00:08:26,918 --> 00:08:29,369
+- Leben Sie zusammen?
+- Wir verbringen die meisten Nächte zusammen.
+
+149
+00:08:29,370 --> 00:08:32,674
+Es gibt eine Menge Medikamente, die
+die Anfallsschwelle senken können.
+
+150
+00:08:32,675 --> 00:08:35,125
+Und die Diagnosemit
+Nebenwirkungen verschleiern.
+
+151
+00:08:35,126 --> 00:08:36,408
+Seine Wohnung oder Ihre?
+
+152
+00:08:36,409 --> 00:08:37,762
+- Seine üblicherweise.
+- Interessant.
+
+153
+00:08:37,763 --> 00:08:40,099
+Sie hätten interessant gesagt,
+egal was die Antwort gewesen wäre.
+
+154
+00:08:40,100 --> 00:08:42,328
+Denn egal wie auch die Antwort gewesen
+wäre, wäre es für mich interessant gewesen.
+
+155
+00:08:42,329 --> 00:08:44,561
+Keine Beziehung. Bindungsprobleme.
+
+156
+00:08:44,562 --> 00:08:46,638
+Seine Wohnung. Kontrollsucht.
+
+157
+00:08:46,639 --> 00:08:49,399
+Bin mir nicht sicher
+wer, aber interessant.
+
+158
+00:08:49,400 --> 00:08:52,325
+Ja, beschleunigt die Sache um einiges.
+
+159
+00:08:52,876 --> 00:08:54,988
+Wo war der Patient als er
+seinen ersten Anfall hatte?
+
+160
+00:08:54,989 --> 00:08:57,348
+In seinem Vorzimmer, Post holen.
+
+161
+00:08:57,349 --> 00:09:01,944
+Er kam der Außenwelt nahe, das hat ihn
+erschreckt und seinen Blutdruck erhöht.
+
+162
+00:09:01,945 --> 00:09:03,413
+Benutzen Sie diese Angst.
+
+163
+00:09:03,414 --> 00:09:05,791
+- Bringen Sie ihn nach draußen.
+- Er hat einen Feuerwehrmann K.O. geschlagen.
+
+164
+00:09:05,792 --> 00:09:08,522
+Wir sind Ärzte, keine Rausschmeißer.
+
+165
+00:09:08,643 --> 00:09:12,153
+Okay. Dann bringen Sie
+die Außenwelt zu ihm.
+
+166
+00:09:12,963 --> 00:09:15,368
+Der Boden ist aus echtem Holz.
+
+167
+00:09:16,784 --> 00:09:18,473
+Warum sind die hier?
+
+168
+00:09:18,752 --> 00:09:21,879
+Die hörten zufällig, wie ich das Haus zum
+halben Preis der Bankzwangsversteigerung
+
+169
+00:09:21,880 --> 00:09:23,506
+im Warteraum der
+Notaufnahme angeboten habe.
+
+170
+00:09:23,507 --> 00:09:26,801
+- Wo sind alle?
+- Cameron ist beim Patienten.
+
+171
+00:09:26,802 --> 00:09:30,806
+- Alle anderen sind nach Hause gegangen.
+- Weil sie nicht hier sein müssen.
+
+172
+00:09:30,807 --> 00:09:33,342
+So wie Sie. Aber Sie sind hier.
+
+173
+00:09:34,356 --> 00:09:35,396
+Hier entlang.
+
+174
+00:09:36,411 --> 00:09:37,904
+Sind die Formen original?
+
+175
+00:09:37,905 --> 00:09:41,220
+Original? Sie waren
+noch vor dem Haus da.
+
+176
+00:09:43,496 --> 00:09:46,582
+Die Eingeschlossenen
+hier sind auch original.
+
+177
+00:09:46,583 --> 00:09:48,250
+Kommen Sie. Seien Sie nicht schüchtern.
+
+178
+00:09:48,251 --> 00:09:51,336
+- House, bringen Sie die raus hier.
+- Es ist leicht für Sie das zu sagen.
+
+179
+00:09:51,337 --> 00:09:54,131
+Sie wollen ja auch nicht
+ernsthafte Kapitalgewinne machen.
+
+180
+00:09:54,132 --> 00:09:55,432
+Das ist grausam.
+
+181
+00:09:55,597 --> 00:10:00,147
+Und ihn ohne Diagnose zurück
+zu lassen ist was? Selbstlos?
+
+182
+00:10:01,185 --> 00:10:04,016
+Vorgang erfolgreich.
+Er hat einen Anfall.
+
+183
+00:10:04,017 --> 00:10:06,749
+- Was sehen Sie?
+- Thetawellen normal.
+
+184
+00:10:06,750 --> 00:10:08,896
+Deltawellen normal. Das ist kein Anfall.
+
+185
+00:10:08,897 --> 00:10:10,266
+Es ist irgendwas.
+
+186
+00:10:10,391 --> 00:10:12,196
+Mr. Nozick, sind Sie in Ordnung?
+
+187
+00:10:12,197 --> 00:10:16,812
+- Mein Magen bringt mich um.
+- Sehen Sie? Es ist irgendwas.
+
+188
+00:10:27,879 --> 00:10:31,173
+- Eine kleine Darmverstopfung.
+- Eine Verstopfung erklärt den Schmerz.
+
+189
+00:10:31,174 --> 00:10:33,159
+Was erklärt die
+Verstopfung und die Anfälle?
+
+190
+00:10:33,160 --> 00:10:35,020
+Vorhofflimmern wegen einer Embolie.
+
+191
+00:10:35,021 --> 00:10:38,040
+- Crohns verursacht einen Abszess.
+- Es könnten zahlreiche Sachen sein.
+
+192
+00:10:38,041 --> 00:10:41,303
+Es gibt keinen Weg es rauszufinden, außer wir
+liefern ihn ein, um ein MRT von seinem Kopf
+
+193
+00:10:41,304 --> 00:10:43,722
+oder einen untersuchenden Eingriff, um
+eine Biopsie von seinem Darm zu machen.
+
+194
+00:10:43,723 --> 00:10:46,847
+- Was er uns nicht machen lässt.
+- Wird er.
+
+195
+00:10:46,848 --> 00:10:48,735
+Schmerz ändert Ansichten.
+
+196
+00:10:50,077 --> 00:10:51,036
+House.
+
+197
+00:10:54,234 --> 00:10:57,607
+- Er sagte, dass Sie hier nicht reinkommen sollen.
+- Er kann mich hinaus jagen, wenn er aufhört,
+
+198
+00:10:57,608 --> 00:10:59,818
+sich in Schmerzen zu winden.
+
+199
+00:10:59,841 --> 00:11:04,799
+Was auch immer Ihr großes Problem ist, es
+verursachte eine Komplikation namens Dickdarm-VMS.
+
+200
+00:11:04,800 --> 00:11:08,860
+"VM" Voll mit und da wir eine Lady
+hier haben steht "S" für Stuhl.
+
+201
+00:11:08,861 --> 00:11:12,292
+Nichts kommt raus. Deswegen wird
+der Schmerz schlimmer und schlimmer.
+
+202
+00:11:12,293 --> 00:11:16,512
+Wir müssen eine Kotschaufel in Sie stecken.
+Und wir müssen einen Blick in Ihren Darm werfen.
+
+203
+00:11:16,513 --> 00:11:18,378
+Ich hab meine Wünsche klar geäußert.
+
+204
+00:11:18,379 --> 00:11:21,829
+Und wenn die Märchenfee hier wäre,
+würde sie Ihnen die auch erfüllen.
+
+205
+00:11:21,830 --> 00:11:23,095
+Ich bin nicht verrückt.
+
+206
+00:11:23,096 --> 00:11:26,270
+Ich fühle Schmerzen, wenn
+ich nach draußen gehe.
+
+207
+00:11:26,271 --> 00:11:29,015
+Also ist es ... vernünftig
+diese Schmerzen zu vermeiden.
+
+208
+00:11:29,016 --> 00:11:31,103
+Außer Sie fühlen auch drinnen Schmerzen.
+
+209
+00:11:31,104 --> 00:11:32,636
+Nicht so schlimm, nicht mal nahe dran.
+
+210
+00:11:32,637 --> 00:11:34,433
+Wir können ihm Medikamente
+gegen die Verstopfung geben.
+
+211
+00:11:34,434 --> 00:11:35,754
+Und wenn es nicht wirkt?
+
+212
+00:11:35,755 --> 00:11:40,730
+Die Verstopfung wird ihre Gedärme zerreißen
+und Fäkalien durch Ihren Körper spülen.
+
+213
+00:11:40,731 --> 00:11:45,409
+Was auch immer Sie da draußen fürchten,
+fürchten Sie den Tod nicht mehr?
+
+214
+00:11:45,410 --> 00:11:48,121
+Sie können Menschen
+offensichtlich nicht ausstehen.
+
+215
+00:11:48,122 --> 00:11:50,835
+Aber für mich ist es
+schlimmer. Verstanden?
+
+216
+00:11:50,836 --> 00:11:54,866
+Ich würde lieber hier
+sterben als da draußen leben.
+
+217
+00:12:00,126 --> 00:12:04,305
+Wenn Sie nichts gegen einen Hugh-Grant-Haarschnitt
+und einen nervenden Akzent haben,
+
+218
+00:12:04,306 --> 00:12:09,105
+kenn ich einen Chirurgen, der
+Sie in Ihrem Haus operieren würde.
+
+219
+00:12:09,106 --> 00:12:10,249
+Vielen Dank.
+
+220
+00:12:14,553 --> 00:12:17,330
+Mit dem Risiko einer
+Infektion würde Chase nicht ...
+
+221
+00:12:17,331 --> 00:12:21,228
+Er soll auch nicht im Haus von einem
+Spinner einen Eingriff vornehmen.
+
+222
+00:12:21,229 --> 00:12:22,965
+- Aber Sie sagten ...
+- Ich sagte, dass
+
+223
+00:12:22,966 --> 00:12:25,853
+Chase ihn hier im Haus betäubt,
+wir ihn ins Krankenhaus bringen,
+
+224
+00:12:25,854 --> 00:12:28,327
+ihn öffnen, unser Ding machen und
+ihn dann wieder für die Nachbehandlung
+
+225
+00:12:28,328 --> 00:12:32,086
+zurück in sein Zimmer bringen, ohne, dass er je
+herausfindet, dass wir ihn ausgetrickst haben.
+
+226
+00:12:32,087 --> 00:12:34,371
+- Einiges davon war indirekt.
+- Es ist unethisch.
+
+227
+00:12:34,372 --> 00:12:36,525
+- Er wird schlafen.
+- Er sollte seine eigenen Entscheidungen treffen
+
+228
+00:12:36,526 --> 00:12:39,914
+- selbst wenn er schläft.
+- Warum sind Sie auf seiner Seite?
+
+229
+00:12:39,915 --> 00:12:43,875
+Oh ja. Sie sind das Mädchen, das kaputte
+Typen mag, weil Ihr Mann gestorben ist.
+
+230
+00:12:43,876 --> 00:12:45,371
+Und da Chase immer noch
+nicht kaputt ist ...
+
+231
+00:12:45,372 --> 00:12:47,772
+Warum operieren wir nicht gleich ein
+durch einen Infarkt kaputtes Bein mit?
+
+232
+00:12:47,773 --> 00:12:49,232
+Wenn kümmert es, wenn er nein sagt.
+
+233
+00:12:49,233 --> 00:12:51,539
+Ich hab mein Leben riskiert, um
+zu vermeiden ein Krüppel zu werden.
+
+234
+00:12:51,540 --> 00:12:55,895
+Er tut es um Sonnenlicht und
+frische Luft zu vermeiden.
+
+235
+00:12:57,174 --> 00:12:59,969
+Wir müssen es glaubhaft rüberbringen.
+
+236
+00:13:10,975 --> 00:13:13,594
+Ich weiß, ich bin absolut schrecklich.
+
+237
+00:13:13,595 --> 00:13:18,275
+Ich weiß, es wäre das leichteste
+einfach wegzugehen, aber. ..
+
+238
+00:13:18,350 --> 00:13:20,430
+Sie sind ein guter Mensch.
+
+239
+00:13:27,363 --> 00:13:29,508
+Zählen Sie von zehn runter.
+
+240
+00:13:31,033 --> 00:13:31,918
+Zehn ...
+
+241
+00:13:32,711 --> 00:13:33,524
+Neun ..
+
+242
+00:13:34,624 --> 00:13:35,550
+Acht ...
+
+243
+00:13:37,561 --> 00:13:38,536
+Los geht's.
+
+244
+00:13:56,020 --> 00:13:58,030
+- Wie geht es Ihnen?
+- Besser.
+
+245
+00:13:58,031 --> 00:13:58,915
+Großartig.
+
+246
+00:14:00,073 --> 00:14:02,348
+Alles andere auch in Ordnung?
+
+247
+00:14:02,702 --> 00:14:04,798
+Alles was damit zu tun hat, dass ich
+House geküsst habe, ist in Ordnung.
+
+248
+00:14:04,799 --> 00:14:08,608
+Oh mein Gott. Sie haben es aus mir
+rausbekommen. Sie sind ein Genie.
+
+249
+00:14:08,609 --> 00:14:10,137
+Es ist keine große Sache.
+
+250
+00:14:10,138 --> 00:14:11,862
+Ich fühlte mich verletzlich.
+
+251
+00:14:11,863 --> 00:14:13,358
+Er ist ein Freund.
+
+252
+00:14:13,505 --> 00:14:15,520
+Und ich habe mich an ihm festgehalten.
+
+253
+00:14:15,521 --> 00:14:17,981
+Das ist komisch. Ich habe mich in der
+Vergangenheit auch an Freunden festgehalten,
+
+254
+00:14:17,982 --> 00:14:22,792
+aber niemals so, dass meine
+Zunge in ihren Mund gefallen ist.
+
+255
+00:14:23,322 --> 00:14:28,197
+Ich denk nicht an House in dem
+Sinne. Das hab ich nie getan.
+
+256
+00:14:29,389 --> 00:14:30,364
+Warum nicht?
+
+257
+00:14:32,146 --> 00:14:34,115
+Sie wissen genau, auf was
+das herauslaufen würde.
+
+258
+00:14:34,116 --> 00:14:36,744
+Es würde aufregend beginnen, aber
+wir würden uns in der Neuartigkeit,
+
+259
+00:14:36,745 --> 00:14:38,957
+der Feindseligkeit und
+dem Verbotenem verhaken.
+
+260
+00:14:38,958 --> 00:14:41,233
+Und wenn uns dann klar wird,
+
+261
+00:14:41,252 --> 00:14:44,655
+dass die flirtende Feindseligkeit nur Feindseligkeit
+ist und seine Unfähigkeit sich zu öffnen
+
+262
+00:14:44,656 --> 00:14:48,548
+nicht länger aufregend ist,
+wäre es nur noch frustrierend.
+
+263
+00:14:48,549 --> 00:14:51,262
+Und das führt dann zur unvermeidlichen
+Explosion und zu gegenseitigen Beschuldigungen
+
+264
+00:14:51,263 --> 00:14:55,423
+und wir würden zwei Monate
+nicht miteinander sprechen.
+
+265
+00:14:58,690 --> 00:15:04,345
+Es beweist zweifellos, dass Sie nie
+in dem Sinne an House gedacht haben.
+
+266
+00:15:04,647 --> 00:15:08,123
+Ich versteh Ihren Standpunkt. Ich werde in
+Zukunft sorgfältiger mit meiner Zunge umgehen.
+
+267
+00:15:08,124 --> 00:15:10,464
+Das ist nicht mein Standpunkt.
+
+268
+00:15:10,646 --> 00:15:17,666
+Vielleicht müssen Neuartigkeit, Feindseligkeit
+und das Verbotene nicht immer schlecht ausgehen.
+
+269
+00:15:21,757 --> 00:15:22,992
+Ich muss gehen.
+
+270
+00:15:24,857 --> 00:15:26,268
+Wann hast du aus?
+
+271
+00:15:26,269 --> 00:15:28,573
+Wir sollten das neue Sushilokal
+bei meiner Wohnung ausprobieren.
+
+272
+00:15:28,574 --> 00:15:30,592
+Warum verbringen wir heute
+Nacht nicht in meiner Wohnung?
+
+273
+00:15:30,593 --> 00:15:33,127
+- Wir sind doch immer bei mir.
+- Genau das meine ich.
+
+274
+00:15:33,128 --> 00:15:35,204
+Sonst haben wir abgewechselt.
+Was ist passiert?
+
+275
+00:15:35,205 --> 00:15:37,820
+- Keine Ahnung. Näher zur Arbeit.
+- Nur fünf Minuten.
+
+276
+00:15:37,821 --> 00:15:41,562
+Und meine Wohnung sieht nicht so aus, als hätte
+sie ein betrunkener Rugbyspieler eingerichtet.
+
+277
+00:15:41,563 --> 00:15:43,557
+Wir können darüber sprechen.
+Ich hab nicht wirklich ...
+
+278
+00:15:43,558 --> 00:15:48,107
+Warum müssen wir darüber sprechen?
+Kannst du nicht einfach drüber stehen?
+
+279
+00:15:48,108 --> 00:15:49,738
+Sie wissen, dass ich angepiept werde
+
+280
+00:15:49,739 --> 00:15:53,444
+wenn soviel Operationsausrüstung
+ausgeliehen wird.
+
+281
+00:15:53,866 --> 00:15:55,866
+- Er hat nicht eingewilligt.
+- Er hat in den Eingriff eingewilligt.
+
+282
+00:15:55,867 --> 00:15:57,523
+Denken Sie, dass er
+wegen dem wo klagen wird?
+
+283
+00:15:57,524 --> 00:16:00,664
+Er wird gar nicht erfahren wo. Er wird in seinem
+Haus aufwachen und sich an nichts erinnern.
+
+284
+00:16:00,665 --> 00:16:02,402
+Bis er sich in seiner
+schmutzigen Wohnung
+
+285
+00:16:02,403 --> 00:16:04,746
+eine Infektion einfängt und er
+herausfindet, dass wir ihn reingelegt haben
+
+286
+00:16:04,747 --> 00:16:07,373
+und klagt bis ihm das
+Krankenhaus gehört.
+
+287
+00:16:07,374 --> 00:16:11,161
+- Warum streiten Sie nicht mit ihr?
+- Weil sie Recht hat.
+
+288
+00:16:12,219 --> 00:16:14,823
+Es kümmert mich nicht wo er die
+Nachbehandlung bekommt, solange er sie bekommt.
+
+289
+00:16:14,824 --> 00:16:16,579
+Behalten Sie ihn hier.
+
+290
+00:16:24,574 --> 00:16:26,810
+- Geht's dir gut?
+- Ja.
+
+291
+00:16:26,868 --> 00:16:29,858
+- Wir müssen nicht reden.
+- Deine Hand.
+
+292
+00:16:32,409 --> 00:16:37,284
+Das ist komisch. Ich bekomm die
+Stigmata sonst nie vor Ostern.
+
+293
+00:16:40,881 --> 00:16:46,536
+Sagen Sie bitte Dr. Chase bescheid,
+dass der Patient bereit für ihn ist.
+
+294
+00:16:56,708 --> 00:16:59,763
+Wachen Sie auf. Ich bin's Dr. Cameron.
+
+295
+00:17:00,931 --> 00:17:04,181
+Wenn Sie mich hören
+können, blinzeln Sie.
+
+296
+00:17:04,186 --> 00:17:10,296
+Wir waren wegen Ihrer Sicherheit besorgt
+und haben Sie ins Krankenhaus gebracht.
+
+297
+00:17:11,331 --> 00:17:12,826
+Nein, es ist okay.
+
+298
+00:17:13,070 --> 00:17:14,305
+Wieso ... wieso?
+
+299
+00:17:14,330 --> 00:17:16,338
+- Nein, es ist okay.
+- Wieso ...
+
+300
+00:17:16,339 --> 00:17:18,078
+Ich wollte es Sie nur wissen lassen,
+damit Sie keinen Schock bekommen,
+
+301
+00:17:18,079 --> 00:17:20,118
+wenn Sie nach der Operation
+wieder zu sich kommen.
+
+302
+00:17:20,119 --> 00:17:24,706
+- Ich muss raus hier.
+- Es ist ok. Beruhigen Sie sich. Beruhigen Sie sich.
+
+303
+00:17:24,707 --> 00:17:26,527
+Ich werde Sie betäuben.
+
+304
+00:17:26,632 --> 00:17:28,452
+Ich werde Sie betäuben.
+
+305
+00:17:30,005 --> 00:17:32,839
+Beruhigen Sie sich.
+Ich brauch hier Hilfe.
+
+306
+00:17:32,840 --> 00:17:35,245
+Verdammt. Jemand soll herkommen.
+
+307
+00:17:43,804 --> 00:17:45,490
+Was hast du getan?
+
+308
+00:17:50,885 --> 00:17:51,860
+Gut gemacht.
+
+309
+00:17:52,225 --> 00:17:54,238
+Ihr Patient hat seinen Anwalt
+verständigt und gedroht uns zu verklagen.
+
+310
+00:17:54,239 --> 00:17:57,094
+Er ist nun auf dem Weg nach Hause
+und das vollkommen ohne Diagnose.
+
+311
+00:17:57,095 --> 00:18:00,659
+Er wird bald auf dem Weg zurück sein.
+Er ist krank. Er bricht zusammen.
+
+312
+00:18:00,660 --> 00:18:02,187
+Er verliert das Bewusstsein.
+
+313
+00:18:02,188 --> 00:18:04,295
+Ich erkläre es zu einem Notfall
+und liefere ihn wieder ein.
+
+314
+00:18:04,296 --> 00:18:05,980
+Das geht jetzt nicht mehr.
+
+315
+00:18:05,981 --> 00:18:08,291
+Sein Anwalt hat nun
+die Vorsorgevollmacht.
+
+316
+00:18:08,292 --> 00:18:09,934
+Das nächste Mal, wenn
+wir einen Notfall haben,
+
+317
+00:18:09,935 --> 00:18:12,521
+wird Larry Ruseckas Anwalt,
+das Heft in der Hand haben.
+
+318
+00:18:12,522 --> 00:18:15,197
+Ich traf die richtige Entscheidung. Wäre
+er nach dem Haupteingriff ausgeflippt,
+
+319
+00:18:15,198 --> 00:18:17,743
+- wäre es schlimmer gewesen.
+- Der Vorteil der Boss zu sein ist,
+
+320
+00:18:17,744 --> 00:18:19,915
+dass ich nicht argumentieren muss.
+
+321
+00:18:19,916 --> 00:18:22,126
+Sie alle aus dem Fall raus.
+
+322
+00:18:31,797 --> 00:18:35,053
+- Was läuft da zwischen Ihnen und Cuddy?
+- Schlimme Liebe wurde schlimmer.
+
+323
+00:18:35,054 --> 00:18:36,636
+Ernsthaft. Warum streiten
+Sie sich nicht mit ihr?
+
+324
+00:18:36,637 --> 00:18:39,212
+- Sie hat uns eben den Fall entrissen.
+- Weil es viel einfacher ist, sie zu ignorieren.
+
+325
+00:18:39,213 --> 00:18:41,155
+Überzeugen Sie den Patienten,
+dass er uns wieder rein lässt.
+
+326
+00:18:41,156 --> 00:18:43,642
+Versuchen Sie seine Verstopfung
+mit Lactulose zu lösen.
+
+327
+00:18:43,643 --> 00:18:50,078
+Wenn ihn die Sache tötet, bevor wir eine
+Diagnose haben, ist es nicht mehr lustig.
+
+328
+00:18:50,951 --> 00:18:52,653
+Wirst du weiter daran arbeiten?
+
+329
+00:18:52,654 --> 00:18:55,893
+- Ja ich hab den Fall angenommen.
+- Es gibt keinen Fall mehr. Er ist weg.
+
+330
+00:18:55,894 --> 00:18:57,698
+Du wurdest vorgeführt.
+Es ist total verrückt.
+
+331
+00:18:57,699 --> 00:19:01,879
+- Er ist unglaublich krank. Wir wissen nicht ...
+- Vergiss mal den Patienten. Was ist mit dir los?
+
+332
+00:19:01,880 --> 00:19:05,498
+Darum haben wir das Team von House verlassen,
+um diese ständige Flut von Wahnsinn zu vermeiden.
+
+333
+00:19:05,499 --> 00:19:09,464
+Darum habe ich House
+verlassen. Du wurdest gefeuert.
+
+334
+00:19:11,839 --> 00:19:15,610
+Es tut mir leid. Ich weiß,
+dass ich Sie enttäuscht habe.
+
+335
+00:19:15,611 --> 00:19:18,357
+Aber wissen Sie, wen ich sonst noch
+enttäuscht habe? So gut wie jeden.
+
+336
+00:19:18,358 --> 00:19:20,438
+Jeden der mir wichtig ist.
+
+337
+00:19:21,348 --> 00:19:23,883
+Meinen Boss, meine alten Boss ...
+
+338
+00:19:24,971 --> 00:19:26,077
+Meinen Freund.
+
+339
+00:19:29,707 --> 00:19:31,917
+Ich habe das für Sie getan.
+
+340
+00:19:34,403 --> 00:19:37,393
+Ich werde Sie nicht wieder enttäuschen.
+
+341
+00:19:49,126 --> 00:19:52,513
+Es ist wie die
+Tapferkeitsmedaille für Idiotie.
+
+342
+00:19:52,514 --> 00:19:55,172
+Wenn die Konföderation
+Moskitos gehabt hätte,
+
+343
+00:19:55,173 --> 00:19:59,492
+hätten wir jetzt alle einen Südstaatenakzent
+und ich würde Foreman weniger zahlen.
+
+344
+00:19:59,493 --> 00:20:01,867
+Sie hat dich aus dem Fall geschmissen.
+
+345
+00:20:01,868 --> 00:20:04,371
+Das ist passiert, weil du
+sie nicht darauf ansprichst.
+
+346
+00:20:04,372 --> 00:20:07,233
+Sie benimmt sich komisch,
+die Dinge werden anders.
+
+347
+00:20:07,234 --> 00:20:11,522
+Du verstehst aber, dass anders
+impliziert, dass es Unterschiede gibt.
+
+348
+00:20:11,523 --> 00:20:13,578
+Sie hat mich eine Million
+Mal vorher vorgeführt.
+
+349
+00:20:13,579 --> 00:20:16,044
+Nein, sie hat dich immer gezüchtigt.
+
+350
+00:20:16,045 --> 00:20:18,154
+Und du kamst immer zu mir,
+um dich darüber zu beschweren.
+
+351
+00:20:18,155 --> 00:20:21,770
+Daher benimmst du dich
+auch anders. Du hast Angst.
+
+352
+00:20:21,771 --> 00:20:24,844
+Du hast Angst dich
+auf etwas einzulassen.
+
+353
+00:20:24,845 --> 00:20:26,486
+Was hat das mit Angst zu tun?
+
+354
+00:20:26,487 --> 00:20:27,917
+Es ist vernünftig.
+
+355
+00:20:28,282 --> 00:20:31,976
+Emotional erwachsene Menschen, die
+zusammen arbeiten verabreden sich nicht.
+
+356
+00:20:31,977 --> 00:20:34,313
+Es wird garantiert beendet
+und garantiert hässlich.
+
+357
+00:20:34,314 --> 00:20:37,452
+Jede Beziehung die nicht mit einem
+Bruch endet, endet mit dem Tod.
+
+358
+00:20:37,453 --> 00:20:40,635
+Alles fällt am Ende auseinander.
+So siehst du die Welt.
+
+359
+00:20:40,636 --> 00:20:46,007
+Als logische Folge dessen, vergisst du
+jede Chance auf Glück einfach zu ergreifen.
+
+360
+00:20:46,008 --> 00:20:48,738
+Warum ist dir das denn so wichtig?
+
+361
+00:20:48,953 --> 00:20:50,253
+Cuddy und ich kommen klar.
+
+362
+00:20:50,254 --> 00:20:52,519
+Die einzige Person, die sich
+hier darüber aufregt, bist du.
+
+363
+00:20:52,520 --> 00:20:55,316
+Ich will nicht, dass es dir nur gut
+geht. Ich will, dass du glücklich bist.
+
+364
+00:20:55,317 --> 00:20:57,252
+Ich denke wenn du dich
+mit ihr verabredest ...
+
+365
+00:20:57,253 --> 00:21:00,803
+Ist dir der Begriff
+"stellvertretend" vertraut?
+
+366
+00:21:00,804 --> 00:21:03,258
+- Wenn ich sie einladen wöllte ...
+- Du hast sie schon eingeladen.
+
+367
+00:21:03,259 --> 00:21:05,566
+Letztes Jahr. Was ist
+denn damals passiert?
+
+368
+00:21:05,567 --> 00:21:08,591
+Ich weiß nicht. Ich
+war nicht interessiert.
+
+369
+00:21:08,592 --> 00:21:10,790
+Falsch. Du warst interessiert.
+
+370
+00:21:10,791 --> 00:21:13,067
+Aber Amber hat sich deine
+Genitalien zuerst geschnappt.
+
+371
+00:21:13,068 --> 00:21:15,103
+Aber nun bist du Single
+und fühlst dich miserabel,
+
+372
+00:21:15,104 --> 00:21:17,412
+weil du glaubst, es ist noch
+zu früh für eine neue Beziehung.
+
+373
+00:21:17,413 --> 00:21:19,340
+Also versuchst du, dass
+es mir miserabel geht.
+
+374
+00:21:19,341 --> 00:21:22,896
+Bitte besorg dir eine Freundin
+oder ein Leben oder sonst was.
+
+375
+00:21:22,897 --> 00:21:23,899
+Für mich.
+
+376
+00:21:26,817 --> 00:21:28,310
+Besser oder schlechter?
+
+377
+00:21:28,311 --> 00:21:30,623
+Schlechter. Die
+Medikamente wirken nicht.
+
+378
+00:21:30,624 --> 00:21:33,147
+Ich denke wir sollten die Operation
+wie geplant in seinem Haus machen.
+
+379
+00:21:33,148 --> 00:21:34,981
+Dann war einer von uns
+nicht ganz aufmerksam,
+
+380
+00:21:34,982 --> 00:21:37,125
+denn ich dachte, dass die
+Operationssache nur ein Trick war.
+
+381
+00:21:37,126 --> 00:21:39,032
+Wir haben den Raum vorbereitet. Wir
+haben die Abdeckungen aufgehängt.
+
+382
+00:21:39,033 --> 00:21:42,356
+Es ist zehn Mal steriler als jede mobile
+Operationsstation auf einem Kampffeld.
+
+383
+00:21:42,357 --> 00:21:44,048
+Wir brauchen dann noch Trapper John.
+
+384
+00:21:44,049 --> 00:21:46,421
+Chase will nichts mehr mit
+der Operation zu tun haben.
+
+385
+00:21:46,422 --> 00:21:50,020
+- Vielleicht könnten Sie mit ihm sprechen.
+- Ich versteh doch kein Wort, von dem was er sagt.
+
+386
+00:21:50,021 --> 00:21:54,191
+Taub, haben Sie nachher noch was vor?
+
+387
+00:21:55,211 --> 00:21:56,836
+Blut in dem Bereich.
+
+388
+00:21:58,105 --> 00:21:59,523
+Nicht da, wo ich hingucke.
+
+389
+00:21:59,524 --> 00:22:01,214
+Woher soll ich wissen, wo du hin siehst?
+
+390
+00:22:01,215 --> 00:22:03,315
+Hier ist ein Tipp. Es
+ist der blutige Teil.
+
+391
+00:22:03,316 --> 00:22:05,653
+Das ganze Ding ist blutig. Da
+ist ein Loch in seinem Körper.
+
+392
+00:22:05,654 --> 00:22:06,864
+Als ob du das noch nie gemacht hast.
+
+393
+00:22:06,865 --> 00:22:07,978
+- Benutz den Sauger.
+- Mach ich.
+
+394
+00:22:07,979 --> 00:22:09,730
+Und eigentlich habe ich
+das noch nie gemacht,
+
+395
+00:22:09,731 --> 00:22:12,558
+weil ich Medizin studiert habe und
+nicht an einer Pflegerschule war.
+
+396
+00:22:12,559 --> 00:22:14,996
+Wollen Sie sehen, ob Ihr
+Goldesel wirklich aus Gold ist?
+
+397
+00:22:14,997 --> 00:22:18,377
+Ich schneide das letzte
+Teil aus dem Darm.
+
+398
+00:22:21,604 --> 00:22:22,612
+Naht.
+
+399
+00:22:26,496 --> 00:22:28,121
+Schleimhaut ist rosa.
+
+400
+00:22:28,561 --> 00:22:29,666
+Flache Zotten.
+
+401
+00:22:30,039 --> 00:22:32,889
+Intestinale Verkümmerung.
+Es ist Morbus Whipple.
+
+402
+00:22:32,890 --> 00:22:35,642
+Erklärt die Anfälle
+und die Magenschmerzen.
+
+403
+00:22:35,643 --> 00:22:37,315
+Kleine Blutung hier.
+
+404
+00:22:37,672 --> 00:22:38,672
+Ausbrennen.
+
+405
+00:22:40,856 --> 00:22:42,741
+He, wartet. Das Gas ....
+
+406
+00:22:51,109 --> 00:22:53,238
+Das passiert andauernd bei Operationen.
+
+407
+00:22:53,239 --> 00:22:56,458
+War nur das Gas, das sich in der Verstopfung
+gebildet hat. Nichts was eine Klage wert wäre.
+
+408
+00:22:56,459 --> 00:22:59,190
+Behandelt die Verbrennung und gebt
+ihm Antibiotika für Morbus Whipple.
+
+409
+00:22:59,191 --> 00:23:01,271
+Und er wird wieder werden.
+
+410
+00:23:10,494 --> 00:23:12,850
+Hey. Das ist nett von dir.
+
+411
+00:23:13,705 --> 00:23:14,705
+Hi.
+
+412
+00:23:17,719 --> 00:23:19,084
+Geht es ihm gut?
+
+413
+00:23:19,953 --> 00:23:22,982
+Verbrennungen verheilen gut
+und er ist auch sonst stabil.
+
+414
+00:23:22,983 --> 00:23:26,326
+Gut. Dann könnte ich
+heute bei dir übernachten,
+
+415
+00:23:26,327 --> 00:23:29,057
+- wenn du magst.
+- Ich kann nicht.
+
+416
+00:23:30,121 --> 00:23:32,306
+Du wirst doch nicht wieder
+hier schlafen wollen ...
+
+417
+00:23:32,307 --> 00:23:34,723
+Du wirst den Mangel an
+Schwestern bemerkt haben.
+
+418
+00:23:34,724 --> 00:23:36,999
+Weil es nicht dein Fall ist.
+
+419
+00:23:37,121 --> 00:23:40,589
+Du kannst das doch nicht ernsthaft
+als Entschuldigung für ...
+
+420
+00:23:40,590 --> 00:23:41,858
+Warte hier.
+
+421
+00:23:45,931 --> 00:23:47,033
+Ihr Magen?
+
+422
+00:23:47,158 --> 00:23:48,913
+Meine Beine sind taub.
+
+423
+00:23:49,081 --> 00:23:51,551
+Ich kann sie nicht mehr fühlen.
+
+424
+00:23:54,371 --> 00:23:57,557
+Neues Symptom. Periphere Neuropathie.
+Wurde schlimmer mit den Antibiotika.
+
+425
+00:23:57,558 --> 00:23:59,250
+- Es ist nicht Whipples.
+- Porphyrie.
+
+426
+00:23:59,251 --> 00:24:00,476
+Die Leber ist ok.
+
+427
+00:24:00,477 --> 00:24:03,023
+- Amyloidose.
+- Wir hätten es in den Gedärmen gesehen.
+
+428
+00:24:03,024 --> 00:24:05,477
+Was hätten wir in den Gedärmen gesehen?
+
+429
+00:24:05,478 --> 00:24:07,501
+Rosa Schleimhaut. Flache Zotten.
+
+430
+00:24:07,502 --> 00:24:09,610
+Es ist nicht Whipples,
+es könnte Zöliakie sein.
+
+431
+00:24:09,611 --> 00:24:11,731
+Weizenallergie bedeutet, dass
+er keine Nährstoffe absorbiert.
+
+432
+00:24:11,732 --> 00:24:13,860
+Erklärt die Anfälle, den
+Magen und nun die Nerven.
+
+433
+00:24:13,861 --> 00:24:18,530
+-  Wir müssen einen Bluttest auf Zöliakie machen.
+- Nicht schnell genug, nicht treffsicher genug.
+
+434
+00:24:18,531 --> 00:24:20,084
+Stopft ihn mit Weizen voll
+
+435
+00:24:20,085 --> 00:24:22,540
+und macht dann eine Endoskopie, um zu
+sehen, ob es seinen Zwölffingerdarm angreift.
+
+436
+00:24:22,541 --> 00:24:25,444
+- Schauen wir ob es eine allergische Reaktion gibt.
+- Sein Magen ist gerade explodiert.
+
+437
+00:24:25,445 --> 00:24:27,962
+Es könnte ein wenig schmerzhaft
+für ihn sein, jetzt schon zu essen.
+
+438
+00:24:27,963 --> 00:24:30,778
+Darauf will House raus. Es gibt dafür
+keinen diagnostischen Hintergrund.
+
+439
+00:24:30,779 --> 00:24:33,325
+Er versucht dem Patienten Schmerzen zu bereiten,
+um ihn zu zwingen ins Krankenhaus zu kommen.
+
+440
+00:24:33,326 --> 00:24:34,719
+Es ist ein zulässiger Test.
+
+441
+00:24:34,720 --> 00:24:36,968
+So wie der Bluttest, der
+dazu noch schmerzfrei ist.
+
+442
+00:24:36,969 --> 00:24:42,739
+Foreman hören Sie auf diese kleine Stimme
+in ihrem Kopf, ... die aus dem Telefon kommt.
+
+443
+00:24:42,740 --> 00:24:44,040
+Stopft ihn voll.
+
+444
+00:24:44,493 --> 00:24:48,059
+Nicht. Du kennst House.
+Du weißt, ich habe Recht.
+
+445
+00:24:48,060 --> 00:24:50,270
+Gut, machen wir beide Tests.
+
+446
+00:24:57,774 --> 00:25:02,389
+- Ich bin nicht hier, um den Verkuppler zu spielen.
+- Okay.
+
+447
+00:25:02,764 --> 00:25:04,584
+House ist im Grunde ...
+
+448
+00:25:05,265 --> 00:25:09,880
+Gut, er hat mich beschuldigt
+an Ihnen interessiert zu sein.
+
+449
+00:25:11,326 --> 00:25:13,424
+Oh, er versucht nur vom
+eigentlichen Thema abzulenken.
+
+450
+00:25:13,425 --> 00:25:14,357
+Ich weiß.
+
+451
+00:25:14,482 --> 00:25:16,143
+Aber ich habe ...
+
+452
+00:25:19,253 --> 00:25:20,748
+Ich hatte immer ...
+
+453
+00:25:21,139 --> 00:25:22,139
+schon ...
+
+454
+00:25:22,601 --> 00:25:24,421
+einige Gefühle für Sie.
+
+455
+00:25:27,067 --> 00:25:29,440
+Wollen Sie sagen, dass Sie
+sich mit mir ausgehen wollen?
+
+456
+00:25:29,441 --> 00:25:30,481
+Nein. Ich ...
+
+457
+00:25:31,212 --> 00:25:36,217
+Es wäre nicht fair gegenüber
+House und noch zu früh nach Amber.
+
+458
+00:25:36,733 --> 00:25:43,428
+- Aber Sie dachten, Sie sagen es einfach mal.
+- Ja, ich dachte, Sie sollten es wissen.
+
+459
+00:25:45,434 --> 00:25:48,554
+Lassen Sie uns morgen Abend essen gehen.
+
+460
+00:25:52,885 --> 00:25:54,872
+Oder vielleicht wäre es
+besser wenn wir nur ...
+
+461
+00:25:54,873 --> 00:25:55,873
+Sex hätten.
+
+462
+00:25:58,156 --> 00:26:00,926
+- Verzeihung?
+- Vor dem Büro von House.
+
+463
+00:26:00,927 --> 00:26:03,489
+Ich meine, ich will alle
+Möglichkeiten ausschöpfen.
+
+464
+00:26:03,490 --> 00:26:06,231
+Ich vermute es geht hier darum,
+ihn eifersüchtig zu machen
+
+465
+00:26:06,232 --> 00:26:11,432
+und ihm klar zu machen, dass er
+doch eine Beziehung mit mir will?
+
+466
+00:26:13,478 --> 00:26:15,364
+Glauben Sie, es könnte klappen?
+
+467
+00:26:15,365 --> 00:26:16,925
+Sie sind ein Idiot.
+
+468
+00:26:16,948 --> 00:26:22,993
+Vertrauen Sie mir. Es ist für alle
+besser, wenn House und ich nicht ausgehen.
+
+469
+00:26:30,746 --> 00:26:32,513
+Sind Sie sicher, dass
+das der beste Test ist?
+
+470
+00:26:32,514 --> 00:26:35,089
+Nein. Aber Sie haben uns
+irgendwie die Hände gefesselt.
+
+471
+00:26:35,090 --> 00:26:40,680
+Sobald es Ihre Gedärme angreift,
+sehe ich es mir durch ein Endoskop an.
+
+472
+00:26:40,907 --> 00:26:45,311
+Stewart, ich weiß sie wollen
+nicht darüber reden, aber ...
+
+473
+00:26:45,312 --> 00:26:48,102
+Leute die angeschossen wurden,
+leiden oft unter einer PTBS.
+
+474
+00:26:48,103 --> 00:26:50,450
+Es ist nichts wofür
+man sich schämen muss.
+
+475
+00:26:50,451 --> 00:26:54,100
+Es ist mit Medikamenten und
+einer Therapie gut behandelbar.
+
+476
+00:26:54,101 --> 00:26:57,676
+Es ist keine posttraumatische
+Belastungsstörung.
+
+477
+00:26:57,711 --> 00:27:03,041
+Meine Freundin war bei mir als ich
+angeschossen wurde und sie starb.
+
+478
+00:27:04,923 --> 00:27:06,288
+Es tut mir leid.
+
+479
+00:27:06,696 --> 00:27:10,573
+Aber genau das meine ich. Ich
+habe selbst jemanden verloren.
+
+480
+00:27:10,574 --> 00:27:12,849
+Ich weiß, es ist traumatisch.
+
+481
+00:27:13,453 --> 00:27:17,158
+Nein, was ... was ich
+versuche zu sagen ist ...
+
+482
+00:27:18,645 --> 00:27:21,505
+Ich war schon vor der Schießerei so.
+
+483
+00:27:21,848 --> 00:27:23,668
+Seit ich ein Kind war.
+
+484
+00:27:24,082 --> 00:27:27,448
+Alles war ... schwer für mich.
+
+485
+00:27:29,526 --> 00:27:31,435
+Ich ging nie viel raus.
+
+486
+00:27:31,560 --> 00:27:37,868
+Und ... wenn ich es tat ...
+hatte ich Panikattacken.
+
+487
+00:27:38,437 --> 00:27:40,387
+Und körperliche Schmerzen.
+
+488
+00:27:40,806 --> 00:27:44,966
+Nein es war schlimmer. Es
+war als würde ich sterben.
+
+489
+00:27:45,597 --> 00:27:47,287
+Dann traf ich Angela.
+
+490
+00:27:47,900 --> 00:27:54,165
+Sie war der einzige ... Grund, ...
+warum ich jemals rausgehen wollte.
+
+491
+00:27:56,378 --> 00:27:58,003
+Aber dann starb sie.
+
+492
+00:27:58,182 --> 00:27:59,182
+Und ...
+
+493
+00:28:12,722 --> 00:28:14,997
+Der Bluttest ist bald fertig.
+
+494
+00:28:21,563 --> 00:28:23,869
+Ich schätze, das ist eine neue Methode.
+
+495
+00:28:23,870 --> 00:28:26,559
+Hey, wissen Sie noch diese Idee
+die Cameron hatte. Zu versuchen
+
+496
+00:28:26,560 --> 00:28:28,683
+den Patienten zu foltern, bis
+er sich selbst einliefern lässt?
+
+497
+00:28:28,684 --> 00:28:30,492
+Sehr gut sogar. Es war nur Ihre Idee.
+
+498
+00:28:30,493 --> 00:28:32,180
+Wollen Sie, dass ich den Test verzögere?
+
+499
+00:28:32,181 --> 00:28:35,310
+Wow. Alle haben heute so tolle Ideen.
+
+500
+00:28:35,528 --> 00:28:37,878
+Also denken Sie, der Patient
+will nicht raus, weil rausgehen
+
+501
+00:28:37,879 --> 00:28:40,157
+Schmerzen verursacht. Also machen wir
+ihm das Zuhausebleiben schmerzhafter.
+
+502
+00:28:40,158 --> 00:28:41,674
+Das ergibt eigentlich Sinn.
+
+503
+00:28:41,675 --> 00:28:44,126
+Sie werden seine Schmerzen verstärken, aber
+nicht genug, damit es einen Unterschied macht.
+
+504
+00:28:44,127 --> 00:28:46,475
+- Er bekommt Morphin.
+- Er bekommt jetzt Morphin.
+
+505
+00:28:46,476 --> 00:28:48,750
+Aber sehr bald wird er
+das Gegenteil bekommen.
+
+506
+00:28:48,751 --> 00:28:53,555
+Denn wenn Sie die Medikamente aufstocken, werden
+Sie Cameron einen Tropf mit Kochsalzlösung geben.
+
+507
+00:28:53,556 --> 00:28:55,385
+Und warum denken Sie, werde ich das tun?
+
+508
+00:28:55,386 --> 00:28:56,653
+Aus dem gleichen Grund, warum
+Sie den Eingriff gemacht haben.
+
+509
+00:28:56,654 --> 00:29:03,219
+- Das war, weil es ein Notfall war.
+- Nein. Es war, weil Ihre Ehe auseinander bricht.
+
+510
+00:29:03,343 --> 00:29:07,285
+Wenn Sie Ehebruch gestehen, neigen die
+Dinge dazu, sich zum Schlechten zu wenden.
+
+511
+00:29:07,286 --> 00:29:10,137
+Wenn ein Teil Ihres Lebens zur
+Titanic wird, machen Sie aus allem,
+
+512
+00:29:10,138 --> 00:29:13,205
+was bleibt ein Rettungsfloß. Deswegen
+ist Ihnen Ihre Arbeit wichtiger.
+
+513
+00:29:13,206 --> 00:29:17,855
+Darum haben Sie die Operation durchgeführt
+und schlagen sich die Nächte um die Ohren.
+
+514
+00:29:17,856 --> 00:29:20,781
+Und darum werden Sie auch das machen.
+
+515
+00:29:21,422 --> 00:29:23,806
+Sie hat mich auf die
+Couch schlafen geschickt.
+
+516
+00:29:23,807 --> 00:29:25,493
+Nur für ein paar Nächte.
+
+517
+00:29:25,494 --> 00:29:29,173
+Ich mach das nicht, um meinen Job zu retten.
+Ich mache das, um sein Leben zu retten.
+
+518
+00:29:29,174 --> 00:29:30,147
+Richtig.
+
+519
+00:29:30,882 --> 00:29:34,002
+Das ist es, was wir jedem sagen werden.
+
+520
+00:30:56,097 --> 00:31:01,246
+Hast du darüber nachgedacht, dass du gerade
+jetzt nicht zu mir kommen wolltest?
+
+521
+00:31:01,247 --> 00:31:03,878
+Ric Ocasek würde mich
+umbringen, wenn ich ...
+
+522
+00:31:03,879 --> 00:31:06,499
+- Oh, du meinst Cuddy.
+- Ja, sie ist ein bisschen bescheuert.
+
+523
+00:31:06,500 --> 00:31:10,850
+Aber sie ist schön, intelligent, lustig
+und das wichtigste, sie kann dich ausstehen.
+
+524
+00:31:10,851 --> 00:31:14,168
+Ja. Ich bin hergekommen, damit du mir
+über Cuddy einen Vortrag halten kannst,
+
+525
+00:31:14,169 --> 00:31:17,309
+nicht weil da ein Killer-Moskito
+mich durch meine Wohnung jagt.
+
+526
+00:31:17,310 --> 00:31:21,489
+House, da ist kein Moskito.
+Es geht hier nur um Cuddy.
+
+527
+00:31:21,490 --> 00:31:24,795
+Ah, sie geht mir auf
+die Nerven. Poetisch.
+
+528
+00:31:24,796 --> 00:31:27,923
+- Hast du dieses Insekt gesehen?
+- Hast du diesen Biss gesehen?
+
+529
+00:31:27,924 --> 00:31:30,472
+Nein. Was ich gesehen habe,
+ist eine eiternde Wunde,
+
+530
+00:31:30,473 --> 00:31:33,179
+die du aufgekratzt und zu einem
+gangränösen Zustand verstümmelt hast.
+
+531
+00:31:33,180 --> 00:31:34,935
+Wahnhafter Parasitismus.
+
+532
+00:31:35,067 --> 00:31:36,625
+Ich bilde mir Dinge nicht ein.
+
+533
+00:31:36,626 --> 00:31:40,624
+House, du bist ein Medikamentenabhängiger.
+Du bildest dir andauernd Dinge ein.
+
+534
+00:31:40,625 --> 00:31:43,355
+Du wurdest in der Nacht gebissen,
+in der du sie geküsst hast.
+
+535
+00:31:43,356 --> 00:31:46,400
+Dein Juckreiz wird schlimmer,
+immer wenn über sie nachdenkst.
+
+536
+00:31:46,401 --> 00:31:48,091
+Du musst das angehen.
+
+537
+00:31:48,198 --> 00:31:49,389
+Sie ist mein Boss.
+
+538
+00:31:49,390 --> 00:31:51,238
+Nein, du hast keine Angst vor Autorität.
+
+539
+00:31:51,239 --> 00:31:54,024
+Du hast Angst davor, dass
+sie die Richtige für dich ist.
+
+540
+00:31:54,025 --> 00:31:57,119
+Du hast Angst die Chance zu ergreifen
+weil es deine beste Chance ist.
+
+541
+00:31:57,120 --> 00:32:01,249
+Wenn es mit ihr nicht läuft, ist
+da draußen vielleicht niemand mehr.
+
+542
+00:32:01,250 --> 00:32:03,144
+Ich rationalisiere nicht.
+
+543
+00:32:03,565 --> 00:32:05,775
+Ich bin alleine besser dran.
+
+544
+00:32:06,045 --> 00:32:07,796
+Außerdem, hast du zuletzt
+ihren Arsch gesehen?
+
+545
+00:32:07,797 --> 00:32:10,063
+- Du bleibst nicht hier.
+- Oh, komm schon.
+
+546
+00:32:10,064 --> 00:32:12,664
+Nein. Du kannst nach Hause gehen.
+
+547
+00:32:13,501 --> 00:32:20,391
+Oder ... du gehst zu Cuddy, ... läutest an
+ihrer Tür und du lädst sie zu einem Date ein
+
+548
+00:32:20,513 --> 00:32:22,593
+wie das normale Leute tun.
+
+549
+00:32:22,773 --> 00:32:24,148
+Um 3:00 morgens?
+
+550
+00:32:24,273 --> 00:32:26,355
+Wann schlafen normale Menschen?
+
+551
+00:32:26,356 --> 00:32:27,392
+Bye bye.
+
+552
+00:32:33,442 --> 00:32:36,905
+- Hat er genug Schmerzen, um schon reinzukommen?
+- Nein.
+
+553
+00:32:36,906 --> 00:32:39,710
+- Antikörpertest schon zurück?
+- Ergebnislos.
+
+554
+00:32:39,711 --> 00:32:41,998
+- Warum sind Sie dann hier?
+- Ich habe sie vermisst.
+
+555
+00:32:41,999 --> 00:32:44,079
+- Endoskopie?
+- Ergebnislos.
+
+556
+00:32:44,451 --> 00:32:47,051
+Gut, dann machen sie's noch einmal.
+
+557
+00:32:48,441 --> 00:32:52,457
+Ich weiß, es ist ätzend, aber ich
+muss noch mal ihren Magen untersuchen.
+
+558
+00:32:52,458 --> 00:32:53,922
+Es schmerzt wirklich.
+
+559
+00:32:53,923 --> 00:32:55,594
+Ich weiß. Tut mir leid.
+
+560
+00:32:55,595 --> 00:32:58,847
+Versuchen Sie, sich auf den Rücken
+zu legen und öffnen Sie Ihren Mund.
+
+561
+00:32:58,848 --> 00:33:00,278
+Ich kann nicht ...
+
+562
+00:33:01,756 --> 00:33:02,963
+Er ist weg.
+
+563
+00:33:04,437 --> 00:33:06,522
+- Ist das irgendwas?
+- Kein Puls.
+
+564
+00:33:06,523 --> 00:33:08,799
+- Wiederbelebung beginnen.
+- Nehmen Sie die Paddles.
+
+565
+00:33:08,800 --> 00:33:10,219
+Nehmen Sie die Paddles!
+
+566
+00:33:10,220 --> 00:33:11,640
+Wen rufen Sie an?
+
+567
+00:33:11,641 --> 00:33:15,155
+Pizza. Mögen Sie Sardellen?
+Ich rufe den Anwalt an.
+
+568
+00:33:15,156 --> 00:33:17,877
+Echter Notfall.
+Er wird der Einlieferung zustimmen.
+
+569
+00:33:17,878 --> 00:33:19,741
+- Er stirbt.
+- Genau.
+
+570
+00:33:20,511 --> 00:33:23,501
+Hi. Tut mir leid, dass ich Sie wecke.
+Ihr Introvertierter hat einen Herzinfarkt.
+
+571
+00:33:23,502 --> 00:33:25,207
+Wenn wir sein Herz
+nicht wiederbeleben ...
+
+572
+00:33:25,208 --> 00:33:27,793
+Er kann mit Sauerstoff und
+Wiederbelebung 15 Minuten überleben.
+
+573
+00:33:27,794 --> 00:33:30,195
+Wir können ihn in fünf Minuten
+in ein Krankenhaus bringen.
+
+574
+00:33:30,196 --> 00:33:31,431
+Anwalt sagt ja.
+
+575
+00:33:31,548 --> 00:33:33,132
+Wiederbelebung fortsetzen.
+
+576
+00:33:33,133 --> 00:33:35,467
+2123 Holden Green.
+Patient ohne Vitalzeichen.
+
+577
+00:33:35,468 --> 00:33:37,158
+- Klar.
+- Warten Sie!
+
+578
+00:33:40,064 --> 00:33:41,675
+Ich habe einen Puls.
+
+579
+00:33:41,676 --> 00:33:47,136
+Annullieren Sie die Ambulanz. Er
+ist stabil genug, um hier zu bleiben.
+
+580
+00:33:49,429 --> 00:33:53,027
+Sein Herz ist wieder im
+Sinusrhythmus, aber es schlägt schwach.
+
+581
+00:33:53,028 --> 00:33:54,879
+Taub hat einen temporären
+Herzschrittmacher eingesetzt.
+
+582
+00:33:54,880 --> 00:33:56,629
+Damit schlägt sein Herz vorerst.
+
+583
+00:33:56,630 --> 00:34:00,256
+Hey, Cameron, wie würde
+Ihnen Ihr alter Job gefallen?
+
+584
+00:34:00,257 --> 00:34:02,655
+Ich frage, weil das der
+einzige Weg ist, Sie zu feuern.
+
+585
+00:34:02,656 --> 00:34:05,422
+'Tschuldigung. In der Notaufnahme schätzen wir es
+eigentlich, sterbende Leute wiederzubeleben,
+
+586
+00:34:05,423 --> 00:34:07,690
+- nicht sie einfach fallen zu lassen.
+- Könnte ein Lymphom sein.
+
+587
+00:34:07,691 --> 00:34:10,171
+Das hätten wir im Bauch gesehen.
+
+588
+00:34:10,172 --> 00:34:11,504
+Es muss ein Gift sein.
+
+589
+00:34:11,505 --> 00:34:12,870
+Phosphorsäureester.
+
+590
+00:34:12,945 --> 00:34:15,747
+Wir haben den Ort mehrfach
+überprüft. Es ist komplett sauber.
+
+591
+00:34:15,748 --> 00:34:17,585
+Da sind Rosenblätter beim Vordereingang.
+
+592
+00:34:17,586 --> 00:34:19,676
+Wenn er nicht einen Strauß
+pro Tag isst, könnte er nicht ...
+
+593
+00:34:19,677 --> 00:34:23,902
+- Wie sauber?
+- Sehr. Er hat eine kleine Zwangsstörung.
+
+594
+00:34:29,079 --> 00:34:32,567
+- Wie oft waschen Sie Ihre Badewanne?
+- Alle paar Tage.
+
+595
+00:34:32,568 --> 00:34:35,209
+- Bleichmittel und Ammoniak?
+- Ja.
+
+596
+00:34:44,189 --> 00:34:47,316
+Wissen Sie, wie Kinder im
+Bad Spielzeugsoldat spielen?
+
+597
+00:34:47,317 --> 00:34:51,960
+Er mag es die Schlacht von Cypress nachzuspielen.
+Und das dreimal die Woche mit richtigem Gas.
+
+598
+00:34:51,961 --> 00:34:54,046
+Ammoniak und Bleichmittel
+erzeugen Chlorgas.
+
+599
+00:34:54,047 --> 00:34:55,347
+Hoch fettlöslich.
+
+600
+00:34:55,413 --> 00:34:59,492
+Nach den Magenschmerzen verlor er Gewicht. Erklärt,
+wieso seine Symptome immer schlimmer wurden.
+
+601
+00:34:59,493 --> 00:35:02,256
+Geben Sie ihm parenterale
+Steroide und Natriumkarbonat.
+
+602
+00:35:02,257 --> 00:35:05,071
+Auch wenn Sie Recht haben, wird der
+Herzschrittmacher letztendlich versagen.
+
+603
+00:35:05,072 --> 00:35:07,741
+Und ich habe nicht die Fähigkeit,
+einen permanenten einzusetzen.
+
+604
+00:35:07,742 --> 00:35:11,725
+Nun, vielleicht hat das Gift sein
+Herz nicht komplett abgeschossen.
+
+605
+00:35:11,726 --> 00:35:16,741
+Und Sie müssen sich nicht für den
+Rest Ihres Lebens schuldig fühlen.
+
+606
+00:35:16,742 --> 00:35:20,824
+Wie platziere ich die Drähte an die exakte Stelle
+an der rechten Herzkammer ohne Fluoroskopie?
+
+607
+00:35:20,825 --> 00:35:21,818
+Der Antrieb?
+
+608
+00:35:22,326 --> 00:35:24,410
+Taub hat den temporären eingesetzt.
+
+609
+00:35:24,411 --> 00:35:27,320
+Das kann man nicht wie beim
+Eselschwanz-Spiel machen.
+
+610
+00:35:27,321 --> 00:35:29,123
+Ein permanenter Schrittmacher
+braucht Präzision.
+
+611
+00:35:29,124 --> 00:35:31,333
+Wir können das portable
+Röntgengerät benutzen.
+
+612
+00:35:31,334 --> 00:35:33,127
+- Es ist nicht in Echtzeit.
+- Ultraschallbild.
+
+613
+00:35:33,128 --> 00:35:35,593
+Und was passiert, wenn ich bei ihm
+eine Herzrhythmusstörung auslöse,
+
+614
+00:35:35,594 --> 00:35:37,500
+weil der Ultraschall
+nicht präzise genug ist?
+
+615
+00:35:37,501 --> 00:35:38,576
+Er stirbt.
+
+616
+00:35:38,701 --> 00:35:42,426
+Genau deswegen will nicht ich
+derjenige sein, der ihn umbringt.
+
+617
+00:35:42,427 --> 00:35:43,430
+Danke.
+
+618
+00:35:44,473 --> 00:35:47,512
+Du weißt, dass ich nein sagen muss.
+Aber du bist trotzdem gekommen.
+
+619
+00:35:47,513 --> 00:35:49,826
+Du wolltest einfach einen
+Grund, wütend auf mich zu sein.
+
+620
+00:35:49,827 --> 00:35:52,141
+Wenn da zwischen uns etwas
+nicht stimmt, dann ...
+
+621
+00:35:52,142 --> 00:35:54,027
+- Dann ...
+- Vergiss es.
+
+622
+00:35:54,135 --> 00:35:58,100
+Weißt du, wieso wir die
+Nächte bei mir verbringen?
+
+623
+00:35:59,070 --> 00:36:06,323
+Denn wenn wir sie bei dir verbringen, ... könnte
+ich dir sagen, dass du mich nicht da haben willst.
+
+624
+00:36:06,324 --> 00:36:09,204
+Warum würde ich dich einladen,
+wenn ich dich nicht da haben möchte?
+
+625
+00:36:09,205 --> 00:36:13,834
+Du hast mich jeden Morgen rausgeschmissen.
+Du hast mir nie eine Schublade angeboten.
+
+626
+00:36:13,835 --> 00:36:17,133
+Du hast nie deinen Schrank
+für mich ausgeräumt.
+
+627
+00:36:17,134 --> 00:36:19,149
+Ich war nur ein Besucher.
+
+628
+00:36:21,077 --> 00:36:23,807
+Wie lange fühlst du dich schon so?
+
+629
+00:36:24,950 --> 00:36:26,181
+Schon immer.
+
+630
+00:36:35,760 --> 00:36:41,870
+Ich weiß, es ist hart für dich, weil
+du deinen Ehemann verloren hast, aber ...
+
+631
+00:36:43,009 --> 00:36:46,129
+Ich kann dir nicht für immer nachrennen.
+
+632
+00:37:02,842 --> 00:37:04,676
+Ich hab's gerade bei Ihnen zu
+Hause versucht. Wo sind Sie?
+
+633
+00:37:04,677 --> 00:37:07,076
+Nicht zu Hause. Gut oder schlecht?
+
+634
+00:37:07,077 --> 00:37:12,243
+Schlecht. Die lebenswichtigen Organe versagen.
+Die Unterleibsschmerzen werden schlimmer.
+
+635
+00:37:12,244 --> 00:37:15,323
+Bedeutet, dass wir zu spät
+waren mit der Behandlung.
+
+636
+00:37:15,324 --> 00:37:17,509
+Sagen Sie dem Anwalt,
+seine Zeit ist abgelaufen.
+
+637
+00:37:17,510 --> 00:37:20,074
+- Wir sind fertig.
+- Sie geben auf?
+
+638
+00:37:20,075 --> 00:37:23,769
+Rufen Sie Taub an. Sagen Sie ihm,
+er soll etwas Morphin mitnehmen.
+
+639
+00:37:23,770 --> 00:37:25,821
+Es ist nicht nötig, dass
+der Patient Schmerzen hat.
+
+640
+00:37:25,822 --> 00:37:27,382
+Er ist auf Morphin.
+
+641
+00:37:27,575 --> 00:37:29,135
+Nein. Er ist auf Kochsalz.
+
+642
+00:37:29,136 --> 00:37:32,576
+Ich nahm an, dass Sie ihm Kochsalz gegeben
+haben und habe wieder auf Morphin gewechselt.
+
+643
+00:37:32,577 --> 00:37:33,747
+Ich liebe Sie.
+
+644
+00:37:34,074 --> 00:37:37,974
+Wenn Sie die Pubertät
+erreichen, geben Sie mir ...
+
+645
+00:37:39,574 --> 00:37:41,381
+Seine Unterleibsschmerzen.
+
+646
+00:37:41,382 --> 00:37:43,657
+- War das auf Morphin?
+- Ja.
+
+647
+00:37:49,055 --> 00:37:54,703
+Ist da etwas, dass Unterleibsschmerzen
+verursacht und nicht auf Morphin anspricht?
+
+648
+00:37:54,704 --> 00:37:56,004
+Ich hatte Recht.
+
+649
+00:37:56,700 --> 00:37:58,130
+Er ist vergiftet.
+
+650
+00:38:06,822 --> 00:38:10,574
+Was ist das für eine
+Schwärzung an seiner Hüfte?
+
+651
+00:38:10,575 --> 00:38:11,658
+Nur Knochen.
+
+652
+00:38:12,451 --> 00:38:14,869
+Denken Sie weniger knochig.
+
+653
+00:38:17,899 --> 00:38:23,560
+- Sie denken, er hat eine Bleivergiftung?
+- Erklärt die Verstopfung, die Nerven, die Anfälle.
+
+654
+00:38:23,561 --> 00:38:25,251
+Halten Sie ihn unten.
+
+655
+00:38:27,834 --> 00:38:29,979
+Sie werden nichts spüren ...
+
+656
+00:38:30,912 --> 00:38:32,992
+außer entsetzlichem Schmerz.
+
+657
+00:38:47,864 --> 00:38:49,834
+Der Räuber benutzte
+Munition mit konkaver Spitze.
+
+658
+00:38:49,835 --> 00:38:52,258
+Sie explodierten und
+hinterließen Bruchstücke.
+
+659
+00:38:52,259 --> 00:38:55,512
+Ihr Arzt hat ein paar vergessen, die
+hinter dem Hüftknochen versteckt waren.
+
+660
+00:38:55,513 --> 00:38:56,576
+Ist keine große Sache.
+
+661
+00:38:56,577 --> 00:38:59,797
+Nur Jahre später, haben Sie
+angefangen sich aufzulösen
+
+662
+00:38:59,798 --> 00:39:03,795
+und dann, große Sache,
+begannen Sie, sich aufzulösen.
+
+663
+00:39:03,796 --> 00:39:05,616
+Ich gebe ihm Chelation.
+
+664
+00:39:05,729 --> 00:39:07,238
+Die Agoraphobie, könnte es ...
+
+665
+00:39:07,239 --> 00:39:10,762
+Nein. Blei würde nicht beginnen,
+sich Jahre danach zu zersetzen.
+
+666
+00:39:10,763 --> 00:39:14,014
+- Aber es könnte die Angst verschlimmert haben.
+- Ich habe es nicht nötig, mich zu verändern.
+
+667
+00:39:14,015 --> 00:39:15,599
+Ich weiß, dass Sie das denken.
+
+668
+00:39:15,600 --> 00:39:19,079
+Aber Ihr Leben könnte besser
+sein. Sie... Sie hätten Möglichkeiten.
+
+669
+00:39:19,080 --> 00:39:21,269
+- Er lügt.
+- Worüber?
+
+670
+00:39:22,704 --> 00:39:24,977
+Über alles. Über sein Leben.
+
+671
+00:39:25,901 --> 00:39:28,264
+Er denkt nicht mal, dass
+er hier glücklich ist.
+
+672
+00:39:28,265 --> 00:39:31,615
+- Er ist unglücklich.
+- Ich habe alles, was ich benötige.
+
+673
+00:39:31,616 --> 00:39:35,639
+Nun, wieso hat dann Taub
+Rosenblätter im Eingangsflur gefunden?
+
+674
+00:39:35,640 --> 00:39:37,537
+Kommt mir etwas seltsam vor.
+
+675
+00:39:37,538 --> 00:39:39,582
+Ich dachte, es könnte
+medizinisch relevant sein.
+
+676
+00:39:39,583 --> 00:39:42,004
+Aber es sagte mir nur,
+dass Sie erbärmlich sind.
+
+677
+00:39:42,005 --> 00:39:45,414
+Der Tag, an dem Sie am Eingang
+zusammengebrochen sind ...
+
+678
+00:39:45,415 --> 00:39:48,015
+war der Geburtstag Ihrer Freundin.
+
+679
+00:39:48,297 --> 00:39:50,175
+Sie waren nicht wegen der Post da.
+
+680
+00:39:50,176 --> 00:39:54,011
+Sie haben versucht, Blumen
+an ihr Grab zu legen.
+
+681
+00:39:56,316 --> 00:39:58,331
+Ja, er hat komplexe PTBS.
+
+682
+00:39:58,340 --> 00:40:00,290
+Ja, er ist agoraphobisch.
+
+683
+00:40:00,441 --> 00:40:01,885
+Er ist auch ein Feigling.
+
+684
+00:40:01,886 --> 00:40:04,504
+Sie wollen Ihr Leben
+verändern, tun Sie was dafür.
+
+685
+00:40:04,505 --> 00:40:06,755
+Glauben Sie nicht
+Ihrer eigenen Vernunft.
+
+686
+00:40:06,756 --> 00:40:12,216
+Sperren Sie sich nicht ein, täuschen
+Sie nicht vor, glücklich zu sein.
+
+687
+00:40:23,717 --> 00:40:25,508
+- Hi.
+- Hi.
+
+688
+00:40:27,887 --> 00:40:29,252
+Du hattest Recht.
+
+689
+00:40:30,341 --> 00:40:31,763
+Wegen meinem Ehemann.
+
+690
+00:40:31,764 --> 00:40:33,584
+Es beeinträchtigte mich.
+
+691
+00:40:35,251 --> 00:40:37,851
+Es beeinträchtigt mich noch immer.
+
+692
+00:40:39,193 --> 00:40:41,069
+Wenn du sagst, dass du nie
+in der Lage sein wirst ...
+
+693
+00:40:41,070 --> 00:40:44,515
+Ich habe eine Schublade
+für dich ausgeräumt.
+
+694
+00:40:47,133 --> 00:40:48,840
+Eine Große.
+
+695
+00:40:48,841 --> 00:40:54,840
+~ Übersetzt von ~
+~ Drenton und cimbom1905 ~
+
+696
+00:40:54,841 --> 00:41:00,840
+~ House zuerst auf ~
+~ www.tv4user.de ~
+
+697
+00:41:00,841 --> 00:41:06,840
+~ Deine Seite für deutsche Untertitel ~
+~ zu US- und UK-Serien ~
+

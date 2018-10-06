@@ -598,6 +598,8 @@ And put her on rifampin.
 Rifampin is for meningitis.
 You just said--
 
+#https://de.wikipedia.org/wiki/Rifampicin
+
 126
 00:10:08,708 --> 00:10:10,642
 In case I'm wrong.
@@ -2321,6 +2323,8 @@ It's purpura.
 00:34:25,396 --> 00:34:27,728
 Thrombotic thrombocytopenic purpura?
 
+#https://de.wikipedia.org/wiki/Thrombotisch-thrombozytopenische_Purpura
+
 478
 00:34:27,799 --> 00:34:30,359
 Starts with "T".
@@ -2442,6 +2446,8 @@ I knew what I was doing.
 00:36:01,159 --> 00:36:03,491
 We're gonna have to do something
 called plasmapheresis.
+
+#https://de.wikipedia.org/wiki/Plasmapherese
 
 504
 00:36:03,561 --> 00:36:06,121
@@ -2594,6 +2600,9 @@ You should be.
 00:38:34,111 --> 00:38:36,909
 - Your platelets count's up.
 - How's your neck?
+
+#https://de.wikipedia.org/wiki/Thrombozyt
+
 
 537
 00:38:40,017 --> 00:38:42,815

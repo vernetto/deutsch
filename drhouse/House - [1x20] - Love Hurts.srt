@@ -542,6 +542,8 @@ Harvey's experiencing
 a little nominal aphasia.
 Hmm.
 
+#https://de.wikipedia.org/wiki/Aphasie#Amnestische_bzw._anomische_Aphasie
+
 117
 00:07:58,444 --> 00:08:00,378
 You know, when you can't
@@ -888,6 +890,8 @@ we found was on the echo report.
 191
 00:12:41,560 --> 00:12:43,721
 Mitral valve prolapse.
+
+#https://de.wikipedia.org/wiki/Mitralklappenprolaps
 
 192
 00:12:43,796 --> 00:12:47,732
@@ -2957,6 +2961,9 @@ Mm. Smells like old vomit.
 00:39:34,638 --> 00:39:37,766
 Number one sign
 of fulminating osteomyelitis.
+
+#https://de.wikipedia.org/wiki/Osteomyelitis
+
 
 628
 00:39:37,842 --> 00:39:40,037

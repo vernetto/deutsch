@@ -1,0 +1,2854 @@
+1
+00:00:14,120 --> 00:00:15,870
+(Du siehst wie Superman aus.)
+
+2
+00:00:16,770 --> 00:00:18,100
+(Ich bin nervös.)
+
+3
+00:00:18,110 --> 00:00:19,970
+(Du wirst ihm in den Arsch treten.)
+
+4
+00:00:24,970 --> 00:00:25,840
+(Ich glaube, deine Mutter)
+
+5
+00:00:25,850 --> 00:00:27,370
+(versucht deine Aufmerksamkeit zu erlangen.)
+
+6
+00:00:27,850 --> 00:00:28,670
+(Sieh mal.)
+
+7
+00:00:28,680 --> 00:00:30,280
+{pos(192,220)}<i>TAUB UND STOLZ</i>
+
+8
+00:00:30,570 --> 00:00:31,680
+(Du bist nicht taub.)
+
+9
+00:00:32,190 --> 00:00:33,100
+(Ich bin stolz auf dich.)
+
+10
+00:00:33,110 --> 00:00:34,060
+(Nah genug.)
+
+11
+00:00:34,070 --> 00:00:38,450
+72,5 Kilo. Johnson. Miller.
+
+12
+00:00:38,460 --> 00:00:39,500
+(Ich muss los.)
+
+13
+00:00:39,510 --> 00:00:40,780
+(Viel Glück.)
+
+14
+00:01:40,370 --> 00:01:46,369
+~ House S05E22 ~
+~ Gespaltener House ~
+
+15
+00:01:47,370 --> 00:01:53,369
+~ Übersetzt von ~
+~ cimbom1905, Drenton und Staubsauger ~
+
+16
+00:02:15,090 --> 00:02:16,980
+{pos(192,220)}<i>House.</i>
+
+17
+00:02:18,310 --> 00:02:20,760
+{pos(192,220)}<i>House.</i>
+
+18
+00:02:22,400 --> 00:02:24,620
+{pos(192,220)}<i>Ich weiß, dass du nicht schläfst.</i>
+
+19
+00:02:24,640 --> 00:02:27,440
+{pos(192,220)}<i>Diese Erkenntnis wäre
+etwas beeindruckender,</i>
+
+20
+00:02:27,450 --> 00:02:31,510
+{pos(192,220)}<i>wenn du nicht nur ein Produkt
+meines erschöpften Gehirns wärst.</i>
+
+21
+00:02:31,930 --> 00:02:34,820
+{pos(192,220)}<i>Bist du gar nicht neugierig,
+warum ich hier bin?</i>
+
+22
+00:02:38,670 --> 00:02:41,750
+{pos(192,220)}<i>Neugierig, warum du kein
+Zimmermädchen-Outfit anhast.</i>
+
+23
+00:02:41,760 --> 00:02:43,780
+{pos(192,220)}<i>Keinen frechen Schlüpfer.</i>
+
+24
+00:02:43,800 --> 00:02:47,120
+{pos(192,220)}<i>Ich bin eine Halluzination
+... keine Fantasie.</i>
+
+25
+00:02:48,060 --> 00:02:52,130
+{pos(192,220)}<i>Es ist Schlaflosigkeit. Vier Nächte
+ohne REM-Schlaf kann dazu führen ...</i>
+
+26
+00:02:52,140 --> 00:02:54,350
+{pos(192,220)}<i>Das würde vielleicht erklären,
+warum du halluzinierst.</i>
+
+27
+00:02:54,390 --> 00:02:58,250
+{pos(192,220)}<i>Aber es erklärt nicht, warum du
+Wilsons tote Freundin halluzinierst.</i>
+
+28
+00:02:58,260 --> 00:03:01,416
+{pos(192,220)}<i>Vermutlich, weil ich das geheime
+und sehr unbewusste Verlangen habe,</i>
+
+29
+00:03:01,417 --> 00:03:02,700
+{pos(192,220)}<i>Wilson in mein
+Schlafzimmer zu holen.</i>
+
+30
+00:03:02,710 --> 00:03:04,969
+{pos(192,220)}<i>Oder vielleicht erinnert dich dein
+Schuldgefühl wegen Kutners Selbstmord,</i>
+
+31
+00:03:04,970 --> 00:03:07,460
+{pos(192,220)}<i>wie schuldig du dich
+wegen mir gefühlt hast.</i>
+
+32
+00:03:08,680 --> 00:03:10,960
+{pos(192,220)}<i>Wen kümmert es, warum du hier bist?</i>
+
+33
+00:03:10,980 --> 00:03:13,730
+{pos(192,220)}<i>Eine menschenwürdige Nacht
+Schlaf und du bist es nicht mehr.</i>
+
+34
+00:03:21,850 --> 00:03:24,800
+{pos(192,220)}<i>Ich schätze, ich bin noch
+ein paar Stunden länger hier.</i>
+
+35
+00:03:34,690 --> 00:03:36,670
+Brauchen Sie einen Kaffee?
+
+36
+00:03:36,710 --> 00:03:40,990
+Suchtmittel sind kein Ersatz
+für einen natürlichen Heilbalsam.
+
+37
+00:03:41,000 --> 00:03:42,900
+Machen Sie schnell, ich muss schlafen.
+
+38
+00:03:42,910 --> 00:03:46,670
+Ein tauber 14-jähriger hat angefangen
+imaginäre Explosionen zu hören.
+
+39
+00:03:48,380 --> 00:03:51,220
+Exploding-Head-Syndrom. Cool.
+
+40
+00:03:51,570 --> 00:03:53,870
+Nun, scheinbar weiß
+sein Hirn, wie man hört.
+
+41
+00:03:53,910 --> 00:03:56,530
+Der Patient wurde mit vier wegen
+Komplikationen einer Hirnhautentzündung taub.
+
+42
+00:03:56,540 --> 00:03:59,280
+{pos(192,220)}<i>Also warum kein Cochlearimplantat?</i>
+
+43
+00:03:59,290 --> 00:04:02,610
+Die üblichen Verdächtigen sind
+Schlaflosigkeit, die er nicht hat. Migräne,
+
+44
+00:04:02,630 --> 00:04:05,890
+die er nicht bekommt und ein
+Kopftrauma, das sich nicht beim CT zeigt.
+
+45
+00:04:05,900 --> 00:04:08,640
+{pos(192,220)}<i>Verdammter imaginärer Stift.</i>
+
+46
+00:04:09,400 --> 00:04:12,170
+Mamis Unterschrift ist auf allem.
+Ist der Vater tot?
+
+47
+00:04:12,180 --> 00:04:13,772
+Nein, das bezweifle ich.
+Er war ein Samenspender.
+
+48
+00:04:13,773 --> 00:04:15,320
+Die medizinische Vorgeschichte
+könnte kaum sauberer sein.
+
+49
+00:04:15,330 --> 00:04:18,230
+- Dann bleibt uns nur noch ein Temporallappenanfall.
+{pos(192,220)}<i>- Falsch.</i>
+
+50
+00:04:18,240 --> 00:04:20,790
+Jemand beim Ringen-Wettkampf
+hätte einen Anfall bemerkt.
+
+51
+00:04:20,810 --> 00:04:23,070
+Könnte ja auch nur wie ein böser
+Schlag auf das Bein ausgesehen haben.
+
+52
+00:04:23,080 --> 00:04:27,030
+Steckt ihn ins EEG-Labor. Mal schauen,
+ob sein Kopf wieder explodiert.
+
+53
+00:04:27,040 --> 00:04:29,980
+{pos(192,220)}<i>Du ignorierst dein
+eigenes Unterbewusstsein?</i>
+
+54
+00:04:29,990 --> 00:04:33,080
+{pos(192,220)}<i>Du hast doch genauso wenig Ahnung wie ich.</i>
+
+55
+00:04:41,800 --> 00:04:44,800
+Ich brauche ein Rezept
+für Schlaftabletten.
+
+56
+00:04:45,250 --> 00:04:47,545
+Der Hund meines Nachbarn
+hält mich wach und
+
+57
+00:04:47,546 --> 00:04:49,950
+scheint merkwürdigerweise
+unverwundbar gegen Gift zu sein.
+
+58
+00:04:50,960 --> 00:04:53,810
+Wieso ist die Bald-nur-noch-
+zweitschönste-Dr.-Chase hier?
+
+59
+00:04:53,830 --> 00:04:57,990
+- Ich fass das mal als Gratulation auf.
+- Wir besprechen einen Fall.
+
+60
+00:04:58,000 --> 00:05:00,890
+{pos(192,220)}<i>Warum hat er die Akte geschlossen?</i>
+
+61
+00:05:01,500 --> 00:05:03,240
+Hochzeit in zwei Wochen?
+
+62
+00:05:03,260 --> 00:05:05,300
+Ich würde sagen, Sie sind
+schwanger, aber ich glaub nicht,
+
+63
+00:05:05,301 --> 00:05:07,430
+dass der Körper von Chase erwachsen
+genug ist, um genug Sperma zu produzieren.
+
+64
+00:05:07,750 --> 00:05:10,450
+Es ist eine kleine Feier.
+Warum also warten?
+
+65
+00:05:11,340 --> 00:05:12,550
+Schlaf gut.
+
+66
+00:05:12,590 --> 00:05:15,560
+{pos(192,220)}<i>Medikamente ohne Vortrag?
+Er will dich hier raus haben.</i>
+
+67
+00:05:18,390 --> 00:05:20,050
+Interessanter Fall?
+
+68
+00:05:20,100 --> 00:05:22,080
+Ein möglicher Prostatakrebs, der
+in die Notaufnahme gekommen ist.
+
+69
+00:05:22,090 --> 00:05:23,990
+{pos(192,220)}<i>Bleistiftbecher.</i>
+
+70
+00:05:30,830 --> 00:05:32,850
+Kein Wunder, dass seine
+Prostata vergrößert ist.
+
+71
+00:05:32,880 --> 00:05:35,480
+Es ist voll mit
+Billardqueues und Zigarren.
+
+72
+00:05:35,520 --> 00:05:37,830
+Chases Trauzeuge schafft es erst
+am Tag der Hochzeit hier zu sein,
+
+73
+00:05:37,840 --> 00:05:40,460
+also habe ich Wilson gebeten seinen
+Junggesellenabschied zu schmeißen.
+
+74
+00:05:40,490 --> 00:05:42,810
+Ist kein Pfarrer im Ruhestand
+verfügbar, um es zu planen?
+
+75
+00:05:42,840 --> 00:05:46,860
+- Chase will keine große, lärmende Feier.
+- Das sagt sie.
+
+76
+00:05:46,880 --> 00:05:50,920
+Zum Glück gibt es Menschen in der Welt,
+die sich für das Richtige stark machen.
+
+77
+00:05:50,950 --> 00:05:52,620
+Nein, nein, nein. Ich will nicht ...
+ich will nicht, dass Sie ...
+
+78
+00:05:52,630 --> 00:05:59,160
+Hören Sie, zwei Dinge kann ich wirklich gut.
+Und Junggesellenabschiede rangieren ganz oben.
+
+79
+00:05:59,500 --> 00:06:02,020
+{pos(192,220)}<i>Ich werde helfen, richtig?</i>
+
+80
+00:06:08,160 --> 00:06:11,100
+Ich beginne mit fünf Hertz.
+
+81
+00:06:11,110 --> 00:06:13,570
+House hat es durch die ganze
+Differenzialdiagnose geschafft,
+
+82
+00:06:13,580 --> 00:06:17,310
+ohne sich lustig zu machen, dass unser
+Patient kein Cochlearimplantat hat.
+
+83
+00:06:17,320 --> 00:06:22,520
+Der Patient will kein Implantat, weil er zufrieden
+damit ist, wer er ist. Das ist bewundernswert.
+
+84
+00:06:22,550 --> 00:06:25,850
+Er ist taub. Es ist keine Identität,
+es ist eine Behinderung.
+
+85
+00:06:25,860 --> 00:06:30,320
+Es ist auch eine Kultur. Die Tauben haben
+ihre eigenen Schulen, ihre eigene Sprache.
+
+86
+00:06:30,330 --> 00:06:33,590
+- Immer noch keine Spitzen.
+- Ich gehe auf 20.
+
+87
+00:06:34,330 --> 00:06:38,200
+Alles, was ich mit drei Dollar teuren
+Ohrstöpseln simulieren kann, ist keine Kultur.
+
+88
+00:06:39,790 --> 00:06:43,610
+Keine Anzeichen eines Anfalls.
+Die Frontallappenaktivität ist immer noch okay.
+
+89
+00:06:43,620 --> 00:06:47,870
+Doktoren ... Doktoren, er kann
+nicht sehen. Auf einem seiner Augen.
+
+90
+00:06:47,880 --> 00:06:51,290
+Du hast doch genauso
+wenig Ahnung wie ich.
+
+91
+00:06:51,300 --> 00:06:53,800
+Soll das etwas bedeuten?
+
+92
+00:06:54,380 --> 00:06:56,230
+Ich glaube nicht.
+
+93
+00:06:56,260 --> 00:06:59,190
+Also Exploding-Head-Syndrom
+und Sehkraftverlust.
+
+94
+00:06:59,200 --> 00:07:00,710
+Subclavian-Steal-Syndrom.
+
+95
+00:07:00,760 --> 00:07:03,114
+Ein vaskulärer Fehler in Verbindung
+mit einer konstanten Armbewegung,
+
+96
+00:07:03,115 --> 00:07:04,960
+könnte den Blutfluss zum
+Gehirn entleert haben.
+
+97
+00:07:04,990 --> 00:07:07,630
+- Wir sollten ein Angio machen und seine ...
+- Machen Sie, was Sie nicht lassen können.
+
+98
+00:07:16,290 --> 00:07:19,030
+{pos(192,220)}<i>Wie hätte ich wissen können,
+dass er blind wird?</i>
+
+99
+00:07:20,690 --> 00:07:24,270
+{pos(192,220)}<i>Werde nicht niedlich, Gazoo. Du bist in
+meinem Kopf. Du bist offensichtlich da.</i>
+
+100
+00:07:24,280 --> 00:07:26,440
+{pos(192,220)}<i>C-reaktives Protein.</i>
+
+101
+00:07:27,130 --> 00:07:29,380
+{pos(192,220)}<i>Ich habe in seiner Akte bemerkt,
+dass es leicht erhöht ist.</i>
+
+102
+00:07:29,410 --> 00:07:33,662
+{pos(192,220)}<i>Ich dachte mir, dass der Stress im
+EEG-Labor die Entzündung verschlimmern würde,</i>
+
+103
+00:07:33,663 --> 00:07:34,970
+{pos(192,220)}<i>was zu einer Sehnervenentzündung führt.</i>
+
+104
+00:07:35,500 --> 00:07:38,100
+{pos(192,220)}<i>Das ist um einiges deutlicher als
+"Du hast doch genauso wenig Ahnung wie ich.".</i>
+
+105
+00:07:38,130 --> 00:07:40,850
+{pos(192,220)}<i>Es war nur eine Ahnung.
+Ich konnte es nicht in Worte fassen.</i>
+
+106
+00:07:40,860 --> 00:07:43,140
+{pos(192,220)}<i>Es war eine weit hergeholte Vermutung.</i>
+
+107
+00:07:43,150 --> 00:07:46,150
+{pos(192,220)}<i>Ich erinnere mich nicht einmal
+an die C-reaktiven Protein-Werte.</i>
+
+108
+00:07:46,190 --> 00:07:49,370
+{pos(192,220)}<i>Offenbar schon. Du weißt es nur nicht.</i>
+
+109
+00:07:51,200 --> 00:07:52,510
+{pos(192,220)}<i>Wie hoch ist der K2-Berg?</i>
+
+110
+00:07:52,530 --> 00:07:53,960
+{pos(192,220)}<i>- Weiß ich nicht.
+- Ich auch nicht.</i>
+
+111
+00:07:53,970 --> 00:07:56,340
+{pos(192,220)}<i>Aber ich habe vor Jahren
+ein Buch über ihn gelesen.</i>
+
+112
+00:07:56,360 --> 00:08:01,920
+{pos(192,220)}<i>- Wilde, sexy Sherpa auf dem Umschlag, die über ...
+- 8611 Meter.</i>
+
+113
+00:08:03,070 --> 00:08:05,020
+{pos(192,220)}<i>Cool.</i>
+
+114
+00:08:05,050 --> 00:08:08,440
+{pos(192,220)}<i>Ein VIP-Backstage-Pass
+zu meinem eigenen Gehirn.</i>
+
+115
+00:08:09,330 --> 00:08:12,650
+{pos(192,220)}<i>- Geh und spiel den Kindern etwas Musik vor.
+- Wieso?</i>
+
+116
+00:08:13,720 --> 00:08:15,790
+{pos(192,220)}<i>Eine weitere weit hergeholte Vermutung.</i>
+
+117
+00:08:15,800 --> 00:08:19,530
+Wir verwenden Jod-Farbstoff, um den
+Blutfluss in deinem Hals und Arm zu verfolgen.
+
+118
+00:08:44,620 --> 00:08:46,830
+House, was tun Sie da?
+
+119
+00:08:46,840 --> 00:08:50,940
+Wonach sieht es denn aus?
+I'm fighting the Power.
+
+120
+00:09:01,040 --> 00:09:04,590
+Fühlst du das?
+Wie cool ist denn das?
+
+121
+00:09:06,210 --> 00:09:08,140
+Offenbar kümmert es deine
+Mutter nicht, was du verpasst.
+
+122
+00:09:08,160 --> 00:09:10,020
+Sie sind ein Arsch.
+
+123
+00:09:11,900 --> 00:09:15,410
+Er sagt, er fühlt die Vibrationen in
+seinem Bauch, aber nicht in den Händen.
+
+124
+00:09:15,960 --> 00:09:18,240
+Was bedeutet das?
+
+125
+00:09:21,670 --> 00:09:25,840
+Es ist ein neues Symptom.
+Neuropathie.
+
+126
+00:09:35,060 --> 00:09:37,770
+{pos(192,220)}<i>Ich dachte, du wolltest
+etwas Schlaf nachholen.</i>
+
+127
+00:09:38,060 --> 00:09:40,750
+{pos(192,220)}<i>Der Fall wird gerade interessant.</i>
+
+128
+00:09:51,550 --> 00:09:53,530
+Wie im Zoo.
+
+129
+00:09:53,540 --> 00:09:56,160
+Außer, dass man dort nicht solange gegen
+die Scheibe klopfen darf, wie man will.
+
+130
+00:09:56,190 --> 00:09:57,720
+Woher wussten Sie das
+mit der Neuropathie?
+
+131
+00:09:57,740 --> 00:09:58,860
+Gute Frage.
+
+132
+00:09:58,890 --> 00:10:00,790
+Genug mit den Rätseln.
+
+133
+00:10:00,820 --> 00:10:03,060
+{pos(192,220)}<i>Erzähl mir darüber.</i>
+
+134
+00:10:03,340 --> 00:10:05,670
+{pos(192,220)}<i>Denk an "Ringer-Rekord."</i>
+
+135
+00:10:06,260 --> 00:10:08,410
+Jonglieren.
+
+136
+00:10:09,030 --> 00:10:11,860
+Nein. Pins. Drei Pins.
+
+137
+00:10:11,870 --> 00:10:14,640
+Der Patient wurde bei den letzten
+drei Kämpfen fertig gemacht.
+
+138
+00:10:14,660 --> 00:10:16,610
+Das führt dazu, dass es 15 zu 0 steht.
+
+139
+00:10:16,620 --> 00:10:19,800
+Ich glaube, dass seine Balance wegen
+dem verminderten Gefühl getrübt war.
+
+140
+00:10:19,830 --> 00:10:22,310
+Könnte erhöhter Hirndruck
+von einem Gehirntumor sein.
+
+141
+00:10:22,320 --> 00:10:24,010
+Den wir beim Kopf-CT übersehen haben?
+
+142
+00:10:24,050 --> 00:10:27,390
+Gewichtsreduktion fürs Ringen könnte
+zu Rhabdomyolyse geführt haben.
+
+143
+00:10:27,430 --> 00:10:30,480
+Er ist erst vor drei Monaten um
+eine Gewichtsklasse gestiegen.
+
+144
+00:10:30,490 --> 00:10:32,720
+{pos(192,220)}<i>Foreman hat Recht.</i>
+
+145
+00:10:34,360 --> 00:10:38,290
+Eigentlich würde ein erhöhter
+Hirndruck Sinn machen.
+
+146
+00:10:38,320 --> 00:10:40,970
+- Sie sagten gerade ...
+- Ich habe weiter gedacht.
+
+147
+00:10:46,080 --> 00:10:48,990
+{pos(192,220)}<i>Es liegt noch ein weiteres
+Symptom auf den Tisch.</i>
+
+148
+00:10:49,410 --> 00:10:51,310
+Seine Taubheit.
+
+149
+00:10:51,340 --> 00:10:55,600
+Was, wenn sie durch NF2-Krebs verursacht wurde
+anstatt der Hirnhautentzündung in seiner Kindheit?
+
+150
+00:10:55,630 --> 00:10:57,440
+Also war die
+Hirnhautentzündung nur Zufall?
+
+151
+00:10:57,510 --> 00:11:00,840
+Oder ein Nebenprodukt des Krebses,
+der sein Immunsystem unterdrückt hat.
+
+152
+00:11:00,860 --> 00:11:01,830
+Macht ein MRT seines Kopfes.
+
+153
+00:11:01,870 --> 00:11:05,070
+Wenn Sie Recht mit NF2 haben,
+ist seine Taubheit vielleicht umkehrbar.
+
+154
+00:11:05,110 --> 00:11:07,410
+Ich bereite es vor und
+rede mit dem Patienten.
+
+155
+00:11:08,680 --> 00:11:11,240
+Sie beide ... haben Sie was vor?
+
+156
+00:11:24,490 --> 00:11:26,670
+Weißt du, was ein "Broken Cowboy" ist?
+
+157
+00:11:27,050 --> 00:11:29,720
+Es steht auf Besorgungsliste von House.
+
+158
+00:11:29,730 --> 00:11:32,450
+Ich habe drei Theorien.
+
+159
+00:11:33,130 --> 00:11:35,510
+Warum ist House so versessen
+auf diesen Junggesellenabschied?
+
+160
+00:11:35,520 --> 00:11:37,400
+Er braucht einen Grund, um bei einem
+Junggesellenabschied dabei zu sein?
+
+161
+00:11:37,430 --> 00:11:39,710
+Er braucht bei allem
+einen Grund dabei zu sein.
+
+162
+00:11:39,720 --> 00:11:41,880
+Gib mir dein Portemonnaie.
+
+163
+00:11:43,130 --> 00:11:47,170
+House könnte versuchen Chase zum Fremdgehen
+zu verleiten. Sie auseinanderbringen.
+
+164
+00:11:47,180 --> 00:11:48,660
+Denkst du, House ist
+in Cameron verliebt?
+
+165
+00:11:48,700 --> 00:11:51,180
+Ich glaube, dass House denkt,
+dass Cameron in ihn verliebt ist.
+
+166
+00:11:51,210 --> 00:11:53,990
+Die Heirat mit Chase würde
+diese Fantasie zerstören.
+
+167
+00:11:54,770 --> 00:11:57,500
+Wenn Chase fremdgeht, würden
+sie überhaupt nicht heiraten.
+
+168
+00:11:57,540 --> 00:12:01,380
+Also bist du damit einverstanden, dass House Chase
+so abfüllt, dass er einen dummen Fehler begeht?
+
+169
+00:12:01,400 --> 00:12:04,410
+Betrunken zu sein, ändert nicht
+wer du bist. Es offenbart es nur.
+
+170
+00:12:09,220 --> 00:12:11,680
+Glaubst du, sie kann
+den "Broken Cowboy"?
+
+171
+00:12:11,690 --> 00:12:13,400
+Gott, ich hoffe es.
+
+172
+00:12:13,420 --> 00:12:17,820
+NF2 ist ein extrem langsam wachsender
+Krebs, was ihn leicht behandelbar macht.
+
+173
+00:12:17,870 --> 00:12:20,240
+Wenn wir richtig liegen
+und den Tumor entfernen,
+
+174
+00:12:20,241 --> 00:12:23,830
+könntest du die Chance haben, dein
+Hörvermögen wieder zu erlangen.
+
+175
+00:12:28,960 --> 00:12:32,580
+Nein, er sagt, du musst.
+
+176
+00:12:33,550 --> 00:12:35,230
+Was ist los?
+
+177
+00:12:35,280 --> 00:12:38,440
+Er will, dass Sie den Krebs
+behandeln, ihn aber taub lassen.
+
+178
+00:12:38,450 --> 00:12:41,390
+Tut mir leid, so funktioniert das nicht.
+
+179
+00:12:47,360 --> 00:12:49,210
+(Es wird alles gut.)
+
+180
+00:12:49,640 --> 00:12:50,900
+(Ich würde die Schulen wechseln müssen.)
+
+181
+00:12:50,910 --> 00:12:52,150
+(Ich würde dich kaum noch sehen.)
+
+182
+00:12:52,160 --> 00:12:54,070
+(Du wirst mich sowieso nicht mehr sehen,)
+
+183
+00:12:54,080 --> 00:12:55,990
+(außer es geht dir wieder besser.)
+
+184
+00:13:10,840 --> 00:13:15,650
+Die Bilder zeigen leicht erhöhten Hirndruck,
+aber keine Geschwüre auf oder um die Nerven.
+
+185
+00:13:15,690 --> 00:13:17,390
+Es ist nicht Krebs.
+
+186
+00:13:17,410 --> 00:13:19,830
+Eine leichte Beugung in der
+Wand des vierten Ventrikels.
+
+187
+00:13:19,880 --> 00:13:21,060
+Könnte immer noch auf
+einen Tumor hinweisen.
+
+188
+00:13:21,090 --> 00:13:22,490
+Wir haben Bilder mitgebracht.
+
+189
+00:13:22,500 --> 00:13:24,810
+Die Tatsache, dass Sie mich auf
+Erkundungsmission geschickt haben ...
+
+190
+00:13:24,820 --> 00:13:26,040
+{pos(192,220)}<i>Keine Röcke.</i>
+
+191
+00:13:26,050 --> 00:13:28,480
+Sie sind nicht auf der Gästeliste.
+
+192
+00:13:28,490 --> 00:13:31,850
+Junggesellenabschiede sind ein altes und
+geheiligtes männliches Übergangsritual.
+
+193
+00:13:31,860 --> 00:13:35,600
+Die Ventrikel-Beugung ist am ehesten eine
+bereits bestehende anatomische Anomalie
+
+194
+00:13:35,620 --> 00:13:37,800
+und kein Hinweis auf einen Tumor.
+
+195
+00:13:37,820 --> 00:13:39,720
+Das können wir ohne einer Gehirnbiopsie
+nicht mit Sicherheit wissen.
+
+196
+00:13:39,750 --> 00:13:43,160
+Wenn ich betrunken genug bin, könnte es
+sein, dass ich mit einer Stripperin rummache
+
+197
+00:13:43,180 --> 00:13:45,170
+oder selbst eine werde.
+
+198
+00:13:45,180 --> 00:13:46,220
+- Gekauft.
+{pos(192,220)}<i>- Gekauft.</i>
+
+199
+00:13:46,240 --> 00:13:50,310
+Wir können nicht einfach auf Grund einer
+Vermutung in das Gehirn unseres Patienten bohren.
+
+200
+00:13:50,330 --> 00:13:52,640
+- Oh Gott. Nicht die.
+{pos(192,220)}<i>- Oh Gott. Nicht die.</i>
+
+201
+00:13:53,550 --> 00:13:55,320
+Sie ist diejenige, die mich
+verführt und ausgeraubt hat.
+
+202
+00:13:55,370 --> 00:13:57,030
+Taub hat Recht. Es ist nicht Krebs.
+
+203
+00:13:57,040 --> 00:14:01,520
+Ja, verwerfen wir mit allen Mitteln eine großartige
+diagnostische Theorie, weil sie schwer zu beweisen ist.
+
+204
+00:14:01,530 --> 00:14:04,940
+Macht eine Biopsie. Wir brauchen einen
+besseren Blick auf sein viertes Ventrikel.
+
+205
+00:14:04,950 --> 00:14:06,420
+{pos(192,220)}<i>Oder einen alten Blick.</i>
+
+206
+00:14:06,450 --> 00:14:09,440
+Seine Mutter lässt uns ohne irgendwelche
+Beweise sicher nicht sein Gehirn anrühren.
+
+207
+00:14:09,470 --> 00:14:13,150
+{pos(192,220)}<i>Der Patient hat sich vor Jahren die Nase gebrochen.
+Das Krankenhaus könnte ein MRT gemacht haben.</i>
+
+208
+00:14:14,950 --> 00:14:17,060
+Okay.
+
+209
+00:14:20,410 --> 00:14:22,952
+Der Hauptgrund, warum meine dritte
+Frau und ich durchgebrannt sind,
+
+210
+00:14:22,953 --> 00:14:25,140
+war es einem Junggesellenabschied
+von House zu entgehen.
+
+211
+00:14:29,890 --> 00:14:32,280
+Haben Sie Caligula gesehen?
+
+212
+00:14:34,880 --> 00:14:37,540
+Das Gehirn meines Patienten jetzt ...
+
+213
+00:14:38,140 --> 00:14:41,560
+gegen das vor drei Jahren.
+Siehst du einen Unterschied?
+
+214
+00:14:43,200 --> 00:14:45,260
+Rät er Ihnen, der Party zu entgehen?
+
+215
+00:14:45,300 --> 00:14:47,060
+Ich habe einen Eid geschworen,
+niemanden zu schaden.
+
+216
+00:14:47,080 --> 00:14:48,670
+Sicher, kommen Sie nicht.
+
+217
+00:14:48,680 --> 00:14:52,020
+Wenn Sie möchten, dass Ihr
+Hochzeitsgelübde bedeutungslos ist.
+
+218
+00:14:53,100 --> 00:14:55,500
+Das könnte interessant sein.
+
+219
+00:14:55,520 --> 00:15:00,660
+Sie stehen davor sich an diese eine besondere
+Frau für immer zu binden, was schön ist.
+
+220
+00:15:00,670 --> 00:15:04,400
+Aber wenn Ihre Hingabe am Tag nach der Hochzeit
+genauso ist wie Ihre Hingabe den Tag davor,
+
+221
+00:15:04,430 --> 00:15:06,190
+dann bedeutet die Hochzeit nichts.
+
+222
+00:15:06,220 --> 00:15:11,110
+Also, ich sehe keinen logischen Weg es zu umgehen.
+Wenn Sie wollen, dass Ihre Ehe etwas zählt,
+
+223
+00:15:11,130 --> 00:15:15,510
+müssen Sie am Tag davor ein lüsternes,
+trällerndes, mit Schmutz besudeltes Schwein sein.
+
+224
+00:15:16,220 --> 00:15:18,770
+Sie sind das Böse. Wir sehen uns.
+
+225
+00:15:19,010 --> 00:15:22,630
+Die Wand des vierten Ventrikel hat sich
+geändert. Sie ist in dem älteren Scan nicht gebeugt.
+
+226
+00:15:22,920 --> 00:15:25,530
+Ein Anzeichen für NF2, richtig?
+
+227
+00:15:25,540 --> 00:15:28,400
+Du musst eine Hirnbiopsie machen,
+um es zu bestätigen.
+
+228
+00:15:32,980 --> 00:15:37,990
+Ich gehe nicht zu dem Junggesellenabschied.
+Jedes Mal, wenn ich zu einer deiner Feiern gehe,
+
+229
+00:15:38,000 --> 00:15:42,950
+endet es damit, dass ich mich auf
+neue und unerwartete Arten blamiere.
+
+230
+00:15:42,960 --> 00:15:46,160
+Die ganze Sache mit der
+Ente war wohl kaum unerwartet.
+
+231
+00:15:46,190 --> 00:15:47,690
+Ich komme nicht.
+
+232
+00:15:48,090 --> 00:15:50,580
+- Okay.
+{pos(192,220)}<i>- Es ist nicht okay.</i>
+
+233
+00:15:57,980 --> 00:15:59,040
+{pos(192,220)}<i>Weißt du, wen wir brauchen?</i>
+
+234
+00:15:59,080 --> 00:16:01,450
+{pos(192,220)}<i>Diese Stripperin, die du für Wilsons
+Junggesellenfeier besorgt hast.</i>
+
+235
+00:16:01,500 --> 00:16:03,840
+{pos(192,220)}<i>Man könnte Tequilas
+direkt von ihr trinken.</i>
+
+236
+00:16:03,860 --> 00:16:05,340
+{pos(192,220)}<i>Warum auf sie zurückkommen?</i>
+
+237
+00:16:05,350 --> 00:16:07,300
+{pos(192,220)}<i>In den neun Jahren seit Wilsons Abschied,</i>
+
+238
+00:16:07,340 --> 00:16:11,310
+{pos(192,220)}<i>wurde eine ganz neue Generation von heißen
+Mädels von ihren Stiefvätern missbraucht.</i>
+
+239
+00:16:11,320 --> 00:16:13,960
+{pos(192,220)}<i>Sie liebte Katzen.</i>
+
+240
+00:16:13,970 --> 00:16:17,750
+{pos(192,220)}<i>Warum erinnerst du dich daran,
+dass die Stripperin Katzen mochte?</i>
+
+241
+00:16:17,760 --> 00:16:21,510
+{pos(192,220)}<i>Chase hat eine Katze.
+Sie werden zusammenpassen.</i>
+
+242
+00:16:21,520 --> 00:16:25,710
+Ähm, House? Unterhalten ...
+Sie sich da oben alleine?
+
+243
+00:16:28,290 --> 00:16:31,850
+Ich probe nur für die Wiederaufführung
+von Evita. Was haben Sie gefunden?
+
+244
+00:16:31,860 --> 00:16:36,200
+Die Biopsie zeigt eine Nervenentzündung,
+übereinstimmend mit erhöhtem intrakraniellen Druck.
+
+245
+00:16:36,210 --> 00:16:39,270
+Etwas stimmt nicht,
+aber es ist kein Krebs.
+
+246
+00:16:41,660 --> 00:16:44,240
+{pos(192,220)}<i>Er wird taub durchs Leben gehen.</i>
+
+247
+00:16:44,260 --> 00:16:45,460
+{pos(192,220)}<i>Das macht ihm nichts.</i>
+
+248
+00:16:45,520 --> 00:16:48,050
+{pos(192,220)}<i>Er hat keine Ahnung, was er verpasst.</i>
+
+249
+00:16:48,080 --> 00:16:49,690
+{pos(192,220)}<i>Seine Mutter ist eine Irre.</i>
+
+250
+00:16:49,730 --> 00:16:53,380
+{pos(192,220)}<i>Er soll sein Leben lang
+für ihre Dummheit bezahlen?</i>
+
+251
+00:16:53,390 --> 00:16:56,480
+{pos(192,220)}<i>Macht uns das etwas aus?</i>
+
+252
+00:17:01,620 --> 00:17:05,270
+Warum machen Sie zu? Es sollte
+noch ein Cochlearimplantat rein.
+
+253
+00:17:05,550 --> 00:17:06,940
+Das steht nicht in den Unterlagen.
+
+254
+00:17:06,980 --> 00:17:10,650
+Wirklich? Jemand muss es
+versaut haben. Ich gehe dem nach.
+
+255
+00:17:11,320 --> 00:17:13,320
+- Ich werde warten.
+- Das ist eine tolle Idee.
+
+256
+00:17:13,330 --> 00:17:17,150
+Lassen wir das Kind noch mehr Zeit mit einem
+geöffneten Schädel unter Narkose verbringen.
+
+257
+00:17:17,480 --> 00:17:19,150
+Ich warte.
+
+258
+00:17:19,160 --> 00:17:22,550
+Ich bin bekannt dafür zu lügen, um
+meine eigenen Ziele zu erreichen.
+
+259
+00:17:22,580 --> 00:17:26,570
+Ein Implantat ist aber überhaupt nichts,
+was mir bei der Diagnose helfen würde.
+
+260
+00:17:28,750 --> 00:17:31,210
+Bringen Sie ein Implantat her.
+
+261
+00:17:58,470 --> 00:18:00,810
+Versuche einfach dich zu entspannen.
+
+262
+00:18:01,530 --> 00:18:03,950
+Nur durch die Wiedergewinnungsphase ...
+
+263
+00:18:06,760 --> 00:18:08,570
+(Was haben Sie mit mir gemacht?)
+
+264
+00:18:10,000 --> 00:18:12,390
+Ihr Sohn wollte das Implantat nicht.
+
+265
+00:18:12,420 --> 00:18:15,680
+Wenn er es nicht will, nachdem er Zeit hatte,
+sich darauf einzustellen, dann nehme ich es raus.
+
+266
+00:18:15,710 --> 00:18:18,350
+Ich mach ihn auch blind, wenn er
+Erfahrungen mit dieser Kultur machen will.
+
+267
+00:18:18,380 --> 00:18:20,090
+Entfernen Sie es jetzt.
+
+268
+00:18:20,130 --> 00:18:22,830
+Das Kind hatte gerade eine
+Hirnoperation. Er ist nicht stabil.
+
+269
+00:18:23,630 --> 00:18:27,860
+Ms. Miller, ich versuche nicht Dr.
+House' Fehlverhalten klein zu reden,
+
+270
+00:18:27,880 --> 00:18:30,060
+- aber die beste Sache wäre ...
+{pos(192,220)}<i>- Warum sitzt sie?</i>
+
+271
+00:18:30,070 --> 00:18:35,690
+{pos(192,220)}<i>Sie schreit nicht, droht nicht,
+rennt nicht herum. Sie sitzt nur da.</i>
+
+272
+00:18:36,530 --> 00:18:38,730
+Verstanden Dr. House?
+
+273
+00:18:39,290 --> 00:18:41,940
+House! Konzentration.
+
+274
+00:18:41,950 --> 00:18:44,710
+Ich will von Ihnen hören,
+dass Sie die Vereinbarung akzeptieren.
+
+275
+00:18:44,730 --> 00:18:48,090
+Kein Problem. Sie sind nicht sauer.
+
+276
+00:18:49,540 --> 00:18:51,210
+Ich bin sauer.
+
+277
+00:18:51,230 --> 00:18:53,100
+Nicht sauer genug.
+
+278
+00:18:53,120 --> 00:18:54,420
+Sie wollen, dass Ihr Sohn hört.
+
+279
+00:18:54,430 --> 00:18:57,190
+Sie haben nur nicht den Mut,
+ihm das Implantat einzureden.
+
+280
+00:18:57,220 --> 00:19:01,610
+Sobald mein Sohn wieder stabil ist,
+will ich dieses Ding aus seinem Kopf haben.
+
+281
+00:19:10,070 --> 00:19:11,260
+Warum tust du das?
+
+282
+00:19:11,300 --> 00:19:14,860
+Weil er ignorant ist und von
+einer Idiotin großgezogen wurde.
+
+283
+00:19:14,890 --> 00:19:16,680
+Das reicht mir nicht.
+
+284
+00:19:16,740 --> 00:19:17,990
+Du hast immer ...
+
+285
+00:19:18,010 --> 00:19:21,540
+Mein Patient entscheidet
+sich für eine Behinderung.
+
+286
+00:19:21,550 --> 00:19:24,330
+Es ist eine Beleidigung für
+alle anderen Krüppel da draußen.
+
+287
+00:19:26,340 --> 00:19:28,500
+Okay.
+
+288
+00:19:29,690 --> 00:19:32,520
+Aber ich übertrage trotzdem
+Foreman die Leitung für den Fall.
+
+289
+00:19:32,530 --> 00:19:34,350
+Das ist die Vereinbarung?
+
+290
+00:19:36,950 --> 00:19:39,610
+Okay.
+
+291
+00:19:45,000 --> 00:19:47,550
+{pos(192,220)}<i>Du bist damit einverstanden,
+dass Foreman die Leitung hat?</i>
+
+292
+00:19:48,810 --> 00:19:50,710
+{pos(192,220)}<i>Wen rufst du an?</i>
+
+293
+00:19:50,720 --> 00:19:52,510
+{pos(192,220)}<i>Richtig, du willst ja nicht
+wie ein Wahnsinniger aussehen.</i>
+
+294
+00:19:52,540 --> 00:19:54,490
+{pos(192,220)}<i>Ja, darum ...</i>
+
+295
+00:19:54,530 --> 00:19:56,100
+{pos(192,220)}<i>Denkst du, wir haben das Falsche getan?</i>
+
+296
+00:19:56,130 --> 00:19:57,760
+{pos(192,220)}<i>Ich bin nicht sicher.</i>
+
+297
+00:19:58,080 --> 00:20:00,290
+{pos(192,220)}<i>Ich bin mir nicht mal sicher,
+warum wir es getan haben.</i>
+
+298
+00:20:00,330 --> 00:20:02,530
+{pos(192,220)}<i>Nun, das Argument, dass du vor Cuddy
+gebracht hast, klang doch sehr gut.</i>
+
+299
+00:20:02,560 --> 00:20:04,410
+{pos(192,220)}<i>Für dich vielleicht.</i>
+
+300
+00:20:12,060 --> 00:20:15,410
+Ich dachte mir, Sie wären schon bei der Tafel
+mit Ihrem Monokel und einer Reiterhose.
+
+301
+00:20:15,450 --> 00:20:17,090
+Ja, Sie haben etwas Dummes getan.
+
+302
+00:20:17,110 --> 00:20:19,590
+- Machen Sie sich nur schnell über jemanden lustig.
+- Warum haben Sie es getan?
+
+303
+00:20:20,450 --> 00:20:22,890
+Warum ich einem menschlichen
+Wesen die Macht gab zu hören?
+
+304
+00:20:22,920 --> 00:20:26,390
+Würden Sie Gott diese Frage stellen,
+würden er Ihnen dieselbe Antwort geben.
+
+305
+00:20:27,430 --> 00:20:28,970
+Der Patient hat jetzt auch Fieber.
+
+306
+00:20:28,990 --> 00:20:30,970
+Wahrscheinlich nur eine
+Folgeerscheinung der OP.
+
+307
+00:20:31,010 --> 00:20:32,940
+- Arnold-Chiari?
+- Nicht ohne Muskelschwäche.
+
+308
+00:20:32,950 --> 00:20:34,320
+Pseudotumor Cerebri?
+
+309
+00:20:34,340 --> 00:20:36,660
+Wir haben seine Augen vor der OP überprüft.
+Keine Stauungspapille.
+
+310
+00:20:36,670 --> 00:20:38,500
+{pos(192,220)}<i>Candy?</i>
+
+311
+00:20:39,930 --> 00:20:42,310
+{pos(192,220)}<i>Ich bin ziemlich sicher, dass der Name von
+Wilson Stripperin irgendetwas Süßes war.</i>
+
+312
+00:20:42,330 --> 00:20:45,700
+Vielleicht ist sein Fieber mehr
+als eine Folgeerscheinung der OP.
+
+313
+00:20:45,750 --> 00:20:47,300
+Seine Freundin war vor ein paar Monaten krank.
+
+314
+00:20:47,340 --> 00:20:49,860
+- Vielleicht war ihre Grippe eigentlich Epstein-Barr.
+{pos(192,220)}<i>-Lolli?</i>
+
+315
+00:20:49,870 --> 00:20:52,860
+Sie tauschen Spucke aus, das Virus
+gelangt in sein Gehirn, führt zu Meningitis.
+
+316
+00:20:52,890 --> 00:20:56,300
+- führt zu erhöhtem interkraniellen Druck.
+{pos(192,220)}<i>- Ich stimme zu. Toffee?</i>
+
+317
+00:20:56,560 --> 00:20:58,560
+Ich stimme zu.
+
+318
+00:20:59,330 --> 00:21:02,590
+Na los, gebt ihm
+Rivavirin für Epstein-Barr.
+
+319
+00:21:02,600 --> 00:21:04,270
+Treffen Sie weiterhin auf
+diese Art Entscheidungen.
+
+320
+00:21:04,310 --> 00:21:07,020
+Das erzeugt wirklich die Illusion,
+als hätten Sie etwas zu sagen.
+
+321
+00:21:11,320 --> 00:21:13,160
+Warum bist du nicht in meinem Büro?
+
+322
+00:21:13,190 --> 00:21:16,320
+Weil ich weiß, was das Wort "mein" heißt.
+
+323
+00:21:16,340 --> 00:21:20,870
+Ich habe etwas Irres gemacht und du nervst mich nicht
+mit deinen Bestrebungen, das "Warum?" zu erfahren.
+
+324
+00:21:22,470 --> 00:21:24,950
+Es war nett.
+
+325
+00:21:26,110 --> 00:21:29,050
+Ich habe dem Idiot ein Implantat gegeben,
+um zu beweisen, was für ein Idiot er ist.
+
+326
+00:21:29,051 --> 00:21:30,030
+Inwiefern ist das nett?
+
+327
+00:21:30,040 --> 00:21:33,750
+Du hast es nicht getan, um den Fall zu lösen. Du
+hast es nicht getan, um sein Leben zu retten. Du ...
+
+328
+00:21:33,760 --> 00:21:35,610
+hast es getan, um sein Leben zu verbessern.
+
+329
+00:21:35,650 --> 00:21:36,690
+Es war ein fürsorglicher Akt.
+
+330
+00:21:36,720 --> 00:21:41,010
+Den du auf ... sittenwidrige und illegale
+Art und Weise gemacht hast, aber ...
+
+331
+00:21:41,760 --> 00:21:43,790
+es sind kleine Schritte.
+
+332
+00:21:43,810 --> 00:21:45,330
+{pos(192,220)}<i>Klingt nicht nach uns.</i>
+
+333
+00:21:45,350 --> 00:21:48,240
+Du kannst mich nicht dazu zwingen,
+zum Junggesellenabschied zu gehen.
+
+334
+00:21:48,540 --> 00:21:50,540
+Ich weiß.
+
+335
+00:21:50,570 --> 00:21:52,020
+Und du hast kein Problem damit?
+
+336
+00:21:52,070 --> 00:21:53,990
+Habe ich denn eine andere Wahl?
+
+337
+00:21:57,320 --> 00:21:58,790
+(Bringe sie dazu, es rauszunehmen.)
+
+338
+00:21:59,690 --> 00:22:02,490
+(Sie können nicht noch einmal operieren.)
+
+339
+00:22:02,500 --> 00:22:04,160
+(Erst muss es dir besser gehen.)
+
+340
+00:22:05,600 --> 00:22:07,590
+(Ich will das Ding nicht in mir drin haben.)
+
+341
+00:22:07,860 --> 00:22:09,570
+Seth!
+
+342
+00:22:11,930 --> 00:22:14,590
+Bitte, Gott!
+
+343
+00:22:16,520 --> 00:22:18,130
+(Was hast du gesagt?)
+
+344
+00:22:20,080 --> 00:22:21,260
+"Seth"?
+
+345
+00:22:21,270 --> 00:22:22,650
+(Ist das mein Name?)
+
+346
+00:22:22,660 --> 00:22:25,160
+S-E-T-H?
+
+347
+00:22:26,280 --> 00:22:28,550
+Ja.
+
+348
+00:22:28,560 --> 00:22:30,370
+(Sag es bitte noch einmal.)
+
+349
+00:22:33,140 --> 00:22:35,400
+Seth.
+
+350
+00:23:02,970 --> 00:23:05,350
+Ich glaube, dass er gerade
+das Bett genässt hat.
+
+351
+00:23:27,460 --> 00:23:29,860
+Der Junge ist dehydriert, aber stabil.
+
+352
+00:23:29,870 --> 00:23:33,410
+Glücklicherweise scheint der Brunnen seines
+neuen Könnens einen Moment lang gestoppt zu haben.
+
+353
+00:23:34,200 --> 00:23:37,810
+Nicht bevor Epstein-Barr
+endgültig vom Tisch ist.
+
+354
+00:23:37,850 --> 00:23:39,080
+Aufessen!
+
+355
+00:23:39,110 --> 00:23:42,530
+Wir werden die Eiscremesorten für
+den Junggesellenabschied aussuchen.
+
+356
+00:23:43,290 --> 00:23:46,320
+Könnte eine systemische
+Autoimmun-Krankheit sein.
+
+357
+00:23:46,650 --> 00:23:50,760
+Sarkoido... Das schmeckt wie ...
+Wodka.
+
+358
+00:23:51,500 --> 00:23:53,780
+Naja, es wäre dämlich, wenn es
+wie Bourbon schmecken würde.
+
+359
+00:23:53,810 --> 00:23:55,540
+- Das ist das Braune.
+- Ist es Wodka?
+
+360
+00:23:55,550 --> 00:23:58,140
+Schockgefrostet in einem geheimen Vorgang.
+
+361
+00:23:58,860 --> 00:24:01,420
+Der Kerl hat ihn in
+seinem Keller entdeckt.
+
+362
+00:24:03,700 --> 00:24:06,190
+Lemoncello. Ein Genie.
+
+363
+00:24:06,200 --> 00:24:08,470
+Die Symptome setzten
+zu hart und zu schnell ein.
+
+364
+00:24:08,500 --> 00:24:10,190
+Sarkoidose ist fortschreitend.
+
+365
+00:24:13,080 --> 00:24:15,940
+{pos(192,220)}<i>Erinnerst du dich noch an das Medizinstudium,
+als Donovan zu großen Partys eingeladen hat?</i>
+
+366
+00:24:15,970 --> 00:24:17,930
+{pos(192,220)}<i>Da war dieser Kerl,
+der ganze Liter gepinkelt hat.</i>
+
+367
+00:24:17,970 --> 00:24:19,380
+Glomerulonephritis?
+
+368
+00:24:19,420 --> 00:24:22,100
+Ein Ringer. Steroide könnten
+die Nieren beschädigt haben.
+
+369
+00:24:22,440 --> 00:24:24,400
+Mhhh, Scotch ist lecker.
+
+370
+00:24:24,410 --> 00:24:25,880
+Sein Urin wäre dann braun gewesen.
+
+371
+00:24:25,900 --> 00:24:30,280
+{pos(192,220)}<i>Donovan hat osmotische Diurese
+ausgeschlossen. Nierenerkrankung.</i>
+
+372
+00:24:30,290 --> 00:24:31,580
+Phäochromozytom?
+
+373
+00:24:31,620 --> 00:24:33,850
+Kein Bluthochdruck.
+Plasma-Metanephrine normal.
+
+374
+00:24:33,860 --> 00:24:35,060
+Verbrauchskoagulopathie?
+
+375
+00:24:35,100 --> 00:24:37,670
+{pos(192,220)}<i>Es geschah nachts.
+Das war der Hinweis.</i>
+
+376
+00:24:37,680 --> 00:24:42,670
+{pos(192,220)}<i>Nacht, Körper in Liegeposition,
+Veränderungen im Blutdruck.</i>
+
+377
+00:24:46,010 --> 00:24:48,430
+Es ist sein Herz.
+
+378
+00:24:49,030 --> 00:24:52,340
+Machen Sie ein 12-Kanal-EKG.
+Beobachten Sie ihn vier Stunden.
+
+379
+00:24:52,350 --> 00:24:54,640
+Foreman stimmt mir zu.
+
+380
+00:24:58,350 --> 00:25:00,500
+{pos(192,220)}<i>Was zur Hölle ist gerade passiert?</i>
+
+381
+00:25:00,530 --> 00:25:03,100
+{pos(192,220)}<i>Alles hat angefangen zu verblassen.</i>
+
+382
+00:25:03,120 --> 00:25:05,030
+{pos(192,220)}<i>Du wirst besser darin dich zu konzentrieren.</i>
+
+383
+00:25:05,060 --> 00:25:07,270
+{pos(192,220)}<i>Du ignorierst alles,
+was unwichtig ist.</i>
+
+384
+00:25:09,730 --> 00:25:11,770
+{pos(192,220)}<i>Er sieht angepisst aus.</i>
+
+385
+00:25:11,790 --> 00:25:14,160
+{pos(192,220)}<i>Ich denke, dass er
+vielleicht was von uns will.</i>
+
+386
+00:25:14,210 --> 00:25:16,300
+{pos(192,220)}<i>Kannst du besser gucken als ich?</i>
+
+387
+00:25:16,310 --> 00:25:18,770
+Wir müssen über den
+Junggesellenabschied sprechen.
+
+388
+00:25:19,980 --> 00:25:21,710
+Ausgezeichnete Themenwahl.
+
+389
+00:25:21,740 --> 00:25:25,780
+Die OP ist so langweilig und meine
+Lügen sind schon Schnee von gestern.
+
+390
+00:25:25,810 --> 00:25:28,350
+Es ist mein Fehler, dass ich mich von Ihnen
+wegen des Implantats überreden lassen habe.
+
+391
+00:25:28,380 --> 00:25:30,760
+Cameron wird wegen dieser
+Party nicht sehr erfreut sein.
+
+392
+00:25:30,780 --> 00:25:32,050
+Aber Sie, auf der anderen Seite ...
+
+393
+00:25:32,100 --> 00:25:34,750
+Planen, Ihr restliches Leben
+mit Cameron zu verbringen.
+
+394
+00:25:34,760 --> 00:25:37,450
+Also ... muss ich der Furz-Band absagen?
+
+395
+00:25:37,460 --> 00:25:40,510
+Also ... will ich, dass Sie mich entführen.
+
+396
+00:25:42,200 --> 00:25:44,840
+Gesprochen wie ein wahrer Aussie.
+
+397
+00:25:44,860 --> 00:25:49,000
+Nebenbei. Wenn Sie wissen, wo ich mir den Noten-
+zettel für "Waltzing Matilda" besorgen kann ...
+
+398
+00:25:53,430 --> 00:25:54,980
+Wollen Sie etwas Eiscreme?
+
+399
+00:25:55,000 --> 00:25:57,120
+Wir haben eine Eisbar.
+
+400
+00:25:57,430 --> 00:25:59,510
+Spitze.
+
+401
+00:26:01,350 --> 00:26:03,350
+{pos(192,220)}<i>Das ist ihr Name.</i>
+
+402
+00:26:03,370 --> 00:26:05,200
+{pos(192,220)}<i>Eis oder Spitze?</i>
+
+403
+00:26:05,240 --> 00:26:06,950
+{pos(192,220)}<i>Karamel.</i>
+
+404
+00:26:08,050 --> 00:26:10,580
+{pos(192,220)}<i>Mit einem "K."</i>
+
+405
+00:26:14,320 --> 00:26:17,370
+(Ich wünschte, ich könnte auch
+ein Implantat bekommen.)
+
+406
+00:26:17,690 --> 00:26:18,980
+(Du brauchst keins.)
+
+407
+00:26:18,990 --> 00:26:20,030
+(Niemand tut das.)
+
+408
+00:26:20,470 --> 00:26:22,580
+(Es ist eine großartige Sache.)
+
+409
+00:26:22,590 --> 00:26:26,250
+(Es wird dir eine ganz neue Welt eröffnen.)
+
+410
+00:26:27,660 --> 00:26:29,830
+(Ich will keine neue Welt.)
+
+411
+00:26:29,840 --> 00:26:31,600
+(Das muss nicht zwangsläufig Dinge ändern.)
+
+412
+00:26:35,480 --> 00:26:36,950
+(Ich bin gleich wieder zurück.)
+
+413
+00:26:41,760 --> 00:26:43,870
+Toiletten?
+
+414
+00:26:45,460 --> 00:26:47,860
+Den Flur runter, zweite Tür rechts.
+
+415
+00:26:48,240 --> 00:26:50,340
+Danke.
+
+416
+00:26:53,240 --> 00:26:55,030
+Klinge ...
+
+417
+00:26:55,050 --> 00:26:56,790
+ich so ...
+
+418
+00:26:57,330 --> 00:26:59,140
+wie sie?
+
+419
+00:27:01,810 --> 00:27:03,820
+Es dauert seine Zeit.
+
+420
+00:27:13,010 --> 00:27:14,970
+Sie haben immer noch nicht geschlafen?
+
+421
+00:27:17,290 --> 00:27:18,910
+Und dann habe ich eine kluge Antwort.
+
+422
+00:27:18,920 --> 00:27:21,190
+EKG, normale Sinuskurve, normale Intervalle.
+
+423
+00:27:21,220 --> 00:27:23,910
+- Sein Herz ist in Ordnung.
+{pos(192,220)}<i>- Sein Herz ist nicht in Ordnung.</i>
+
+424
+00:27:23,920 --> 00:27:26,840
+Das Herz war während des Tests in Ordnung.
+
+425
+00:27:26,870 --> 00:27:28,340
+Die Arrhythmie versteckt sich.
+
+426
+00:27:28,370 --> 00:27:30,520
+Oder wir hatten wegen des Herzens Unrecht.
+
+427
+00:27:30,550 --> 00:27:31,600
+Könnte die Schilddrüse sein.
+
+428
+00:27:31,630 --> 00:27:34,290
+Hashimodo würde den Urin des
+Jungen und den Hirndruck erklären.
+
+429
+00:27:34,300 --> 00:27:35,030
+{pos(192,220)}<i>Laufband.
+
+430
+00:27:35,050 --> 00:27:38,230
+Oder die Arrhythmie versteckt sich.
+
+431
+00:27:38,710 --> 00:27:41,200
+Wir müssen ihn belasten.
+Stellen Sie den Patient auf ein Laufband.
+
+432
+00:27:41,210 --> 00:27:42,830
+Der Patient hatte gerade eine Hirn-OP.
+
+433
+00:27:42,860 --> 00:27:45,300
+Ein Belastungstest könnte eine
+Hirnblutung verursachen und ihn töten.
+
+434
+00:27:45,320 --> 00:27:46,950
+Ich schätze Ihre Meinung.
+
+435
+00:27:46,970 --> 00:27:49,140
+Ich schätze es, Ihre Meinung nicht zu schätzen.
+
+436
+00:27:49,170 --> 00:27:51,420
+Sie werden es nicht tun.
+Sie haben nicht geschlafen.
+
+437
+00:27:51,430 --> 00:27:53,590
+Cuddy will eigentlich nicht,
+dass Sie die Leitung haben.
+
+438
+00:27:53,610 --> 00:27:57,530
+Sie will nur einen Rechtsstreit vermeiden
+und einen NAACP-Award gewinnen.
+
+439
+00:27:57,560 --> 00:27:59,076
+Und wenn ich Sie das Leben
+unseres Patienten riskieren lasse,
+
+440
+00:27:59,077 --> 00:28:02,600
+indem Sie ein Organ testen, das wir schon
+getestet haben, kommen wir auch nicht weiter.
+
+441
+00:28:02,610 --> 00:28:04,740
+Macht ein Thyroid-Panel.
+
+442
+00:28:11,410 --> 00:28:14,610
+{pos(192,220)}<i>Wie bekommen wir ihn ohne Foremans
+Zustimmung ins Belastungslabor?</i>
+
+443
+00:28:14,630 --> 00:28:16,740
+{pos(192,220)}<i>Wir könnten Foreman töten.</i>
+
+444
+00:28:16,750 --> 00:28:18,760
+{pos(192,220)}<i>Ist sie neu?</i>
+
+445
+00:28:18,770 --> 00:28:24,370
+{pos(192,220)}<i>Lass dich nicht ablenken. Das Labor simuliert
+Belastung. Was, wenn sie nicht simuliert wird?</i>
+
+446
+00:28:24,860 --> 00:28:26,900
+{pos(192,220)}<i>Wir könnten ihm sagen,
+dass ihn seine Freundin verlassen hat.</i>
+
+447
+00:28:26,930 --> 00:28:30,520
+{pos(192,220)}<i>Das ist schwer zu verkaufen. Sie verlässt
+den Raum nie länger als fünf Minuten.</i>
+
+448
+00:28:30,530 --> 00:28:34,690
+{pos(192,220)}<i>Wir könnten sie töten.
+Oder ... Asthma-Medis.</i>
+
+449
+00:28:34,700 --> 00:28:36,930
+{pos(192,220)}<i>Sie bringen das Herz dazu,
+schneller zu schlagen.</i>
+
+450
+00:28:36,960 --> 00:28:39,110
+{pos(192,220)}<i>Es offenbart die Arrhythmie.</i>
+
+451
+00:28:39,890 --> 00:28:42,430
+{pos(192,220)}<i>- Schöne Idee.
+- Es war deine.</i>
+
+452
+00:28:51,860 --> 00:28:53,380
+Ich habe den Raum nur ein
+paar Minuten verlassen.
+
+453
+00:28:53,410 --> 00:28:54,780
+Er hat sein Implantat rausgerissen.
+
+454
+00:28:54,800 --> 00:28:56,890
+So viel zu "sein Leben verbessern".
+
+455
+00:28:56,900 --> 00:29:00,250
+{pos(192,220)}<i>Eigentlich denke ich, dass wir
+es ihm gerade gerettet haben.</i>
+
+456
+00:29:03,440 --> 00:29:06,860
+Schauen Sie sich das an.
+Arrhythmie.
+
+457
+00:29:11,600 --> 00:29:12,910
+Sie hatten mit dem Herzen Recht.
+
+458
+00:29:12,940 --> 00:29:14,850
+Ich hätte auf Sie hören soll.
+
+459
+00:29:14,860 --> 00:29:18,590
+Die korrekte Formulierung wäre
+"Ich sollte immer auf Sie hören".
+
+460
+00:29:18,620 --> 00:29:22,300
+Er hat überall Probleme.
+Was geht überall hin?
+
+461
+00:29:22,310 --> 00:29:24,130
+Blut.
+Könnte Thrombozythämie sein.
+
+462
+00:29:24,140 --> 00:29:26,250
+Überschüssige Blutkörperchen könnten im
+ganzen Körper zur Gerinnung führen.
+
+463
+00:29:26,260 --> 00:29:27,620
+Nicht mit einer normalen
+Anzahl an Blutkörperchen.
+
+464
+00:29:27,670 --> 00:29:30,730
+Dann startet die Gerinnung nicht im Blut,
+sondern in den Lungen. Lungenembolie.
+
+465
+00:29:30,770 --> 00:29:32,750
+Wir sollten einen Ventilation/Perfusion-Scan
+machen, um zu sehen, ob seine Lungen frei sind.
+
+466
+00:29:45,240 --> 00:29:47,230
+Los.
+
+467
+00:29:58,850 --> 00:30:00,940
+{pos(192,220)}<i>Bist du sicher, dass ich das bei
+Wilsons Party gemacht habe?
+
+468
+00:30:00,960 --> 00:30:04,360
+{pos(192,220)}<i>Das letzte Mal hast du
+Korn anstatt Sambuca benutzt.</i>
+
+469
+00:30:04,670 --> 00:30:06,720
+{pos(192,220)}<i>Und es hat funktioniert?</i>
+
+470
+00:30:15,890 --> 00:30:18,840
+{pos(192,220)}<i>Erklärt meine fehlenden
+Augenbrauen am Ende des Abends.</i>
+
+471
+00:30:23,610 --> 00:30:26,240
+{pos(192,220)}<i>Mit Macht von Grey Skull,
+werde ich ...</i>
+
+472
+00:30:34,940 --> 00:30:37,270
+{pos(192,220)}<i>Deswegen proben wir das.</i>
+
+473
+00:30:39,060 --> 00:30:43,630
+{pos(192,220)}<i>Hast du dich schon mal gefragt, was immer
+passiert ist, wenn unser Patient kränker wird?</i>
+
+474
+00:30:43,640 --> 00:30:46,500
+{pos(192,220)}<i>- Nicht in diesem Moment!
+- Erstes Symptom, Ringkampf.</i>
+
+475
+00:30:46,820 --> 00:30:50,300
+{pos(192,220)}<i>Dann, unter den Lichtern
+des Anfall-Labors ...</i>
+
+476
+00:30:50,330 --> 00:30:52,110
+{pos(192,220)}<i>Willst du auf irgendetwas
+hinaus? Denn das fühlt ...</i>
+
+477
+00:30:52,130 --> 00:30:54,070
+{pos(192,220)}<i>Mach einfach damit weiter ... es hilft.</i>
+
+478
+00:30:54,110 --> 00:30:57,220
+{pos(192,220)}<i>Dann, unter dem Stress der Erblindung ...</i>
+
+479
+00:30:57,590 --> 00:30:59,210
+{pos(192,220)}<i>und Post-OP-Fieber.</i>
+
+480
+00:30:59,230 --> 00:31:01,550
+{pos(192,220)}<i>Was haben alle Symptome gemeinsam?</i>
+
+481
+00:31:04,890 --> 00:31:06,930
+{pos(192,220)}<i>Wärme.</i>
+
+482
+00:31:09,170 --> 00:31:12,300
+{pos(192,220)}<i>Siehst du, wenn du nicht hier gewesen wärst,
+wäre mir das einfach in den Kopf geschossen.</i>
+
+483
+00:31:12,330 --> 00:31:14,810
+{pos(192,220)}<i>Was wirklich viel cooler gewesen wäre.</i>
+
+484
+00:31:16,520 --> 00:31:20,670
+Foreman, der Bursche hat das Uhthoff-Phänomen.
+Was bedeutet, dass es MS ist.
+
+485
+00:31:20,890 --> 00:31:23,380
+Beginnen Sie mit einer
+doppelten Dosis Interferon.
+
+486
+00:31:23,400 --> 00:31:24,950
+{pos(192,220)}<i>Dann lass uns einen Trinken gehen.</i>
+
+487
+00:31:24,970 --> 00:31:28,720
+{pos(192,220)}<i>Nicht bevor ich "chemische Verbrennungen" zu
+den Todesursachen dieses Kerls hinzugefügt habe.
+
+488
+00:31:29,450 --> 00:31:31,380
+Schön, der Patient spricht auf das Interferon an.
+
+489
+00:31:31,410 --> 00:31:34,410
+Sieht so aus, als könnte ich als
+Aushängeschild der Abteilung zurücktreten.
+
+490
+00:31:34,950 --> 00:31:36,620
+Dr. Robert Chase.
+
+491
+00:31:36,650 --> 00:31:39,300
+Wir sind von der Einwanderungsbehörde.
+
+492
+00:31:39,340 --> 00:31:41,560
+Haben Sie kürzlich eine
+Heiratserlaubnis beantragt?
+
+493
+00:31:42,400 --> 00:31:43,180
+Ja.
+
+494
+00:31:43,210 --> 00:31:45,510
+Laut unseren Unterlagen ist
+Ihre Arbeitserlaubnis abgelaufen.
+
+495
+00:31:45,520 --> 00:31:46,600
+Sie kommen mit uns mit.
+
+496
+00:31:46,610 --> 00:31:48,880
+Ah, ich bin seine Verlobte.
+Ich kann mitkommen und das klären ...
+
+497
+00:31:48,890 --> 00:31:51,650
+Tut mir leid, Ma'am.
+Nur Illegale.
+
+498
+00:31:53,510 --> 00:31:54,790
+Ich ... ich bin sicher,
+dass das ein Fehler ist.
+
+499
+00:31:54,820 --> 00:31:57,290
+Ich werde dich anrufen,
+sobald ich weiß, was los ist.
+
+500
+00:31:59,750 --> 00:32:02,270
+Pass auf, dass House ihn nicht in
+zu viele Schwierigkeiten bringt.
+
+501
+00:32:27,470 --> 00:32:32,550
+Erlauben Sie mir, Sie zum besten Abend
+Ihres Lebens willkommen zu heißen.
+
+502
+00:32:45,000 --> 00:32:48,370
+Nun, aha, ein paar Grundregeln für den Abend.
+
+503
+00:32:48,380 --> 00:32:50,820
+Ah, Kondome sind die erste Regel.
+
+504
+00:32:50,850 --> 00:32:54,570
+Wir hatten jetzt seit 18 Tagen
+keinen Arbeitsunfall mehr.
+
+505
+00:32:54,600 --> 00:32:58,980
+Ah ja, diese Mädchen arbeiten sich
+alle durch die Juristische Fakultät.
+
+506
+00:32:59,010 --> 00:33:01,110
+- Testen Sie sie nicht.
+- House!
+
+507
+00:33:02,550 --> 00:33:04,810
+Ich wusste, dass du nicht fernbleiben konntest.
+
+508
+00:33:09,570 --> 00:33:12,510
+Das ist meine Wohnung.
+Das kannst du nicht machen.
+
+509
+00:33:12,520 --> 00:33:15,410
+Offensichtlich ist die
+Realität anderer Ansicht.
+
+510
+00:33:17,290 --> 00:33:19,430
+Wo ist meine Einrichtung?
+
+511
+00:33:19,440 --> 00:33:22,600
+- Irgendwo hinten im Garten.
+- James!
+
+512
+00:33:24,860 --> 00:33:26,990
+Karamell?
+
+513
+00:33:33,190 --> 00:33:34,910
+Wie geht's deiner Frau?
+
+514
+00:33:35,420 --> 00:33:37,740
+Wir ... wir haben uns scheiden lassen.
+
+515
+00:33:38,100 --> 00:33:39,920
+- Wie geht's deiner Katze?
+- Tot.
+
+516
+00:33:41,850 --> 00:33:44,030
+Wir wär's mit einem Drink?
+
+517
+00:33:44,910 --> 00:33:47,140
+Okay.
+
+518
+00:34:27,770 --> 00:34:28,960
+Du bist damit einverstanden?
+
+519
+00:34:28,980 --> 00:34:30,600
+Ich habe 50 Kröten dafür bezahlt.
+
+520
+00:34:30,620 --> 00:34:33,750
+Ihr zwei seid großartig zusammen.
+Vertrauen ist alles.
+
+521
+00:34:34,050 --> 00:34:37,490
+Ich brauche etwas frische Luft.
+Bleibt vernünftig.
+
+522
+00:34:55,690 --> 00:34:57,590
+Du solltest da draußen sein ...
+
+523
+00:34:57,630 --> 00:35:00,720
+die Stripteasetänze deiner
+Angestellten genießen.
+
+524
+00:35:01,670 --> 00:35:04,450
+Ähm, mir gefällt es irgendwie hier drin.
+
+525
+00:35:05,100 --> 00:35:07,390
+Mir auch.
+
+526
+00:35:08,400 --> 00:35:12,100
+Auf uns, dass wir MS rausgefunden haben.
+
+527
+00:35:12,110 --> 00:35:17,020
+Und die Erblindung und die Neuropathie und
+Arrhythmie und alles, was wir sonst gemacht haben.
+
+528
+00:35:20,910 --> 00:35:23,880
+Was genau hat mein
+eigentlich Team getan?
+
+529
+00:35:24,360 --> 00:35:26,930
+In Ihren Kitteln gut aussehen.
+
+530
+00:35:26,960 --> 00:35:29,340
+Außer Taub.
+
+531
+00:35:29,800 --> 00:35:32,400
+Manche Leute arbeiten
+alleine einfach besser ...
+
+532
+00:35:32,430 --> 00:35:34,850
+sozusagen.
+
+533
+00:35:35,610 --> 00:35:38,040
+- Noch einen Drink.
+- Nein! Ich kann nicht!
+
+534
+00:35:38,050 --> 00:35:40,120
+Ich brauche eine Pause.
+
+535
+00:35:40,130 --> 00:35:42,470
+Lerne Karamell kennen.
+
+536
+00:35:45,450 --> 00:35:48,010
+Vielleicht noch einen Drink.
+
+537
+00:35:57,480 --> 00:35:59,370
+Was ist das für ein Geschmack?
+
+538
+00:35:59,390 --> 00:36:03,110
+Ist das ...
+ist das Erdbeere?
+
+539
+00:36:08,400 --> 00:36:10,430
+House, sind Sie da drin?
+
+540
+00:36:10,800 --> 00:36:14,720
+Benutzen Sie das andere Badezimmer.
+Es ist in der Küche. Sieht aus wie ein Spülbecken.
+
+541
+00:36:14,730 --> 00:36:19,290
+Chase hat einen anaphylaktischen Schock bekommen.
+Von der Hautcreme der Stripperin oder so was.
+
+542
+00:36:20,200 --> 00:36:21,450
+Geht's ihm gut?
+
+543
+00:36:21,490 --> 00:36:23,960
+Einer der Anwohner hatte eine Epipen-Spritze
+dabei, es geht ihm also gut.
+
+544
+00:36:23,990 --> 00:36:26,430
+Wir bringen ihn ins Krankenhaus,
+um sicher zu gehen.
+
+545
+00:36:27,910 --> 00:36:29,920
+Okay.
+
+546
+00:36:35,090 --> 00:36:38,620
+{pos(192,220)}<i>Ich wusste, dass Chase allergisch
+auf Erdbeeren ist, oder?</i>
+
+547
+00:36:40,760 --> 00:36:43,980
+{pos(192,220)}<i>Deswegen wolltest du
+Karamell für diese Party.</i>
+
+548
+00:36:44,020 --> 00:36:48,060
+{pos(192,220)}<i>Ich habe Karamell vorgeschlagen, weil
+sie auf Wilsons Abschied großartig war.</i>
+
+549
+00:36:48,090 --> 00:36:52,370
+{pos(192,220)}<i>Ich wusste von ihrer Hautcreme
+und von seiner Erdbeerallergie.</i>
+
+550
+00:36:54,300 --> 00:36:56,920
+{pos(192,220)}<i>Ich habe versucht, Chase umzubringen.</i>
+
+551
+00:36:58,130 --> 00:37:01,710
+{pos(192,220)}<i>Warum würde ich das tun?
+Ich will Cameron nicht.</i>
+
+552
+00:37:01,720 --> 00:37:05,310
+{pos(192,220)}<i>Du bist auch kein Fan des
+Glückes anderer Menschen.</i>
+
+553
+00:37:11,730 --> 00:37:13,790
+Hallo.
+
+554
+00:37:14,910 --> 00:37:18,230
+Bestätigung?
+Danke.
+
+555
+00:37:21,050 --> 00:37:24,420
+{pos(192,220)}<i>Der Bursche, den wir
+gerettet haben. .. er stirbt.</i>
+
+556
+00:37:25,120 --> 00:37:29,390
+{pos(192,220)}<i>Es ist nicht MS.
+Wir lagen falsch.</i>
+
+557
+00:37:34,030 --> 00:37:36,240
+Gott sei dank geht's dir gut.
+Was ist passiert?
+
+558
+00:37:36,250 --> 00:37:38,650
+- Es war ein Mädchen ...
+- Ah, lange Geschichte.
+
+559
+00:37:38,660 --> 00:37:40,770
+Das Lungenversagen Ihres
+Patienten schließt MS aus.
+
+560
+00:37:40,780 --> 00:37:43,030
+Wir haben ihn an ein
+Beatmungsgerät angeschlossen.
+
+561
+00:37:43,060 --> 00:37:46,770
+- Ah, vergrößerte Lymphknoten könnte ...
+- Ist auch nur einer von Ihnen nüchtern?
+
+562
+00:37:49,590 --> 00:37:52,000
+{pos(192,220)}<i>Kehr um.
+Du musst ins Krankenhaus gehen.</i>
+
+563
+00:37:54,110 --> 00:37:56,420
+{pos(192,220)}<i>Ich muss schlafen.</i>
+
+564
+00:38:00,760 --> 00:38:02,560
+{pos(192,220)}<i>Ich bin du.</i>
+
+565
+00:38:02,590 --> 00:38:05,230
+{pos(192,220)}<i>Du kannst nicht einfach
+die Tür schließen.</i>
+
+566
+00:38:05,240 --> 00:38:07,970
+{pos(192,220)}<i>Du hast versucht, Chase umzubringen.</i>
+
+567
+00:38:07,990 --> 00:38:10,030
+{pos(192,220)}<i>Ich muss dich wieder zurückdrängen.</i>
+
+568
+00:38:10,070 --> 00:38:12,020
+{pos(192,220)}<i>Du bist gefährlich.</i>
+
+569
+00:38:13,070 --> 00:38:14,580
+{pos(192,220)}<i>Es ist das Krankenhaus.</i>
+
+570
+00:38:14,590 --> 00:38:16,660
+{pos(192,220)}<i>Ich antworte nicht.</i>
+
+571
+00:38:20,260 --> 00:38:21,180
+Hallo.
+
+572
+00:38:21,240 --> 00:38:25,950
+Ich bin hier bei deinem Team, versuche sie
+auszunüchtern, damit sie helfen können, ...
+
+573
+00:38:25,960 --> 00:38:28,060
+deinen sterbenden Patienten zu behandeln.
+
+574
+00:38:28,070 --> 00:38:30,320
+Foremans sterbenden Patient.
+
+575
+00:38:30,330 --> 00:38:34,600
+Was verursacht Lungenversagen und die
+vorherigen Symptome deines Patienten?
+
+576
+00:38:34,630 --> 00:38:36,070
+{pos(192,220)}<i>Eosinophile Pneumonie.</i>
+
+577
+00:38:36,120 --> 00:38:40,330
+{pos(192,220)}<i>Weiße Blutzellen sammeln sich an,
+verstopfen die Lungen, führen zu Herzproblemen.</i>
+
+578
+00:38:40,370 --> 00:38:41,700
+{pos(192,220)}<i>Es passt.</i>
+
+579
+00:38:41,710 --> 00:38:43,720
+House, bist du da?
+
+580
+00:38:43,760 --> 00:38:46,850
+Es ist nicht eosinophile Pneumonie.
+
+581
+00:38:46,880 --> 00:38:49,740
+- Ich muss pennen.
+- House, nicht auflegen! Wir brauchen deine Hilfe.
+
+582
+00:38:49,980 --> 00:38:52,740
+- Ich kann nicht.
+{pos(192,220)}<i>- Wir können das lösen.</i>
+
+583
+00:38:54,880 --> 00:38:56,750
+Gute Nacht.
+
+584
+00:38:57,780 --> 00:39:00,540
+Eosinophile Pneumonie könnte
+eigentlich Sinn ergeben.
+
+585
+00:39:00,560 --> 00:39:04,250
+Nein, House hat es ausgeschlossen, weil es den
+Kehlkopf beeinträchtigen würde. Der Patient wäre ...
+
+586
+00:39:06,450 --> 00:39:11,090
+... heiser, was wir bei einem gehörlosen Jungen,
+der selten spricht, nicht bemerken würden.
+
+587
+00:39:12,550 --> 00:39:15,840
+Warten Sie! Jeder bekommt Minztabletten.
+
+588
+00:39:18,650 --> 00:39:20,730
+Wir müssen Seth sprechen hören.
+
+589
+00:39:21,460 --> 00:39:24,520
+Aber das bedeutet, dass der Schlauch
+rausgenommen wird. Ist das nicht gefährlich?
+
+590
+00:39:24,530 --> 00:39:26,620
+Es ist der sicherste Weg zu bestätigen,
+was mit ihm nicht stimmt.
+
+591
+00:39:26,660 --> 00:39:30,680
+- Er muss ausatmen, wenn ich den Schlauch rausziehe.
+- Okay. Ausatmen.
+
+592
+00:39:43,310 --> 00:39:44,860
+Sag "ah."
+
+593
+00:39:55,920 --> 00:39:59,060
+Tut mir leid.
+Wir lagen falsch.
+
+594
+00:40:00,570 --> 00:40:04,840
+Ich muss, ähm, deinen Rachen absaugen
+bevor wir wieder intubieren.
+
+595
+00:40:11,740 --> 00:40:13,220
+Raucht Ihr Sohn?
+
+596
+00:40:13,240 --> 00:40:15,690
+Rauchen? Ich denke nicht.
+
+597
+00:40:15,700 --> 00:40:18,120
+Er hat Tabakbelag auf seinen Zähnen.
+
+598
+00:40:22,120 --> 00:40:24,870
+Er sagt, dass er es sich angewöhnt hat, Tabak
+zu kauen, um Gewicht fürs Ringen zu verlieren.
+
+599
+00:40:24,880 --> 00:40:26,020
+Angewöhnt?
+
+600
+00:40:26,050 --> 00:40:28,710
+Tabak zu kauen würde seine
+Symptome nicht erklären.
+
+601
+00:40:28,730 --> 00:40:31,190
+Aber nicht Tabak zu kauen könnte.
+
+602
+00:40:32,030 --> 00:40:35,220
+Taub hatte Recht.
+Es ist Sarkoidose.
+
+603
+00:40:35,230 --> 00:40:37,210
+Tabak setzt Toxine frei.
+
+604
+00:40:37,270 --> 00:40:39,390
+Diese Toxine haben sein Immunsystem unterdrückt.
+
+605
+00:40:39,430 --> 00:40:40,643
+Als er mit dem Kauen aufhörte,
+
+606
+00:40:40,644 --> 00:40:44,860
+hat der Mangel an diesen Toxinen eine
+inaktive Krankheit blitzschnell aktiviert.
+
+607
+00:40:47,720 --> 00:40:49,840
+Ist es behandelbar?
+
+608
+00:40:50,270 --> 00:40:53,570
+Normalerweise spricht es auf
+Corticosteroide und Methotrexat.
+
+609
+00:40:54,440 --> 00:40:56,980
+Ich werde mit der Medikation beginnen.
+
+610
+00:41:01,590 --> 00:41:03,800
+Ich brauche Schlaftabletten.
+
+611
+00:41:05,170 --> 00:41:08,020
+Ich war dabei Wilson zu erreichen,
+aber er nimmt sein Telefon nicht ab.
+
+612
+00:41:08,030 --> 00:41:10,070
+Er muss es in seiner Hose gelassen haben.
+
+613
+00:41:10,090 --> 00:41:13,700
+Die er nicht trug, als ihn die Polizei bei
+dem Versuch fand, nach Hause zu laufen ...
+
+614
+00:41:13,730 --> 00:41:16,660
+merkwürdigerweise von seiner eigenen Wohnung aus.
+
+615
+00:41:20,620 --> 00:41:22,880
+Pillen.
+
+616
+00:41:23,160 --> 00:41:25,240
+Deinem Patienten geht's gut.
+
+617
+00:41:25,250 --> 00:41:27,510
+Dank deines Teams.
+
+618
+00:41:29,340 --> 00:41:32,260
+Es war nicht eosinophile Pneumonie, oder?
+
+619
+00:41:32,280 --> 00:41:35,580
+- Sarkoidose.
+- Gut.
+
+620
+00:41:38,290 --> 00:41:40,510
+House, bitte rede mit mir.
+
+621
+00:41:49,670 --> 00:41:53,000
+Ich habe, seit Kutner sich umgebracht hat,
+die Nächte nicht durchgeschlafen.
+
+622
+00:42:11,620 --> 00:42:13,800
+Das Ringen muss vielleicht warten.
+
+623
+00:42:14,770 --> 00:42:17,700
+Ich werde den Ärzten sagen, dass sie
+dein Implantat reparieren sollen.
+
+624
+00:42:17,710 --> 00:42:19,020
+(Du sagtest immer,)
+
+625
+00:42:19,030 --> 00:42:20,450
+(dass es meine Entscheidung ist.)
+
+626
+00:42:20,460 --> 00:42:26,620
+Und dann hast du es sogar herausgerissen,
+anstatt ein paar Tage damit zu leben.
+
+627
+00:42:27,650 --> 00:42:31,120
+Ich bin deine Mutter.
+Das ist meine Entscheidung.
+
+628
+00:42:31,130 --> 00:42:33,860
+Ich weiß nicht, ob ich die richtige treffe.
+
+629
+00:42:34,500 --> 00:42:37,340
+Aber ICH muss sie treffen.
+
+630
+00:43:00,000 --> 00:43:05,999
+~ Übersetzt von ~
+~ cimbom1905, Drenton und Staubsauger ~
+
+631
+00:43:17,587 --> 00:43:19,023
+Gut geschlafen?

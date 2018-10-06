@@ -637,6 +637,8 @@ but a distended bladder.
 Neurogenic bladder
 isn't causing the pain.
 
+#https://de.wikipedia.org/wiki/Neurogene_Blase
+
 128
 00:08:42,255 --> 00:08:45,088
 It also doesn't cause
@@ -705,6 +707,8 @@ That's not peristalsis.
 - That's abdominal epilepsy.
 - Means there's some sort
 of neurological problem.
+
+#https://de.wikipedia.org/wiki/Abdominale_Epilepsie
 
 143
 00:10:55,921 --> 00:10:58,913
@@ -777,6 +781,10 @@ to rule out encephalitis...
 00:11:42,134 --> 00:11:44,466
 and get tau proteins
 to check for Alzheimer's.
+
+#https://de.wikipedia.org/wiki/Tau-Protein
+#https://de.wikipedia.org/wiki/Alzheimer-Krankheit
+
 
 157
 00:11:44,537 --> 00:11:47,062
@@ -980,6 +988,8 @@ Secret stash.
 Amphetamines.
 Regular use could lead
 to neurotoxicity.
+
+#https://de.wikipedia.org/wiki/Amphetamin
 
 199
 00:14:43,582 --> 00:14:47,245
@@ -1375,6 +1385,8 @@ His symptoms mimic
 a peripheral nervous system
 under attack.
 
+#https://de.wikipedia.org/wiki/Peripheres_Nervensystem
+
 279
 00:21:01,360 --> 00:21:05,660
 But he's experiencing
@@ -1394,6 +1406,8 @@ attacks there, not the brain.
 00:21:10,402 --> 00:21:13,132
 No. No. I already did
 an indirect Coombs' test.
+
+#https://de.wikipedia.org/wiki/Coombs-Test
 
 283
 00:21:13,205 --> 00:21:15,196
@@ -2062,6 +2076,8 @@ Fine.
 00:31:05,363 --> 00:31:07,854
 I'll send for
 an H.M.B.-synthase mutation.
+
+#https://en.wikipedia.org/wiki/Porphobilinogen_deaminase  HMBS
 
 417
 00:31:07,932 --> 00:31:10,730

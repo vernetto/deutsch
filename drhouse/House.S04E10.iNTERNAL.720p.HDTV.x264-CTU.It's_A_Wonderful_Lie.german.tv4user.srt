@@ -1,0 +1,4283 @@
+1
+00:00:05,700 --> 00:00:07,100
+Geht's dir gut?
+
+2
+00:00:07,200 --> 00:00:08,299
+Ich denke schon.
+
+3
+00:00:08,300 --> 00:00:10,034
+Denken wird dich nicht
+bis nach ganz oben bringen.
+
+4
+00:00:10,035 --> 00:00:11,734
+Mom, du solltest mich eigentlich motivieren.
+
+5
+00:00:11,735 --> 00:00:13,499
+Nein, ich soll dich trainieren.
+
+6
+00:00:13,500 --> 00:00:18,540
+Umso langsamer du kletterst,
+desto schwächer wirst du werden.
+
+7
+00:00:24,000 --> 00:00:25,834
+Ungefähr 30 Zentimeter
+über dir ist eine Halterung.
+
+8
+00:00:25,835 --> 00:00:26,800
+Ich weiß!
+
+9
+00:00:30,400 --> 00:00:31,600
+Schöner Griff.
+
+10
+00:00:32,600 --> 00:00:34,334
+Mach weiter, du bist beinahe da.
+
+11
+00:00:34,335 --> 00:00:35,799
+Ich kann nicht.
+meine Wade krampft.
+
+12
+00:00:35,800 --> 00:00:36,934
+Du musst von deinen Zehen runter.
+
+13
+00:00:36,935 --> 00:00:38,034
+Stell dich auf deinen Fußballen.
+
+14
+00:00:38,035 --> 00:00:38,599
+- Ich kann nicht.
+- Doch, du kannst.
+
+15
+00:00:38,600 --> 00:00:42,170
+Du kannst es bis nach
+ganz oben schaffen.
+
+16
+00:00:48,000 --> 00:00:48,999
+Okay, ich hab dich.
+
+17
+00:00:49,000 --> 00:00:50,934
+- Alles OK?
+- Scheint, als hättest du Unrecht gehabt.
+
+18
+00:00:50,935 --> 00:00:52,499
+Ja, aber du warst fantastisch.
+
+19
+00:00:52,500 --> 00:00:53,699
+Das war der höchste Punkt,
+den du jemals erreicht hast.
+
+20
+00:00:53,700 --> 00:00:56,034
+- Ich bin stolz auf dich.
+- Ich fühle mich nicht so gut.
+
+21
+00:00:56,035 --> 00:00:57,575
+Okay, komm runter.
+
+22
+00:00:59,400 --> 00:01:00,300
+Mom?
+
+23
+00:01:01,800 --> 00:01:03,620
+Mom, geht's dir gut?
+
+24
+00:01:10,000 --> 00:01:11,190
+Oh mein Gott.
+
+25
+00:01:16,800 --> 00:01:18,899
+- Alles OK?
+- Mein Arm... ich denke, er ist gebrochen.
+
+26
+00:01:18,900 --> 00:01:20,834
+- Bewege dich nicht.
+-Gott, Jane, es tut mir so Leid.
+
+27
+00:01:20,835 --> 00:01:22,999
+- Was ist passiert? Ist das Seil gerissen?
+- Nein!
+
+28
+00:01:23,000 --> 00:01:24,190
+Meine Hände...
+
+29
+00:01:24,800 --> 00:01:27,110
+Ich kann sie nicht bewegen.
+
+30
+00:01:29,800 --> 00:01:36,800
+~ House, M.D. S04E10 ~
+~ It's A Wonderful Lie ~
+
+31
+00:01:41,200 --> 00:01:45,199
+~ Dr. House zuerst auf ~
+~ www.tv4user.de ~
+
+32
+00:01:49,300 --> 00:01:55,299
+~ Subbed by ~
+~ schnapsteufel, ZeroTollerance and schoker88 ~
+
+33
+00:01:55,300 --> 00:01:59,800
+Anpassung: charlie°
+www.tv4user.de
+
+34
+00:02:02,650 --> 00:02:03,549
+Sie war bei einem Orthopäden,
+
+35
+00:02:03,550 --> 00:02:06,049
+zwei Neurologen und einem Immunologen.
+
+36
+00:02:06,050 --> 00:02:08,049
+Keine der Behandlungen hatte gewirkt.
+
+37
+00:02:08,050 --> 00:02:09,784
+- Denkst du, dass es vorbei ist?
+- Es wird schlimmer.
+
+38
+00:02:09,785 --> 00:02:11,601
+Der letzte Neurologe hat eine
+unregelmäßige Taubheit, sowie die Paralyse
+
+39
+00:02:11,602 --> 00:02:13,549
+sowohl in beiden Armen, als
+auch in der Hand festgestellt.
+
+40
+00:02:13,550 --> 00:02:14,349
+Ich meinte das Spiel.
+
+41
+00:02:14,350 --> 00:02:15,784
+Denkst du, er wird
+uns alle vier behalten.
+
+42
+00:02:15,785 --> 00:02:16,949
+Das hat er jedenfalls gesagt.
+
+43
+00:02:16,950 --> 00:02:18,884
+Keine Anzeichen dafür, dass die oberen
+Motoneuronen darin verwickelt sind.
+
+44
+00:02:18,885 --> 00:02:19,655
+Er lügt.
+
+45
+00:02:20,150 --> 00:02:21,830
+Meine Ohren brennen.
+
+46
+00:02:23,250 --> 00:02:24,849
+Sagen Sie Ihnen, dass Sie mit
+dem Feuern von Leuten fertig sind.
+
+47
+00:02:24,850 --> 00:02:26,549
+Nun, wenn ich lüge...
+
+48
+00:02:26,550 --> 00:02:28,349
+würde das die Sache
+etwas abflauen lassen.
+
+49
+00:02:28,350 --> 00:02:29,350
+Dr. Kutner,
+
+50
+00:02:29,750 --> 00:02:31,684
+wer hat Ihnen gesagt,
+dass es schick wäre,
+
+51
+00:02:31,685 --> 00:02:33,584
+oberflächliche Gegenstände
+
+52
+00:02:33,585 --> 00:02:35,249
+einer heuchlerischen Zeit anzubringen,
+
+53
+00:02:35,250 --> 00:02:37,349
+um eine erfundene Figur zu feiern?
+
+54
+00:02:37,350 --> 00:02:38,249
+Ich war's nicht.
+
+55
+00:02:38,250 --> 00:02:39,580
+Er lügt.
+
+56
+00:02:40,950 --> 00:02:42,549
+Homie weiß es besser,
+
+57
+00:02:42,550 --> 00:02:43,449
+Hymie interessiert es nicht,
+
+58
+00:02:43,450 --> 00:02:45,849
+und Huntington hätte
+das Ganze besser gemacht.
+
+59
+00:02:45,850 --> 00:02:47,149
+Ich habe kein Huntington.
+
+60
+00:02:47,150 --> 00:02:48,049
+Keines von dem Sie wissen.
+
+61
+00:02:48,050 --> 00:02:49,884
+- Warum würden Sie...
+- Weil ich verklagt wurde,
+
+62
+00:02:49,885 --> 00:02:51,849
+als ich Sie "Schlampe" genannt habe.
+
+63
+00:02:51,850 --> 00:02:52,949
+Bin ich gefeuert, wenn ich...
+
+64
+00:02:52,950 --> 00:02:54,484
+Das Ziel des Spiels war es,
+uns zu verängstigen.
+
+65
+00:02:54,485 --> 00:02:56,349
+Es als beendet zu erklären,
+verängstigt uns nicht.
+
+66
+00:02:56,350 --> 00:02:57,684
+Daher hat er keinen Grund es zu sagen,
+
+67
+00:02:58,085 --> 00:02:59,625
+es sei denn, es ist wahr.
+
+68
+00:03:00,650 --> 00:03:01,450
+Gut!
+
+69
+00:03:01,550 --> 00:03:04,249
+Können wir dann ein Wichtelspiel machen?
+
+70
+00:03:04,250 --> 00:03:05,684
+Vor 15 Sekunden, als Sie noch
+Angst um Ihren Job hatten,
+
+71
+00:03:05,685 --> 00:03:07,645
+waren Sie sympathischer.
+
+72
+00:03:07,950 --> 00:03:08,649
+Also, wer ist krank?
+
+73
+00:03:08,650 --> 00:03:10,649
+35-jährige alleinstehende Mutter.
+
+74
+00:03:10,650 --> 00:03:12,384
+Sie hat eine unübliche Form der Paralyse.
+
+75
+00:03:12,385 --> 00:03:14,084
+- Irgendwelche Aufzeichnungen über Drogen?
+- Nein.
+
+76
+00:03:14,085 --> 00:03:16,049
+Sie sagt, es gäbe keine.
+
+77
+00:03:16,050 --> 00:03:17,549
+Sie ist keine Lügnerin.
+
+78
+00:03:17,550 --> 00:03:19,749
+Okay, das könnte ein
+schwieriger Fall werden.
+
+79
+00:03:19,750 --> 00:03:22,849
+Ich weiß fast nichts über
+die Physis der Aliens.
+
+80
+00:03:22,850 --> 00:03:25,284
+Jeder lügt, aber zu jeder
+Regel gibt es eine Ausnahme.
+
+81
+00:03:25,285 --> 00:03:26,349
+Eigentlich gibt es keine.
+
+82
+00:03:26,350 --> 00:03:27,349
+Das macht es ja zu einer Regel.
+
+83
+00:03:27,350 --> 00:03:28,784
+Die Mutter der Patientin
+ist an Brustkrebs gestorben,
+
+84
+00:03:28,785 --> 00:03:29,649
+als sie 7 war.
+
+85
+00:03:29,650 --> 00:03:31,184
+Sie wusste nicht einmal,
+dass ihre Mutter krank war.
+
+86
+00:03:31,185 --> 00:03:31,949
+Sie hat sich geschworen,
+
+87
+00:03:31,950 --> 00:03:34,449
+dass sie nie etwas vor ihrer
+Tochter verheimlichen würde.
+
+88
+00:03:34,450 --> 00:03:37,549
+Oh, ich wusste nicht,
+dass sie es geschworen hat.
+
+89
+00:03:37,550 --> 00:03:39,949
+Und wir sind nicht ihre Tochter.
+
+90
+00:03:39,950 --> 00:03:41,684
+Die Patientin hat von ihrer Mutter
+
+91
+00:03:41,685 --> 00:03:42,249
+eine BRCA1 Mutation geerbt.
+
+92
+00:03:42,250 --> 00:03:44,684
+Sie hat vor 10 Jahren eine prophylaktische
+doppelte Brustamputation bekommen.
+
+93
+00:03:44,685 --> 00:03:45,549
+Dabei hat sie gelogen.
+
+94
+00:03:45,550 --> 00:03:47,549
+Sie hat es ihren Kollegen gesagt.
+Sie hat es ihrem Kind gesagt.
+
+95
+00:03:47,550 --> 00:03:49,149
+Sie hat die Welt angelogen.
+
+96
+00:03:49,150 --> 00:03:51,584
+Rekonstruktive Chirurgie wurde entwickelt,
+um Leute zu überzeugen...
+
+97
+00:03:51,585 --> 00:03:54,595
+Sie hatte keine plastische Operation.
+
+98
+00:03:54,850 --> 00:03:56,249
+Okay, wir können Brustkrebs ausschließen.
+
+99
+00:03:56,250 --> 00:03:57,784
+Eigentlich wollte ich es einbeziehen.
+
+100
+00:03:57,785 --> 00:03:59,449
+Die Paralyse könnte paraneoplastisch sein.
+
+101
+00:03:59,450 --> 00:04:01,084
+Nicht einmal der beste Chirurg kann das
+
+102
+00:04:01,085 --> 00:04:03,605
+ganze Brustgewebe entfernen.
+
+103
+00:04:04,650 --> 00:04:06,749
+Machen Sie ein MRT, um zu sehen,
+was von ihrer Brust übrig ist.
+
+104
+00:04:06,750 --> 00:04:09,849
+Lassen Sie die Maschine
+auch nach Ironie suchen.
+
+105
+00:04:09,850 --> 00:04:14,470
+Ich werde die Patientengeschichte
+noch einmal aufnehmen.
+
+106
+00:04:17,750 --> 00:04:20,749
+Hat deine Mom dir von allen
+Drogen erzählt, die sie nimmt?
+
+107
+00:04:20,750 --> 00:04:22,284
+Sie raucht ab und zu etwas Gras,
+
+108
+00:04:22,285 --> 00:04:24,249
+aber nicht über einen längeren Zeitraum.
+
+109
+00:04:24,250 --> 00:04:25,349
+Was ist mit dir?
+
+110
+00:04:25,350 --> 00:04:26,649
+Wie könnte sie dadurch krank werden?
+
+111
+00:04:26,650 --> 00:04:27,850
+Bist du Arzt?
+
+112
+00:04:28,050 --> 00:04:29,450
+Ich bin 11.
+
+113
+00:04:30,850 --> 00:04:31,949
+Das ist keine Antwort,
+
+114
+00:04:31,950 --> 00:04:33,910
+sondern eine Ausflucht.
+
+115
+00:04:34,650 --> 00:04:35,649
+Trinkst du?
+
+116
+00:04:35,650 --> 00:04:36,849
+Hast du dir schon 'mal
+heimlich einen Drink gegönnt?
+
+117
+00:04:36,850 --> 00:04:39,949
+Ich nehme nichts von diesem
+Zeug. Es ist schlecht für einen.
+
+118
+00:04:39,950 --> 00:04:42,849
+Ich verstehe, warum du nicht
+möchtest, dass es deine Mutter weiß.
+
+119
+00:04:42,850 --> 00:04:45,349
+- Aber ich bin ihr Arzt, also...
+- Ich würde es meiner Mutter erzählen.
+
+120
+00:04:45,350 --> 00:04:47,649
+- Und ich würde es Ihnen sagen.
+- Warum?
+
+121
+00:04:47,650 --> 00:04:50,380
+Weil sie mich nie anlügen würde.
+
+122
+00:04:51,950 --> 00:04:54,680
+Was ist ihre Lieblingssexstellung?
+
+123
+00:04:55,350 --> 00:04:57,684
+Ich verstehe nicht, was Sex
+mit Brustkrebs zu tun hat.
+
+124
+00:04:57,685 --> 00:04:59,050
+Bist du Arzt?
+
+125
+00:04:59,950 --> 00:05:01,784
+Hast du, seit ich das letzte Mal
+gefragt habe, Medizin studiert?
+
+126
+00:05:01,785 --> 00:05:03,484
+Sie denken nur, dass wir lügen müssen...
+
+127
+00:05:03,485 --> 00:05:05,084
+- Notlügen?
+- Was sind das für welche?
+
+128
+00:05:05,085 --> 00:05:06,449
+Die benutzt man,
+
+129
+00:05:06,450 --> 00:05:08,449
+damit sich jemand anderes besser fühlt.
+
+130
+00:05:08,450 --> 00:05:09,349
+Ich lüge nicht.
+
+131
+00:05:09,350 --> 00:05:11,349
+- Rationalisierungen?
+- Was sind das für welche?
+
+132
+00:05:11,350 --> 00:05:13,684
+Diese Lügen nutzen wir, damit
+wir uns selbst besser fühlen.
+
+133
+00:05:13,685 --> 00:05:15,149
+Nein, das tun wir nicht...
+
+134
+00:05:15,150 --> 00:05:16,340
+Halbwahrheiten?
+
+135
+00:05:18,850 --> 00:05:21,510
+Reiterstellung oder Doggie-Style?
+
+136
+00:05:21,850 --> 00:05:23,950
+Das ist nur Sexgeschwätz.
+
+137
+00:05:25,550 --> 00:05:26,849
+Sie mochte es, oben zu sein,
+
+138
+00:05:26,850 --> 00:05:31,120
+aber jetzt liegt sie
+lieber auf dem Bauch.
+
+139
+00:05:31,950 --> 00:05:33,384
+Dabei muss sie nicht mit ansehen,
+
+140
+00:05:33,385 --> 00:05:36,185
+wie Männer auf die Narben gucken.
+
+141
+00:05:43,050 --> 00:05:44,550
+Kindesmissbrauch.
+
+142
+00:05:44,950 --> 00:05:45,930
+Ehrlichkeit?
+
+143
+00:05:46,550 --> 00:05:48,284
+Es gibt einen Grund, warum jeder lügt.
+
+144
+00:05:48,285 --> 00:05:49,615
+Es funktioniert.
+
+145
+00:05:49,850 --> 00:05:51,584
+Es erlaubt der Gesellschaft
+zu funktionieren.
+
+146
+00:05:51,585 --> 00:05:53,349
+Es ist das, was Männer
+von Bestien trennt.
+
+147
+00:05:53,350 --> 00:05:55,149
+Oh, ich dachte immer,
+das wären unsere Daumen.
+
+148
+00:05:55,150 --> 00:05:57,184
+Willst du alle Orte wissen, an
+denen der Daumen deiner Mutter war?
+
+149
+00:05:57,185 --> 00:05:58,349
+Es tut mir Leid, dass ich
+die Probe verpasst habe.
+
+150
+00:05:58,350 --> 00:06:00,184
+Übernehme ich die
+"Wahrheit ist gut" Seite?
+
+151
+00:06:00,185 --> 00:06:01,949
+Übernimmst du nicht für
+gewöhnlich diesen Teil?
+
+152
+00:06:01,950 --> 00:06:05,749
+Lügen sind ein Werkzeug, das entweder
+für etwas Gutes genutzt werden...
+
+153
+00:06:05,750 --> 00:06:07,449
+Nein warte, ich habe etwas besseres.
+
+154
+00:06:07,450 --> 00:06:08,749
+Lügen sind wie Kinder.
+
+155
+00:06:08,750 --> 00:06:10,384
+Harte Arbeit, aber sie ist es wert,
+
+156
+00:06:10,385 --> 00:06:12,835
+da die Zukunft davon abhängt.
+
+157
+00:06:13,050 --> 00:06:17,600
+Du bist heute so voller
+Liebe... oder was auch immer.
+
+158
+00:06:18,750 --> 00:06:20,284
+Wenn du dich um jemanden sorgst...
+
+159
+00:06:20,285 --> 00:06:21,755
+Lügst du ihn an!
+
+160
+00:06:22,050 --> 00:06:24,384
+Du heuchelst vor, dass ihre
+konstanten, behäbigen Träumereien
+
+161
+00:06:24,385 --> 00:06:25,349
+interessant sind.
+
+162
+00:06:25,350 --> 00:06:26,584
+Du sagst ihnen,
+dass sie ihren
+
+163
+00:06:26,585 --> 00:06:27,751
+jugendhaften Look nicht verlieren
+
+164
+00:06:27,752 --> 00:06:28,884
+oder abgenutzt sein werden und...
+
+165
+00:06:28,885 --> 00:06:29,849
+Ich fühle mich verbessert.
+
+166
+00:06:29,850 --> 00:06:31,384
+Ach ja, es wie immer eine Freude war,
+
+167
+00:06:31,385 --> 00:06:32,349
+sich mit dir zu unterhalten.
+
+168
+00:06:32,350 --> 00:06:34,984
+Die Achselhöhle ist normal, die
+chirurgischen Ränder sehen auch gut aus.
+
+169
+00:06:34,985 --> 00:06:37,749
+Keine Erkrankung der Lymphknoten,
+kein Gewebe, gar nichts.
+
+170
+00:06:37,750 --> 00:06:39,360
+Es ist kein Krebs.
+
+171
+00:06:40,450 --> 00:06:41,949
+Wir brauchen eine neue Theorie.
+
+172
+00:06:41,950 --> 00:06:44,049
+- Haben Sie sie beim Lügen erwischt?
+- Noch nicht.
+
+173
+00:06:44,050 --> 00:06:45,584
+Wäre "nein" nicht eine
+kürzere Antwort gewesen?
+
+174
+00:06:45,585 --> 00:06:47,084
+Hätte "nichts sagen" diese Konversation
+
+175
+00:06:47,085 --> 00:06:48,849
+nicht noch kürzer gemacht?
+
+176
+00:06:48,850 --> 00:06:50,149
+Das Kind sagt, dass  die
+Mutter 'ne Schlampe ist.
+
+177
+00:06:50,150 --> 00:06:51,434
+Sie hat ihre Mutter eine Schlampe genannt?
+
+178
+00:06:51,435 --> 00:06:52,649
+Nein, ich habe ihre Mutter
+als Schlampe bezeichnet.
+
+179
+00:06:52,650 --> 00:06:54,949
+Sie macht es mit jedem,
+der einen Stab und Puls hat.
+
+180
+00:06:54,950 --> 00:06:56,049
+Nicht, dass ich es verurteilen würde.
+
+181
+00:06:56,050 --> 00:06:57,849
+Das gibt ihr eine Krankengeschichte,
+was mich beeindruckt.
+
+182
+00:06:57,850 --> 00:07:00,084
+Maggie hat bereits zugegeben,
+mehrere Sexualpartner zu haben.
+
+183
+00:07:00,085 --> 00:07:01,349
+Deshalb haben wir bereits auf
+Geschlechtskrankheiten getestet
+
+184
+00:07:01,350 --> 00:07:02,934
+und haben Syphilis sowie
+alle anderen ausgeschlossen,
+
+185
+00:07:02,935 --> 00:07:04,926
+die ihre Symptome verursachen könnten.
+
+186
+00:07:04,927 --> 00:07:07,449
+Geschlechtskrankheiten sind nicht
+das einzige Risiko bei riskantem Sex.
+
+187
+00:07:07,450 --> 00:07:09,384
+Das Problem, wenn man
+mit Fremden schläft, ist,
+
+188
+00:07:09,385 --> 00:07:10,549
+dass sie fremd sind.
+
+189
+00:07:10,550 --> 00:07:12,049
+Wir werden jeden ehemaligen
+Sexpartner prüfen.
+
+190
+00:07:12,050 --> 00:07:14,849
+Schicken Sie Foreman und Taub.
+Sie sind bessere Lügner.
+
+191
+00:07:14,850 --> 00:07:18,350
+Sie werden eher die
+Wahrheit herausfinden.
+
+192
+00:07:23,550 --> 00:07:25,084
+Sie denken, ich hätte
+ihr Drogen gegeben?
+
+193
+00:07:25,085 --> 00:07:26,149
+Nehmen Sie einen Untersetzer.
+
+194
+00:07:26,150 --> 00:07:27,549
+Wir sind keine Cops.
+
+195
+00:07:27,550 --> 00:07:30,049
+Juristisch gesehen interessiert
+uns weder das eine, noch das andere.
+
+196
+00:07:30,050 --> 00:07:31,984
+Aber wir müssen die Wahrheit
+erfahren, damit wir ihr helfen können.
+
+197
+00:07:31,985 --> 00:07:33,251
+Ich kannte sie noch
+nicht einmal eine Stunde,
+
+198
+00:07:33,252 --> 00:07:34,685
+als sie mir angeboten
+hat, mit zu ihr zu kommen.
+
+199
+00:07:34,686 --> 00:07:38,049
+Ich hatte keinen Grund,
+ihr Drogen zu geben.
+
+200
+00:07:38,050 --> 00:07:40,780
+Nicht, dass ich es machen würde.
+
+201
+00:07:41,550 --> 00:07:42,949
+Sie wird wieder werden, oder?
+
+202
+00:07:42,950 --> 00:07:44,884
+Solange sie sich nicht von
+irgendetwas erholen muss.
+
+203
+00:07:44,885 --> 00:07:45,750
+Ja!
+
+204
+00:07:46,650 --> 00:07:48,349
+Entschuldigung, ich hatte den
+Boden gerade erst machen lassen.
+
+205
+00:07:48,350 --> 00:07:49,820
+Künstliche Kiefer.
+
+206
+00:07:54,550 --> 00:07:56,449
+Haben Sie immer soviel Durst.
+
+207
+00:07:56,450 --> 00:07:57,780
+Ich weiß nicht.
+
+208
+00:07:57,850 --> 00:08:01,149
+Wasser ist doch angeblich
+gut für einen, oder?
+
+209
+00:08:01,150 --> 00:08:02,449
+Dehydration, Unbehagen,
+
+210
+00:08:02,450 --> 00:08:04,334
+- Aggression...
+- Ich bin nicht aggressiv.
+
+211
+00:08:04,335 --> 00:08:07,449
+Spastische Chorea in
+seiner rechten Hand.
+
+212
+00:08:07,450 --> 00:08:08,149
+Was ist mit meiner Hand?
+
+213
+00:08:08,150 --> 00:08:09,684
+Wie viel wiegen Sie?
+Ungefähr 80, 85 kg?
+
+214
+00:08:09,685 --> 00:08:10,649
+80 kg, was soll das...
+
+215
+00:08:10,650 --> 00:08:11,449
+Wenn Sie das gleiche
+wie sie genommen haben,
+
+216
+00:08:11,450 --> 00:08:13,049
+könnte es länger dauern, bis es wirkt.
+
+217
+00:08:13,050 --> 00:08:15,049
+Es könnte Sie auch
+anders beeinträchtigen.
+
+218
+00:08:15,050 --> 00:08:18,970
+Aber Sie haben ihr ja
+nichts gegeben,... oder?
+
+219
+00:08:19,050 --> 00:08:21,249
+Sie war wirklich betrunken.
+
+220
+00:08:21,250 --> 00:08:22,749
+Ich hab' ihr nur etwas "E" gegeben.
+
+221
+00:08:22,750 --> 00:08:25,049
+Nur um einige Sachen voranzutreiben.
+
+222
+00:08:25,050 --> 00:08:27,360
+Haben Sie noch etwas davon?
+
+223
+00:08:28,250 --> 00:08:29,649
+Wird es meiner Hand wieder besser gehen?
+
+224
+00:08:29,650 --> 00:08:31,849
+Mit der ist alles in Ordnung.
+
+225
+00:08:31,850 --> 00:08:33,390
+Wir haben gelogen.
+
+226
+00:08:38,650 --> 00:08:40,949
+Seit einigen Tagen habe
+ich einen entzündeten Hals.
+
+227
+00:08:40,950 --> 00:08:43,149
+Mein Magen bereitet
+mir ebenfalls Probleme.
+
+228
+00:08:43,150 --> 00:08:46,650
+Ich glaube, meine
+Drüsen sind geschwollen.
+
+229
+00:08:47,050 --> 00:08:48,310
+Sankt Nicholas?
+
+230
+00:08:49,350 --> 00:08:50,749
+Der Schutzheilige der Kinder.
+
+231
+00:08:50,750 --> 00:08:53,284
+Ebenfalls für Seemänner,
+Kaufleute, Jäger,
+
+232
+00:08:53,285 --> 00:08:54,849
+Prostituierte und Sträflinge.
+
+233
+00:08:54,850 --> 00:08:57,549
+Hmm... hört sich nach
+einer Menge Arbeit an.
+
+234
+00:08:57,550 --> 00:09:00,149
+Oder er ist nur ein Wichtigtuer.
+
+235
+00:09:00,150 --> 00:09:01,410
+Weit aufmachen.
+
+236
+00:09:02,050 --> 00:09:04,500
+- Sagen Sie Ahhhh.
+- Ahhhhhh.
+
+237
+00:09:04,550 --> 00:09:06,449
+Sie haben Streptokokken.
+
+238
+00:09:06,450 --> 00:09:07,990
+Ist es ansteckend?
+
+239
+00:09:08,250 --> 00:09:09,649
+Nur in den nächsten 24 Stunden,
+
+240
+00:09:09,650 --> 00:09:11,749
+wenn Sie ihre Antibiotika nehmen.
+
+241
+00:09:11,750 --> 00:09:13,150
+Wie ansteckend?
+
+242
+00:09:13,750 --> 00:09:15,049
+Nehmen Sie sich einen Tag frei.
+
+243
+00:09:15,050 --> 00:09:16,380
+Ich kann nicht.
+
+244
+00:09:17,750 --> 00:09:19,649
+Ich schreibe ihrem Zuhälter
+einen Krankenschein.
+
+245
+00:09:19,650 --> 00:09:20,749
+Meinem Zuhälter?
+
+246
+00:09:20,750 --> 00:09:22,784
+Sie lassen sich alle 3
+Monate auf AIDS testen
+
+247
+00:09:22,785 --> 00:09:24,549
+und dann ist da noch Ihre Halskette.
+
+248
+00:09:24,550 --> 00:09:27,049
+Prostituierte tragen religiöse Symbole?
+
+249
+00:09:27,050 --> 00:09:30,549
+Ich denke, sie mögen
+es einfach nur kniend.
+
+250
+00:09:30,550 --> 00:09:32,349
+Sie haben weder die Haut eines Seemanns,
+
+251
+00:09:32,350 --> 00:09:34,484
+noch die Finger eines Bogenschützen
+oder die Kleidung einer Kauffrau,
+
+252
+00:09:34,485 --> 00:09:36,201
+noch das Verhalten eines Ex-Sträflings.
+
+253
+00:09:36,202 --> 00:09:37,949
+Also bleibt nur eines übrig.
+
+254
+00:09:37,950 --> 00:09:39,450
+Eigentlich zwei.
+
+255
+00:09:41,750 --> 00:09:44,270
+Aber ich bin ja kein Kind, oder?
+
+256
+00:09:55,350 --> 00:09:57,349
+Sie schulden mir 50 Mäuse.
+
+257
+00:09:57,350 --> 00:09:59,849
+Dann schulden Sie mir
+einen halben Lap-Dance.
+
+258
+00:09:59,850 --> 00:10:01,484
+Es ist für den Urlaubsbonus
+der Krankenschwestern.
+
+259
+00:10:01,485 --> 00:10:02,701
+Ich weiß, dass Sie das
+Memo bekommen haben.
+
+260
+00:10:02,702 --> 00:10:04,149
+Ich habe letztes Jahr das Memo bekommen.
+
+261
+00:10:04,150 --> 00:10:06,249
+Ich will 40 neue Mitarbeiter einstellen.
+
+262
+00:10:06,250 --> 00:10:07,884
+Sie haben schon wieder alle gefeuert?
+
+263
+00:10:07,885 --> 00:10:09,649
+Sie arbeiten besser,
+wenn sie verängstigt sind.
+
+264
+00:10:09,650 --> 00:10:12,449
+Sie hatten Recht, der Typ
+hat ihr Ecstasy gegeben.
+
+265
+00:10:12,450 --> 00:10:13,649
+Hat er irgendwelche Symptome?
+
+266
+00:10:13,650 --> 00:10:14,350
+Nein.
+
+267
+00:10:14,450 --> 00:10:16,184
+Kutner fängt gerade mit
+einer Hämodialyse an,
+
+268
+00:10:16,185 --> 00:10:17,884
+und Dreizehn ist im
+Labor, um herauszufinden,
+
+269
+00:10:17,885 --> 00:10:21,245
+was der Typ in die Drogen gemischt hat.
+
+270
+00:10:21,750 --> 00:10:22,660
+Sehen Sie?
+
+271
+00:10:23,150 --> 00:10:24,684
+Eine klare, einfache Ansage der Fakten,
+
+272
+00:10:24,685 --> 00:10:25,949
+die deren Kooperation beschreibt,
+
+273
+00:10:25,950 --> 00:10:28,349
+absolut ohne ängstliches Verhalten.
+
+274
+00:10:28,350 --> 00:10:29,749
+Irgendetwas muss getan werden.
+
+275
+00:10:29,750 --> 00:10:30,450
+Oh ja!
+
+276
+00:10:33,350 --> 00:10:34,849
+Wie fühlen Sie sich?
+
+277
+00:10:34,850 --> 00:10:36,234
+Ich kann meine Hände
+immer noch nicht bewegen.
+
+278
+00:10:36,235 --> 00:10:37,549
+Es wird ein paar Stunden dauern,
+
+279
+00:10:37,550 --> 00:10:39,849
+bis ihr gesamtes Blut durch
+die Maschine gelaufen ist.
+
+280
+00:10:39,850 --> 00:10:41,880
+Was ist gerade passiert?
+
+281
+00:10:42,550 --> 00:10:43,949
+Nichts.
+Was ist los?
+
+282
+00:10:43,950 --> 00:10:46,849
+Was soll das? Die Lichter
+sind gerade ausgegangen.
+
+283
+00:10:46,850 --> 00:10:48,180
+Sind sie nicht?
+
+284
+00:10:48,450 --> 00:10:49,849
+Was haben Sie gemacht?
+
+285
+00:10:49,850 --> 00:10:50,849
+Kommt das von den Drogen?
+
+286
+00:10:50,850 --> 00:10:52,584
+Die meisten Drogen sollten bereits
+aus Ihrem Körper raus sein.
+
+287
+00:10:52,585 --> 00:10:54,201
+- Und unsere Medikamente...
+- Ich kann nichts sehen.
+
+288
+00:10:54,202 --> 00:10:57,049
+- Machen Sie etwas.
+- Ich kann nichts sehen.
+
+289
+00:10:57,050 --> 00:10:58,940
+Ich kann nichts sehen.
+
+290
+00:11:02,095 --> 00:11:04,394
+Nichts im Ecstasy außer Ecstasy.
+
+291
+00:11:04,395 --> 00:11:06,094
+Das hat natürlich noch
+nie jemandem geschadet.
+
+292
+00:11:06,095 --> 00:11:08,194
+Es kann jemanden nicht
+Tage später blind machen.
+
+293
+00:11:08,195 --> 00:11:10,715
+Schreibt man "Homie" mit "Y" ?
+
+294
+00:11:11,095 --> 00:11:13,094
+Ich wollte respektvoll sein.
+
+295
+00:11:13,095 --> 00:11:14,594
+Wollen Sie uns wirklich wichteln lassen?
+
+296
+00:11:14,595 --> 00:11:15,855
+Nicht nur Sie
+
+297
+00:11:15,856 --> 00:11:18,405
+mögen Geschenke, ich nämlich auch.
+
+298
+00:11:20,795 --> 00:11:22,094
+Ziehen Sie einen Namen.
+
+299
+00:11:22,095 --> 00:11:23,094
+Warum machen Sie das?
+
+300
+00:11:23,095 --> 00:11:25,794
+Genau deshalb kann
+niemand ihr Volk leiden.
+
+301
+00:11:25,795 --> 00:11:27,779
+Der Gedanke, einmal im
+Jahr jemanden zu wählen,
+
+302
+00:11:27,780 --> 00:11:29,421
+um ihm gegenüber anständig
+zu sein, ist einfach obszön.
+
+303
+00:11:29,422 --> 00:11:30,994
+Weil es eigentlich
+den Gedanken bestätigt,
+
+304
+00:11:30,995 --> 00:11:32,994
+dass man den Rest des Jahres
+ein miserabler Schuft ist.
+
+305
+00:11:32,995 --> 00:11:34,829
+Sie denken also, dass
+dieser Teil des Jahres
+
+306
+00:11:34,830 --> 00:11:35,794
+alle bescheißt?
+
+307
+00:11:35,795 --> 00:11:37,894
+Allerdings sind Sie jetzt ein Team
+
+308
+00:11:37,895 --> 00:11:38,894
+und müssen zusammen arbeiten.
+
+309
+00:11:38,895 --> 00:11:40,729
+Und Tatsache ist, das Leute einen mögen,
+
+310
+00:11:40,730 --> 00:11:41,429
+wenn man ihnen etwas schenkt.
+
+311
+00:11:41,430 --> 00:11:42,546
+Also geben Sie 25 Mäuse aus.
+
+312
+00:11:42,547 --> 00:11:44,367
+Lernen Sie zu lieben.
+
+313
+00:11:44,795 --> 00:11:45,729
+Die Blindheit könnte eine Komplikation
+
+314
+00:11:45,730 --> 00:11:46,994
+der Hämodialyse sein.
+
+315
+00:11:46,995 --> 00:11:51,094
+Nein, die Zusammensetzung
+des Dialysats war im Rahmen.
+
+316
+00:11:51,095 --> 00:11:52,794
+- Schön.
+- Interessant.
+
+317
+00:11:52,795 --> 00:11:54,529
+Die Zusammensetzung des
+Dialysats zeigt nur...
+
+318
+00:11:54,530 --> 00:11:56,396
+Nichts. Ich habe mich
+auf seine Reaktion bezogen,
+
+319
+00:11:56,397 --> 00:11:57,880
+- nachdem er den Namen gelesen hat.
+- Ich war erfreut.
+
+320
+00:11:57,881 --> 00:11:59,329
+Ich dachte es macht
+Spaß, etwas zu kaufen...
+
+321
+00:11:59,330 --> 00:12:00,494
+Das bedeutet, es gibt hier jemanden,
+
+322
+00:12:00,495 --> 00:12:02,394
+für den es keinen Spaß
+machen würde, etwas zu kaufen.
+
+323
+00:12:02,395 --> 00:12:03,994
+Ich frage mich nur wer.
+
+324
+00:12:03,995 --> 00:12:05,194
+Ziehen Sie einen Namen.
+
+325
+00:12:05,195 --> 00:12:10,025
+Und dann gehen Sie und
+überprüfen das Haus der Patientin.
+
+326
+00:12:10,695 --> 00:12:11,895
+Interessant.
+
+327
+00:12:12,395 --> 00:12:14,294
+Es ist Zeitverschwendung
+ihre Wohnung zu durchsuchen.
+
+328
+00:12:14,295 --> 00:12:16,429
+Kearns-Sayre-Syndrom
+passt zu den Symptomen.
+
+329
+00:12:16,430 --> 00:12:17,829
+Kein Kearns in der Familiengeschichte.
+
+330
+00:12:17,830 --> 00:12:18,594
+Gehen Sie zu ihrem Haus--
+
+331
+00:12:18,595 --> 00:12:20,229
+Sie hätte es uns gesagt, wenn sie
+irgendwelche anderen Drogen genommen hätte.
+
+332
+00:12:20,230 --> 00:12:20,894
+Sie kennen Sie.
+
+333
+00:12:20,895 --> 00:12:21,794
+Sie hätte nicht
+aufrichtiger sein können.
+
+334
+00:12:21,795 --> 00:12:23,729
+Sie haben vollkommen Recht.
+Gehen Sie zu ihrem Haus--
+
+335
+00:12:23,730 --> 00:12:25,496
+MS oder vaskuläre Probleme
+passen besser.
+
+336
+00:12:25,497 --> 00:12:28,194
+Das könnte die Hände
+und die Augen angreifen.
+
+337
+00:12:28,195 --> 00:12:30,494
+Gut, machen Sie ein MRT,
+kontrollieren Sie auf MS.
+
+338
+00:12:30,495 --> 00:12:31,929
+Und ein Fluoresceinangiogram ihrer Augen,
+
+339
+00:12:31,930 --> 00:12:34,094
+um zu sehen, ob wir irgendwo
+eine Blutung übersehen haben.
+
+340
+00:12:34,095 --> 00:12:36,694
+Ach ja, egal wer zu ihrem Haus geht,
+
+341
+00:12:36,695 --> 00:12:38,794
+bringt mir ihre Computer mit.
+
+342
+00:12:38,795 --> 00:12:40,129
+Man spricht mit seinem
+Kind nur über Sex,
+
+343
+00:12:40,130 --> 00:12:40,694
+damit es denkt,
+
+344
+00:12:40,695 --> 00:12:42,394
+dass man bei allem offen
+und ehrlich zu ihm ist.
+
+345
+00:12:42,395 --> 00:12:43,729
+Das hält es davon ab, Fragen
+über die Dinge zu stellen,
+
+346
+00:12:43,730 --> 00:12:44,994
+über die man nicht reden will.
+
+347
+00:12:44,995 --> 00:12:45,560
+Genau.
+
+348
+00:12:45,595 --> 00:12:48,029
+Ihre Ehrlichkeit beweist nur
+wie unehrlich sie ist.
+
+349
+00:12:48,030 --> 00:12:50,894
+Ja! Genau die Person,
+die ich haben wollte.
+
+350
+00:12:50,895 --> 00:12:52,295
+Das wird spaßig.
+
+351
+00:12:57,395 --> 00:13:00,794
+Das Färbemittel könnte brennen, wenn
+es in Ihren Blutkreislauf gelangt.
+
+352
+00:13:00,795 --> 00:13:02,475
+Hast du Angst, Mom?
+
+353
+00:13:02,595 --> 00:13:04,495
+Ja. Und du?
+
+354
+00:13:04,795 --> 00:13:05,795
+Ja.
+
+355
+00:13:06,195 --> 00:13:07,195
+Und die?
+
+356
+00:13:08,595 --> 00:13:10,794
+Sie sehen nicht verängstigt aus.
+
+357
+00:13:10,795 --> 00:13:13,594
+Entweder sie sind zuversichtlich
+oder ihnen ist es einfach nur egal.
+
+358
+00:13:13,595 --> 00:13:14,694
+Wir sind zuversichtlich.
+
+359
+00:13:14,695 --> 00:13:16,094
+Wäre es OK, wenn ich Ihren Kopf
+ein Stück nach vorne bewege?
+
+360
+00:13:16,095 --> 00:13:18,335
+Ich bringe Sie in Position.
+
+361
+00:13:25,595 --> 00:13:27,625
+Ihr Boss ist merkwürdig.
+
+362
+00:13:27,795 --> 00:13:29,195
+Ja, das ist er.
+
+363
+00:13:29,495 --> 00:13:30,994
+Er dachte, er könnte
+Informationen bekommen,
+
+364
+00:13:30,995 --> 00:13:34,094
+- die Sie uns noch nicht erzählt haben, indem--
+- er in Dummkopf ist?
+
+365
+00:13:34,095 --> 00:13:36,294
+Sie wären überrascht,
+wie oft das funktioniert.
+
+366
+00:13:36,295 --> 00:13:38,605
+Die Aderhaut sieht gut aus.
+
+367
+00:13:38,895 --> 00:13:40,894
+Warum sollten Menschen
+Ärzte anlügen?
+
+368
+00:13:40,895 --> 00:13:42,094
+Es gibt dutzende Gründe zu lügen,
+
+369
+00:13:42,095 --> 00:13:43,729
+aber nur einen Grund
+die Wahrheit zu sagen.
+
+370
+00:13:43,730 --> 00:13:46,594
+Sie sind nicht einmal in
+Versuchung gekommen?
+
+371
+00:13:46,595 --> 00:13:50,229
+Ich meine, Lügen räumen
+manchmal eine Sache aus dem Weg,
+
+372
+00:13:50,230 --> 00:13:51,694
+machen das Leben einfacher.
+
+373
+00:13:51,695 --> 00:13:54,005
+Ja?
+Ist Ihr Leben einfach?
+
+374
+00:13:54,895 --> 00:13:56,575
+Nicht mal annähernd.
+
+375
+00:13:56,895 --> 00:13:59,294
+Das Färbemittel hat die
+Netzhautkapillarschicht erreicht.
+
+376
+00:13:59,295 --> 00:14:00,555
+Kein Auslaufen.
+
+377
+00:14:01,795 --> 00:14:03,405
+Das ist gut, oder?
+
+378
+00:14:03,995 --> 00:14:06,194
+Das heißt, das es kein
+vaskuläres Problem ist.
+
+379
+00:14:06,195 --> 00:14:06,860
+Was?
+
+380
+00:14:06,895 --> 00:14:10,955
+Ein vaskuläres Problem,
+welches wir beheben könnten.
+
+381
+00:14:13,695 --> 00:14:16,495
+Jetzt sehen sie besorgt aus, Mom.
+
+382
+00:14:19,495 --> 00:14:20,694
+Was ist das mit dem
+geheimen Santa?
+
+383
+00:14:20,695 --> 00:14:22,294
+Versuchst du sie
+zusammen zu bringen?
+
+384
+00:14:22,295 --> 00:14:24,494
+Ich will sie auseinander bringen.
+
+385
+00:14:24,495 --> 00:14:25,894
+Indem sie sich Geschenke geben?
+
+386
+00:14:25,895 --> 00:14:27,394
+Der Konflikt ist im Namen verankert.
+
+387
+00:14:27,395 --> 00:14:31,294
+Bei Santa geht es ums tauschen.
+Bei einem Geheimnis ums behalten.
+
+388
+00:14:31,295 --> 00:14:34,129
+Abgesehen vom trojanischem Pferd,
+bringen Geschenke normalerweise nichts--
+
+389
+00:14:34,130 --> 00:14:35,396
+Was hast du deiner Frau zu
+
+390
+00:14:35,397 --> 00:14:37,694
+eurem letztem Hochzeitstag geschenkt?
+
+391
+00:14:37,695 --> 00:14:38,894
+Ähm... einen Pullover.
+
+392
+00:14:38,895 --> 00:14:40,894
+Sie hat ihn gehasst.
+Sie hat ihn geliebt.
+
+393
+00:14:40,895 --> 00:14:42,594
+Dann hast du ihn nicht gekauft.
+
+394
+00:14:42,595 --> 00:14:45,595
+Ich gab ihr ein wenig Geld...
+
+395
+00:14:45,695 --> 00:14:46,595
+und...
+
+396
+00:14:48,195 --> 00:14:49,694
+Geschenke erlauben es uns
+genau zu demonstrieren,
+
+397
+00:14:49,695 --> 00:14:51,729
+wie wenig wir über eine Person wissen.
+
+398
+00:14:51,730 --> 00:14:53,194
+Und nichts ärgert eine Person mehr,
+
+399
+00:14:53,195 --> 00:14:56,194
+als in die falsche Schublade
+gesteckt zu werden.
+
+400
+00:14:56,195 --> 00:14:57,095
+Ja.
+
+401
+00:14:58,695 --> 00:15:00,229
+Ich denke darüber nach etwas mehr für
+
+402
+00:15:00,230 --> 00:15:01,294
+meinen Wichteljob auszugeben.
+
+403
+00:15:01,295 --> 00:15:02,094
+Schlechte Idee.
+
+404
+00:15:02,095 --> 00:15:04,029
+Macht es dir etwas aus, wenn ich House
+erzähle, dass du sie nach dem Schlüssel
+
+405
+00:15:04,030 --> 00:15:04,894
+gefragt hast, anstatt einzubrechen?
+
+406
+00:15:04,895 --> 00:15:06,629
+Ja, macht es. Nur fünf Dollar mehr.
+
+407
+00:15:06,630 --> 00:15:07,394
+Aus fünf werden zehn.
+
+408
+00:15:07,395 --> 00:15:09,229
+Der Schlüssel beweist, dass
+sie nichts zu verbergen hat.
+
+409
+00:15:09,230 --> 00:15:10,629
+Der Schlüssel ist Beweis dafür,
+dass ich nicht genau das getan habe,
+
+410
+00:15:10,630 --> 00:15:11,594
+was House mir befohlen hat.
+
+411
+00:15:11,595 --> 00:15:13,029
+Und wieso kümmert es dich,
+wenn es sogar 15 $ sind.
+
+412
+00:15:13,030 --> 00:15:13,994
+Ich werde es ihm erzählen.
+
+413
+00:15:13,995 --> 00:15:15,694
+Wem willst du unbedingt
+eine Freude machen?
+
+414
+00:15:15,695 --> 00:15:16,605
+Nicht dir.
+
+415
+00:15:17,395 --> 00:15:18,329
+Glaubst du wirklich,
+dass du beweisen kannst,
+
+416
+00:15:18,330 --> 00:15:19,694
+dass Leute zu Ehrlichkeit
+im Stande sind,
+
+417
+00:15:19,695 --> 00:15:21,679
+indem du eine Mutter und Tochter benutzt,
+die du gerade einmal einen Tag lang kennst?
+
+418
+00:15:21,680 --> 00:15:23,629
+Ich bin nicht diejenige,
+deren gesamte Weltsicht
+
+419
+00:15:23,630 --> 00:15:24,796
+auf einer Behauptung basiert.
+
+420
+00:15:24,797 --> 00:15:25,929
+Wenn ich falsch liege, na und?
+
+421
+00:15:25,930 --> 00:15:27,890
+Wenn er falsch liegt...
+
+422
+00:15:30,895 --> 00:15:31,994
+Hast du Huntington?
+
+423
+00:15:31,995 --> 00:15:33,294
+- Nein.
+- Aber House sagte, dass du--
+
+424
+00:15:33,295 --> 00:15:38,494
+Wieso sollte ich darüber reden wollen, wenn
+ich die Karten nicht auf den Tisch lege?
+
+425
+00:15:38,495 --> 00:15:39,629
+Fluoresceinangiogram war sauber.
+
+426
+00:15:39,630 --> 00:15:40,894
+Keine Löcher, keine Läsionen.
+
+427
+00:15:40,895 --> 00:15:43,625
+Definitiv kein vaskuläres Problem.
+
+428
+00:15:44,495 --> 00:15:46,945
+Ich brauche ihre Geburtsdaten.
+
+429
+00:15:47,295 --> 00:15:50,585
+Wieso lassen Sie es nicht einfach frei?
+
+430
+00:15:51,795 --> 00:15:53,129
+Schwer in den Kopf
+von jemanden zu kommen,
+
+431
+00:15:53,130 --> 00:15:55,994
+der tatsächlich Menschen vertraut, was?
+
+432
+00:15:55,995 --> 00:15:57,729
+Ich fand beide Computer
+in einem Büro
+
+433
+00:15:57,730 --> 00:15:59,794
+auf einem Schreibtisch,
+den sie zusammen benutzen.
+
+434
+00:15:59,795 --> 00:16:02,229
+Keine Anzeichen von Makuladegeneration
+oder Neuritis nervi optici.
+
+435
+00:16:02,230 --> 00:16:03,696
+Ihre Augen sind ganz normal.
+
+436
+00:16:03,697 --> 00:16:05,394
+Außer, dass sie nicht
+mit ihnen sehen kann.
+
+437
+00:16:05,395 --> 00:16:06,935
+Was sie behauptet.
+
+438
+00:16:07,495 --> 00:16:09,094
+Irgendetwas auf dem MRT
+gefunden?
+
+439
+00:16:09,095 --> 00:16:10,894
+Kein Anzeichen eines
+Belages. Es ist nicht MS.
+
+440
+00:16:10,895 --> 00:16:12,229
+Wir haben bei keinem Test etwas
+
+441
+00:16:12,230 --> 00:16:12,894
+Ungewöhnliches gesehen.
+
+442
+00:16:12,895 --> 00:16:14,729
+Außer, dass sie nichts sehen
+oder ihre Hände bewegen kann.
+
+443
+00:16:14,730 --> 00:16:15,894
+Was sie behauptet.
+
+444
+00:16:15,895 --> 00:16:19,494
+Man kann keine
+Schwächelähmungen vortäuschen.
+
+445
+00:16:19,495 --> 00:16:21,494
+Vielleicht lügt sie nicht.
+
+446
+00:16:21,495 --> 00:16:22,294
+Aber ihr Gehirn tut es.
+
+447
+00:16:22,295 --> 00:16:24,894
+Was ist, wenn es eine
+Konversionsfehlsteuerung ist?
+
+448
+00:16:24,895 --> 00:16:26,995
+Mangel privater Grenzen...
+
+449
+00:16:28,195 --> 00:16:29,594
+Häufig den Partner wechselnd...
+
+450
+00:16:29,595 --> 00:16:32,494
+Unangebrachte Besessenheit
+was Wahrheit betrifft.
+
+451
+00:16:32,495 --> 00:16:35,194
+Das hört sich plötzlich wie
+ein Fall für die Klapse an.
+
+452
+00:16:35,195 --> 00:16:36,879
+Cool, ich setze eine
+Psychologische Untersuchung an
+
+453
+00:16:36,880 --> 00:16:38,594
+und gebe ihr Antidepressiva.
+
+454
+00:16:38,595 --> 00:16:39,395
+Nein.
+
+455
+00:16:41,595 --> 00:16:44,815
+Ihr Verstand trickst
+ihren Körper aus.
+
+456
+00:16:44,995 --> 00:16:47,994
+Wir müssen ihren Verstand austricksen
+
+457
+00:16:47,995 --> 00:16:49,465
+oder noch besser.
+
+458
+00:16:53,095 --> 00:16:54,294
+Sie brauchen sie nicht.
+
+459
+00:16:54,295 --> 00:16:54,794
+Ich weiß.
+
+460
+00:16:54,795 --> 00:16:56,594
+Dann dient dies keinem
+medizinischen Zweck.
+
+461
+00:16:56,595 --> 00:16:59,794
+Sie haben einen genetischen Defekt
+und sich entschieden ihn zu ignorieren.
+
+462
+00:16:59,795 --> 00:17:01,329
+Diese Frau hat einen
+genetischen Defekt.
+
+463
+00:17:01,330 --> 00:17:02,829
+Sie entscheidet sich, sich
+selbst abzuschlachten,
+
+464
+00:17:02,830 --> 00:17:03,794
+um sicher zu sein.
+
+465
+00:17:03,795 --> 00:17:05,794
+Und immer noch beanspruchen
+Sie für sich fasziniert von
+
+466
+00:17:05,795 --> 00:17:07,494
+ihrer Ehrlichkeit zu sein.
+
+467
+00:17:07,495 --> 00:17:08,475
+Interessant.
+
+468
+00:17:08,695 --> 00:17:10,594
+Sie beanspruchen für sich
+die Wahrheit zu wollen...
+
+469
+00:17:10,595 --> 00:17:11,729
+und dann vermasseln Sie
+es sich mit den Leuten,
+
+470
+00:17:11,730 --> 00:17:13,294
+die tatsächlich damit leben.
+
+471
+00:17:13,295 --> 00:17:13,874
+Armselig.
+
+472
+00:17:13,875 --> 00:17:17,794
+He, Sie haben Punkte bekommen,
+weil Sie interessant sind.
+
+473
+00:17:17,795 --> 00:17:19,429
+Sie beschützen sie,
+weil Sie neidisch sind,
+
+474
+00:17:19,430 --> 00:17:21,994
+dass sie etwas getan hat,
+was Sie nicht konnten.
+
+475
+00:17:21,995 --> 00:17:23,395
+Ich brauche Sie.
+
+476
+00:17:25,295 --> 00:17:26,594
+Ich werde sie nicht anlügen.
+
+477
+00:17:26,595 --> 00:17:28,994
+Gut, halten Sie einfach Ihre
+Klappe. Ich brauche Sie immer noch,
+
+478
+00:17:28,995 --> 00:17:31,294
+denn wenn das nicht funktioniert,
+müssen Sie das Kind ruhig halten,
+
+479
+00:17:31,295 --> 00:17:34,294
+bis jemand anderes ihre Mutter anlügt.
+
+480
+00:17:34,295 --> 00:17:38,565
+Das dient auf jeden Fall
+einem medizinischen Zweck.
+
+481
+00:17:41,795 --> 00:17:42,895
+Jane.
+
+482
+00:17:44,995 --> 00:17:46,929
+Ich muss lügen, weil sie mir vertraut?
+
+483
+00:17:46,930 --> 00:17:48,394
+Wenn du Zweifel zeigst,
+
+484
+00:17:48,395 --> 00:17:50,794
+wird die Placebobehandlung nicht wirken.
+
+485
+00:17:50,795 --> 00:17:53,794
+Wenn es nur Depressionen sind, ist
+es doch eine gute Nachricht, oder?
+
+486
+00:17:53,795 --> 00:17:55,229
+Dagegen gibt es viele
+tolle Medikationen.
+
+487
+00:17:55,230 --> 00:17:56,794
+Warum können wir ihr die
+dann nicht einfach geben?
+
+488
+00:17:56,795 --> 00:17:58,494
+Warum müssen wir sie anlügen?
+
+489
+00:17:58,495 --> 00:18:00,994
+Weil wir falsch liegen könnten.
+
+490
+00:18:00,995 --> 00:18:02,879
+Und diese Medikationen brauchen
+lange, um zu wirken.
+
+491
+00:18:02,880 --> 00:18:05,494
+Und da sich das Befinden
+deiner Mom verschlechtert hat,...
+
+492
+00:18:05,495 --> 00:18:07,429
+besteht auch die Möglichkeit, dass
+die Medikamente uns erst weiterbringen,
+
+493
+00:18:07,430 --> 00:18:09,250
+wenn es zu spät ist.
+
+494
+00:18:10,195 --> 00:18:11,994
+Meine Mom ist nicht depressiv.
+
+495
+00:18:11,995 --> 00:18:15,294
+- Vielleicht verheimlicht sie es dir.
+- Nein.
+
+496
+00:18:15,295 --> 00:18:15,894
+Das würde sie nicht--
+
+497
+00:18:15,895 --> 00:18:17,694
+Sie tut, was alle guten Mütter tun.
+
+498
+00:18:17,695 --> 00:18:19,129
+Sie schützt ihr Kind vor
+schlechten Neuigkeiten,
+
+499
+00:18:19,130 --> 00:18:20,529
+gegen die sie nichts tun kann.
+
+500
+00:18:20,530 --> 00:18:22,046
+Meine Mom hat mich nie angelogen.
+
+501
+00:18:22,047 --> 00:18:24,494
+Wenn du nicht weißt, wie man lügt,
+
+502
+00:18:24,495 --> 00:18:29,395
+weißt du auch nicht, wie es ist,
+wenn du angelogen wirst.
+
+503
+00:18:30,995 --> 00:18:33,194
+Vielleicht haben Sie Recht.
+
+504
+00:18:33,195 --> 00:18:35,995
+- Ich weiß---
+- Ich habe schon gelogen.
+
+505
+00:18:35,995 --> 00:18:38,025
+Ich weiß, wie man lügt.
+
+506
+00:18:38,895 --> 00:18:42,395
+Ich würde nur meine
+Mutter nicht anlügen.
+
+507
+00:18:46,895 --> 00:18:48,715
+Magst du Tischfußball?
+
+508
+00:18:50,795 --> 00:18:52,629
+Bis die Behandlung Ihrer ansteckenden
+
+509
+00:18:52,630 --> 00:18:53,694
+Paraparese anschlägt,
+
+510
+00:18:53,695 --> 00:18:55,394
+kann Jane nicht in
+den Raum zurück kommen.
+
+511
+00:18:55,395 --> 00:18:56,694
+Ich wurde schon geimpft.
+
+512
+00:18:56,695 --> 00:18:58,294
+Kann sie es immer noch bekommen?
+
+513
+00:18:58,295 --> 00:18:58,994
+Keine Sorge,
+
+514
+00:18:58,995 --> 00:19:00,594
+es ist eine sehr
+effektive Behandlung.
+
+515
+00:19:00,595 --> 00:19:06,195
+Es sollte eine Frage von Minuten sein,
+bis Sie sich besser fühlen.
+
+516
+00:19:07,495 --> 00:19:09,694
+Denken Sie nicht, dass Jane
+ein paar Geheimnisse verdient?
+
+517
+00:19:09,695 --> 00:19:11,660
+Etwas Privatsphäre-
+
+518
+00:19:11,695 --> 00:19:14,729
+Platz um, ähm... ihre
+eigenen Fehler zu machen?
+
+519
+00:19:14,730 --> 00:19:17,110
+Sie macht eine Menge Fehler.
+
+520
+00:19:17,195 --> 00:19:19,494
+Der einzige Unterschied ist, dass ich
+da bin, um ihr da durch zu helfen.
+
+521
+00:19:19,495 --> 00:19:21,994
+Aber sie muss wissen, dass Sie ihr
+über ihre Schulter gucken.
+
+522
+00:19:21,995 --> 00:19:23,094
+Es muss erstickend sein--
+
+523
+00:19:23,095 --> 00:19:24,979
+Ich denke, die Welt würde besser sein,
+
+524
+00:19:24,980 --> 00:19:26,829
+wenn jeder so handeln
+würde, wie wenn die Mutter
+
+525
+00:19:26,830 --> 00:19:28,860
+über die Schulter guckt.
+
+526
+00:19:40,795 --> 00:19:41,829
+Ich will zu meiner Mom.
+
+527
+00:19:41,830 --> 00:19:42,880
+Sie schläft.
+
+528
+00:19:42,895 --> 00:19:44,429
+Warum verdoppeln wir
+nicht einfach das Limit?
+
+529
+00:19:44,430 --> 00:19:46,294
+- Nein.
+- Können Sie sich keine weiteren 25 $ leisten?
+
+530
+00:19:46,295 --> 00:19:48,529
+Wenn wir den Leuten 50 $
+erlauben, werden sie 60 $ ausgeben.
+
+531
+00:19:48,530 --> 00:19:50,096
+Oh, also können sie sich
+keine weiteren 35 $ leisten.
+
+532
+00:19:50,097 --> 00:19:51,629
+Du musst, den du
+hast wirklich mögen.
+
+533
+00:19:51,630 --> 00:19:53,380
+Oder wirklich hassen.
+
+534
+00:19:55,495 --> 00:19:57,094
+Meine Mom gibt die besten
+Geschenke immer an die
+
+535
+00:19:57,095 --> 00:20:01,295
+Lehrer, mit denen ich am
+schlechtesten klar komme.
+
+536
+00:20:01,495 --> 00:20:02,495
+Nein, nein.
+
+537
+00:20:06,395 --> 00:20:07,994
+Wieso habt ihr "nein" gesagt?
+
+538
+00:20:07,995 --> 00:20:11,005
+Ich weiß, dass du nicht House hast.
+
+539
+00:20:11,295 --> 00:20:13,994
+Ich weiß, dass er nicht House hat.
+
+540
+00:20:13,995 --> 00:20:15,694
+Du hast allen deinen Namen gegeben?
+
+541
+00:20:15,695 --> 00:20:16,495
+Jap.
+
+542
+00:20:16,695 --> 00:20:18,479
+Ich dachte mir, dass ich ein
+wenig Zwietracht verursache
+
+543
+00:20:18,480 --> 00:20:20,994
+und dadurch ein paar
+Krawatten und Pullover bekomme.
+
+544
+00:20:20,995 --> 00:20:22,794
+Was passiert, wenn sie es herausfinden?
+
+545
+00:20:22,795 --> 00:20:25,175
+Wir spielen das Wichtelspiel.
+
+546
+00:20:25,595 --> 00:20:27,694
+Und was passiert, wenn
+sie es herausfinden?
+
+547
+00:20:27,695 --> 00:20:30,494
+Sie werden sich darüber streiten, was
+sie mit dieser Information anfangen sollen.
+
+548
+00:20:30,495 --> 00:20:32,694
+Die Krawatten sind nicht so
+wichtig, wie die Zwietracht.
+
+549
+00:20:32,695 --> 00:20:33,929
+Wir müssen ihm immer noch etwas kaufen.
+
+550
+00:20:33,930 --> 00:20:34,860
+Niemals.
+
+551
+00:20:34,895 --> 00:20:36,229
+Wir sollten darüber nicht diskutieren.
+
+552
+00:20:36,230 --> 00:20:37,094
+Wir sollten es nicht einmal wissen.
+
+553
+00:20:37,095 --> 00:20:39,394
+Und er sollte nicht fünfmal den
+gleichen Namen in den Hut werfen.
+
+554
+00:20:39,395 --> 00:20:40,935
+Er will Geschenke.
+
+555
+00:20:41,195 --> 00:20:41,994
+Das ist traurig.
+
+556
+00:20:41,995 --> 00:20:43,465
+Das ist armselig.
+
+557
+00:20:44,795 --> 00:20:46,129
+Ich werde ihm immer noch
+ein Geschenk kaufen.
+
+558
+00:20:46,130 --> 00:20:48,300
+Nein, das wirst du nicht.
+
+559
+00:20:49,195 --> 00:20:50,295
+Fein!
+
+560
+00:21:00,195 --> 00:21:01,315
+Was ist los?
+
+561
+00:21:01,595 --> 00:21:03,975
+Ich denke es wird schlimmer.
+
+562
+00:21:04,295 --> 00:21:06,094
+Ich kann nicht atmen.
+
+563
+00:21:06,095 --> 00:21:08,755
+Ich brauche hier eine Schwester!
+
+564
+00:21:13,195 --> 00:21:14,629
+Die Lymphknoten schneiden
+ihre Atemwege ab.
+
+565
+00:21:14,630 --> 00:21:16,450
+Wir müssen intubieren!
+
+566
+00:21:25,901 --> 00:21:27,335
+Die geschwollenen Lymphknoten haben
+
+567
+00:21:27,336 --> 00:21:28,200
+Maggies Atemwege abgeschnitten.
+
+568
+00:21:28,201 --> 00:21:31,500
+Wir haben sie mit Alkohol abgeschrumpft.
+Sie atmet jetzt wieder von alleine.
+
+569
+00:21:31,501 --> 00:21:32,601
+Wie scheiße.
+
+570
+00:21:32,801 --> 00:21:35,066
+4'300 gespeicherte E-Mails
+
+571
+00:21:35,101 --> 00:21:37,635
+und nicht eine einzige
+enthält "lesbisch," "Sanchez,"
+
+572
+00:21:37,636 --> 00:21:39,176
+oder "Strichjunge."
+
+573
+00:21:39,301 --> 00:21:40,535
+Geschwollene Lymphknoten bedeuten,
+
+574
+00:21:40,536 --> 00:21:42,300
+dass es nicht psychologisch war.
+
+575
+00:21:42,301 --> 00:21:43,771
+Von wem ist das?
+
+576
+00:21:43,901 --> 00:21:45,651
+Santa, offensichtlich.
+
+577
+00:21:45,701 --> 00:21:47,100
+Weil sie wissen,
+dass ich ihn verehre.
+
+578
+00:21:47,101 --> 00:21:49,100
+Nein, warten Sie, ich meinte Satan.
+
+579
+00:21:49,101 --> 00:21:51,000
+Ich verwechsle die beiden immer.
+
+580
+00:21:51,001 --> 00:21:54,101
+Was ist ein Schmetterlingsknoten?
+
+581
+00:21:54,601 --> 00:21:56,085
+Und warum lernt sie,
+wie man einen macht?
+
+582
+00:21:56,086 --> 00:21:57,500
+House, wir haben bereits
+eine vollständige Akte.
+
+583
+00:21:57,501 --> 00:21:59,535
+- Sie müssen keine Zeit verschwenden--
+- Das ist nur ein Kletterknoten.
+
+584
+00:21:59,536 --> 00:22:02,300
+Aber wofür benutzt sie
+es? Versuchen Sie Bondage.
+
+585
+00:22:02,301 --> 00:22:03,400
+Hab' ich schon.
+
+586
+00:22:03,401 --> 00:22:05,935
+Sie schnürte mich nur fest und
+weinte darüber, wie hart es ist
+
+587
+00:22:05,936 --> 00:22:07,100
+ein Dekan der Medizin zu sein.
+
+588
+00:22:07,101 --> 00:22:08,600
+Fitnessstudios sind nicht
+wirklich rein.
+
+589
+00:22:08,601 --> 00:22:11,035
+Könnte eine Pilzinfektion sein.
+Im Ernst, von wem ist es?
+
+590
+00:22:11,036 --> 00:22:12,535
+Kein Fieber, keine erhöhte
+Anzahl weißer Blutkörperchen.
+
+591
+00:22:12,536 --> 00:22:14,801
+Ah! Das ist lustig.
+
+592
+00:22:15,001 --> 00:22:17,300
+Ihr Freund hat ihr ein
+Garfield Cartoon geschickt.
+
+593
+00:22:17,301 --> 00:22:19,300
+Die Katze liebt wirklich
+Lasagne.
+
+594
+00:22:19,301 --> 00:22:20,001
+House!
+
+595
+00:22:21,001 --> 00:22:23,400
+Hören Sie mit der Schnüffelei auf.
+
+596
+00:22:23,401 --> 00:22:25,600
+Wenn es nicht um meine
+Besessenheit ginge,
+
+597
+00:22:25,601 --> 00:22:29,000
+würden Sie nicht wissen, dass
+sie Sarkoidose hat.
+
+598
+00:22:29,001 --> 00:22:31,800
+Vor 18 Monaten hat sie
+ihren Stepper verkauft.
+
+599
+00:22:31,801 --> 00:22:33,100
+Er war nur zwei Monate alt.
+
+600
+00:22:33,101 --> 00:22:35,535
+Also entweder brauchte sie
+das Geld oder Treppensteigen
+
+601
+00:22:35,536 --> 00:22:37,100
+wurde immer anstrengender.
+
+602
+00:22:37,101 --> 00:22:40,300
+Vor 12 Monaten hat sie
+einen Wandertrip storniert.
+
+603
+00:22:40,301 --> 00:22:42,535
+Also entweder wollte sie nur
+zu Hause sitzen und Fernsehen gucken
+
+604
+00:22:42,536 --> 00:22:44,500
+oder das Wandern fällt ihr schwerer.
+
+605
+00:22:44,501 --> 00:22:47,700
+Sie litt in den letzten zwei Jahren
+an Gelenkschmerzen.
+
+606
+00:22:47,701 --> 00:22:50,035
+Ziehen Sie an meinem Band,
+wenn Sie wissen was ich meine.
+
+607
+00:22:50,036 --> 00:22:53,886
+A.C.E. Level sind zu
+niedrig für Sarkoidose.
+
+608
+00:22:54,201 --> 00:22:56,021
+Das meinte ich nicht.
+
+609
+00:22:56,401 --> 00:22:57,835
+Könnte auch nur eine
+inaktive Phase gewesen sein.
+
+610
+00:22:57,836 --> 00:22:58,600
+Es ist noch nicht Weihnachten.
+
+611
+00:22:58,601 --> 00:23:00,935
+Ich erinnerte mich daran, kein
+Satanist zu sein, ich bin ein Druide.
+
+612
+00:23:00,936 --> 00:23:02,500
+- Keine Lungenverstrickung.
+- Bis jetzt.
+
+613
+00:23:02,501 --> 00:23:04,800
+Wir brauchen eine bronchoalveolärer
+Lavage, um es zu bestätigen.
+
+614
+00:23:04,801 --> 00:23:05,600
+Zu schade,
+
+615
+00:23:05,601 --> 00:23:09,800
+ich wollte Sie eigentlich zu
+Weihnachten mit einer überraschen.
+
+616
+00:23:09,801 --> 00:23:10,801
+Wow!
+
+617
+00:23:12,101 --> 00:23:15,135
+Entweder das kostet mehr als 25 Dollar
+
+618
+00:23:15,136 --> 00:23:16,752
+oder ich beginne wirklich an Steve Jobs
+
+619
+00:23:16,753 --> 00:23:19,273
+Geschäftsstrategien zu zweifeln.
+
+620
+00:23:20,101 --> 00:23:21,361
+Trotzdem danke!
+
+621
+00:23:24,601 --> 00:23:26,400
+Die letzte Runde Saline, Maggie.
+
+622
+00:23:26,401 --> 00:23:27,700
+Ein weiterer großer Atemzug.
+
+623
+00:23:27,701 --> 00:23:29,135
+Wir müssen die Flüssigkeit
+komplett runter in
+
+624
+00:23:29,136 --> 00:23:31,200
+Ihre Lungen bekommen, okay?
+
+625
+00:23:31,201 --> 00:23:32,041
+Also los.
+
+626
+00:23:34,601 --> 00:23:36,900
+Das Geschenk könnte von
+einem Patienten sein.
+
+627
+00:23:36,901 --> 00:23:38,500
+Der es dem falschen Arzt geschickt hat?
+
+628
+00:23:38,501 --> 00:23:43,261
+House hat sich das Geschenk
+offensichtlich selbst gemacht.
+
+629
+00:23:47,001 --> 00:23:48,600
+Jetzt streiten sie sich.
+
+630
+00:23:48,601 --> 00:23:50,300
+Ich hab den ganzen
+Morgen danach gesucht.
+
+631
+00:23:50,301 --> 00:23:52,000
+Hast du in die Schachtel auf
+meinem Schreibtisch geschaut?
+
+632
+00:23:52,001 --> 00:23:53,235
+Ah ja, deine Mom hat angerufen.
+
+633
+00:23:53,236 --> 00:23:54,916
+Dein Vater ist tot.
+
+634
+00:23:55,701 --> 00:23:57,735
+Du hast das Geschenk auf deinem
+Schreibtisch liegen lassen?
+
+635
+00:23:57,736 --> 00:23:58,952
+Es wäre nicht so effektiv
+gewesen, wenn ich es
+
+636
+00:23:58,953 --> 00:24:00,600
+bei mir zu Hause in einem
+Schränk hätte liegen lassen.
+
+637
+00:24:00,601 --> 00:24:01,600
+Sie werden wissen, dass
+es von dir ist.
+
+638
+00:24:01,601 --> 00:24:03,500
+Nein, sie werden schätzen,
+dass es von mir war.
+
+639
+00:24:03,501 --> 00:24:05,135
+Sie 90% sind sie sich
+sicher, dass es von mir ist,
+
+640
+00:24:05,136 --> 00:24:07,600
+aber was viel wichtiger ist,
+dass sie sich zu 10% sicher sind,
+
+641
+00:24:07,601 --> 00:24:11,000
+dass eine von den anderen
+Typen sie hintergeht.
+
+642
+00:24:11,001 --> 00:24:13,485
+Hast du jemals daran gedacht, deine
+Kräfte für etwas nützliches zu verwenden,
+
+643
+00:24:13,486 --> 00:24:16,000
+um, was weiß ich, dem Nahen
+Osten Frieden zu bringen?
+
+644
+00:24:16,001 --> 00:24:17,821
+Das könnte ich nicht.
+
+645
+00:24:17,901 --> 00:24:19,900
+Aber falls es mal soweit kommt, dann
+könntest du wieder alles kaputt machen.
+
+646
+00:24:19,901 --> 00:24:22,800
+Ja, ist schon eher in meiner Macht.
+
+647
+00:24:22,801 --> 00:24:25,100
+- Das Geschenk könnte von Wilson sein.
+- Es ist von House.
+
+648
+00:24:25,101 --> 00:24:26,535
+Wieso stört es dich, dass er spekuliert?
+
+649
+00:24:26,536 --> 00:24:29,001
+Weil House genau das will.
+
+650
+00:24:30,101 --> 00:24:31,200
+Die Lungen arbeiten reibungslos.
+
+651
+00:24:31,201 --> 00:24:32,635
+Keine Fremdkörper oder
+alveolare Blutungen.
+
+652
+00:24:32,636 --> 00:24:34,102
+Maggie, ich werde jetzt
+den Schlauch rausholen.
+
+653
+00:24:34,103 --> 00:24:37,300
+Dazu müssten Sie aber mal husten, okay?
+
+654
+00:24:37,301 --> 00:24:39,051
+Ein bisschen stärker.
+
+655
+00:24:40,101 --> 00:24:40,941
+Großartig.
+
+656
+00:24:43,901 --> 00:24:46,421
+Maggie, öffnen Sie Ihre Augen.
+
+657
+00:24:52,801 --> 00:24:54,761
+Warum sagen Sie nichts?
+
+658
+00:24:57,001 --> 00:24:58,121
+Was ist los?
+
+659
+00:25:00,001 --> 00:25:01,735
+Maggie wurde negativ
+auf Sarkoidose getestet.
+
+660
+00:25:01,736 --> 00:25:03,800
+Aber jetzt blutet Sie in ihren Augen.
+
+661
+00:25:03,801 --> 00:25:05,600
+Ist der Blutplättchenanteil gesunken?
+
+662
+00:25:05,601 --> 00:25:07,735
+Er ist im Keller. Nach den neuesten
+Ergebnissen ist er unter 40.
+
+663
+00:25:07,736 --> 00:25:08,935
+Sie wird aus allen
+Körperöffnungen bluten,
+
+664
+00:25:08,936 --> 00:25:09,800
+wenn wir nicht die Ursache finden.
+
+665
+00:25:09,801 --> 00:25:11,935
+Es könnte Milzsequestrationen,
+Tuberkulose...
+
+666
+00:25:11,936 --> 00:25:13,400
+Morbus
+Gaucher, TTP--
+
+667
+00:25:13,401 --> 00:25:15,500
+hämolytisch-urämisches
+Syndrom, Blutvergiftung--
+
+668
+00:25:15,501 --> 00:25:18,035
+Alle mögliche Ursachen aufzulisten,
+ist nur dann beeindruckend,
+
+669
+00:25:18,036 --> 00:25:20,300
+wenn man es umgekehrt alphabetisch kann.
+
+670
+00:25:20,301 --> 00:25:22,800
+Wir müssen herausfinden, warum ihre
+Blutplättchenmaschine kaputt ist.
+
+671
+00:25:22,801 --> 00:25:27,421
+Geben Sie zur Fabrik. Machen
+Sie eine Knochenaspiration.
+
+672
+00:25:35,501 --> 00:25:37,251
+Ich bin Ihr Wichtel.
+
+673
+00:25:39,601 --> 00:25:41,100
+Das dürften Sie mir aber nicht erzählen.
+
+674
+00:25:41,101 --> 00:25:42,700
+Sie haben jetzt aber schon ein Geschenk.
+
+675
+00:25:42,701 --> 00:25:45,300
+Das heißt, dass Sie mehr
+als einen Wichtel haben.
+
+676
+00:25:45,301 --> 00:25:49,431
+Oder jemand anders wollte
+mir eine Freude machen.
+
+677
+00:25:51,401 --> 00:25:52,871
+Frohe Weihnachten.
+
+678
+00:26:10,801 --> 00:26:13,671
+Einerseits sollten Sie im Bett sein,
+
+679
+00:26:13,901 --> 00:26:15,835
+andererseits sagte ich doch,
+dass Sie sich ausruhen sollen.
+
+680
+00:26:15,836 --> 00:26:17,500
+Das Dilemma ist nicht zu übersehen.
+
+681
+00:26:17,501 --> 00:26:20,200
+Ich denke nicht, dass
+dies das Problem ist.
+
+682
+00:26:20,201 --> 00:26:23,631
+Können Streptokokken
+das hier verursachen?
+
+683
+00:26:23,701 --> 00:26:24,891
+Weitermachen...
+
+684
+00:26:25,101 --> 00:26:27,800
+Glauben Sie mir, das habe ich gemacht..
+
+685
+00:26:27,801 --> 00:26:29,400
+Auf meinen Schamlippen
+ist kein Ausschlag.
+
+686
+00:26:29,401 --> 00:26:31,641
+Wollen Sie sich überzeugen?
+
+687
+00:26:32,001 --> 00:26:35,921
+Ich spare momentan auf
+eine Red Ryder BB Gun.
+
+688
+00:26:37,901 --> 00:26:39,651
+Dunklerer Lippenstift?
+
+689
+00:26:39,701 --> 00:26:42,011
+Ich habe keinen aufgetragen.
+
+690
+00:26:46,501 --> 00:26:48,800
+Erzählen Sie Ihrer
+Mutter, was Sie machen?
+
+691
+00:26:48,801 --> 00:26:51,200
+Es ist unwichtig, ich bin nur neugierig.
+
+692
+00:26:51,201 --> 00:26:58,691
+Ich will ihr Herz nicht brechen, denn nur
+dann denke ich, dass ich nichts falsches mache.
+
+693
+00:27:01,201 --> 00:27:03,900
+Ist in der Sache auch ein Esel beteiligt?
+
+694
+00:27:03,901 --> 00:27:07,961
+Diesmal bin ich nicht
+neugierig. Es ist wichtig.
+
+695
+00:27:09,001 --> 00:27:12,711
+Es ist entweder ein
+Esel oder ein Maultier.
+
+696
+00:27:13,201 --> 00:27:15,651
+Das kann ich mir nie merken.
+
+697
+00:27:16,101 --> 00:27:17,001
+Wow...
+
+698
+00:27:17,201 --> 00:27:19,900
+Was für ein unheimliches lächeln.
+
+699
+00:27:19,901 --> 00:27:22,500
+Ich wette, dass das des
+Esels noch unheimlicher ist.
+
+700
+00:27:22,501 --> 00:27:24,085
+Muss ich das erklären?
+
+701
+00:27:24,086 --> 00:27:25,900
+Nein. Das ist mein Job.
+
+702
+00:27:25,901 --> 00:27:27,500
+Ecthyma contagiosum.
+
+703
+00:27:27,501 --> 00:27:30,735
+Jeder Kontakt kann einen Ausschlag
+oder Grippesymptome hervorrufen.
+
+704
+00:27:30,736 --> 00:27:31,856
+Halsschmerzen.
+
+705
+00:27:32,001 --> 00:27:34,301
+Gab es... Kontakt?
+
+706
+00:27:38,001 --> 00:27:40,100
+OK. Antibiotische Creme für Sie
+
+707
+00:27:40,101 --> 00:27:42,341
+und Verhüterli für Francis.
+
+708
+00:27:42,701 --> 00:27:46,621
+Dann wird es Ihnen beiden
+wieder besser gehen.
+
+709
+00:27:48,101 --> 00:27:50,400
+Sie sollten sich die Show ansehen.
+
+710
+00:27:50,401 --> 00:27:52,200
+Ich glaube, dass es Ihnen gefallen wird.
+
+711
+00:27:52,201 --> 00:27:55,631
+Es tut mir Leid, aber ich hasse Western.
+
+712
+00:28:08,001 --> 00:28:09,500
+Sie belügen sich also nicht.
+
+713
+00:28:09,501 --> 00:28:10,700
+Es sieht nicht so aus.
+
+714
+00:28:10,701 --> 00:28:11,821
+Bewundernswert.
+
+715
+00:28:11,901 --> 00:28:12,935
+Erzählst du Cameron alles?
+
+716
+00:28:12,936 --> 00:28:14,101
+Ha. Nein.
+
+717
+00:28:15,101 --> 00:28:16,600
+Denkst du, dass Sie Geheimnisse hat?
+
+718
+00:28:16,601 --> 00:28:19,100
+Wenn ich Sie wissen würde,
+dann wären es keine Geheimnisse.
+
+719
+00:28:19,101 --> 00:28:20,400
+Ich hoffe, dass Sie welche hat.
+
+720
+00:28:20,401 --> 00:28:22,135
+Jeder hat das Recht auf
+ein wenig Privatsphäre,
+
+721
+00:28:22,136 --> 00:28:25,426
+selbst vor den Menschen, die man liebt.
+
+722
+00:28:28,901 --> 00:28:30,900
+Hast du House ein Geschenk gekauft?
+
+723
+00:28:30,901 --> 00:28:31,900
+Warum sollte ich?
+
+724
+00:28:31,901 --> 00:28:32,700
+Um mir eins reinzuwürgen.
+
+725
+00:28:32,701 --> 00:28:34,800
+Dann sage ich natürlich ja.
+
+726
+00:28:34,801 --> 00:28:39,491
+Stopp, stopp, warte, warte.
+Was ist das für ein Geruch?
+
+727
+00:28:39,701 --> 00:28:41,311
+Der Knochen qualmt.
+
+728
+00:28:43,201 --> 00:28:46,421
+Ihr Knochen ist härter als der Bohrer?
+
+729
+00:28:49,378 --> 00:28:50,577
+Wir haben einen
+Ganzkörperscan durchgeführt,
+
+730
+00:28:50,578 --> 00:28:52,312
+um die Ursache für die Verhärtung
+in den Hüften zu finden.
+
+731
+00:28:52,313 --> 00:28:53,677
+Es ist nirgendwo etwas zu finden.
+
+732
+00:28:53,678 --> 00:28:55,077
+Das Leuchtmittel könnte
+inaktiv gewesen sein.
+
+733
+00:28:55,078 --> 00:28:56,677
+Ich soll den Test vermasselt haben?
+
+734
+00:28:56,678 --> 00:28:58,377
+Es gibt so viele andere Dinge,
+die passiert sein könnten.
+
+735
+00:28:58,378 --> 00:29:00,212
+Vielleicht war es inaktiv, vielleicht war es
+auch nur nicht vollständig im Körper verteilt.
+
+736
+00:29:00,213 --> 00:29:01,512
+Es ist zirkuliert.
+Die Kamera hat Bilder--
+
+737
+00:29:01,513 --> 00:29:03,777
+He, he, es ist Weihnachten.
+
+738
+00:29:03,778 --> 00:29:06,648
+Warum müssen Sie sich da streiten.
+
+739
+00:29:07,078 --> 00:29:08,712
+Warum denken Sie, dass
+es keine Hot Spots gibt?
+
+740
+00:29:08,713 --> 00:29:09,877
+Weil ich den Test nicht vermasselt habe.
+
+741
+00:29:09,878 --> 00:29:11,077
+Die Knochendichte ist überall gleich.
+
+742
+00:29:11,078 --> 00:29:12,977
+Das heißt aber nur,
+dass es überall gleich war.
+
+743
+00:29:12,978 --> 00:29:14,577
+Es heißt aber nicht,
+dass sie auch kalt ist.
+
+744
+00:29:14,578 --> 00:29:17,677
+Es könnte nämlich auch sein, dass
+sie ein einziger Hot Spot ist.
+
+745
+00:29:17,678 --> 00:29:18,377
+Es ist überall gleich,
+
+746
+00:29:18,378 --> 00:29:22,648
+weil sich ihr gesamtes
+Skelett in Stein verwandelt.
+
+747
+00:29:23,978 --> 00:29:26,277
+Gut für einen aufstrebenden Superhelden.
+
+748
+00:29:26,278 --> 00:29:28,977
+Schlimm für einen Menschen, der
+hofft es noch zum Kwanzaa zu schaffen.
+
+749
+00:29:28,978 --> 00:29:31,512
+Es muss von einer Carbonic
+Anhydrase Typ II Schwäche kommen.
+
+750
+00:29:31,513 --> 00:29:33,312
+Es hat einen eigenen Willen--
+Es muss nicht das sein,
+
+751
+00:29:33,313 --> 00:29:35,477
+- was es nicht sein will
+- Ich meine, wenn es nicht CA-2 ist...
+
+752
+00:29:35,478 --> 00:29:40,448
+Keine der anderen Ursachen für
+Osteopetrose ist behandelbar.
+
+753
+00:29:43,978 --> 00:29:45,677
+Sie haben Recht. Das muss es sein.
+
+754
+00:29:45,678 --> 00:29:46,577
+Wir werden ihr Blut testen
+
+755
+00:29:46,578 --> 00:29:48,312
+und hoffen, dass Ihr Optimismus
+
+756
+00:29:48,313 --> 00:29:50,483
+nicht fehl am Platze ist.
+
+757
+00:29:56,778 --> 00:29:59,677
+Sie haben Kutner beschuldigt
+einen Test vermasselt zu haben,
+
+758
+00:29:59,678 --> 00:30:00,877
+weil sie ihn hassen.
+
+759
+00:30:00,878 --> 00:30:01,777
+Und das überrascht dich?
+
+760
+00:30:01,778 --> 00:30:03,062
+Genau so etwas passiert,
+
+761
+00:30:03,063 --> 00:30:04,777
+wenn du mit den Menschen spielst.
+
+762
+00:30:04,778 --> 00:30:06,877
+Eines Tages wird er
+einen Test vermasseln,
+
+763
+00:30:06,878 --> 00:30:09,912
+und wenn sie ihm das dann nicht übel
+nehmen, weil sie ihn leiden können,
+
+764
+00:30:09,913 --> 00:30:11,753
+könnte jemand sterben.
+
+765
+00:30:13,278 --> 00:30:13,977
+Wohin gehen wir.
+
+766
+00:30:13,978 --> 00:30:18,248
+Nirgendwo hin. Ich weiß
+nur, dass es dir weh tut.
+
+767
+00:30:19,278 --> 00:30:21,312
+CA-2 Mangel ist eine Erbkrankheit,
+
+768
+00:30:21,313 --> 00:30:23,077
+welche Proteine durcheinander bringt.
+
+769
+00:30:23,078 --> 00:30:24,677
+Wenn der Bluttest positiv ist,
+
+770
+00:30:24,678 --> 00:30:26,877
+werden Sie eine
+Knochenmarkstransplantation brauchen.
+
+771
+00:30:26,878 --> 00:30:30,677
+Transplantation hört sich nach einer
+Beschönigung für geringe Chancen an.
+
+772
+00:30:30,678 --> 00:30:33,408
+Vielleicht gering, aber vorhanden.
+
+773
+00:30:35,178 --> 00:30:38,077
+Wir werden testen müssen, ob
+Jane ein passender Spender ist.
+
+774
+00:30:38,078 --> 00:30:39,312
+Gibt es keine Spenderkartei?
+
+775
+00:30:39,313 --> 00:30:40,577
+Bei Jane sind die Chancen am höchsten.
+
+776
+00:30:40,578 --> 00:30:42,112
+Der Eingriff ist nahezu sicher.
+
+777
+00:30:42,113 --> 00:30:44,577
+- Es besteht kein Risiko.
+- Kein Risiko!
+
+778
+00:30:44,578 --> 00:30:45,277
+Jede Operation...
+
+779
+00:30:45,278 --> 00:30:48,277
+Dann erzählen Sie mir nicht,
+dass es kein Risiko gibt.
+
+780
+00:30:48,278 --> 00:30:50,777
+Wollen Sie mir jetzt auch noch weiß
+machen, dass es keine Schmerzen verursacht?
+
+781
+00:30:50,778 --> 00:30:52,012
+Der Test wird Schmerzen verursachen.
+
+782
+00:30:52,013 --> 00:30:54,253
+Das geht schon in Ordnung.
+
+783
+00:30:56,678 --> 00:31:01,018
+Wenn sie es nicht macht
+und Sie es nicht schaffen,
+
+784
+00:31:01,278 --> 00:31:02,512
+wird sie sich für den Rest ihres Lebens
+
+785
+00:31:02,513 --> 00:31:03,843
+Vorwürfe machen.
+
+786
+00:31:06,578 --> 00:31:09,078
+Mom... bitte.
+
+787
+00:31:12,478 --> 00:31:14,648
+Suchen Sie jemand anderen.
+
+788
+00:31:15,878 --> 00:31:19,588
+Lassen Sie jemand
+anderen das Risiko tragen.
+
+789
+00:31:28,478 --> 00:31:30,812
+Die Spenderkartei hat einen 49-jährigen
+Mann aus Cleveland ausgespuckt.
+
+790
+00:31:30,813 --> 00:31:32,877
+Bei ihm stimmen fünf von
+sechs HL-Antigenen überein.
+
+791
+00:31:32,878 --> 00:31:34,312
+Der nächste Flug von
+Cleveland geht um...
+
+792
+00:31:34,313 --> 00:31:36,029
+Warum ist ein 49-jähriger Mann
+
+793
+00:31:36,030 --> 00:31:37,677
+ein besserer Spender als ihre Tochter.
+
+794
+00:31:37,678 --> 00:31:40,377
+Ist er vielleicht gar nicht. Maggie
+hat sie uns gar nicht testen lassen.
+
+795
+00:31:40,378 --> 00:31:41,777
+- Warum nicht?
+- Schmerzen.
+
+796
+00:31:41,778 --> 00:31:43,178
+Gefahr,
+Risiko--
+
+797
+00:31:43,178 --> 00:31:45,277
+Der einzige Grund nach mehrere Ursachen
+
+798
+00:31:45,278 --> 00:31:49,198
+zu suchen ist, dass man nach der
+Antwort sucht, die der andere hören will.
+
+799
+00:31:50,878 --> 00:31:51,878
+House.
+
+800
+00:32:00,978 --> 00:32:02,477
+Sie haben Unrecht, was
+die gute Mutter betrifft.
+
+801
+00:32:02,478 --> 00:32:04,477
+Ist mir egal. Wir können
+die Spenderkartei vergessen.
+
+802
+00:32:04,478 --> 00:32:06,377
+Es ist kein CA-2 Mangel.
+
+803
+00:32:06,378 --> 00:32:11,908
+Das einzige, was wir tun können
+ist ihr die Sache zu erleichtern.
+
+804
+00:32:11,978 --> 00:32:13,518
+Ist das von Taub?
+
+805
+00:32:14,078 --> 00:32:14,978
+Ja.
+
+806
+00:32:15,478 --> 00:32:16,778
+Ja, ist es.
+
+807
+00:32:21,678 --> 00:32:23,148
+Frohe Weihnachten.
+
+808
+00:32:24,278 --> 00:32:28,177
+Wer wird der Patientin
+sagen, dass Sie stirbt.
+
+809
+00:32:28,178 --> 00:32:29,278
+Ich.
+
+810
+00:32:30,378 --> 00:32:36,048
+Und niemand geht, bevor wir nicht
+wissen, weshalb sie gestorben ist.
+
+811
+00:32:40,578 --> 00:32:42,877
+Was auch immer sie hat, ist tödlich.
+
+812
+00:32:42,878 --> 00:32:45,112
+Es macht keinen Unterschied,
+ob es Krankheit 58
+
+813
+00:32:45,113 --> 00:32:46,303
+oder 907 ist.
+
+814
+00:32:49,378 --> 00:32:50,777
+Seit ihr sauer auf mich?
+
+815
+00:32:50,778 --> 00:32:53,158
+Nein. Du hattest keine Wahl.
+
+816
+00:32:53,278 --> 00:32:54,077
+Natürlich hatte ich die Wahl.
+
+817
+00:32:54,078 --> 00:32:55,962
+Du hattest keine Wahl mehr, nachdem
+ich meine Wahl getroffen habe.
+
+818
+00:32:55,963 --> 00:32:57,977
+Und jetzt entscheide ich mich
+dafür nicht sauer auf dich zu sein.
+
+819
+00:32:57,978 --> 00:33:01,828
+- Warum?
+- Weil es House verrückt machen wird.
+
+820
+00:33:03,578 --> 00:33:08,828
+Denken Sie, dass es Ihr Leben
+schwieriger oder einfacher macht?
+
+821
+00:33:09,178 --> 00:33:11,577
+Ich habe meiner Mutter erzählt,
+dass es mir egal ist, was sie denkt.
+
+822
+00:33:11,578 --> 00:33:15,148
+Ich will, dass Sie
+mein Knochenmark testen.
+
+823
+00:33:18,278 --> 00:33:20,238
+Ich kann nicht sterben.
+
+824
+00:33:20,478 --> 00:33:21,777
+Natürlich können Sie das.
+
+825
+00:33:21,778 --> 00:33:23,318
+Sie liegen falsch.
+
+826
+00:33:23,378 --> 00:33:25,177
+Sie wissen nicht einmal, was ich habe.
+
+827
+00:33:25,178 --> 00:33:27,812
+Das einzige, was Sie haben,
+ist EIN letztes Weihnachten
+
+828
+00:33:27,813 --> 00:33:29,353
+mit Ihrer Tochter.
+
+829
+00:33:29,378 --> 00:33:32,738
+Die letzte Chance ihr etwas zu schenken.
+
+830
+00:33:32,978 --> 00:33:34,378
+Die Wahrheit.
+
+831
+00:33:34,878 --> 00:33:36,062
+Es ist nicht teuer,
+
+832
+00:33:36,063 --> 00:33:37,743
+dafür aber wertvoll.
+
+833
+00:33:37,778 --> 00:33:39,312
+Man muss sich auch
+nicht anstellen, wenn man
+
+834
+00:33:39,313 --> 00:33:40,629
+es nach Weihnachten umtauschen will.
+
+835
+00:33:40,630 --> 00:33:42,030
+Wovon reden Sie.
+
+836
+00:33:42,878 --> 00:33:44,677
+Eine Mutter, die sterben wird,
+
+837
+00:33:44,678 --> 00:33:47,877
+würde einen Spender nicht ablehnen,
+nur weil es schmerzen könnte.
+
+838
+00:33:47,878 --> 00:33:52,277
+Sie lehnt es ab, wenn Sie
+weiß, dass es nicht passen wird.
+
+839
+00:33:52,278 --> 00:33:54,512
+Was allerdings nur dann Sinn
+ergibt, wenn Mutter und Tochter
+
+840
+00:33:54,513 --> 00:33:57,383
+gar nicht Mutter und Tochter sind.
+
+841
+00:34:03,178 --> 00:34:04,677
+Ich kann einen DNA-Test machen,
+
+842
+00:34:04,678 --> 00:34:07,408
+falls Sie mich weiterhin anlügen.
+
+843
+00:34:12,278 --> 00:34:14,658
+Ich wollte nie Kinder haben.
+
+844
+00:34:16,378 --> 00:34:19,577
+Ich liebe Sie, aber mit meinen Genen...
+
+845
+00:34:19,578 --> 00:34:21,468
+Dann war da diese Frau.
+
+846
+00:34:21,978 --> 00:34:23,278
+Drogenabhängig.
+
+847
+00:34:25,378 --> 00:34:26,977
+Sie wurde schwanger,
+
+848
+00:34:26,978 --> 00:34:29,708
+wollte aber nicht abtreiben.
+
+849
+00:34:30,078 --> 00:34:31,912
+Allerdings wollte Sie auch
+nicht, dass ihre Tochter etwas
+
+850
+00:34:31,913 --> 00:34:34,713
+über ihre richtige Mutter erfährt.
+
+851
+00:34:35,078 --> 00:34:36,378
+Was sie war.
+
+852
+00:34:38,378 --> 00:34:42,298
+Ich habe ihr versprochen,
+es ihr nie zu sagen.
+
+853
+00:34:45,878 --> 00:34:47,812
+Also ist ein Versprechen
+einer Abhängigen gegenüber
+
+854
+00:34:47,813 --> 00:34:49,412
+mehr Wert als eines
+gegenüber Ihrer Tochter?
+
+855
+00:34:49,413 --> 00:34:51,177
+Es ihr zu sagen, wäre gemein.
+
+856
+00:34:51,178 --> 00:34:52,078
+Richtig.
+
+857
+00:34:52,278 --> 00:34:53,777
+Sie lebt mit einer Lüge.
+
+858
+00:34:53,778 --> 00:34:56,578
+Sie werden als Heuchlerin sterben.
+
+859
+00:34:59,778 --> 00:35:03,377
+Mom, die Ärzte haben mir
+gesagt, was passiert ist.
+
+860
+00:35:03,378 --> 00:35:05,338
+Alles wird gut, Schatz,
+
+861
+00:35:05,778 --> 00:35:07,808
+dass verspreche ich dir.
+
+862
+00:35:08,078 --> 00:35:10,108
+Ärzte können sich irren.
+
+863
+00:35:10,478 --> 00:35:11,612
+Es gibt noch eine kleine
+Chance, dass ich es schaffe.
+
+864
+00:35:11,613 --> 00:35:13,643
+Glaubst du das wirklich?
+
+865
+00:35:19,778 --> 00:35:20,878
+Natürlich.
+
+866
+00:35:22,378 --> 00:35:25,278
+Nein, Mom, du wirst sterben.
+
+867
+00:35:25,978 --> 00:35:28,568
+Niemand wird dir helfen können.
+
+868
+00:35:30,978 --> 00:35:32,978
+Nichts wird gut.
+
+869
+00:35:55,678 --> 00:35:56,812
+Das war kalt.
+
+870
+00:35:56,813 --> 00:35:57,978
+Ja.
+
+871
+00:36:20,478 --> 00:36:22,577
+Was hast du zu Weihnachten bekommen?
+
+872
+00:36:22,578 --> 00:36:25,177
+Eine Armbanduhr, eine alte Schallplatte
+
+873
+00:36:25,178 --> 00:36:27,677
+und eine Zweitausgabe von Conan Doyle.
+
+874
+00:36:27,678 --> 00:36:28,812
+Und das schlimmste ist,
+
+875
+00:36:28,813 --> 00:36:30,677
+dass meine Patientin stirbt.
+
+876
+00:36:30,678 --> 00:36:32,412
+Es gibt’s nichts deprimierenderes,
+
+877
+00:36:32,413 --> 00:36:34,277
+als zu Weihnachten im
+Krankenhaus zu sterben.
+
+878
+00:36:34,278 --> 00:36:36,177
+Niemand will in den
+Raum der Patienten gehen.
+
+879
+00:36:36,178 --> 00:36:40,777
+Selbst von den Praktikanten
+werden sie alleine gelassen.
+
+880
+00:36:40,778 --> 00:36:44,077
+Ich habe dafür etwas
+beeindruckendes gesehen.
+
+881
+00:36:44,078 --> 00:36:45,338
+Reine Wahrheit.
+
+882
+00:36:46,478 --> 00:36:49,077
+Sie hat ihrer Mutter ins Gesicht
+gesagt, dass sie sterben wird.
+
+883
+00:36:49,078 --> 00:36:51,318
+Ihr jede Hoffnung genommen.
+
+884
+00:36:51,678 --> 00:36:54,277
+Das hört sich... schrecklich an.
+
+885
+00:36:54,278 --> 00:36:57,412
+Es war so, als ob man sich ein
+astronomisches Ereignis anguckt,
+
+886
+00:36:57,413 --> 00:36:58,977
+von dem man weiß, dass
+es nie wieder kommen wird.
+
+887
+00:36:58,978 --> 00:37:01,512
+Du schockst doch andauern Menschen
+mit der kalten und harten Wahrheit
+
+888
+00:37:01,513 --> 00:37:03,177
+Du bekommst dadurch einen Kick.
+
+889
+00:37:03,178 --> 00:37:04,577
+Ja, weil es mich nicht interessiert.
+
+890
+00:37:04,578 --> 00:37:06,398
+Sie war aber besorgt.
+
+891
+00:37:06,478 --> 00:37:09,068
+Sie hat es irgendwie geschafft.
+
+892
+00:37:09,578 --> 00:37:13,148
+Sie hat es gemacht,
+weil sie besorgt ist.
+
+893
+00:37:13,578 --> 00:37:16,312
+Die Weihnachtsengel haben
+House letztendlich doch ein
+
+894
+00:37:16,313 --> 00:37:17,912
+Geschenk gebracht, dass
+er zu schätzen weiß.
+
+895
+00:37:17,913 --> 00:37:18,877
+Na dann ruinier es nicht.
+
+896
+00:37:18,878 --> 00:37:19,977
+Mach das nicht an Christus fest.
+
+897
+00:37:19,978 --> 00:37:21,577
+Er hat schon genügend Nägel in sich.
+
+898
+00:37:21,578 --> 00:37:22,377
+Die Patientin muss sterben...
+
+899
+00:37:22,378 --> 00:37:23,977
+Würdest du bitte den Hut abnehmen.
+
+900
+00:37:23,978 --> 00:37:26,277
+Es ist Weihnachten. Es ist ein Rentier.
+
+901
+00:37:26,278 --> 00:37:28,577
+Es ist ein Elch auf einem Juden.
+
+902
+00:37:28,578 --> 00:37:30,118
+Wenn interessiert's.
+
+903
+00:37:33,478 --> 00:37:34,877
+Dinge haben ihren Platz.
+
+904
+00:37:34,878 --> 00:37:37,777
+Du würdest auch keine Dreidl
+an einen Weihnachtsbaum hängen.
+
+905
+00:37:37,778 --> 00:37:38,828
+Könntest du aber.
+
+906
+00:37:40,178 --> 00:37:42,278
+Dinge sind nicht wichtig.
+
+907
+00:37:46,578 --> 00:37:48,398
+Nein, sind Sie nicht.
+
+908
+00:37:52,278 --> 00:37:54,308
+Frohe Sonnenwende, House.
+
+909
+00:37:55,278 --> 00:37:57,977
+<i>Gott lass die fröhlichen Gesellen ausruhen,</i>
+
+910
+00:37:57,978 --> 00:38:00,568
+<i>lasst euch von nichts bestürzen.</i>
+
+911
+00:38:00,578 --> 00:38:03,112
+<i>Denkt an Christus, den Retter, </i>
+
+912
+00:38:03,113 --> 00:38:06,053
+<i>der am Weihnachtstag geboren wurd', </i>
+
+913
+00:38:06,178 --> 00:38:08,612
+<i>um uns alle vor der Macht Satans zu retten, </i>
+
+914
+00:38:08,613 --> 00:38:11,553
+<i>wenn wir vom Wege abgekommen sind. </i>
+
+915
+00:38:11,578 --> 00:38:13,477
+Haben Sie noch nie etwas
+vom Weihnachtsgeist gehört?
+
+916
+00:38:13,478 --> 00:38:15,277
+Bringen Sie mir einen guten Glühwein.
+
+917
+00:38:15,278 --> 00:38:17,077
+House, wenn Sie etwas sagen
+wollen, dann sagen Sie es.
+
+918
+00:38:17,078 --> 00:38:19,377
+Wenn nicht, dann geben Sie uns die Chance
+noch vor Weihnachten nach Hause zu kommen.
+
+919
+00:38:19,378 --> 00:38:20,478
+Spaßbremse.
+
+920
+00:38:21,078 --> 00:38:22,977
+Geben Sie der Patientin Risperidone.
+
+921
+00:38:22,978 --> 00:38:24,077
+Das ist ein Neuroleptikum.
+
+922
+00:38:24,078 --> 00:38:25,877
+Sie stirbt. Sie ist nicht verrückt.
+
+923
+00:38:25,878 --> 00:38:29,277
+Ich werde ein
+Weihnachtswunder vollbringen.
+
+924
+00:38:29,278 --> 00:38:31,043
+<i>Oh, Botschaft </i>
+
+925
+00:38:31,078 --> 00:38:33,177
+<i>des Trostes und der Freude</i>
+
+926
+00:38:33,178 --> 00:38:34,788
+<i>Trost und Freude...</i>
+
+927
+00:38:35,278 --> 00:38:38,377
+Sie sagten, dass alle anderen Ursachen
+für Osteopetrose schlecht wären.
+
+928
+00:38:38,378 --> 00:38:40,377
+Außer der, die wir früh entdeckt haben.
+
+929
+00:38:40,378 --> 00:38:42,268
+Denn es war unmöglich.
+
+930
+00:38:42,378 --> 00:38:46,177
+Wenn ein Fötus entsteht, dann
+ist er nur ein Zellhaufen.
+
+931
+00:38:46,178 --> 00:38:49,677
+Brustgewebe bedeckt einen
+großen Teil des Körpers.
+
+932
+00:38:49,678 --> 00:38:52,977
+Sobald sich der Fötus entwickelt,
+verschwindet das meiste Gewebe.
+
+933
+00:38:52,978 --> 00:38:55,577
+Es bleibt nur etwas an
+den interessanten Stellen.
+
+934
+00:38:55,578 --> 00:38:57,843
+Aber manchmal wird Gewebe
+
+935
+00:38:57,878 --> 00:39:00,677
+an Orten zurückgelassen,
+an die es nicht gehört.
+
+936
+00:39:00,678 --> 00:39:03,377
+Risperidone kann viele
+Sachen hervorrufen.
+
+937
+00:39:03,378 --> 00:39:05,612
+Eine ist, das Brustgewebe anschwillt,
+
+938
+00:39:05,613 --> 00:39:07,177
+so dass wir es einfacher finden können.
+
+939
+00:39:07,178 --> 00:39:09,977
+Sie behaupten jetzt,
+dass ich Brustkrebs habe,
+
+940
+00:39:09,978 --> 00:39:11,162
+der nicht in meiner Brust ist?
+
+941
+00:39:11,163 --> 00:39:12,277
+Das ergibt doch keinen Sinn.
+
+942
+00:39:12,278 --> 00:39:15,277
+Taubs Eltern haben eine
+Eigentumswohnung in Florida,
+
+943
+00:39:15,278 --> 00:39:16,762
+aber sie sind immer noch New Yorker.
+
+944
+00:39:16,763 --> 00:39:18,477
+- Eigentlich sind sie--
+- Unwichtig.
+
+945
+00:39:18,478 --> 00:39:20,578
+Das war nur ein Parabel.
+
+946
+00:39:20,878 --> 00:39:23,678
+Jetzt werde ich den Tod besiegen.
+
+947
+00:39:25,178 --> 00:39:27,418
+Geben Sie mir die Spritze.
+
+948
+00:39:27,478 --> 00:39:29,077
+Das muss eine Fettablagerung sein.
+
+949
+00:39:29,078 --> 00:39:30,612
+Ja, ich könnte falsch liegen.
+
+950
+00:39:30,613 --> 00:39:32,112
+Wenn, dann ist sie tot,
+
+951
+00:39:32,113 --> 00:39:33,933
+also seien Sie ruhig.
+
+952
+00:39:39,378 --> 00:39:40,277
+Was ist das.
+
+953
+00:39:40,278 --> 00:39:43,428
+Risperidone verursacht auch Galaktorrhö.
+
+954
+00:39:45,178 --> 00:39:46,298
+Was ist das?
+
+955
+00:39:46,578 --> 00:39:48,078
+Galak-Galaktor?
+
+956
+00:39:48,578 --> 00:39:50,188
+Mach den Mund auf.
+
+957
+00:39:50,678 --> 00:39:52,412
+Entspann dich, du hattest es schon mal.
+
+958
+00:39:52,413 --> 00:39:53,883
+Ich werde nicht--
+
+959
+00:39:56,878 --> 00:39:58,678
+Milch? Ihh.
+
+960
+00:40:02,778 --> 00:40:06,577
+Wir werden den Tumor deiner Mutter
+rausschneiden und ihr Chemo geben.
+
+961
+00:40:06,578 --> 00:40:10,638
+Die restlichen Symptome
+sollten dann verschwinden.
+
+962
+00:40:15,778 --> 00:40:17,108
+Ich liebe dich.
+
+963
+00:40:19,778 --> 00:40:20,778
+Ich weiß.
+
+964
+00:40:30,578 --> 00:40:34,078
+Ich wünsche Ihnen
+noch ein schönes Leben.
+
+965
+00:42:32,879 --> 00:42:38,878
+~ Subbed by ~
+~ schnapsteufel, ZeroTollerance and schoker88 ~
+
+966
+00:42:39,779 --> 00:42:50,878
+~ Dr. House zuerst auf ~
+~ www.tv4user.de ~
+
+967
+00:42:50,879 --> 00:42:56,878
+~ board.tv4user.de ~
+~ Deine Seite für deutsche Untertitel ~
+
+968
+00:42:56,879 --> 00:43:02,878
+~ Hier gibt es die besten ~
+~ Subs für US-Hitserien. ~
+
+969
+00:43:02,879 --> 00:43:04,163
+Anpassung: charlie°
+www.tv4user.de

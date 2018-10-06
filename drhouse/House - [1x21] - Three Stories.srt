@@ -422,6 +422,8 @@ That's a very short list.
 Any history of bone cancer, osteogenesis
 imperfecta or multiple myeloma?
 
+#https://de.wikipedia.org/wiki/Osteogenesis_imperfecta
+
 93
 00:06:45,171 --> 00:06:47,071
 Could be a blood issue.
@@ -431,6 +433,10 @@ Could be a blood issue.
 We should run a C.B.C.
 and a D-Dimer.
 And get an M.R.I.
+
+#https://de.wikipedia.org/wiki/Blutbild C.B.C.
+#https://de.wikipedia.org/wiki/D-Dimer
+
 
 95
 00:06:50,743 --> 00:06:53,507
@@ -778,6 +784,8 @@ if we don't get him out of pain.
 00:11:26,185 --> 00:11:29,518
 - Give him 50 milligrams of Demerol.
 - We have no history. He could be allergic.
+
+#https://de.wikipedia.org/wiki/Pethidin Demerol
 
 166
 00:11:29,588 --> 00:11:32,352
@@ -1406,6 +1414,8 @@ and ionized calcium.
 00:20:29,928 --> 00:20:32,123
 And do a technetium sestamibi.
 
+#https://en.wikipedia.org/wiki/Technetium_(99mTc)_sestamibi
+
 295
 00:20:32,197 --> 00:20:35,860
 Okay, that's enough
@@ -1594,6 +1604,8 @@ What will happen to my dog?
 00:23:10,021 --> 00:23:12,489
 Her neck looks clean.
 No adenoma.
+
+#https://de.wikipedia.org/wiki/Adenom
 
 335
 00:23:12,557 --> 00:23:16,425
@@ -1816,6 +1828,8 @@ But at least you know it.
 382
 00:26:02,994 --> 00:26:05,554
 Blood tests show elevated creatine kinase.
+
+#https://de.wikipedia.org/wiki/Creatin-Kinase
 
 383
 00:26:05,630 --> 00:26:07,757
@@ -2162,6 +2176,8 @@ Yes. It caused muscle cell death.
 When those cells die,
 they release cytokines and potassium.
 
+#https://de.wikipedia.org/wiki/Zytokin
+
 456
 00:30:55,787 --> 00:30:58,813
 And if you restore the blood flow
@@ -2309,6 +2325,8 @@ Nurse? Nurse!
 00:34:46,684 --> 00:34:49,778
 The Q.R.S. is getting wider.
 My potassium is rising.
+
+#https://de.wikipedia.org/wiki/QRS-Komplex
 
 487
 00:34:49,854 --> 00:34:52,049
