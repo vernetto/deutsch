@@ -1,43 +1,48 @@
 S01E01
 
+Einlieferung=admission 00:06
+gewährleistet=guaranteed 00:06
 Schuldgeld=debt money 01:03
 unschlagbar=invincible 01:03
 betreten=enter 01:16
 aneignen=appropriate 01:16
+wegsterben=die off 01:58
 erwirken=obtain 02:02
-
-Auf geht's=here we go 02:34
-
-https://de.wikipedia.org/wiki/Arteria_carotis_communis Halsschlagader 02:55
-
+auf geht's=here we go 02:34
+https://de.wikipedia.org/wiki/Arteria_carotis_communis (#Anatomie Halsschlagader 02:55
+hinüber=across, over 02:55
+Trage=stretcher 03:00 
 winden=wreathe 03:17
 Bescheid sagen=give the word 03:34
-https://de.wikipedia.org/wiki/Etomidat 03:46
-https://de.wikipedia.org/wiki/Suxamethonium 03:47
-wiederbelebung=reanimation 03:57
-
+https://de.wikipedia.org/wiki/Etomidat (#Arzneistoff, general anaesthesia and sedation, 20 mg) 03:46
+https://de.wikipedia.org/wiki/Suxamethonium (#Arzneistoff, anaesthesia 100 mg) 03:47
+Wiederbelebung=reanimation 03:57
+https://de.wikipedia.org/wiki/Intubation 04:03
 zusammengeflickt=patched up 04:17
 ersetzen=replace 04:24
 das Herz macht schon schlapp=the heart is already limp 04:53
 unsere Anspruch liegt nicht sehr hoch=our claim is not very high 04:57
-
-https://de.wikipedia.org/wiki/Alprazolam Xanax 05:33
+vorgehensweise=method,procedure 05:25
+https://de.wikipedia.org/wiki/Alprazolam Xanax (#Arzneistoff, beruhigend und angstlösend) 05:33
 leichtsinnig=reckless 05:44
 Hyperraum=hyperspace 06:20
+infrage stellen=call into question 06:25
 Angsthasen=scared cat 06:55
+Zauderer=vacillator 06:55
+grob:rough 07:24
 Geländer=guardrail 07:55
-
 https://de.wikipedia.org/wiki/Emergency_Severity_Index ESI-1 08:40
-
-https://de.wikipedia.org/wiki/Gewebespezifischer_Plasminogenaktivator 09:00
+https://de.wikipedia.org/wiki/Gewebespezifischer_Plasminogenaktivator TPA issue-type plasminogen activator (Enzym) 09:00
 Arzt Geschwafel=doctor ramblings, gibberish 10:29
-
 Druckverband=compression bandage 11:03
-
 https://de.wikipedia.org/wiki/Noradrenalin Norepinephrin  11:04
-
+https://en.wikipedia.org/wiki/Spinal_shock 11:17
 https://de.wikipedia.org/wiki/Katheter Venenkatheter 11:23
 eingehender=detailed 11:42
-
+https://de.wikipedia.org/wiki/Glasgow_Coma_Scale 11:54
+verkraftet=klargekommen= managed 12:21
+https://de.wikipedia.org/wiki/Broca-Aphasie 12:50
 https://de.wikipedia.org/wiki/Schlaganfall 12:58
+das bleibt unter uns=that's between us 14:05
+aufschneiden=cut open 16:13
 
