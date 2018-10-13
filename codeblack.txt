@@ -91,5 +91,11 @@ Mannschaftsarzt=team doctor 09:23
 Spind=wardrobe 09:23
 ausscheiden=excrete 10:07
 abholbereit=ready for collection 10:22
-
+eingelassen=admit 12:12
+abführmittel=laxative 13:27
+hinsehen=look 13:47
+https://de.wikipedia.org/wiki/Isch%C3%A4mie 14:00
+Quetschung=bruise 14:13 
+sich übergeben=vomit 14:23
+https://de.wikipedia.org/wiki/Eierstock 14:39
 
