@@ -162,4 +162,30 @@ erstaunen=astonish 36:24
 entlassen=dismiss 37:09
 
 S01E04
+wehmütig=nostalgic 00:26
+Wundversorgung=	surgical dressing 00:52
+versengten=scorched 01:33
+https://de.wikipedia.org/wiki/Stimmlippe Stimmband 01:45
+Schätzung=estimate 02:58
+https://en.wikipedia.org/wiki/Parkland_formula 03:05
+https://de.wikipedia.org/wiki/Intraoss%C3%A4rer_Zugang 03:18
+https://www.tinovamed.ch/produkteshop/pi.php/EZ-IO-Intraossaer-Bohrer.html  IO-Bohrer 03:20
+angelangt=reached 03:50
+armselig=glücklos=miserable
+Entzug=withdrawal 06:00
+https://de.wikipedia.org/wiki/Faszikulation 06:22
+Abstellkammer=storeroom 07:00
+unpassend=inappropriate 07:28
+vorausgehen=precede 07:31
+berührung=contact,touch 08:50
+zulassung=license 08:54
+https://en.wikipedia.org/wiki/SAT SAT test 09:30
+stressig=stressful 09:40
+Verfassung=state 10:27
+überheblich=arrogant 11:16
+bloßstellen=expose 12:10
+Ausrede=excuse 14:38
+Brandermittler=fire investigator 14:45
+auffälligkeiten=abnormalities 15:31
+
 
