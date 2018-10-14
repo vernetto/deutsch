@@ -187,5 +187,17 @@ bloßstellen=expose 12:10
 Ausrede=excuse 14:38
 Brandermittler=fire investigator 14:45
 auffälligkeiten=abnormalities 15:31
+anständig=decent 15:58
+https://de.wikipedia.org/wiki/Naloxon 17:06
+https://de.wikipedia.org/wiki/Diazepam 17:42
+Windeln=diapers 18:17
+Unannehmlichkeiten=inconvenience 20:36
+https://de.wikipedia.org/wiki/Phenobarbital 21:22
+https://de.wikipedia.org/wiki/Benzodiazepine 21:22
+https://de.wikipedia.org/wiki/Ethanol 21:29
+gesättigt=saturated 21:37
+https://de.wikipedia.org/wiki/Chlordiazepoxid Librium 24:18
+verbocken=botch 25:02
+
 
 
