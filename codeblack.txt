@@ -250,5 +250,10 @@ aufreißer=ripper 00:52
 https://de.wikipedia.org/wiki/K%C3%A4lteidiotie 02:54
 verschoben=displaced 06:35
 bruch=fracture 06:35
+überfordert=overwhelmed 08:54
+halskrause=neck collar 09:00
+https://de.wikipedia.org/wiki/Halofixateur 09:11
+klebstoff=adhesive 12:09
+
 
 
