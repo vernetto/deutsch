@@ -256,4 +256,7 @@ https://de.wikipedia.org/wiki/Halofixateur 09:11
 klebstoff=adhesive 12:09
 
 
+S01E09
+verfehlen=to miss 01:31
+einrenken=put back in place 04:05
 
