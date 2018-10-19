@@ -262,4 +262,8 @@ einrenken=put back in place 04:05
 zugerichtet=injured 08:36
 https://de.wikipedia.org/wiki/Arteria_carotis_communis 18:20
 aussichtslose=desperate 20:35
+mazel tov=congratulations 20:48
+herumgeschleudert=thrown around 21:56
+gut erzogen=well educated 23:03
+allerdings=indeed 28:12
 
