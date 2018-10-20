@@ -251,7 +251,7 @@ https://de.wikipedia.org/wiki/K%C3%A4lteidiotie 02:54
 verschoben=displaced 06:35
 bruch=fracture 06:35
 überfordert=overwhelmed 08:54
-halskrause=neck collar 09:00
+Halskrause=neck collar 09:00
 https://de.wikipedia.org/wiki/Halofixateur 09:11
 klebstoff=adhesive 12:09
 
@@ -273,5 +273,17 @@ https://de.wikipedia.org/wiki/Petechie 32:30
 
 S01E10
 https://de.wikipedia.org/wiki/Chlorpromazin 00:51
+https://de.wikipedia.org/wiki/Lorazepam 02:23
+https://de.wikipedia.org/wiki/Benzodiazepine Benzos 03:28
+https://de.wikipedia.org/wiki/Propofol 03:31
+https://de.wikipedia.org/wiki/Tamponade 04:20
+https://de.wikipedia.org/wiki/Sympathomimetikum 05:53
+https://de.wikipedia.org/wiki/Anticholinergikum 05:55
+https://de.wikipedia.org/wiki/Phencyclidin Angel Dust 05:56
+Schmand=sour cream 06:17
+rasen=rush 07:02
+https://de.wikipedia.org/wiki/H%C3%A4matothorax Hämothorax 10:04
+https://de.wikipedia.org/wiki/BIPAP-Beatmung 17:21
+dennoch=yet 18:18
 
 
