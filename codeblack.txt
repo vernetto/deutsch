@@ -266,4 +266,12 @@ mazel tov=congratulations 20:48
 herumgeschleudert=thrown around 21:56
 gut erzogen=well educated 23:03
 allerdings=indeed 28:12
+umsonst=in vain 29:30
+https://de.wikipedia.org/wiki/Arteria_epigastrica_inferior 30:43
+https://de.wikipedia.org/wiki/Rektusscheide 30:43
+https://de.wikipedia.org/wiki/Petechie 32:30
+
+S01E10
+https://de.wikipedia.org/wiki/Chlorpromazin 00:51
+
 
