@@ -254,6 +254,11 @@ bruch=fracture 06:35
 Halskrause=neck collar 09:00
 https://de.wikipedia.org/wiki/Halofixateur 09:11
 klebstoff=adhesive 12:09
+vorgefallen=happened 13:40
+https://de.wikipedia.org/wiki/Tenofovir#Kombination_mit_Emtricitabin Truvada 15:34
+https://de.wikipedia.org/wiki/Trastuzumab Herceptin 18:36
+https://de.wikipedia.org/wiki/GM-CSF 18:36
+
 
 
 S01E09
