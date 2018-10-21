@@ -285,5 +285,10 @@ rasen=rush 07:02
 https://de.wikipedia.org/wiki/H%C3%A4matothorax Hämothorax 10:04
 https://de.wikipedia.org/wiki/BIPAP-Beatmung 17:21
 dennoch=yet 18:18
+https://de.wikipedia.org/wiki/Furosemid Lasix 29:26
+https://de.wikipedia.org/wiki/Hyperthyreose 29:38
+https://de.wikipedia.org/wiki/Vorhofflimmern 31:56
+Flimmern=jitter,flicker 08:47
+https://de.wikipedia.org/wiki/Supraventrikul%C3%A4re_Tachykardie 32:00
 
 
