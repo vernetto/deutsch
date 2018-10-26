@@ -70,6 +70,7 @@ Magenverstimmung=upset stomach 00:18
 gelangweilter=bored 05:51
 Storch=stork 11:27
 vordergründig=superficial 11:29
+https://de.wikipedia.org/wiki/Epstein-Barr-Virus 14:45
 
 
 
