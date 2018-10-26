@@ -71,6 +71,9 @@ gelangweilter=bored 05:51
 Storch=stork 11:27
 vordergründig=superficial 11:29
 https://de.wikipedia.org/wiki/Epstein-Barr-Virus 14:45
+https://de.wikipedia.org/wiki/Gicht 27:40
+https://de.wikipedia.org/wiki/Colchicin 27:44
+Linderung=relief 28:30
 
 
 
