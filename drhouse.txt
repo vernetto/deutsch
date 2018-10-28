@@ -185,9 +185,19 @@ Frostbeule=chilblain 14:38
 angebliche=supposed 15:35
 rammler=rabbit 15:42
 widerlegen=confute 18:38
+https://de.wikipedia.org/wiki/Tuberkulose 22:00
+https://de.wikipedia.org/wiki/Korsakow-Syndrom 30:00
+https://de.wikipedia.org/wiki/Tollwut 34:55
 
 
 S01E11
+
+erblich bedingt=hereditary 03:55
+https://de.wikipedia.org/wiki/Cefuroxim 05:00
+https://de.wikipedia.org/wiki/Leishmaniose 31:49
+https://de.wikipedia.org/wiki/Nervus_ulnaris Ellennerv 35:19
+schlamassel=mess 35:43
+versöhnen=reconcile 37:40
 
 
 S01E12
