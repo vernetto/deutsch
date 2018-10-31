@@ -322,5 +322,10 @@ revisionsverhandlung=revision negotiation 39:48
 
 S02E02
 
+Ingwer=ginger 04:40
+https://de.wikipedia.org/wiki/Pulsoxymetrie 04:50
+https://de.wikipedia.org/wiki/Oxymetazolin Nasivin = Oxymetazolin 05:47
+Reißverschluss=zip 06:19
+Beweisführung=evidence 11:46
 
 
