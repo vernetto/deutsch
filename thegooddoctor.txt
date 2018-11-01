@@ -1168,5 +1168,6 @@ ausnutzen=take advantage of 26:45
 ungerecht=unfair 28:00
 pflegeleicht=easy care 31:09
 verwerflich=reprehensible 31:23
+ein fieser Sack=a nasty guy 32:13
 
 
