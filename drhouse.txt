@@ -362,8 +362,10 @@ keine Ursache=never mind 36:35
 anfällig=prone 36:55
 haufenweise=heaps 38:21
 
-
 S02E04
+
+S02E05
+https://de.wikipedia.org/wiki/Miller-Fisher-Syndrom 10:00
 
 
 

@@ -1169,5 +1169,14 @@ ungerecht=unfair 28:00
 pflegeleicht=easy care 31:09
 verwerflich=reprehensible 31:23
 ein fieser Sack=a nasty guy 32:13
+Beweihräucherung=adulation 40:37
+Schulterklopfen=pat on the shoulder 40:38
+
+S02E05
+Kurzschluss=short circuit 01:56
+Benommenheit=dizzyness 02:51
+parieren=deflect 03:40
+https://de.wikipedia.org/wiki/Cobalamine B12 03:49
+https://de.wikipedia.org/wiki/Neurofibromatose_Typ_2 NF2 08:14
 
 
