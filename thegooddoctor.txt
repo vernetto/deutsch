@@ -1153,9 +1153,10 @@ Hepatic Artery 31:15
 Celiac 31:23
 Gastroduodenal surgery Rupture  36:14
 
+S02E03
 
 
-S02E05
+S02E04
 https://de.wikipedia.org/wiki/Morbus_Crohn (Darmerkrankungen )
 OCD Obsessive-compulsive disorder 19:00
 Einrichtung=facilities 07:15
@@ -1165,5 +1166,7 @@ gemeinsamkeiten=similarities 23:18
 schminken sich=put on make up 24:16
 ausnutzen=take advantage of 26:45
 ungerecht=unfair 28:00
+pflegeleicht=easy care 31:09
+verwerflich=reprehensible 31:23
 
 
