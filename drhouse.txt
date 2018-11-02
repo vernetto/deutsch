@@ -400,6 +400,11 @@ bissig=bitchy 22:24
 Frust=frustration 22:25
 Krüppel=cripple 22:36
 abführmittel=laxative 23:20
+https://de.wikipedia.org/wiki/Erworbene_isolierte_aplastische_An%C3%A4mie Erythroblastopenie PRCA 25:51
+geschwindelt=cheated 27:42
+zuständig=responsible 28:19
+voranbringen=advance 29:00
+https://de.wikipedia.org/wiki/Prednison 30:13
 
 
 
