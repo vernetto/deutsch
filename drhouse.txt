@@ -451,4 +451,18 @@ Spargel=asparagus 18:17
 https://de.wikipedia.org/wiki/Non-Hodgkin-Lymphom 20:12
 https://de.wikipedia.org/wiki/Kveim-Test 20:24
 Papierkram=paperwork 20:31
+zurechtrücken=straighten 22:02
+https://de.wikipedia.org/wiki/Cyanwasserstoff Hydrogencyanid 24:21
+https://de.wikipedia.org/wiki/Formaldehyd 24:21
+qualmt=smokes 24:31
+https://de.wikipedia.org/wiki/Akute_intermittierende_Porphyrie AIP 24:35
+Lüftungsschacht=ventilation shaft 24:39
+meinetwegen=because of me 25:18
+zunehmend=increasing 27:51
+übertragen=transfer 28:53
+erbost=infuriated 28:56
+
+
+S02E08
+doof=stupid 00:43
 
