@@ -468,4 +468,5 @@ doof=stupid 00:43
 Nicht im entferntesten=not remotely 02:54
 Anhörung=hearing 03:48
 Verlegung=postponment 04:05
+https://de.wikipedia.org/wiki/Takayasu-Arteriitis 05:40
 
