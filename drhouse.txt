@@ -405,6 +405,32 @@ geschwindelt=cheated 27:42
 zuständig=responsible 28:19
 voranbringen=advance 29:00
 https://de.wikipedia.org/wiki/Prednison 30:13
+https://de.wikipedia.org/wiki/Thymom 32:42
+https://de.wikipedia.org/wiki/Tensilontest Tensilon 35:20
+https://de.wikipedia.org/wiki/Myasthenia_gravis 35:20
+auskotzen=throw up 35:50
+gemogelt=cheated 37:49
+in jemanden verknallt=to be infatuated with someone 38:02
+
+S02E07
+als verübelte er mir=as he resented me 00:23
+zwanghaft=compulsively 00:29
+Kosename=pet name 00:38
+abgenommen=reduce weight 01:45
+KS-flecken https://de.wikipedia.org/wiki/Kaposi-Sarkom 01:49
+angefasst=touched 03:11
+umringt=surrounded 03:36
+Kammerjäger=exterminator 04:39
+jammern=whine 05:01
+abgefahren=worn 05:08
+öde=desolate 05:08
+https://de.wikipedia.org/wiki/Pneumocystis_jirovecii PCP Pneumocystis Pneumonie 05:13
+https://de.wikipedia.org/wiki/Komplementsystem Membrane Attack Complex MAC Membranangriffskomplex 05:24
+https://de.wikipedia.org/wiki/Humanes_Cytomegalievirus Cytomegalievirus CMV 05:24
+https://de.wikipedia.org/wiki/Herpes-simplex-Viren HSV 05:24
+
+
+https://de.wikipedia.org/wiki/Warfarin Coumadin 06:42
 
 
 
