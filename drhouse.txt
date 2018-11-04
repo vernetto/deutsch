@@ -489,6 +489,11 @@ https://de.wikipedia.org/wiki/Aszites 19:25
 haftbar=liable 20:30
 unterliegen=be subject to 22:39
 abstottern=to pay 23:29
+Hosenschlitz=zip of trousers 23:57
+Wasserlassen=urination 27:00
+https://de.wikipedia.org/wiki/Aspartat-Aminotransferase AST 27:20
+https://de.wikipedia.org/wiki/De-Ritis-Quotient AST/ALT ratio 27:20
+abgestoßen=rejected 27:20
 
 
 
