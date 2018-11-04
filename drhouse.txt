@@ -496,6 +496,8 @@ https://de.wikipedia.org/wiki/De-Ritis-Quotient AST/ALT ratio 27:20
 abgestoßen=rejected 27:20
 https://de.wikipedia.org/wiki/Interferone 27:57
 https://de.wikipedia.org/wiki/Leberkrebs Hepatom 28:56
+Fehlverhalten=wrongdoing 29:58
+Fahrlässigkeit=negligence 29:58
 
 
 
