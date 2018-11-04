@@ -498,6 +498,15 @@ https://de.wikipedia.org/wiki/Interferone 27:57
 https://de.wikipedia.org/wiki/Leberkrebs Hepatom 28:56
 Fehlverhalten=wrongdoing 29:58
 Fahrlässigkeit=negligence 29:58
+vorgelogen=lied 30:19
+zugaben=admit 30:23
+anhängen=blame 31:18
+verkatert=hung-over 34:48
+durchzechen=carouse (party) without stop 34:48
 
+S02E09
+https://de.wikipedia.org/wiki/Teleangiektasie 04:08
+https://de.wikipedia.org/wiki/Cushing-Syndrom 04:09
+womit=by which 04:14
 
 
