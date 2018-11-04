@@ -486,6 +486,9 @@ https://de.wikipedia.org/wiki/Idiopathische_Lungenfibrose IPF 17:04
 https://de.wikipedia.org/wiki/Idiopathie 17:04
 gemeint=thought 18:20
 https://de.wikipedia.org/wiki/Aszites 19:25
+haftbar=liable 20:30
+unterliegen=be subject to 22:39
+abstottern=to pay 23:29
 
 
 
