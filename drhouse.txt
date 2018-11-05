@@ -563,4 +563,9 @@ ausser Gefecht=out of action 19:09
 https://de.wikipedia.org/wiki/Sumatriptan 19:09
 https://de.wikipedia.org/wiki/Verapamil 19:09
 verstopft=blocked, congested 19:57
+rangierbahnhof=railway yard 20:36
+
+S02E13
+https://de.wikipedia.org/wiki/Couvade-Syndrom 12:58
+
 
