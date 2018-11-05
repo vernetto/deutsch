@@ -550,3 +550,7 @@ vertuschen=camouflage 33:36
 Klobrille=toilet seat 33:24
 beruhigend=reassuring 36:35
 
+S02E12
+https://de.wikipedia.org/wiki/Willem_Einthoven 04:12
+Vorlesung=lecture 04:34
+
