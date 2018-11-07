@@ -621,8 +621,28 @@ Plappermaul=chatterbox 21:15
 entzückend=charming 21:53
 verzichten=relinquish 21:52
 Demut=humility 22:20
+durchschaut=comprehend, see through 23:50
+zerquetschen=crush 32:59
+Zuschauer=spectator 35:41
+übertragen=transfer 35:52
+https://de.wikipedia.org/wiki/Herpes-simplex-Enzephalitis 36:24
+Zieh dich aus=undress yourself 38:11
+https://de.wikipedia.org/wiki/Aciclovir 38:26
+ermutigend=encouraging 39:14
+Alles gute=all the best 39:30
+geschafft=made 41:30
 
-
-
+S02E20
+beschwerden=discomfort 06:20
+Müllhalde=dump 07:52
+Revier=district 08:05
+ausgerottet=eradicated 08:06
+https://de.wikipedia.org/wiki/H%C3%A4moglobin#Konkurrenz_zwischen_Sauerstoff_und_Kohlenstoffmonoxid COHB 08:17 
+Lungenverschattung= pulmonary shadowing 08:17
+https://de.wikipedia.org/wiki/Legionellose 08:26
+Rasselgeräusche=rattling noise 08:56
+gestoßen=pushed 10:13
+hohlspitz=hollow pointed 11:14
+Heuchelei=hypocrisy 12:02
 
 
