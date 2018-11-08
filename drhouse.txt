@@ -644,5 +644,10 @@ Rasselgeräusche=rattling noise 08:56
 gestoßen=pushed 10:13
 hohlspitz=hollow pointed 11:14
 Heuchelei=hypocrisy 12:02
+unerlässlich=imperative 12:54
+Abgleich=adjustment 14:13
+https://de.wikipedia.org/wiki/Thrombose TVT 16:37
+angeschissen=buggered 17:01
+Scherzkeks=Joker 17:58
 
 
