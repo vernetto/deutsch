@@ -720,5 +720,8 @@ puzzeln=puzzle 36:13
 
 S03E02
 https://de.wikipedia.org/wiki/Windpocken 07:08
+gezwickt=pinched 09:50
+schludern=work sloppily 10:30
+Zeiger=pointer 10:58
 
 
