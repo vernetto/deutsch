@@ -766,6 +766,17 @@ https://de.wikipedia.org/wiki/Salmonellen 08:40
 spind=locker 11:09
 voraussetzung=requirement,condition 11:19
 minderwertig=inferior 12:01
-
+Schamteilen=genitalia 13:53
+Tupferabstrich=swab smear
+peinlich=embarassing 14:42
+verkohlen=char 16:06
+https://de.wikipedia.org/wiki/Sarkoidose 20:00
+Dampfwalze=steamroller 23:01
+https://de.wikipedia.org/wiki/Methotrexat 23:29
+trüben=dull 24:31
+Durchblick=view 24:32
+Cold Turkey=removal of drug 24:35
+Ich habe Schiss=I am scared 25:18
+Versteck=hide 25:24
 
 
