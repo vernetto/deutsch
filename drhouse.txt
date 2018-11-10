@@ -765,6 +765,7 @@ versaut=mess up 06:57
 https://de.wikipedia.org/wiki/Salmonellen 08:40
 spind=locker 11:09
 voraussetzung=requirement,condition 11:19
+minderwertig=inferior 12:01
 
 
 
