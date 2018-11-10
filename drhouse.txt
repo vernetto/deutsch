@@ -778,5 +778,7 @@ Durchblick=view 24:32
 Cold Turkey=removal of drug 24:35
 Ich habe Schiss=I am scared 25:18
 Versteck=hide 25:24
+aufs Maul hauen=slap on the mouth 27:36
+Rüpel=ruffian 27:44
 
 
