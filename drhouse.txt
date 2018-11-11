@@ -793,4 +793,5 @@ Schimmel=mold 05:10
 https://de.wikipedia.org/wiki/Lafora-Krankheit 05:21
 https://de.wikipedia.org/wiki/Levodopa L-Dopa 07:10
 https://de.wikipedia.org/wiki/Quecksilbervergiftung 20:50
+FahrerfluchtUnfall=Hit and run accident 26:02
 
