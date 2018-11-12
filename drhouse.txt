@@ -833,3 +833,10 @@ https://de.wikipedia.org/wiki/Epiphysenfuge wachstumsfugen=epiphyseal plate 32:0
 Fuge=gap 32:05
 Tugend=virtue 32:22
 
+S03E11
+https://de.wikipedia.org/wiki/Staphylococcus_aureus#Multiresistenz MRSA 08:23
+
+S03E12
+eidbrecher=oathbreaker 00:35
+kakerlake=cockroach 04:34
+Anschluss=connection 05:32
