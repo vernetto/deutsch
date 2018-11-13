@@ -840,3 +840,23 @@ S03E12
 eidbrecher=oathbreaker 00:35
 kakerlake=cockroach 04:34
 Anschluss=connection 05:32
+Meineid=perjury 07:15
+Schluckauf=hiccup 16:02
+auf Anweisung=on instruction 18:53
+schlupfloch=loophole 34:26
+
+S03E13
+knackig=sexy 03:46
+https://de.wikipedia.org/wiki/Effusion_(Physik) 07:22
+https://de.wikipedia.org/wiki/Mondbein Lunatum 13:35
+https://de.wikipedia.org/wiki/Hakenbein Hamatum 13:35
+https://de.wikipedia.org/wiki/Erbsenbein 13:39
+https://de.wikipedia.org/wiki/Handknochen 13:39
+Ein Kahn, der fährt im Mondenschein: im Dreieck um das Erbsenbein 13:39
+https://de.wikipedia.org/wiki/Granulomatose_mit_Polyangiitis 17:36
+https://de.wikipedia.org/wiki/Cyclophosphamid 18:57
+anrichtet=wreaks 18:59
+Vorzüge=merit 21:08
+
+
+
