@@ -952,5 +952,10 @@ angeheitert=tipsy 05:56
 https://de.wikipedia.org/wiki/Scopolamin 08:43
 https://de.wikipedia.org/wiki/Meningokokken 10:06
 https://de.wikipedia.org/wiki/Dimenhydrinat Dramamin 14:05
+https://de.wikipedia.org/wiki/Ciguatera 14:31
+zerkauen=chew up 16:25
+https://de.wikipedia.org/wiki/Ataxie 16:58
+https://de.wikipedia.org/wiki/Masel_tov Masseltoff 20:43
+straff=tight,firm 21:45
 
 
