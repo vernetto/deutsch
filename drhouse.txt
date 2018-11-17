@@ -1005,8 +1005,6 @@ https://en.wikipedia.org/wiki/Schistocyte 27:44
 duselig=drowsy 33:18
 geätzt (ätzen)=etch,corrode 35:23
 
-
-
 S03E23
 Schwuchtel=gay 05:46
 https://de.wikipedia.org/wiki/Cluster-Kopfschmerz 12:11
@@ -1021,3 +1019,16 @@ S03E24
 Fehlleistung=blunder
 wiederum=in turn 33:04
 https://de.wikipedia.org/wiki/Ostium 34:38
+Betroffenheit=consternation 38:36
+
+S04E01
+Angeber=show-off 06:22
+Schwall=surge,flood 09:12
+Vorgehen=procedure 10:24
+unverzeihlich=unforgivable 10:24
+verlangen=desire 13:06
+https://de.wikipedia.org/wiki/Monoaminooxidase-Hemmer MAO-hemmer 13:53
+nachdackeln=follow 21:44
+Winseln=whine 23:56
+
+
