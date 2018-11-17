@@ -22,7 +22,7 @@ anzeigen=report 20:28
 Anstiftung=incitement 20:28
 https://de.wikipedia.org/wiki/Hydrocodon Vicodin 26:40 
 Verwandte=relatives 29:13
-https://de.wikipedia.org/wiki/Blutsenkungsreaktion  sed rate
+https://de.wikipedia.org/wiki/Blutsenkungsreaktion sed rate
 https://en.wikipedia.org/wiki/Neurocysticercosis 29:49
 https://de.wikipedia.org/wiki/Eosinophiler_Granulozyt 31:29
 den Arsch abwischen=wipe off 34:10
@@ -126,7 +126,7 @@ S01E08
 
 https://de.wikipedia.org/wiki/Bakterienruhr Shigellose 03:54
 Papierkram=paperwork 10:45
-https://de.wikipedia.org/wiki/Phosphors%C3%A4ureester Organophosphate  11:40
+https://de.wikipedia.org/wiki/Phosphors%C3%A4ureester Organophosphate 11:40
 Klapse=nuthouse 14:48
 https://de.wikipedia.org/wiki/Disulfoton 15:20
 den Löffel abgeben=die 17:38
@@ -378,7 +378,7 @@ Grundgute=good reason 38:10
 
 
 S02E06
-https://de.wikipedia.org/wiki/Erythropoetin  EPO 04:24
+https://de.wikipedia.org/wiki/Erythropoetin EPO 04:24
 anrühren=touch 04:31
 vorausgesetzt=implied, provided 04:46
 regelwidrig=against the rules 05:29
@@ -664,7 +664,7 @@ Schleuse=lock 24:33
 annehmen=accept 32:18
 verwehren=deny 33:40
 rotzig=glotty 34:10
-SpO2  peripheral capillary oxygen saturation 35:30
+SpO2 peripheral capillary oxygen saturation 35:30
 https://de.wikipedia.org/wiki/Naegleria_fowleri 38:00
 https://de.wikipedia.org/wiki/Meningitis Primäre Amöben-Meningoenzephalitis 38:27
 
@@ -900,7 +900,7 @@ na und=so what? 30:22
 prügeln=beat,flog 33:24
 überlegung=consideration 33:31
 Musterschülerin=model student 33:33
-https://de.wikipedia.org/wiki/Cobalamine  B12 34:16
+https://de.wikipedia.org/wiki/Cobalamine B12 34:16
 https://de.wikipedia.org/wiki/Distickstoffmonoxid Lachgas 35:25
 mir was an dir liegt=I care about you 39:07
 
@@ -983,8 +983,41 @@ S03E21
 
 
 S03E22
+befördert=promoted 03:30
+Spind=locker 04:27
+rausekeln=freeze out 05:08
+züchten=breede 06:17
+https://de.wikipedia.org/wiki/Tamoxifen 06:40
+gekontert=countered 06:58
+https://de.wikipedia.org/wiki/G%C3%A4hnen Pandikulation 08:16
+Reizung=irritation 08:19
+Geschwätz=gossip 08:50
+https://de.wikipedia.org/wiki/Komplementsystem Faktor H 12:18
+gewieft=crafty 13:06
+geläutet=ringed 15:02
+https://de.wikipedia.org/wiki/Gelber_Fleck_(Auge) Makula 16:47
+aufgeplatzte=busted 19:00
+Lakritz=liquorice 21:50
+Kalkablagerung=calcifications 23:23
+aufmunternd=encouragingly 23:59
+https://de.wikipedia.org/wiki/H%C3%A4molytisch-ur%C3%A4misches_Syndrom 27:40
+https://en.wikipedia.org/wiki/Schistocyte 27:44
+duselig=drowsy 33:18
+geätzt (ätzen)=etch,corrode 35:23
 
 
 
+S03E23
+Schwuchtel=gay 05:46
+https://de.wikipedia.org/wiki/Cluster-Kopfschmerz 12:11
+https://de.wikipedia.org/wiki/Von-Gierke-Krankheit 26:34
+https://de.wikipedia.org/wiki/Hypoxanthin-Guanin-Phosphoribosyltransferase HPRT 26:54
+https://de.wikipedia.org/wiki/Kelley-Seegmiller-Syndrom 26:54
+Sticheleien=teasing 27:40
+https://de.wikipedia.org/wiki/H%C3%A4mochromatose 38:38
+https://de.wikipedia.org/wiki/Aderlass 39:34
 
-
+S03E24
+Fehlleistung=blunder
+wiederum=in turn 33:04
+https://de.wikipedia.org/wiki/Ostium 34:38
