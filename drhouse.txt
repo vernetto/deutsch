@@ -1032,5 +1032,6 @@ nachdackeln=follow 21:44
 Winseln=whine 23:56
 Erfolg=success 26:07
 Schrotflinte=shotgun 27:11
+Beihilfe=subsidy 27:15
 
 
