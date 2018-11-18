@@ -1039,5 +1039,24 @@ abgetrieben=aborted 28:13
 https://de.wikipedia.org/wiki/Tamoxifen 28:36
 bedenklich=questionable 29:33
 https://de.wikipedia.org/wiki/Acute_Respiratory_Distress_Syndrome ARDS 31:31
+Nickerchen=nap 35:09
+sie haben sich begnügt=you were content 39:48
 
+
+S04E02
+bloßstellen=expose  18:08
+https://en.wikipedia.org/wiki/Von_Hippel%E2%80%93Lindau_disease 36:51
+Frust abarbeiten=Work off frustration 40:13
+
+S04E03
+Anbrüllen=yell at 08:30
+
+S04E04
+Frauentratsch=women gossip 03:38
+Vorrang=priority 09:55
+verlangt=expects 10:42
+hab mich verfranzt=I lost my bearings 11:29
+brecheisen=crowbar 12:23
+knöchel=ankle 12:49
+Roggenbrot=rye bread 34:48
 
