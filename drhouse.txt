@@ -1060,4 +1060,13 @@ brecheisen=crowbar 12:23
 knöchel=ankle 12:49
 Roggenbrot=rye bread 34:48
 du bist so lieb=you're so adorable 36:21
+halsband=collar 38:26
+gefälligkeit=kindness 41:20
+
+S04E05
+Kohle=coal,money 01:00
+https://en.wikipedia.org/wiki/Methacholine 03:44
+verschaukeln=take for a ride 09:15
+verschlammt=silts 10:58
+zwanghaft=compulsivey 11:09
 
