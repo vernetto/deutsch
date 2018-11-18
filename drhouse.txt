@@ -1059,4 +1059,5 @@ hab mich verfranzt=I lost my bearings 11:29
 brecheisen=crowbar 12:23
 knöchel=ankle 12:49
 Roggenbrot=rye bread 34:48
+du bist so lieb=you're so adorable 36:21
 
