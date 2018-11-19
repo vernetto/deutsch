@@ -1131,3 +1131,13 @@ bademoden=swimwear 06:32
 tussis=boy 06:32
 https://de.wikipedia.org/wiki/Acanthosis_nigricans 07:33
 veranlasst=arranged 09:31
+benehmen schräg=behave diagonally 09:47
+hopsgehen=to go belly up 11:07
+Aussehen=to look 11:07
+angestarrt=to be gaped at 12:25
+kracher=cracker 13:16
+https://de.wikipedia.org/wiki/Mallory-Weiss-Syndrom 13:18
+https://de.wikipedia.org/wiki/Teerstuhl Meläna 13:18
+https://de.wikipedia.org/wiki/Juvenile_idiopathische_Arthritis JRA 20:45
+Krümmung=curvature 24:08
+
