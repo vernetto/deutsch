@@ -1155,6 +1155,8 @@ Machwerk=sorry effort 41:05
 
 S04E08
 verschonen=spare 07:22
-https://de.wikipedia.org/wiki/Echokardiografie#TTE TTE 07:40
-https://de.wikipedia.org/wiki/Echokardiografie#TEE TEE 07:40
- 
+https://de.wikipedia.org/wiki/Echokardiografie#TTE TTE Transthorakalen Echokardiografie 07:40
+https://de.wikipedia.org/wiki/Echokardiografie#TEE TEE Transösophageale Echokardiografie 07:40
+zerfetzt=lacerated 11:17
+auf der Kippe steht=is on the verge 12:15
+verlassene=derelict 12:30
