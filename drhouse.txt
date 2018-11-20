@@ -1174,3 +1174,9 @@ S04E09
 erbittet=requests 03:37
 erpressen=blackmail 07:41
 verhören=examine 22:14
+zeitlos=timeless,classic 29:20
+beheben=remedy 32:25
+
+S04E10
+https://de.wikipedia.org/wiki/Phenol Karbolsäure 05:47
+
