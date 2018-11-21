@@ -1206,5 +1206,12 @@ Brauchtum=tradition 02:26
 https://de.wikipedia.org/wiki/BRCA1 ???
 
 S04E13
+verwerflich=reprehensible 10:22
+garstig=ugly 25:35
+https://de.wikipedia.org/wiki/Atriumseptumdefekt#Persistierendes_Foramen_ovale PFO 32:08
+PennälerStreich=schoolboy prank 33:37
+
+
+
 
 
