@@ -1236,5 +1236,15 @@ unterstehen=be subject to 39:19
 sprudelt=bubbles 40:36
 gefakt=faked 40:55
 
+S04E15
+überfallen=raid 01:55
+berechtig=entitled 10:21
+humpeln=limp 15:17
+https://de.wikipedia.org/wiki/Physostigmin 20:06
+https://de.wikipedia.org/wiki/Levodopa 24:08
+Abwischen=wipe off 26:28
+giemen=wheezing 27:00
+schrotflinte=shotgun 29:16
+schoss=lap 29:16
 
 
