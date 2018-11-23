@@ -1254,4 +1254,5 @@ schäbig=shabby,mean 27:45
 
 S05E02
 justierbar=adjustable 20:28
+verdeutlichen=clarify 39:18
 
