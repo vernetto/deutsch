@@ -1256,3 +1256,18 @@ S05E02
 justierbar=adjustable 20:28
 verdeutlichen=clarify 39:18
 
+S05E03
+Stelzen=stalk 03:29
+https://de.wikipedia.org/wiki/Agnosie 04:03
+https://de.wikipedia.org/wiki/Neurolues Neurosyphilis 04:44
+gekrochen=crawl 05:02
+Tratschen=gossip 05:34
+Pförtner=usher 06:48
+unbedenklich=harmless 09:26
+abhebungen=withdrawal 10:26
+verballern=squander 10:53
+Wohlfahrtsstaat=welfare state 11:40
+abstoßend=repulsive 18:49
+durchwühlen=ransack 18:49
+
+
