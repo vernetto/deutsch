@@ -1269,5 +1269,10 @@ verballern=squander 10:53
 Wohlfahrtsstaat=welfare state 11:40
 abstoßend=repulsive 18:49
 durchwühlen=ransack 18:49
+durchleuchten=shine through 19:40
+
+
+S05E04
+Verfehlung=misconduct 23:54
 
 
