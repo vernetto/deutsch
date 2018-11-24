@@ -1286,4 +1286,12 @@ Schaukel=swing 10:00
 abgeschleppt=towed 13:28
 gescheit=clever 21:25
 Zerstreuung=distraction 21:49
+schielt=peers,squints 24:57
+Zuhälter=pimp 25:13
+Weib=woman 26:06
+Herausforderung=challenge 26:07
+https://de.wikipedia.org/wiki/Lymphangioleiomyomatose LAM 26:29
+https://de.wikipedia.org/wiki/Paroxysmale_n%C3%A4chtliche_H%C3%A4moglobinurie PNH 30:20
+https://de.wikipedia.org/wiki/Sj%C3%B6gren-Syndrom 37:47
+
 
