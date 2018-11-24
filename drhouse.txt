@@ -1299,5 +1299,9 @@ beschiss=scam 06:24
 verkorkst=screwed up
 auffällig=showy, conspicuous 08:57
 Eingemachte gehen=go home 12:25
+https://de.wikipedia.org/wiki/Placenta_praevia 21:24
+Koks=cocaine 24:10
+https://de.wikipedia.org/wiki/Anhedonie 33:12
+schadenfreude=malicious joy 39:29
 
 
