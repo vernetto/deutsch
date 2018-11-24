@@ -1274,5 +1274,16 @@ durchleuchten=shine through 19:40
 
 S05E04
 Verfehlung=misconduct 23:54
+berufung=vocation 30:44
+https://de.wikipedia.org/wiki/Myxom 34:14
+körnig=grainy 34:20
+mach doch Laune=make fun of it 36:35
 
+S05E05
+ich sehe dabei zu=I watch it 05:07
+Stöhnens=moans 05:23
+Schaukel=swing 10:00
+abgeschleppt=towed 13:28
+gescheit=clever 21:25
+Zerstreuung=distraction 21:49
 
