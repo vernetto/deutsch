@@ -1312,4 +1312,6 @@ Kuppler=pimp 23:57
 https://de.wikipedia.org/wiki/Posttraumatische_Belastungsst%C3%B6rung PTBS (PTSD) 25:42
 Beichte=confessions 27:57
 nachlaufen=go after 35:12
+hohlspitzgeschosse=hollow-pointed bullet 37:10
+https://de.wikipedia.org/wiki/Chelat-Therapie 37:26
 
