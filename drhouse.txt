@@ -1309,5 +1309,7 @@ Rausschmeißer=bouncer 08:48
 in erwägung ziehen=contemplate 13:51
 https://de.wikipedia.org/wiki/Morbus_Whipple 23:20
 Kuppler=pimp 23:57
+https://de.wikipedia.org/wiki/Posttraumatische_Belastungsst%C3%B6rung PTBS (PTSD) 25:42
+Beichte=confessions 27:57
 
 
