@@ -1321,7 +1321,24 @@ https://de.wikipedia.org/wiki/Neisseria_gonorrhoeae Gonokocken 17:17
 ungeschehen=undone 20:30
 
 S05E09
+auffassung=view 23:15
+https://de.wikipedia.org/wiki/Loa_loa 34:30
+wegweisend=pioneering 45:43
+rückendeckung=backing 46:00
 
+S05E10
+https://de.wikipedia.org/wiki/Sprunggelenkfraktur 02:22
+dämlich=stupid 11:58
+https://de.wikipedia.org/wiki/D%C3%BCnndarmfehlbesiedlung SIBO 12:18
+ausgeschlossen=out of the question 28:23
+ausbremsen=slow down 28:47
+https://de.wikipedia.org/wiki/Transmissible_spongiforme_Enzephalopathie 32:20
+https://de.wikipedia.org/wiki/Heredit%C3%A4re_Koproporphyrie 34:48
+verpetzen=tell on 39:20
 
-
+S05E11
+https://de.wikipedia.org/wiki/Morbus_Wilson 03:02
+https://de.wikipedia.org/wiki/Caeruloplasmin 03:02
+streberin=nerd 03:52
+rasselgeräusche=rattling noise 09:52
 
