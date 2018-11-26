@@ -1367,3 +1367,11 @@ https://de.wikipedia.org/wiki/Angioplastie 16:17
 verschütten=spill 19:20
 umgelegt=changed 19:38
 Lockmittel=lure 20:59
+abgeheilt=healed 29:13
+Windel=diaper 30:18
+https://de.wikipedia.org/wiki/Naloxon 31:08
+unterbinden=prevent 31:27
+bald überstanden=soon over 32:02
+auf Verdacht=on suspicion 32:12
+
+
