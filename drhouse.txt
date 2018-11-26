@@ -1341,4 +1341,10 @@ https://de.wikipedia.org/wiki/Morbus_Wilson 03:02
 https://de.wikipedia.org/wiki/Caeruloplasmin 03:02
 streberin=nerd 03:52
 rasselgeräusche=rattling noise 09:52
+schnüffelt=sniffs 10:36
+https://de.wikipedia.org/wiki/Granulozyt PMN=polymorphonuclear cell 10:45
+suppenküche=soup kitchen 11:25
+duftend=fragrant 11:38
+bestanden=passed 12:30
+vollsülzen=serenade 12:40
 
