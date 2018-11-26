@@ -1373,5 +1373,21 @@ https://de.wikipedia.org/wiki/Naloxon 31:08
 unterbinden=prevent 31:27
 bald überstanden=soon over 32:02
 auf Verdacht=on suspicion 32:12
+Neuverschaltung=reconnection 36:43
+undicht=leaky 39:34
 
+S05E13
+https://de.wikipedia.org/wiki/Ulcus Ulkus 04:03
+aufstoßen=burp 07:35
+voreilig=premature 08:26
+beeinträchtigen=impair 11:08
+ungelegen=inopportune 14:16
+https://de.wikipedia.org/wiki/Endosonografie 26:44
+https://de.wikipedia.org/wiki/Pferdeenzephalomyelitis 27:06
+überstehen=survive 29:50
+laufnase=running nose 30:38
+gereiztheit=irritability 35:50
+fratz=spoiled brat 39:05
 
+S05E14
+du sabberst=you drool 02:02
