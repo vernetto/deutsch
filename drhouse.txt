@@ -1347,4 +1347,12 @@ suppenküche=soup kitchen 11:25
 duftend=fragrant 11:38
 bestanden=passed 12:30
 vollsülzen=serenade 12:40
+ausgezehrt=cadaverous 14:57
+https://de.wikipedia.org/wiki/Leberzirrhose Leberfibrose 17:37
+hinz und kunz=jedermann 17:41
+beschert (bescheren)=bring,bestow 17:43
+pummelchen=big boy 17:46
+https://de.wikipedia.org/wiki/Allergietest#Pricktest 18:21
+https://de.wikipedia.org/wiki/Antimykotikum 18:22
+in die Brüche gehen=to break down 23:27
 
