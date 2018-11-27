@@ -1246,6 +1246,11 @@ Abwischen=wipe off 26:28
 giemen=wheezing 27:00
 schrotflinte=shotgun 29:16
 schoss=lap 29:16
+fehlgedeutet=misinterpreted 31:57
+
+S04E16
+Rotz=mucus 16:00
+https://de.wikipedia.org/wiki/Amantadin 28:54
 
 
 S05E01
