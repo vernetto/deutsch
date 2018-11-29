@@ -1440,4 +1440,12 @@ sandpapier=sandpaper 06:00
 umschiffen=circumnavigate 06:08
 Wallung=flush 07:40
 meine Schlüsse ziehen=draw my conclusions 12:41
+Antrag=proposition 24:00
+https://de.wikipedia.org/wiki/Pseudomonas 25:57
+verstoßen=contravene 35:40
+https://de.wikipedia.org/wiki/Sporotrichose 36:15
+
+S05E22
+https://de.wikipedia.org/wiki/Subclavian-Steal-Syndrom 06:44
+https://de.wikipedia.org/wiki/Neuropathie 09:22
 
