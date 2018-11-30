@@ -1458,5 +1458,8 @@ Hebung=elevation 01:00
 https://de.wikipedia.org/wiki/Lyell-Syndrom  Toxische epidermale Nekrolyse 10:56
 https://www.medizinonline.ch/artikel/die-schmalkomplextachykardie Schmalkomplextachykardie  14:38
 abzischen=buzz off 15:25
+unterbewusstsein=subconscious 17:03
+https://de.wikipedia.org/wiki/Insulinschocktherapie 19:07
+Einrichtung=facility 26:29
 
 
