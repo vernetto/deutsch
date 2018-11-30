@@ -1449,4 +1449,14 @@ S05E22
 https://de.wikipedia.org/wiki/Subclavian-Steal-Syndrom 06:44
 https://de.wikipedia.org/wiki/Neuropathie 09:22
 ätzend=corrosive 14:53
+https://de.wikipedia.org/wiki/Glomerulonephritis 23:12
+https://de.wikipedia.org/wiki/Ph%C3%A4ochromozytom 23:20
+ausgeschlafen=rested 41:30
+
+S05E23
+Hebung=elevation 01:00
+https://de.wikipedia.org/wiki/Lyell-Syndrom  Toxische epidermale Nekrolyse 10:56
+https://www.medizinonline.ch/artikel/die-schmalkomplextachykardie Schmalkomplextachykardie  14:38
+abzischen=buzz off 15:25
+
 
