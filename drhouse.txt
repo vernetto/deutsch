@@ -1479,4 +1479,7 @@ Haussatzung=house statute 20:51
 unberechenbar=unpredictable 21:26
 https://de.wikipedia.org/wiki/Ductus_pancreaticus Wirsung-Gang 21:28
 Anhalt=indication 25:05
+Unverschämtheiten=impertinences 32:12
+hingenommen=accepted 32:12
+scheren sie weg=go away! 33:07
 
