@@ -1461,5 +1461,12 @@ abzischen=buzz off 15:25
 unterbewusstsein=subconscious 17:03
 https://de.wikipedia.org/wiki/Insulinschocktherapie 19:07
 Einrichtung=facility 26:29
+vortäuschen=feign 37:26
+durchgeknallt=crazy 38:38
 
+S05E24
+https://de.wikipedia.org/wiki/Alien-Hand-Syndrom 03:35
+Schimmel=mold 07:20
+quasseln=jabber 08:30
+muffle=be grumpy 14:00
 
