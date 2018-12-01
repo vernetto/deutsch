@@ -1482,4 +1482,11 @@ Anhalt=indication 25:05
 Unverschämtheiten=impertinences 32:12
 hingenommen=accepted 32:12
 scheren sie weg=go away! 33:07
+wund=sore 33:22
+Schmerbauch=potbelly 33:30
+https://de.wikipedia.org/wiki/1,2-Propandiol Propylenglykol 33:56
+
+S06E01
+Empfehlung=recommendation 04:18
+Erpressung=extortion 04:20
 
