@@ -1554,3 +1554,7 @@ voreingenommen=biased 04:42
 S06E12
 https://de.wikipedia.org/wiki/TIPS transjugulären intrahepatischen portosystemischen (Stent-)Shunt  28:38
 Abbitte=atonement,apology 31:27
+Hasen=hare 33:27
+https://de.wikipedia.org/wiki/Morbus_Wilson 33:29
+https://de.wikipedia.org/wiki/Kayser-Fleischer-Kornealring 33:29
+ausgebeutet=exploited 38:42
