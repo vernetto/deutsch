@@ -1558,3 +1558,109 @@ Hasen=hare 33:27
 https://de.wikipedia.org/wiki/Morbus_Wilson 33:29
 https://de.wikipedia.org/wiki/Kayser-Fleischer-Kornealring 33:29
 ausgebeutet=exploited 38:42
+
+S06E13
+überlegen=think 10:00
+https://de.wikipedia.org/wiki/Atriumseptumdefekt#Persistierendes_Foramen_ovale PFO 10:32
+
+
+S06E14
+Zahnspangen=braces 33:18
+
+
+S06E15
+Hüften=hips 08:18
+https://de.wikipedia.org/wiki/Sj%C3%B6gren-Syndrom 11:37
+
+
+S06E16
+
+https://de.wikipedia.org/wiki/H%C3%A4maturie 13:33
+https://de.wikipedia.org/wiki/VDRL-Test 13:47
+https://de.wikipedia.org/wiki/Enzyme-linked_Immunosorbent_Assay ELISA 13:47
+
+S06E17
+
+
+
+S06E18
+
+
+
+S06E19
+
+heulte=howled 25:25
+
+
+
+S06E20
+
+
+
+S06E21
+
+
+
+S06E22
+
+
+
+S07E01
+
+
+S07E02
+
+
+S07E03
+
+
+S07E04
+
+
+S07E05
+
+S07E06
+
+
+S07E07
+
+
+S07E08
+
+
+S07E09
+
+
+S07E10
+
+
+S07E11
+
+
+S07E12
+
+
+S07E13
+
+
+S07E14
+
+
+S07E15
+
+
+S07E16
+
+
+S07E17
+
+
+S07E18
+
+
+S07E19
+
+
+S07E20
+
+
