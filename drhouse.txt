@@ -1646,6 +1646,13 @@ S07E04
 zwiebeln=harass 24:22
 gescheit=clever 27:01
 Schwuchtel=queen 28:33
+Ursache und Wirkung=cause and effect 34:30
+anhalten=stop 34:46
+dahinterkommen=find out 35:25
+https://de.wikipedia.org/wiki/Risperidon 35:32
+deswegen=because of that 38:45
+allerliebst=most favourite 41:20
+
 
 S07E05
 
