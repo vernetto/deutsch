@@ -1635,11 +1635,21 @@ abartig=abnormal 04:35
 Versöhnung=reconciliation 04:15
 https://de.wikipedia.org/wiki/Hyperhidrose 12:00
 gemeinsamkeit=common ground 15:40
+Hirnrissig=harebrained 25:19
+Ertappt=caught 31:25
+https://de.wikipedia.org/wiki/Hypothyreose 31:54
+https://de.wikipedia.org/wiki/Syringomyelie 32:54
+foppen=make a fool of 33:33
+
 
 S07E04
-
+zwiebeln=harass 24:22
+gescheit=clever 27:01
+Schwuchtel=queen 28:33
 
 S07E05
+
+
 
 S07E06
 
