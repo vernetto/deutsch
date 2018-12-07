@@ -1610,12 +1610,24 @@ Hebekissen=lifting bags 11:55
 Verlobung=engagement 13:15
 lauschig=cozy 18:19
 Angewohnheit=habit 20:07
+Keil=wedge 22:01
+Auflösung=resolution 35:00
+https://de.wikipedia.org/wiki/Fettembolie 35:10
+Auszeit=timeout 37:34
+Ich stecke fest=I am stuck 40:45
 
 
 S07E01
+Kloschüssel=toilet bowl 18:45
+https://de.wikipedia.org/wiki/Ondansetron 19:00
+https://de.wikipedia.org/wiki/Prostaglandine 19:01
+
+https://de.wikipedia.org/wiki/Sch%C3%A4del-Hirn-Trauma  Hirnkontusion 35:26
 
 
 S07E02
+Einschätzung=judgement 23:28
+
 
 
 S07E03
