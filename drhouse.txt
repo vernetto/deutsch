@@ -1621,17 +1621,20 @@ S07E01
 Kloschüssel=toilet bowl 18:45
 https://de.wikipedia.org/wiki/Ondansetron 19:00
 https://de.wikipedia.org/wiki/Prostaglandine 19:01
-
 https://de.wikipedia.org/wiki/Sch%C3%A4del-Hirn-Trauma  Hirnkontusion 35:26
 
 
 S07E02
 Einschätzung=judgement 23:28
-
-
+Abstossung=rejection 23:28
+Einschätzung=assessment 22:38
+kirre=nervous 30:03
 
 S07E03
-
+abartig=abnormal 04:35
+Versöhnung=reconciliation 04:15
+https://de.wikipedia.org/wiki/Hyperhidrose 12:00
+gemeinsamkeit=common ground 15:40
 
 S07E04
 
