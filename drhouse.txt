@@ -1688,9 +1688,19 @@ Aussteiger=dropout 30:27
 müffeln=smell musty 32:44
 
 S07E07
+https://de.wikipedia.org/wiki/Pocken 04:30
+https://de.wikipedia.org/wiki/Skrofulose 15:42
+sträfling=convict 18:38
+Schlamperei=sloppyness 26:24
+Umstände=trouble 35:30
+Schorf=scab,crust 39:21
 
 
 S07E08
+krause=curly 04:45
+streben=aspire 04:46
+Erkenntnis=knowledge 04:56
+bescheuert=stupid 06:16
 
 
 S07E09
