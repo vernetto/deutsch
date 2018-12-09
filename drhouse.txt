@@ -1812,6 +1812,10 @@ vergammeln=go waste 08:53
 abgeschoben=deported 11:25
 gleichgestellter=assimilated 11:30
 kleinlich=petty 12:15
+https://de.wikipedia.org/wiki/Clozapin 22:43
+https://de.wikipedia.org/wiki/Ataxie Zerebelläre Ataxie 28:42
+pennen=sleep 31:03
+versifften=filthy 34:51
 
 
 S07E18
