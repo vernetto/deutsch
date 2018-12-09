@@ -1700,10 +1700,39 @@ S07E08
 krause=curly 04:45
 streben=aspire 04:46
 Erkenntnis=knowledge 04:56
-bescheuert=stupid 06:16
+https://de.wikipedia.org/wiki/Toxocara_canis 07:50
+https://de.wikipedia.org/wiki/Rhodococcus_equi 08:04
+Zahnseide=dental floss 08:46
+schlaffe=flaccid 09:11
+untermauert=underpinned, substantiated 09:15
+lässig=casual 09:58
+Erlöser=saviour 22:48
+https://de.wikipedia.org/wiki/Myrrhe 22:48
+verängstig=frightened 23:19
+https://de.wikipedia.org/wiki/Wer_den_Wind_s%C3%A4t_(1960) 23:53
+sät (säen) =  sow 23:53
+Flügelmann=attendant 25:47
+Verwerflich=reprehensible 26:05
 
 
 S07E09
+Schnuckelig=cute 07:21
+gewollt (willen) = wanted 16:11
+Heini (blöde Kerl)
+beraten=advise 17:14
+abtun=dismiss 17:18
+Hohlbirne=hollow pear 19:48
+übergreift=spread 19:56
+https://de.wikipedia.org/wiki/Schl%C3%A4fenbein#Pars_mastoidea Mastoid 19:56
+https://de.wikipedia.org/wiki/Akustikusneurinom 20:14
+Schmendrick=fool 34:50
+gehütet=protected 34:55
+Rotznase=snotty nose 35:23
+https://de.wikipedia.org/wiki/Windpocken Varicella 35:59
+entronnen=escaped 36:50
+eingebildet=conceited 37:39
+Schadenfreude=malicious joy 38:25
+ertrage=bear 38:47
 
 
 S07E10
