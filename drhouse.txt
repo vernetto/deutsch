@@ -1878,6 +1878,8 @@ Verwandten=relative 32:34
 
 
 S07E21
+Leitstelle=control center 00:52
+abschuss=launch 01:22
 
 
 S07E22
