@@ -599,7 +599,6 @@ https://de.wikipedia.org/wiki/Silymarin 19:42
 https://de.wikipedia.org/wiki/Kawasaki-Syndrom 26:50
 Wucherung=proliferation 28:32
 https://de.wikipedia.org/wiki/Blutentnahmer%C3%B6hrchen Vacutainer 30:26
-https://de.wikipedia.org/wiki/Sarkoidose 32:53
 https://de.wikipedia.org/wiki/Proliferating-Cell-Nuclear-Antigen PCNA 35:10
 https://de.wikipedia.org/wiki/Erdheim-Chester-Erkrankung 38:00
 https://de.wikipedia.org/wiki/Macrosialin CD68 39:15
@@ -770,7 +769,6 @@ Schamteilen=genitalia 13:53
 Tupferabstrich=swab smear
 peinlich=embarassing 14:42
 verkohlen=char 16:06
-https://de.wikipedia.org/wiki/Sarkoidose 20:00
 Dampfwalze=steamroller 23:01
 https://de.wikipedia.org/wiki/Methotrexat 23:29
 trüben=dull 24:31
@@ -1844,10 +1842,39 @@ mitnichten=by no means 36:08
 
 S07E19
 https://de.wikipedia.org/wiki/Nebenhoden Epididymis 01:00
-
+https://de.wikipedia.org/wiki/Nebenniere#Nebennierenrinde NNR 10:22
+https://de.wikipedia.org/wiki/Australorp 12:53
+https://de.wikipedia.org/wiki/Endoskopische_transthorakale_Sympathektomie 19:05
+eigenwillig=headstrong 19:55
+Klarschiff=in shape, tipptopp 25:40
+verkneifen=refrain from 25:44
+https://de.wikipedia.org/wiki/Salmonellose Salmonellenenteritis  26:32
+Frettchen=ferrets 40:00
 
 
 S07E20
+meckern=moan 00:58
+verblasst=faded 01:08
+krankheitsbild=clinical picture 02:36
+https://de.wikipedia.org/wiki/Neurootologie 02:36
+Pechvogel=unlucky person 02:48
+Dosenfutter=canned food 05:16
+verbüsst=serving 05:50
+https://de.wikipedia.org/wiki/Chelat-Therapie 07:05
+https://de.wikipedia.org/wiki/Diurese 07:20
+entgegenkommen=come to meet 10:35
+https://de.wikipedia.org/wiki/Neuroborreliose 11:04
+brodelnd=boiling 11:13
+https://de.wikipedia.org/wiki/Orthostase 12:00
+Dich hat gefuchst=it has annoyed you 18:33
+überlistet=outwitted 18:33
+https://de.wikipedia.org/wiki/Morbus_Hippel-Lindau 19:07
+https://de.wikipedia.org/wiki/Vascular_Endothelial_Growth_Factor VEGF 19:43
+abblitzen lassen=flash off 21:04
+schonend=gentle 21:05
+knallen=bang 27:08
+davonstürmen=stampede 27:08
+Verwandten=relative 32:34
 
 
 S07E21
