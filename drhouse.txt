@@ -1892,9 +1892,15 @@ Klempner=plumber 06:30
 https://de.wikipedia.org/wiki/Lipom 09:45
 Aushilfe=temporary staff 39:47
 Urteil anmassen=giving judgement 39:48
+Taugenichts=good for nothing 40:05
 
 
 S07E22
+hinter Gitter=behind bars 01:30
+angeordnet=disposed 02:33
+abfackelt=burn  03:10
+unentschlossen=irresolute 03:21
+Worum geht's?=What's the matter? 05:03
 
 
 S07E23
