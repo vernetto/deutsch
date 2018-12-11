@@ -1901,6 +1901,7 @@ angeordnet=disposed 02:33
 abfackelt=burn  03:10
 unentschlossen=irresolute 03:21
 Worum geht's?=What's the matter? 05:03
+verbuddeln=bury 06:58
 
 
 S07E23
