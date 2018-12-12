@@ -1902,6 +1902,9 @@ abfackelt=burn  03:10
 unentschlossen=irresolute 03:21
 Worum geht's?=What's the matter? 05:03
 verbuddeln=bury 06:58
+angewiesen=reliant 11:26
+du hast mich versetzt=you put me off 14:49
+https://de.wikipedia.org/wiki/Grey-Turner-Zeichen 20:41
 
 
 S07E23
@@ -1909,6 +1912,8 @@ S07E23
 
 
 S08E01
+Erörterung=discussion 13:47
+der Kluger passt sich an=the smart man adapts 36:49
 
 
 S08E02
