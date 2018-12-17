@@ -3,7 +3,7 @@ S01E01
 brabbelt=babble 03:00
 Kittel=smock 93:07
 vermiest das Leben=spoil the life 05:45
-#https://de.wikipedia.org/wiki/Diagnose#Differenzialdiagnose 6:28
+https://de.wikipedia.org/wiki/Diagnose#Differenzialdiagnose 6:28
 https://de.wikipedia.org/wiki/Creutzfeldt-Jakob-Krankheit Creutzfeldt-Jakob-Syndrom 06:40
 https://de.wikipedia.org/wiki/Wernicke-Enzephalopathie 06:40
 https://de.wikipedia.org/wiki/Bovine_spongiforme_Enzephalopathie Rinderwahn 06:40
@@ -2007,6 +2007,8 @@ Ohrensausen=tinnitus 22:40
 
 S08E13
 https://de.wikipedia.org/wiki/H%C3%A4moptyse 02:56
+https://de.wikipedia.org/wiki/Ganciclovir 12:26
+https://de.wikipedia.org/wiki/Metachromatische_Leukodystrophie MLD 31:40
 
 
 S08E14
@@ -2023,6 +2025,10 @@ S08E17
 
 
 S08E18
+https://en.wikipedia.org/wiki/Sudden_arrhythmic_death_syndrome 03:00
+träume sind schäume=dreams are foam 26:20
+besessen=obsessed 27:10
+schrullig=odd 39:55
 
 
 S08E19
