@@ -11,6 +11,7 @@ https://de.wikipedia.org/wiki/Aneurysma 06:42
 https://de.wikipedia.org/wiki/Thiamin 6:44
 reizend=lovely 07:53
 https://de.wikipedia.org/wiki/Gadolinium 08:55
+versäumte=missed 10:02
 https://de.wikipedia.org/wiki/%C3%96dem Ödem 12:00
 https://en.wikipedia.org/wiki/Glaucoma_surgery Goniotomy 12:00
 Mohrrüben=carrots 14:54
@@ -21,6 +22,7 @@ darauf angewiesen=rely on it 19.33
 anzeigen=report 20:28
 Anstiftung=incitement 20:28
 https://de.wikipedia.org/wiki/Hydrocodon Vicodin 26:40 
+erstochen=stabbed 28:30
 Verwandte=relatives 29:13
 https://de.wikipedia.org/wiki/Blutsenkungsreaktion sed rate
 https://en.wikipedia.org/wiki/Neurocysticercosis 29:49
@@ -194,6 +196,7 @@ S01E11
 
 erblich bedingt=hereditary 03:55
 https://de.wikipedia.org/wiki/Cefuroxim 05:00
+https://en.wikipedia.org/wiki/Gallium_scan 12:32
 https://de.wikipedia.org/wiki/Leishmaniose 31:49
 https://de.wikipedia.org/wiki/Nervus_ulnaris Ellennerv 35:19
 schlamassel=mess 35:43
@@ -201,7 +204,7 @@ versöhnen=reconcile 37:40
 
 
 S01E12
-
+befugt=authorized 17:49
 
 
 
@@ -210,12 +213,15 @@ S01E12
 
 
 S01E13
-
-
-
-
-
-
+Filz=felt 12:00
+https://de.wikipedia.org/wiki/Cefuroxim 12:55
+https://de.wikipedia.org/wiki/Levofloxacin Levaquin 12:57
+https://de.wikipedia.org/wiki/Sarkoidose 17:35
+verschleiern=disguise 23:43
+https://de.wikipedia.org/wiki/Neurofibromatose 28:33
+Schlamassel=mess 35:41
+https://de.wikipedia.org/wiki/Thalidomid 36:25
+überlegenheit=superiority 36:46
 
 
 S01E14
@@ -307,7 +313,6 @@ unerzogen gewesen=been naughty 04:23
 Säufer=drunkard 04:47
 Kinderschänder=child abuser 05:47
 Herzversagen=heart failure 07:14
-https://de.wikipedia.org/wiki/Sarkoidose 10:00
 Dackel=wiener dog 10:36
 https://de.wikipedia.org/wiki/Anionenl%C3%BCcke 16:50
 https://en.wikipedia.org/wiki/High_anion_gap_metabolic_acidosis MUDPILES 16:50
