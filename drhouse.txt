@@ -208,10 +208,6 @@ befugt=authorized 17:49
 
 
 
-
-
-
-
 S01E13
 Filz=felt 12:00
 https://de.wikipedia.org/wiki/Cefuroxim 12:55
@@ -225,8 +221,8 @@ https://de.wikipedia.org/wiki/Thalidomid 36:25
 
 
 S01E14
-
-
+verbrutzeln=fry 06:28
+Rückgrat=backbone 31:15
 
 
 S01E15
