@@ -226,7 +226,8 @@ Rückgrat=backbone 31:15
 
 
 S01E15
-
+https://de.wikipedia.org/wiki/Hepatitis_C 12:20
+entgegenkommend=accommodating 19:28
 
 
 
@@ -244,9 +245,21 @@ https://de.wikipedia.org/wiki/Cortisol 36:55
 
 
 S01E17
-
-https://de.wikipedia.org/wiki/Toxoplasmose
+gewerkschaft=labor union 01:42
+geneckt=teased 05:00
+Geschwafel=ramblings 05:18
+Schäferstündchen=amoureux tête à tête 07:55
+https://de.wikipedia.org/wiki/Toxoplasmose 09:41
+verleumdung=slander 10:52
+Ungeziefer=vermin 15:19
+https://de.wikipedia.org/wiki/4-Hydroxybutans%C3%A4ure Gamma-Hydroxybuttersäure GHB 16:12
+übel=evil 17:35
+Schoßhund=lap-dog 19:24
+einstellig=single digit 20:24
+Teppich scheuer=carpet scrub ??
 einflechten=weave 25:00
+beeinträchtigt=impaired 29:47
+https://de.wikipedia.org/wiki/Sauerstoffs%C3%A4ttigung 29.47
 https://de.wikipedia.org/wiki/ACE-Hemmer 38:10
 
 
