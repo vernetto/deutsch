@@ -276,7 +276,11 @@ https://de.wikipedia.org/wiki/Pr%C3%A4eklampsie 02:55
 https://de.wikipedia.org/wiki/Oxybutynin 05:15
 tauglich=suitable 08.12
 disziplinarausschuss=disciplinary committee 13:05
+https://de.wikipedia.org/wiki/Lambert-Eaton-Rooke-Syndrom 14:46
+abgelehnt=rejected 18:55
 kerngesund=fit as a fiddle 24:51
+https://de.wikipedia.org/wiki/Alexander-Krankheit 27:32
+
 
 S01E19
 
@@ -291,10 +295,12 @@ Einrisse=tears 09:29
 schlaff=flaccid 09:52
 zäpfchen=suppository 10:37
 gleitfähigkeit=lubricity 10:38
-im eimer=bust,kaputt 17:07
+im Eimer=bust,kaputt 17:07
 feilschen=haggle,bargain 17:33
 Abstufung=gradation 27:36
 Schicke=chic 31:20
+Abfällige=derogatory 34:36
+
 
 S01E21
 
