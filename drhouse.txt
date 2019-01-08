@@ -300,11 +300,19 @@ feilschen=haggle,bargain 17:33
 Abstufung=gradation 27:36
 Schicke=chic 31:20
 Abfällige=derogatory 34:36
+verreist=out of town 35:23
+Verbissenheit=determination 36:10
+https://de.wikipedia.org/wiki/Osteomyelitis 38:01
 
 
 S01E21
-
+https://de.wikipedia.org/wiki/D-Dimer 06:32
 https://en.wikipedia.org/wiki/Crotalidae_polyvalent_immune_fab CroFab 11:55
+rauskriegen=to find out 07:55
+https://de.wikipedia.org/wiki/Thyroxin T4 14:00
+schlicht=simple 16:40
+Schlackenstoffe=waste products 24:36
+
 
 S01E22
 
