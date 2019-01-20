@@ -397,20 +397,39 @@ https://de.wikipedia.org/wiki/Ornithose 36:14
 keine Ursache=never mind 36:35
 anfällig=prone 36:55
 haufenweise=heaps 38:21
+das hätte sie unmöglich gekonnt=she could not have done that 39:32
+
 
 S02E04
+https://de.wikipedia.org/wiki/Fentanyl 25:11
+vergrätzen=vex 31:13
+verwerflich=reprehensible 31:23
+scheitern=fail 31:26
+beweihräucherung=adulation 40:40
+
 
 S02E05
+benommenheit=dizziness 02:51
+ausknobeln=figure out 04:36
+https://de.wikipedia.org/wiki/Neurofibromatose_Typ_2 07:34
 https://de.wikipedia.org/wiki/Miller-Fisher-Syndrom 10:00
+Entladung=discharge 10:21
+schwallartig=flushing,flooding 10:24
 kifft=smoked grass 14:39
 https://en.wikipedia.org/wiki/Pralidoxime 14:41
 geschnorrt=scrounge 15:48
+Leiste=groin 22:29
 https://de.wikipedia.org/wiki/Kaposi-Sarkom 23:38
+Bretthart=hard as a board 24:50
 https://de.wikipedia.org/wiki/Tigecyclin Tygacil 25:22
 Schiss haben=to be afraid 25:31
 Senklot=plumb 27:45
+auf die Schippe nehmen=make a fool of yourself 32:54
+Schramme=scratch 34:30 
 abwehren=fend off 37:16
 Grundgute=good reason 38:10
+vormachen=fool 39:40
+
 
 
 S02E06
@@ -435,18 +454,26 @@ Nacken=neck 21:56
 bissig=bitchy 22:24
 Frust=frustration 22:25
 Krüppel=cripple 22:36
+https://de.wikipedia.org/wiki/Sorbit Sorbitol 23:13
 abführmittel=laxative 23:20
-https://de.wikipedia.org/wiki/Erworbene_isolierte_aplastische_An%C3%A4mie Erythroblastopenie PRCA 25:51
+https://de.wikipedia.org/wiki/Erworbene_isolierte_aplastische_An%C3%A4mie Erythroblastopenie PRCA Pure Red Cell Aplasia 25:51
+https://de.wikipedia.org/wiki/Erythropoetin EPO 27:25
 geschwindelt=cheated 27:42
 zuständig=responsible 28:19
+rennen die Sponsoren dir die Bude ein=the sponsors run the shack for you 28:48
 voranbringen=advance 29:00
+Hintern=butt 29:02
 https://de.wikipedia.org/wiki/Prednison 30:13
+https://de.wikipedia.org/wiki/Lambert-Eaton-Rooke-Syndrom 30:57
+https://de.wikipedia.org/wiki/Erythrozyten-Konzentrat Erykonzentration 31:03
 https://de.wikipedia.org/wiki/Thymom 32:42
 https://de.wikipedia.org/wiki/Tensilontest Tensilon 35:20
 https://de.wikipedia.org/wiki/Myasthenia_gravis 35:20
 auskotzen=throw up 35:50
 gemogelt=cheated 37:49
 in jemanden verknallt=to be infatuated with someone 38:02
+verzichtet=renounced 39:00
+
 
 S02E07
 als verübelte er mir=as he resented me 00:23
@@ -465,9 +492,12 @@ https://de.wikipedia.org/wiki/Komplementsystem Membrane Attack Complex MAC Membr
 https://de.wikipedia.org/wiki/Humanes_Cytomegalievirus Cytomegalievirus CMV 05:24
 https://de.wikipedia.org/wiki/Herpes-simplex-Viren HSV 05:24
 https://de.wikipedia.org/wiki/Warfarin Coumadin 06:42
+befriedigend=satisfying 07:58
+Luftgewehre=air guns 08:23
 schnuckelig=cute 08:44
 verfliegt=evaporate 08:55
 verübelt=resents 09:21
+Lüftungsschacht=ventilation shaft 08:46
 https://de.wikipedia.org/wiki/Zidovudin AZT 10:17
 https://de.wikipedia.org/wiki/Ganciclovir 10:24
 https://de.wikipedia.org/wiki/Silbersulfadiazin Sulfadiazins 10:39
@@ -478,7 +508,10 @@ https://de.wikipedia.org/wiki/Postexpositionsprophylaxe 12:32
 https://de.wikipedia.org/wiki/Nelfinavir 12:40
 https://de.wikipedia.org/wiki/Zidovudin 12:40
 https://de.wikipedia.org/wiki/Lamivudin 12:40
+Floskeln=phrases 13:21
+https://de.wikipedia.org/wiki/Goodpasture-Syndrom 13:29
 widersprüchlich=contradictory 14:04
+Westentaschen zirkus=waistcoat circus 14:27
 piesacken=bully 16:25
 verlangt=required 17:04
 du dringst heimlich=you secretly enter 17:30
@@ -488,6 +521,9 @@ https://de.wikipedia.org/wiki/Non-Hodgkin-Lymphom 20:12
 https://de.wikipedia.org/wiki/Kveim-Test 20:24
 Papierkram=paperwork 20:31
 zurechtrücken=straighten 22:02
+auf den Geist gehen=stören
+Windschatten=shadow zone 23:55
+kneift=chicken out 24:03
 https://de.wikipedia.org/wiki/Cyanwasserstoff Hydrogencyanid 24:21
 https://de.wikipedia.org/wiki/Formaldehyd 24:21
 qualmt=smokes 24:31
@@ -497,13 +533,17 @@ meinetwegen=because of me 25:18
 zunehmend=increasing 27:51
 übertragen=transfer 28:53
 erbost=infuriated 28:56
-
+Notwehr=self-defense 35:59
+Gemecker=moaning 36:14
+Bürste=brush 39:16
+ZZZZ
 
 S02E08
 doof=stupid 00:43
 Nicht im entferntesten=not remotely 02:54
 Anhörung=hearing 03:48
 Verlegung=postponment 04:05
+Gutachten=opinion,report 04:14
 https://de.wikipedia.org/wiki/Takayasu-Arteriitis 05:40
 https://de.wikipedia.org/wiki/Morbus_Beh%C3%A7et Behçet 05:59
 abhaute=clear out,bugger off 07:07
