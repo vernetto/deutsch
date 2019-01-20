@@ -580,6 +580,7 @@ https://de.wikipedia.org/wiki/Interferone 27:57
 https://de.wikipedia.org/wiki/Leberkrebs Hepatom 28:56
 Fehlverhalten=wrongdoing 29:58
 Fahrlässigkeit=negligence 29:58
+verklagt=sued 30:18
 vorgelogen=lied 30:19
 zugaben=admit 30:23
 anhängen=blame 31:18
