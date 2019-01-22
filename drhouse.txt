@@ -586,25 +586,46 @@ zugaben=admit 30:23
 anhängen=blame 31:18
 verkatert=hung-over 34:48
 durchzechen=carouse (party) without stop 34:48
+anstiften=instigate 38:11
+anschwärzen=denigrate 38:11
+Anlass zur Besorgnis=cause for concern 40:18
+
 
 S02E09
+ein geregelter job=a regulated job 04:07
 https://de.wikipedia.org/wiki/Teleangiektasie 04:08
 https://de.wikipedia.org/wiki/Cushing-Syndrom 04:09
 womit=by which 04:14
+Ausrede=excuse 06:00
+hergezogen=moved 06:14
+https://de.wikipedia.org/wiki/Adenom 06:56
+Murks=botch 09:39
 https://de.wikipedia.org/wiki/Adrenocorticotropin ACTH 10:06
+ich habe recht behalten=I was right 12:36
 abstrich=smear 14:57
 https://de.wikipedia.org/wiki/Bakterielle_Vaginose 15:16
 https://de.wikipedia.org/wiki/M%C3%BCnchhausen-Stellvertretersyndrom 18:10
 Zimtzicke=dimwit 20:20
+das ergibt kein sinn=this makes no sense 21:43
+aufschieben=postpone 21:46
+https://de.wikipedia.org/wiki/Rifampicin 21:58
 https://de.wikipedia.org/wiki/Polymerase-Kettenreaktion PCR 25:21
+Gardinenpredigt= ??? 29:10
 https://de.wikipedia.org/wiki/Aplastische_An%C3%A4mie 34:00
 https://de.wikipedia.org/wiki/G-CSF 35:00
+https://de.wikipedia.org/wiki/Clavulans%C3%A4ure Augmentin 38:30 
+Traubensaft=grape juice 38:35
 
 
 S02E10
+Geschmissen=threw 02:04
 Wozu prüfen=why check 02:07
+beschlossen=decided 02:13
 ich bin vorgelegt=I am submitted 02:15
+Ausweisung=expulsion 03:25
 schmollen=sulk 03:50
+https://de.wikipedia.org/wiki/Agrafie 05:17 	
+Anklopffunktion=call waiting 12:28
 https://de.wikipedia.org/wiki/Fazialisl%C3%A4hmung Bell-Lähmung 18:44
 https://de.wikipedia.org/wiki/Amyotrophe_Lateralsklerose ALS 18:59
 verzichtet=renounced 19:15
@@ -614,19 +635,33 @@ https://de.wikipedia.org/wiki/Topiramat Topamax 19:48
 hingebungsvoll=devoted 20:00
 verheimlichen=conceal 20:08
 missdeutest=misinterpret 23:22
+gestrichen=canceled 26:57
+Ausweichplan=contingency plan 27:37
+ätzend=corrosive 28:56
+ausgesucht=selected 33:18
+https://de.wikipedia.org/wiki/Zingulotomie 37:47
 https://de.wikipedia.org/wiki/Malaria zerebralen Malaria 39:28
 https://de.wikipedia.org/wiki/Chinidin 39:29
 
 S02E11
 https://de.wikipedia.org/wiki/Vecuronium 05:48
+untertreibe=understate 06:54
+schwerwiegend=serious 07:53
+https://de.wikipedia.org/wiki/Chorea_Huntington 08:00
 Gereiztheit=irritability 08:38
 https://de.wikipedia.org/wiki/Apoplex Insult 08:51
 Elternbeirat=parent's council 10:25
 antreiben=drive,power 10:28
 tratschen=gossip 11:42
+Schiss=crap 13:03
 https://de.wikipedia.org/wiki/Methylphenidat Ritalin 13:37
+Spaßvogel=jester 14:40
+eigenartig=strange 15:22
+Scheidung=divorce 16:24
+entzückend=delightful 18:20
 beschallen=to treat with ultrasound 19:40
 https://de.wikipedia.org/wiki/Zervixkarzinom Gebärmutterhalskrebs 20:25
+kitschig=trashy 21:01
 https://de.wikipedia.org/wiki/Hysterektomie 30:21
 https://de.wikipedia.org/wiki/Obduktion Autopsy 31:55
 vertuschen=camouflage 33:36
@@ -1246,7 +1281,6 @@ https://de.wikipedia.org/wiki/Tular%C3%A4mie 18:04
 willkür=arbitrariness 25:55
 Zahnspange=braces 26:49
 Nachruf=obituary 29:13
-https://de.wikipedia.org/wiki/Chorea_Huntington 29:32
 unausweichlich=inescapable 30:20
 gierfinger=greedy finger 39:38
 
