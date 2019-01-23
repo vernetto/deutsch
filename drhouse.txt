@@ -662,6 +662,7 @@ entzückend=delightful 18:20
 beschallen=to treat with ultrasound 19:40
 https://de.wikipedia.org/wiki/Zervixkarzinom Gebärmutterhalskrebs 20:25
 kitschig=trashy 21:01
+Angelegenheit=matter 22:46
 https://de.wikipedia.org/wiki/Hysterektomie 30:21
 https://de.wikipedia.org/wiki/Obduktion Autopsy 31:55
 vertuschen=camouflage 33:36
@@ -681,10 +682,25 @@ ausser Gefecht=out of action 19:09
 https://de.wikipedia.org/wiki/Sumatriptan 19:09
 https://de.wikipedia.org/wiki/Verapamil 19:09
 verstopft=blocked, congested 19:57
-rangierbahnhof=railway yard 20:36
+Rangierbahnhof=railway yard 20:36
+https://de.wikipedia.org/wiki/Sturge-Weber-Syndrom Krabbe-Syndrom 21:00
+https://de.wikipedia.org/wiki/Serotonin 33:04
+https://de.wikipedia.org/wiki/Cyproheptadin 33:26
+petzen=sneak, tell tales 33:38
+beschatten=tail,shadow 34:38
+fremdgehen=to cheat on 34:50
+Anfallserkrankung=seisure disorder 35:23
+https://de.wikipedia.org/wiki/Hepatische_Enzephalopathie 35:30
+Tiefschürfend=profound 39:40
 
 S02E13
+https://de.wikipedia.org/wiki/Kataplexie 06:07
+versetzen=move,transfer 10:21
+Mädels=girls 10:42
 https://de.wikipedia.org/wiki/Couvade-Syndrom 12:58
+tadeln=blame 13:16
+saufen=drink 13:16
+ZZZ
 
 S02E14
 https://de.wikipedia.org/wiki/Medroxyprogesteron Depo-Provera 06:56
