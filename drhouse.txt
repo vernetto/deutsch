@@ -744,10 +744,18 @@ Lustmolch=sex maniac 04:18
 geschwollene=swollen 04:17
 Koste=taste 13:15
 Ungeziefer=vermine, pest 13:57
-ZZZ
+https://de.wikipedia.org/wiki/Gabapentin 16:45
+gemogelt=cheated 28:52
+treulose=unfaithful 32:35
+Truhe=chest 34:38
 ich weiß lieber nicht alles=I would rather not know everything 39:57
  
 S02E16
+https://de.wikipedia.org/wiki/Anaphylaxie 31:00
+https://de.wikipedia.org/wiki/Clindamycin 31:53
+Schuppe=scale 33:09
+Sommersprosse=freckle ???
+https://de.wikipedia.org/wiki/Amrinon 38:16
 
 S02E17
 https://de.wikipedia.org/wiki/Acetylcystein 19:42
@@ -759,6 +767,7 @@ https://de.wikipedia.org/wiki/Proliferating-Cell-Nuclear-Antigen PCNA 35:10
 https://de.wikipedia.org/wiki/Erdheim-Chester-Erkrankung 38:00
 https://de.wikipedia.org/wiki/Macrosialin CD68 39:15
 
+ZZZ
 
 S02E18
 verschwommen=blurred 05:26
