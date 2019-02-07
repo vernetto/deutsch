@@ -767,8 +767,6 @@ https://de.wikipedia.org/wiki/Proliferating-Cell-Nuclear-Antigen PCNA 35:10
 https://de.wikipedia.org/wiki/Erdheim-Chester-Erkrankung 38:00
 https://de.wikipedia.org/wiki/Macrosialin CD68 39:15
 
-ZZZ
-
 S02E18
 verschwommen=blurred 05:26
 https://de.wikipedia.org/wiki/Granulomatose_mit_Polyangiitis Wegener 15:56
@@ -797,6 +795,7 @@ Alles gute=all the best 39:30
 geschafft=made 41:30
 
 S02E20
+
 beschwerden=discomfort 06:20
 Müllhalde=dump 07:52
 Revier=district 08:05
@@ -813,14 +812,25 @@ Abgleich=adjustment 14:13
 https://de.wikipedia.org/wiki/Thrombose TVT 16:37
 angeschissen=buggered 17:01
 Scherzkeks=Joker 17:58
+Zedernholz=cedar 33:35
+nachsuchen=chasing 33:45
 weichei=wimp 34:30
 Knarre=rifle 34:50
+Schimmlig=moldy 35:35
+https://de.wikipedia.org/wiki/Trichinen Trichinella 35:46
+https://de.wikipedia.org/wiki/Ergotismus 35:53
+Laibe=loaves 36:09
+Kost=food 36:15
+Gurren=coo 36:24
+https://de.wikipedia.org/wiki/Cryptococcus_neoformans 37:07
+
 
 S02E21
 https://de.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention CDC ??
 https://de.wikipedia.org/wiki/Lipasen 11:25
 https://de.wikipedia.org/wiki/Amylasen 11:25
 auffrischen=brush up 12:59
+ZZZ
 https://de.wikipedia.org/wiki/Listeriose 24:03 
 https://de.wikipedia.org/wiki/Ampicillin 24:03 
 https://de.wikipedia.org/wiki/Gentamicin 24:03 
