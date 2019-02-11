@@ -315,7 +315,12 @@ Schlackenstoffe=waste products 24:36
 
 
 S01E22
-
+Einleuchtend=reasonable 00:22
+Beschwerden=disconfort 00:26
+Lustlosigkeit=inappetency 03:17
+beteiligen=participate 03:25
+https://de.wikipedia.org/wiki/Chloralhydrat 03:48
+Schlaumeier=wise guy 04:35
 Mautquittung=toll receipt 11:58
 drangsalieren=bully 16:50
 https://de.wikipedia.org/wiki/Par%C3%A4sthesie 20:11
@@ -327,6 +332,7 @@ zu schaffen machen=to bother 22:28
 was überlegst du?=are you thinking about? 26:24
 https://de.wikipedia.org/wiki/Polyneuropathie 27:28
 https://de.wikipedia.org/wiki/Paranoia 27:28
+Immerzu=all the time 30:56
 verwetten=gamble away 31:55
 elende Mistkerl=dirty swine, miserable bastard 33:04
 https://de.wikipedia.org/wiki/H%C3%A4matine 34:54
@@ -839,12 +845,18 @@ Kosename=pet name 26:44
 bevollmächtigter=Plenipotentiary 27:45
 annehmen=accept 32:18
 verwehren=deny 33:40
-rotzig=glotty 34:10
-SpO2 peripheral capillary oxygen saturation 35:30
+rotzig=glotty,snotty 34:10
+Sp02 SaO2 peripheral capillary oxygen saturation https://de.wikipedia.org/wiki/Sauerstoffs%C3%A4ttigung 35:30
 https://de.wikipedia.org/wiki/Naegleria_fowleri 38:00
 https://de.wikipedia.org/wiki/Meningitis Primäre Amöben-Meningoenzephalitis 38:27
 
 S02E22
+Einleuchtend=reasonable 00:22
+Beschwerden=disconfort 00:26
+Lustlosigkeit=inappetency 03:17
+beteiligen=participate 03:25
+https://de.wikipedia.org/wiki/Chloralhydrat 03:48
+Schlaumeier=wise guy 04:35
 https://de.wikipedia.org/wiki/Phenobarbital fenokoma 15:17
 Nervensäge=pain in the neck 22:06
 https://de.wikipedia.org/wiki/Polymerase-Kettenreaktion PCR 22:45
