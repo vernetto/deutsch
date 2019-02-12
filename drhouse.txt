@@ -338,6 +338,7 @@ elende Mistkerl=dirty swine, miserable bastard 33:04
 https://de.wikipedia.org/wiki/H%C3%A4matine 34:54
 hinkriegen=fixed 37:15
 ich bin nicht drüber weg=I am not over it 37:33
+einwände=objection 39:55
 
 
 S02E01
@@ -851,12 +852,7 @@ https://de.wikipedia.org/wiki/Naegleria_fowleri 38:00
 https://de.wikipedia.org/wiki/Meningitis Primäre Amöben-Meningoenzephalitis 38:27
 
 S02E22
-Einleuchtend=reasonable 00:22
-Beschwerden=disconfort 00:26
-Lustlosigkeit=inappetency 03:17
-beteiligen=participate 03:25
-https://de.wikipedia.org/wiki/Chloralhydrat 03:48
-Schlaumeier=wise guy 04:35
+
 https://de.wikipedia.org/wiki/Phenobarbital fenokoma 15:17
 Nervensäge=pain in the neck 22:06
 https://de.wikipedia.org/wiki/Polymerase-Kettenreaktion PCR 22:45
