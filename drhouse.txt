@@ -862,20 +862,27 @@ Rabenmutter=bad mother 30:55
 Zotten=villi 33:32
 https://de.wikipedia.org/wiki/Gluten Weizengluten 33:46
 https://de.wikipedia.org/wiki/Z%C3%B6liakie 33:55
+beweinen=weep for 35:23
+https://de.wikipedia.org/wiki/Wiesenklee Rotklee 36:11
+
 
 S02E23
 https://de.wikipedia.org/wiki/BRCA1 11:54
 Angeberei=boasting 12:24
 Riesen Zufall=giant coincidence 14:02
 angefasst=touched 17:39
+Gebieter=master 18:55
 https://de.wikipedia.org/wiki/Menotropin 20:00
 https://de.wikipedia.org/wiki/Deferoxamin 31:17
 https://de.wikipedia.org/wiki/Gleitmittel lubrificante 32:47 
 Kneifzange=pincers 33:52 
 
 S02E24
+lindern=alleviate 12:52
 Heuchler=hypocrite 13:52
+Abbitte=atonement 14:31
 Aufregung=excitement 18:26
+ZZZ
 vergeudet=misspent 35:17
 belanglos=irrelevant 36:52
 
@@ -908,6 +915,8 @@ gezwickt=pinched 09:50
 schludern=work sloppily 10:30
 Zeiger=pointer 10:58
 gemurkst=botched 13:47
+zugibt=admits 20:35
+sie weichen aus=you dodge 23:26
 Glühbirn=lightbulb 24:20
 annähernd=nearly 24:52
 liebenswert=lovely 24:52
@@ -921,6 +930,8 @@ nicht zu fassen=unbelievable 39:13
 
 
 S03E03
+Versuchstier=experimental animal 00:36
+aufregend=exciting 06:45
 seinetwegen=because of him 07:03
 https://de.wikipedia.org/wiki/Rhinovirus 07:51
 beknie=to lean on someone 10:21
