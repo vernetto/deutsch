@@ -43,7 +43,6 @@ du, deiner, dir, dich
 er , seiner , ihm , ihn 
 sie, ihrer, ihr, sie
 
-
 mit dir bin ich glücklich
 ich gehe nach Hause (AUSNAHME, "nach" immer mit Stadt, Land, Kontinent, oder "oben", "unten")- ich bleibe zu Hause
 
@@ -224,7 +223,7 @@ ___________
 er hilft mir (helfen + DAT)
 
 du kannst dir vorstellen 
-die Buchhaltung  
+die Buchhaltung
 
 Sonnenbad nehmen
 
@@ -488,4 +487,9 @@ Mutter,Mütter (plur)
 der Körper kann sich nicht daran gewöhnen
 ich wünsche ihnen 
 auch ein blinder Huhn findet manchmal einen Korn
+
+______________________
+
+
+
 
