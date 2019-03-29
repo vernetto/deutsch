@@ -882,7 +882,6 @@ lindern=alleviate 12:52
 Heuchler=hypocrite 13:52
 Abbitte=atonement 14:31
 Aufregung=excitement 18:26
-ZZZ
 vergeudet=misspent 35:17
 belanglos=irrelevant 36:52
 
@@ -987,19 +986,85 @@ Ich habe Schiss=I am scared 25:18
 Versteck=hide 25:24
 aufs Maul hauen=slap on the mouth 27:36
 Rüpel=ruffian 27:44
+fieser=meaner 27:51
+veranlasst=cause 28:02
+überlegen=consider 28:02
+flüssigkeitseinlagerung=liquid warehousing 31:12
+auftreten=occur 31:14
+https://de.wikipedia.org/wiki/Heredit%C3%A4res_Angio%C3%B6dem HAE Hereditary Angioedema 31:20
 abartig=perverse 31:40
-https://de.wikipedia.org/wiki/Heredit%C3%A4res_Angio%C3%B6dem HAE Hereditary Angioedema 31:50
+zartfühlend=delicately 32:13
+als Winzlinge gezankt=quarreled as little kids 34:56
+
 
 S03E06
+Knarre=rattle 00:09
+Hüft schwung=hip swing 00:40
+patronen=cartridges 00:52 
+Raserei=mad rush 04:56
+Hebel=lever 07:32
+bescheidener=modest 09:54
+einschüchtern=intimidate 10:36
+ich gehe davon aus=I assume 13:04
+Mittellinienverlagerung=Midline shift 13:33
+einsetzen=use 13:51
+krümmen=bend 13:55
+vorenthalten=withhold 15:08
+shanker=whore 15:54
+https://de.wikipedia.org/wiki/Akanthose Acanthosis 15:48
+frech=naughty 18:02
+Ausführung=execution 19:12
+vererbten=inherited 20:35
+https://de.wikipedia.org/wiki/Ornithin-Transcarbamylase  (OTC) 20:35
+gesund und munter=alive and well 20:37
+Thyreotoxische periodische Paralyse (TPP)  28:38
+handelsabsicht=commercial intent 21:57
+bunkere=stash 23:46
+abdrehen=turn 24:03
+sträubtt=resists 30:54
+Verbreitung Absicht =intention to disseminate 31:40
+anhängen=blame 31:41
+heimzahlen=pay back 31:57
+Geschworenen=jury 32:12
+erliegen=succumb 32:12
+veräussern=bargain away 32:33
+Vorschuss=advance 32:33
+unterliegen=be defeated 32:50
+in Betracht ziehen=consider 33:18
+Truthahn=turkey 33:40
 Trommelschlegelfinger=clubbed fingers 34:52
 ausweichen=dodge 37:42
+erlebe=go through 38:16
+auf die Dauer öde=in the long run dreary 39:24
+
 
 S03E07
+nachweisen=prove 00:58
+verdächtig=suspicious 01:12
+saucool=way cool 01:49
+reizend=loving 02:23
 https://de.wikipedia.org/wiki/Akinetopsie 02:06
+https://de.wikipedia.org/wiki/Elektroenzephalografie EEG 04:26
 Schimmel=mold 05:10
 https://de.wikipedia.org/wiki/Lafora-Krankheit 05:21
 https://de.wikipedia.org/wiki/Levodopa L-Dopa 07:10
+albern=silly 07:56
+Anfallsleiden=seizure disorders 09:02
+gesprächsfetzen=talk shreds 09:15
+mir gelungen=succeeded 10:04
+vorhersehen=foresee 11:23
+Bedingung=condition 11:23
+ausgestellt=displayed 11:54
+Masern=measles 14:03
+Schadstoffbelastung=pollution 16:10
+verderben=spoil 16:54
+zzz
 https://de.wikipedia.org/wiki/Quecksilbervergiftung 20:50
+vertuschen=hush up 21:30
+rauf und runtergefahren=run up and down 21:43
+Sippe=clan, family 22:26
+sackt ab (absacken)=sags, sinks 23:04
+AAA 23:04
 FahrerfluchtUnfall=Hit and run accident 26:02
 auftischen=present 27:04
 https://de.wikipedia.org/wiki/Diazepam 29:41
