@@ -25,4 +25,9 @@ abgetragen=worn
 berauschend=intoxicating
 unmut=displeasure
 
+zermahlen=grind
+verwandelt=transform
+ausbilder=instructor
+verhört=interrogated
+dornröschenschlaf=sleeping beauty
 
