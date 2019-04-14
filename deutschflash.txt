@@ -31,3 +31,21 @@ ausbilder=instructor
 verhört=interrogated
 dornröschenschlaf=sleeping beauty
 
+
+https://www.youtube.com/watch?v=2B7uAD5Py5E
+abgeworfen=jettisoned
+gefesselt=spellbound
+verabredet sich=have an appointment
+geschäft verrichten=do business
+aufbewahren=store
+gaumenschmaus=palate feasting
+belegt=busy
+
+
+https://www.youtube.com/watch?v=D1JtE1beYwM
+zerklüftet=rugged
+stromanschluss=power connection
+aussteiger=dropout
+
+https://www.youtube.com/watch?v=ZxvjL_O_NsI
+umgebaut=rebuilt

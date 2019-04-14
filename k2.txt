@@ -1,73 +1,78 @@
-Spedizione al K2 del 1954
+#I Spedizione al K2 del 1954
+#G Expedition nach K2 von 1954
 
-La spedizione al K2 del 1954 è stata una spedizione alpinistica italiana patrocinata dal Club Alpino Italiano, dal Consiglio Nazionale delle Ricerche, dall'Istituto Geografico Militare e dallo Stato italiano, e guidata da Ardito Desio. La spedizione portò il 31 luglio 1954, per la prima volta nella storia, al raggiungimento della vetta del K2, la seconda montagna più alta del mondo.
-
-La via seguita fu lo Sperone degli Abruzzi e i due alpinisti che raggiunsero la vetta furono Achille Compagnoni e Lino Lacedelli, con il supporto dell'intero gruppo. Un contributo fondamentale fu fornito da Walter Bonatti e Amir Mahdi che, con un'impresa senza precedenti e affrontando il rischio della morte in un forzato bivacco notturno a oltre 8100 metri, trasportarono a Compagnoni e a Lacedelli le bombole d'ossigeno rivelatesi poi essenziali al compimento della missione. 
-
-
-Componenti della spedizione
-
-La spedizione del 1954 al K2 era costituita, oltre ad un gran numero di portatori di bassa quota utilizzati per portare il materiale della spedizione dall'ultimo scalo aereo al campo base, da 30 componenti[1][2][3]:
-
-13 alpinisti italiani
-
-    Erich Abram (1922-2017): nonostante non fosse molto noto al grande pubblico, presentava un ampio curriculum di salite di sesto grado nelle Dolomiti.
-    Ugo Angelino (1923-2016[4]): di professione rappresentante di commercio, aveva svolto la maggior parte della sua attività alpinistica nelle Alpi Occidentali[5].
-    Walter Bonatti (1930-2011): con i suoi 24 anni (compiuti il 22 giugno durante la spedizione) era il più giovane della spedizione. Nonostante questo era già considerato tra i più forti alpinisti del mondo grazie alle sue realizzazioni tra cui la parete est del Grand Capucin.
-    Achille Compagnoni (1914-2009) (giunto in vetta il 31 luglio): guida alpina e maestro di sci, con attività alpinistica soprattutto sul Monte Rosa e sul Cervino.
-    Mario Fantin (1921-1980) (fotografo e cineoperatore): nonostante non presentasse un curriculum alpinistico sullo stesso livello dei suoi compagni, era conosciuto per le sue riprese fotografiche e cinematografiche in ambito alpinistico.
-    Cirillo Floreanini (1924-2003): aveva compiuto notevoli imprese alpinistiche nelle Alpi Giulie. Di professione faceva il disegnatore[6].
-    Pino Gallotti (1918-...): in quanto ingegnere, fu designato come responsabile del materiale tecnico della spedizione, fra cui le bombole d'ossigeno. Alpinisticamente aveva una notevole esperienza nelle Alpi Occidentali e in particolare sul Monte Bianco[7].
-    Lino Lacedelli (1925-2009) (giunto in vetta il 31 luglio): guida alpina e maestro di sci, facente parte del gruppo degli Scoiattoli di Cortina, aveva compiuto diverse salite estreme in Dolomiti ma aveva esperienza anche nelle Alpi Occidentali.
-    Guido Pagani (medico della spedizione): in quanto medico e alpinista di discreto livello fu selezionato quale medico della spedizione.
-    Mario Puchoz (1918-1954) (deceduto per edema polmonare nelle prime fasi della spedizione): guida alpina, svolgeva la maggior parte della sua attività sul Monte Bianco.
-    Ubaldo Rey (1923-1990): guida alpina e gestore di un rifugio alpino, con notevole esperienza sul Monte Bianco e nelle Alpi Occidentali in genere[8].
-    Gino Soldà (1907-1999): il più anziano del gruppo (47 anni) con notevole esperienza nel sesto grado sulle Dolomiti.
-    Sergio Viotto (1928-1964): guida alpina e falegname, aveva salito tutte le "grandi classiche" del Monte Bianco.
-
-10 alpinisti hunza, indicati ufficialmente come "portatori d'alta quota"
-    Fra questi Amir Mahdi raggiunse 8100 metri (nei pressi dell'ultimo campo), e Isakhan raggiunse i 7300 metri del campo VII
-
-5 ricercatori
-
-    Ardito Desio: capo spedizione e geologo.
-    Paolo Graziosi: paleontologo, docente presso l'Università degli Studi di Trieste.
-    Antonio Marussi: geofisico, direttore dell'Istituto di Geofisica dell'Università degli Studi di Trieste.
-    Bruno Zanettin: petrografo, docente dell'Istituto di Geologia presso l'Università degli Studi di Padova.
-    Francesco Lombardi: geodeta[9] e topografo dell'Istituto Geografico Militare.
-
-2 membri pakistani
-
-    Ata Ullah: osservatore del governo pakistano.
-    Badshajan: aiuto topografo.
-
-Furono inoltre assunti moltissimi portatori Balti per il trasporto del materiale lungo il ghiacciaio del Baltoro fino al campo base, sul ghiacciaio Godwin-Austen.
-
-Dal team fu inspiegabilmente escluso Riccardo Cassin, che l'anno precedente aveva condotto con Desio la ricognizione sul posto, il quale fu lasciato a casa in seguito al risultato di discussi esami medici.[10] Secondo un'opinione diffusa, il professor Desio temeva che la forte personalità ed il carisma del Cassin potessero mettere in discussione la sua leadership, adombrandone il merito in caso di riuscita dell'impresa[11][12]. In seguito, tuttavia, i referti medici degli esami si riveleranno artefatti, palesemente falsificati e sollecitati[10]. Esclusi dalla spedizione furono anche qualificati alpinisti come Cesare Maestri e Gigi Panei, sempre in base ai sollecitati falsi referti medici[13]. A Cesare Maestri durante le visite mediche venne riscontrata un'ulcera allo stomaco che poi si è appurato non aveva. Gigi Panei, come Cassin, venne escluso per via del suo carattere duro e inflessibile che avrebbe potuto rappresentare un problema per Desio.[14]. Al posto di Panei venne convocato Sergio Viotto, il suo giovane compagno di cordata nella prima invernale della Cresta dell'Innominata, sul Monte Bianco .[15]. 
+#I La spedizione al K2 del 1954 è stata una spedizione alpinistica italiana patrocinata dal Club Alpino Italiano, dal Consiglio Nazionale delle Ricerche, dall'Istituto Geografico Militare e dallo Stato italiano, e guidata da Ardito Desio. La spedizione portò il 31 luglio 1954, per la prima volta nella storia, al raggiungimento della vetta del K2, la seconda montagna più alta del mondo.
+#G Die Expedition nach K2 von 1954 war eine italienische Bergsteiger-Expedition, die vom Italienische Alpverein, dem National Forschung Institut, dem Militärische Geographische Institut, und dem italienische Staat gesponsored wurde, und von Ardito Desio angeführt wurde.
 
 
-Via seguita
+#I La via seguita fu lo Sperone degli Abruzzi e i due alpinisti che raggiunsero la vetta furono Achille Compagnoni e Lino Lacedelli, con il supporto dell'intero gruppo. Un contributo fondamentale fu fornito da Walter Bonatti e Amir Mahdi che, con un'impresa senza precedenti e affrontando il rischio della morte in un forzato bivacco notturno a oltre 8100 metri, trasportarono a Compagnoni e a Lacedelli le bombole d'ossigeno rivelatesi poi essenziali al compimento della missione. 
+#G Die Route folgte der Sperone degli Abruzzi. Die beide Bergsteiger, die den Gipfel erreichten, waren Achille Compagnoni und Lino Lacedelli, mit Unterstützung der gesamten Gruppe. Einen wesentlichen Beitrag leisteten Walter Bonatti und Amir Mahdi, die mit eine beispielloase Unterfangen, das in einem erzwungenen nächtlichen Biwak in über 8100 meter Höhe dem Tod ausgesetzt war, die Sauerstoffflaschen nach Compagnoni und Lacedelli transportierten, was sich später unerlässlich erwies 
 
-La via seguita fu lo Sperone Abruzzi, scoperto nel 1909 dalla spedizione di Luigi Amedeo di Savoia duca degli Abruzzi[16].
+#I Componenti della spedizione
+#G Die Komponenten der Expedition
 
-Per la conquista della vetta (8611 m) furono posti i seguenti campi (quote secondo la relazione ufficiale di Desio)[17]:
+#I La spedizione del 1954 al K2 era costituita, oltre ad un gran numero di portatori di bassa quota utilizzati per portare il materiale della spedizione dall'ultimo scalo aereo al campo base, da 30 componenti[1][2][3]:
+#G Die Expedition von 1954 nach K2 war, neben einer grosser Anzahl von Trägern aus geringer Höhe,   
 
-    4970 m: campo base
-    5580 m: campo I
-    6095 m: campo II
-    6378 m: campo III
-    6560 m: campo IV
-    6678 m: campo V
-    6970 m: campo VI
-    7345 m: campo VII
-    7627 m: campo VIII
-    8050 m (8060 m sulle carte IGM): campo IX (la quota non è però corretta in quanto in effetti il campo venne posto forse a 8150 m ~ 8160 m, a quota di poco superiore al bivacco Bonatti-Mahdi)[18].
-    7990 m: bivacco Bonatti-Mahdi (la quota non è però corretta in quanto il bivacco, piuttosto, è da situarsi a poco più di 8100 m)[19].
+#I 13 alpinisti italiani
+
+#I     Erich Abram (1922-2017): nonostante non fosse molto noto al grande pubblico, presentava un ampio curriculum di salite di sesto grado nelle Dolomiti.
+#I     Ugo Angelino (1923-2016[4]): di professione rappresentante di commercio, aveva svolto la maggior parte della sua attività alpinistica nelle Alpi Occidentali[5].
+#I     Walter Bonatti (1930-2011): con i suoi 24 anni (compiuti il 22 giugno durante la spedizione) era il più giovane della spedizione. Nonostante questo era già considerato tra i più forti alpinisti del mondo grazie alle sue realizzazioni tra cui la parete est del Grand Capucin.
+#I     Achille Compagnoni (1914-2009) (giunto in vetta il 31 luglio): guida alpina e maestro di sci, con attività alpinistica soprattutto sul Monte Rosa e sul Cervino.
+#I     Mario Fantin (1921-1980) (fotografo e cineoperatore): nonostante non presentasse un curriculum alpinistico sullo stesso livello dei suoi compagni, era conosciuto per le sue riprese fotografiche e cinematografiche in ambito alpinistico.
+#I     Cirillo Floreanini (1924-2003): aveva compiuto notevoli imprese alpinistiche nelle Alpi Giulie. Di professione faceva il disegnatore[6].
+#I     Pino Gallotti (1918-...): in quanto ingegnere, fu designato come responsabile del materiale tecnico della spedizione, fra cui le bombole d'ossigeno. Alpinisticamente aveva una notevole esperienza nelle Alpi Occidentali e in particolare sul Monte Bianco[7].
+#I     Lino Lacedelli (1925-2009) (giunto in vetta il 31 luglio): guida alpina e maestro di sci, facente parte del gruppo degli Scoiattoli di Cortina, aveva compiuto diverse salite estreme in Dolomiti ma aveva esperienza anche nelle Alpi Occidentali.
+#I     Guido Pagani (medico della spedizione): in quanto medico e alpinista di discreto livello fu selezionato quale medico della spedizione.
+#I     Mario Puchoz (1918-1954) (deceduto per edema polmonare nelle prime fasi della spedizione): guida alpina, svolgeva la maggior parte della sua attività sul Monte Bianco.
+#I     Ubaldo Rey (1923-1990): guida alpina e gestore di un rifugio alpino, con notevole esperienza sul Monte Bianco e nelle Alpi Occidentali in genere[8].
+#I     Gino Soldà (1907-1999): il più anziano del gruppo (47 anni) con notevole esperienza nel sesto grado sulle Dolomiti.
+#I     Sergio Viotto (1928-1964): guida alpina e falegname, aveva salito tutte le "grandi classiche" del Monte Bianco.
+
+#I 10 alpinisti hunza, indicati ufficialmente come "portatori d'alta quota"
+#I     Fra questi Amir Mahdi raggiunse 8100 metri (nei pressi dell'ultimo campo), e Isakhan raggiunse i 7300 metri del campo VII
+
+#I 5 ricercatori
+
+#I     Ardito Desio: capo spedizione e geologo.
+#I     Paolo Graziosi: paleontologo, docente presso l'Università degli Studi di Trieste.
+#I     Antonio Marussi: geofisico, direttore dell'Istituto di Geofisica dell'Università degli Studi di Trieste.
+#I     Bruno Zanettin: petrografo, docente dell'Istituto di Geologia presso l'Università degli Studi di Padova.
+#I     Francesco Lombardi: geodeta[9] e topografo dell'Istituto Geografico Militare.
+
+#I 2 membri pakistani
+
+#I     Ata Ullah: osservatore del governo pakistano.
+#I     Badshajan: aiuto topografo.
+
+#I Furono inoltre assunti moltissimi portatori Balti per il trasporto del materiale lungo il ghiacciaio del Baltoro fino al campo base, sul ghiacciaio Godwin-Austen.
+
+#I Dal team fu inspiegabilmente escluso Riccardo Cassin, che l'anno precedente aveva condotto con Desio la ricognizione sul posto, il quale fu lasciato a casa in seguito al risultato di discussi esami medici.[10] Secondo un'opinione diffusa, il professor Desio temeva che la forte personalità ed il carisma del Cassin potessero mettere in discussione la sua leadership, adombrandone il merito in caso di riuscita dell'impresa[11][12]. In seguito, tuttavia, i referti medici degli esami si riveleranno artefatti, palesemente falsificati e sollecitati[10]. Esclusi dalla spedizione furono anche qualificati alpinisti come Cesare Maestri e Gigi Panei, sempre in base ai sollecitati falsi referti medici[13]. A Cesare Maestri durante le visite mediche venne riscontrata un'ulcera allo stomaco che poi si è appurato non aveva. Gigi Panei, come Cassin, venne escluso per via del suo carattere duro e inflessibile che avrebbe potuto rappresentare un problema per Desio.[14]. Al posto di Panei venne convocato Sergio Viotto, il suo giovane compagno di cordata nella prima invernale della Cresta dell'Innominata, sul Monte Bianco .[15]. 
+
+
+#I Via seguita
+
+#I La via seguita fu lo Sperone Abruzzi, scoperto nel 1909 dalla spedizione di Luigi Amedeo di Savoia duca degli Abruzzi[16].
+
+#I Per la conquista della vetta (8611 m) furono posti i seguenti campi (quote secondo la relazione ufficiale di Desio)[17]:
+
+#I     4970 m: campo base
+#I     5580 m: campo I
+#I     6095 m: campo II
+#I     6378 m: campo III
+#I     6560 m: campo IV
+#I     6678 m: campo V
+#I     6970 m: campo VI
+#I     7345 m: campo VII
+#I     7627 m: campo VIII
+#I     8050 m (8060 m sulle carte IGM): campo IX (la quota non è però corretta in quanto in effetti il campo venne posto forse a 8150 m ~ 8160 m, a quota di poco superiore al bivacco Bonatti-Mahdi)[18].
+#I     7990 m: bivacco Bonatti-Mahdi (la quota non è però corretta in quanto il bivacco, piuttosto, è da situarsi a poco più di 8100 m)[19].
 	
 	
-Gestione della spedizione
+#I Gestione della spedizione
 
-La complessità dei problemi e la gravità dei rischi da affrontare, la responsabilità di un'impresa caricata in Italia di molti significati extra-alpinistici e nazionalistici, indussero Ardito Desio a impostare la spedizione con pugno di ferro e disciplina militare, così come Karl Maria Herrligkoffer aveva fatto l'anno prima con la spedizione al Nanga Parbat. Ma come allora, anche qui questo comportamento fu, in seguito, all'origine di molte critiche e polemiche[20].
+#I La complessità dei problemi e la gravità dei rischi da affrontare, la responsabilità di un'impresa caricata in Italia di molti significati extra-alpinistici e nazionalistici, indussero Ardito Desio a impostare la spedizione con pugno di ferro e disciplina militare, così come Karl Maria Herrligkoffer aveva fatto l'anno prima con la spedizione al Nanga Parbat. Ma come allora, anche qui questo comportamento fu, in seguito, all'origine di molte critiche e polemiche[20].
 
 Ardito Desio, per quanto fosse capo della spedizione, non salì mai oltre la quota del campo base (4970 m) e demandò a Compagnoni il comando della spedizione in quota, limitandosi a emettere dal campo base quattordici ordini di servizio dattiloscritti, che venivano poi fatti recapitare, anche con notevole ritardo, ai campi più alti. Il modo autoritario con cui coordinò l'andamento della missione gli guadagnò l'appellativo ironico di "ducetto"[21]. 
 
@@ -200,5 +205,3 @@ Oggi, per festeggiare con piena dignità la ricorrenza, il Club Alpino Italiano 
 (Roberto De Martin, presidente generale del CAI, in La rivista del CAI, Mag-Giu 1994)
 
 
-
-	
