@@ -12,19 +12,38 @@
 #G Die Komponenten der Expedition
 
 #I La spedizione del 1954 al K2 era costituita, oltre ad un gran numero di portatori di bassa quota utilizzati per portare il materiale della spedizione dall'ultimo scalo aereo al campo base, da 30 componenti[1][2][3]:
-#G Die Expedition von 1954 nach K2 war, neben einer grosser Anzahl von Trägern aus geringer Höhe,   
+#G Die Expedition von 1954 nach K2 war, neben einer grosser Anzahl von Trägern aus geringer Höhe, die verwendet wurden, um das Material des Expedition vom letzten Flughafen zum Basislager zu bringen, durch 30 Komponenten gebildet.
 
 #I 13 alpinisti italiani
+#G Die 13 italienische Bergsteiger
 
 #I     Erich Abram (1922-2017): nonostante non fosse molto noto al grande pubblico, presentava un ampio curriculum di salite di sesto grado nelle Dolomiti.
+#G     Erich Abram (1922-2017): Obwohl er in die Öffentlichkeit wenig bekannt war, präsentierte er einen breiten Lebenslauf für Steigungen der sechsten Klasse in den Dolomiten.
+
 #I     Ugo Angelino (1923-2016[4]): di professione rappresentante di commercio, aveva svolto la maggior parte della sua attività alpinistica nelle Alpi Occidentali[5].
+#G     Ugo Angelino (1923-2016[4]): ein professioneller Handelsvertreter, hatte den größten Teil seiner Bergsteigeraktivitäten in den westlichen Alpen [5] ausgeübt.
+
 #I     Walter Bonatti (1930-2011): con i suoi 24 anni (compiuti il 22 giugno durante la spedizione) era il più giovane della spedizione. Nonostante questo era già considerato tra i più forti alpinisti del mondo grazie alle sue realizzazioni tra cui la parete est del Grand Capucin.
+#G     Walter Bonatti (1930-2011): Mit seinen 24 Jahren (abgeschlossen am 22. Juni während der Expedition) war er der jüngste der Expedition. Trotzdem wurde er dank seiner Leistungen, unter anderem der Ostseite des Grand Capucin, zu den stärksten Bergsteigern der Welt gezählt.
+
 #I     Achille Compagnoni (1914-2009) (giunto in vetta il 31 luglio): guida alpina e maestro di sci, con attività alpinistica soprattutto sul Monte Rosa e sul Cervino.
+#G 
+
 #I     Mario Fantin (1921-1980) (fotografo e cineoperatore): nonostante non presentasse un curriculum alpinistico sullo stesso livello dei suoi compagni, era conosciuto per le sue riprese fotografiche e cinematografiche in ambito alpinistico.
+#G 
+
 #I     Cirillo Floreanini (1924-2003): aveva compiuto notevoli imprese alpinistiche nelle Alpi Giulie. Di professione faceva il disegnatore[6].
+#G 
+
 #I     Pino Gallotti (1918-...): in quanto ingegnere, fu designato come responsabile del materiale tecnico della spedizione, fra cui le bombole d'ossigeno. Alpinisticamente aveva una notevole esperienza nelle Alpi Occidentali e in particolare sul Monte Bianco[7].
+#G 
+
 #I     Lino Lacedelli (1925-2009) (giunto in vetta il 31 luglio): guida alpina e maestro di sci, facente parte del gruppo degli Scoiattoli di Cortina, aveva compiuto diverse salite estreme in Dolomiti ma aveva esperienza anche nelle Alpi Occidentali.
+#G 
+
 #I     Guido Pagani (medico della spedizione): in quanto medico e alpinista di discreto livello fu selezionato quale medico della spedizione.
+#G 
+
 #I     Mario Puchoz (1918-1954) (deceduto per edema polmonare nelle prime fasi della spedizione): guida alpina, svolgeva la maggior parte della sua attività sul Monte Bianco.
 #I     Ubaldo Rey (1923-1990): guida alpina e gestore di un rifugio alpino, con notevole esperienza sul Monte Bianco e nelle Alpi Occidentali in genere[8].
 #I     Gino Soldà (1907-1999): il più anziano del gruppo (47 anni) con notevole esperienza nel sesto grado sulle Dolomiti.
