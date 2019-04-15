@@ -27,32 +27,43 @@
 #G     Walter Bonatti (1930-2011): Mit seinen 24 Jahren (abgeschlossen am 22. Juni während der Expedition) war er der jüngste der Expedition. Trotzdem wurde er dank seiner Leistungen, unter anderem der Ostseite des Grand Capucin, zu den stärksten Bergsteigern der Welt gezählt.
 
 #I     Achille Compagnoni (1914-2009) (giunto in vetta il 31 luglio): guida alpina e maestro di sci, con attività alpinistica soprattutto sul Monte Rosa e sul Cervino.
-#G 
+#G     Achille Compagnoni (1914-2009) (der am 31. Juli den Gipfel erreichte): Bergführer und Skilehrer, insbesondere bei Bergsteigen auf dem Monte Rosa und dem Matterhorn.
 
 #I     Mario Fantin (1921-1980) (fotografo e cineoperatore): nonostante non presentasse un curriculum alpinistico sullo stesso livello dei suoi compagni, era conosciuto per le sue riprese fotografiche e cinematografiche in ambito alpinistico.
-#G 
+#G     Mario Fantin (1921-1980) (Fotograf und Kameramann): Obwohl er keinen Kletterlebenslauf auf derselben Ebene wie seine Begleiter präsentierte, war er für seine fotografische und kinematografische Fotografie im Bereich Bergsteigen bekannt. 
 
 #I     Cirillo Floreanini (1924-2003): aveva compiuto notevoli imprese alpinistiche nelle Alpi Giulie. Di professione faceva il disegnatore[6].
-#G 
+#G     Cirillo Floreanini (1924-2003): Er hatte in den Julischen Alpen bemerkenswerte Bergsteigerleistungen vollbracht. Er war von Beruf Zeichner [6].
 
 #I     Pino Gallotti (1918-...): in quanto ingegnere, fu designato come responsabile del materiale tecnico della spedizione, fra cui le bombole d'ossigeno. Alpinisticamente aveva una notevole esperienza nelle Alpi Occidentali e in particolare sul Monte Bianco[7].
-#G 
+#G     Pino Gallotti (1918 -...): Als Ingenieur wurde er für das technische Material der Expedition verantwortlich gemacht, einschließlich Sauerstoffflaschen. Er hatte eine bemerkenswerte Erfahrung in den Westalpen und insbesondere auf dem Mont Blanc [7]. 
 
 #I     Lino Lacedelli (1925-2009) (giunto in vetta il 31 luglio): guida alpina e maestro di sci, facente parte del gruppo degli Scoiattoli di Cortina, aveva compiuto diverse salite estreme in Dolomiti ma aveva esperienza anche nelle Alpi Occidentali.
-#G 
+#G     Lino Lacedelli (1925-2009) (der am 31 Juli den Gipfel erreichte): Bergführer und Skilehrer, Teil der Gruppe der Scoiattoli di Cortina, hatten in den Dolomiten mehrere extreme Anstiege unternommen, aber auch Erfahrung in den Westalpen.
 
 #I     Guido Pagani (medico della spedizione): in quanto medico e alpinista di discreto livello fu selezionato quale medico della spedizione.
-#G 
+#G     Guido Pagani (Expeditionsarzt): Als Arzt und anständiger Kletterer wurde er als Expeditionsarzt ausgewählt.
 
 #I     Mario Puchoz (1918-1954) (deceduto per edema polmonare nelle prime fasi della spedizione): guida alpina, svolgeva la maggior parte della sua attività sul Monte Bianco.
+#G     Mario Puchoz (1918-1954) (gestorben am Lungenödem im frühen Stadium der Expedition): Bergführer, der die meisten seiner Aktivitäten auf dem Mont Blanc durchführte.
+
 #I     Ubaldo Rey (1923-1990): guida alpina e gestore di un rifugio alpino, con notevole esperienza sul Monte Bianco e nelle Alpi Occidentali in genere[8].
+#G     
+
 #I     Gino Soldà (1907-1999): il più anziano del gruppo (47 anni) con notevole esperienza nel sesto grado sulle Dolomiti.
+#G     
+
 #I     Sergio Viotto (1928-1964): guida alpina e falegname, aveva salito tutte le "grandi classiche" del Monte Bianco.
+#G     
 
 #I 10 alpinisti hunza, indicati ufficialmente come "portatori d'alta quota"
+#G 
+
 #I     Fra questi Amir Mahdi raggiunse 8100 metri (nei pressi dell'ultimo campo), e Isakhan raggiunse i 7300 metri del campo VII
+#G     
 
 #I 5 ricercatori
+#G 
 
 #I     Ardito Desio: capo spedizione e geologo.
 #I     Paolo Graziosi: paleontologo, docente presso l'Università degli Studi di Trieste.
