@@ -1,12 +1,12 @@
 #I Spedizione al K2 del 1954
-#G Expedition nach K2 von 1954
+#G Expedition zum K2 im Jahr 1954
 
 #I La spedizione al K2 del 1954 è stata una spedizione alpinistica italiana patrocinata dal Club Alpino Italiano, dal Consiglio Nazionale delle Ricerche, dall'Istituto Geografico Militare e dallo Stato italiano, e guidata da Ardito Desio. La spedizione portò il 31 luglio 1954, per la prima volta nella storia, al raggiungimento della vetta del K2, la seconda montagna più alta del mondo.
-#G Die Expedition nach K2 von 1954 war eine italienische Bergsteiger-Expedition, die vom Italienische Alpverein, dem National Forschung Institut, dem Militärische Geographische Institut, und dem italienische Staat gesponsored wurde, und von Ardito Desio angeführt wurde.
+#G Die Expedition zum K2 von 1954 war eine italienische Bergsteiger-Expedition, die vom Italienische Alpverein, dem National Forschung Institut, dem Militärische Geographische Institut, und dem italienische Staat gesponsored wurde, und von Ardito Desio geleitet wurde.
 
 
 #I La via seguita fu lo Sperone degli Abruzzi e i due alpinisti che raggiunsero la vetta furono Achille Compagnoni e Lino Lacedelli, con il supporto dell'intero gruppo. Un contributo fondamentale fu fornito da Walter Bonatti e Amir Mahdi che, con un'impresa senza precedenti e affrontando il rischio della morte in un forzato bivacco notturno a oltre 8100 metri, trasportarono a Compagnoni e a Lacedelli le bombole d'ossigeno rivelatesi poi essenziali al compimento della missione. 
-#G Die Route folgte der Sperone degli Abruzzi. Die beide Bergsteiger, die den Gipfel erreichten, waren Achille Compagnoni und Lino Lacedelli, mit Unterstützung der gesamten Gruppe. Einen wesentlichen Beitrag leisteten Walter Bonatti und Amir Mahdi, die mit eine beispielloase Unterfangen, das in einem erzwungenen nächtlichen Biwak in über 8100 meter Höhe dem Tod ausgesetzt war, die Sauerstoffflaschen nach Compagnoni und Lacedelli transportierten, was sich später unerlässlich erwies 
+#G Die Route folgte der Sperone degli Abruzzi. Die beide Bergsteiger, die den Gipfel erreichten, waren Achille Compagnoni und Lino Lacedelli, mit Unterstützung der gesamten Gruppe. Einen wesentlichen Beitrag leisteten Walter Bonatti und Amir Mahdi, die mit eine beispiellose Unterfangen, das in einem erzwungenen nächtlichen Biwak in über 8100 meter Höhe dem Tod ausgesetzt war, die Sauerstoffflaschen nach Compagnoni und Lacedelli transportierten, was sich später unerlässlich erwies 
 
 #I Componenti della spedizione
 #G Die Komponenten der Expedition
