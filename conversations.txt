@@ -1,6 +1,7 @@
 in der gleichen Stadt (Fem Dat -> der schönen Frau)
 in dem gleichen Dorf (Neu Dat -> dem kleinen Kind) = im gleichen Dorf (nur MAS oder NEU)
 ein anderes Thema (Neu Nom -> ein kleines Kind)
+in meiner Küche (dat)
 
 klagen über etw (ACC) = sich beschweren über 
 ich klage über die lauten Kinder (NEU AKK PLUR) - das laute Kind (NEU AKK SING)
@@ -21,13 +22,13 @@ Bergrettung Dienst muss eingreifen
 
 Heutzutage 
 
-von aus bei mit nach seit zu -> DAT, und NUR DAT!
+von aus bei mit nach seit zu -> IMMER DAT, und NUR DAT!
 für durch um gegen ohne bis (IMMER MIT AKK)
 
 das ist für dich (AKK), für den Mann, für das Kind
 komm mit mir (DAT)
 
-eine Frau ohne einen Mann (MAS AKK), ist wie ein Fisch (MAS) ohne ein Fahrrad (NEU AKK)
+eine Frau ohne einen Mann (MAS AKK), ist wie ein Fisch (MAS NOM) ohne ein Fahrrad (NEU AKK)
 ohne dich
 durch einen Tunnel (MAS) gehen
 ich gehe um (AKK) den Block (MAS)
@@ -67,6 +68,9 @@ den ganzen Tag hat es geschneit
 vor ein Paar Tagen
 
 ich nutze es jeden Tag (MAS), jeden Abend, auf jeden Fall
+
+alle sex Monate
+ein ruhiges Leben (das Leben)
 
 Es war ein sehr anstrengender/mühsamer Tag (der Tag, der Mann)
 
@@ -110,6 +114,10 @@ in dieser Zeit
 
 ich komme aus (DAT) London
 ich komme aus den (DAT PLUR) USA
+ich komme aus der Schweiz
+ich komme aus der Schweiz
+
+aus aller Welt
 
 er trinkt Bier aus (DAT NEU) einem Glas (NEU, das Glas)
 
@@ -482,7 +490,7 @@ wenn Mann einen Garten hat
 houses=Häuser
 peaches=Pfirsiche
 
-Ich arbeite in einer Bank / bei einer Bank
+Ich arbeite in einer Bank / bei einer Bank (dat)
 Manche Kollegen dürfen gelegentlich von zu Hause aus arbeiten
 Swan=Schwan,Schwäne
 eine Gans, Gänse=ah du dumme Gans, ah du blöde kuh
@@ -490,7 +498,7 @@ Mutter,Mütter (plur)
 der Körper kann sich nicht daran gewöhnen
 ich wünsche ihnen 
 auch ein blinder Huhn findet manchmal einen Korn
-
+ich wünsche dir einen Schönen Abend (der)
 ______________________
 
 
@@ -506,5 +514,61 @@ im Tag, im Jahr, in der Nacht
 am Abend, am Vormittag, 
 
 in der Mitte von Italien
+
+
+Schweiß, schwitzen, 
+zum ersten Mal (neutrum dat)
+
+_______
+
+20190506
+anhaben=to wear 
+Einkäufe erledigen
+an diese Schule geschrieben
+Schule,Schulen
+der Fall
+zurzeit
+in den nächsten Jahren (DAT PLUR)
+
+1. Die Testpersonen von LiveTest arbeiten von zu Hause aus oder in ihren eigenen Büros.
+2. Wir stellen dir hier die 10 besten Arbeiten von zu Hause aus vor.
+3. Diesen Luxus – von zu Hause aus zu arbeiten – gönnen sich immer mehr Menschen.
+
+von hier aus sind 20 Km
+
+Das Lamm (baby -> neutrum, wie das Kind) 
+
+Der Löwe frisst das Lamm (Präsens)
+Das Lamm wird von dem Löwen gefressen (Präsens)
+
+Der Löwe frass das Lamm  (Präteritum: älter als Perfekt)
+Das Lamm wurde von dem Löwen gefressen (Präteritum)
+
+Der Löwe hat das Lamm gefressen (Perfekt : näher in der Zeit)
+Das Lamm ist von dem Löwen gefressen worden (Perfekt)
+
+Der Löwe hatte das Lamm gefressen (Plusquamperfekt)
+Das Lamm war von dem Löwen gefressen worden (Plusquamperfekt)
+
+
+Der Polizist hält den Autofahrer an. (Präsens)
+Der Autofahrer wird von dem Polizisten angehalten  (Präsens)
+
+Der Polizist hielt den Autofahrer an. (Präteritum)
+Der Autofahrer wurde von dem Polizisten angehalten  (Präteritum)
+
+Der Polizist hat den Autofahrer angehalten. (Perfekt)
+Der Autofahrer ist von dem Polizisten angehalten worden (Perfekt)
+
+Der Polizist hatte den Autofahrer angehalten (Plusquamperfekt)
+Der Autofahrer war von dem Polizisten angehalten worden (Plusquamperfekt)
+
+Ein Zeuge beobachtet die Tat  (Präsens)
+Die Tat wird von einem Zeugen beobachtet (Präsens)
+
+Ein Zeuge beobachtete die Tat  (Präteritum)
+wurde
+
+Das ist ein Muss ! Notwendig !
 
 
