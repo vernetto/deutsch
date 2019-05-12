@@ -11,6 +11,7 @@
 
 
 ||NOM| AKK|GEN| DAT| 
+|-|-|-|-|-|-|
 ||ich| mich| meiner| mir|
 ||du| dich| deiner| dir|
 ||er | ihn | seiner| ihm | 
