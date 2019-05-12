@@ -10,12 +10,16 @@
 ||DAT|einem Wagen | einer Dose| einem Lied| |
 
 
-||NOM|AKK|GEN|DAT| 
+||NOM|AKK|DAT|GEN| 
 |-|-|-|-|-|
-||ich| mich| meiner| mir| |
-||du| dich| deiner| dir| |
-||er | ihn | seiner| ihm | | 
+||ich| mich| mir|meiner| |
+||du| dich| dir|deiner| |
+||er | ihn |  ihm |seiner| | 
 ||sie| sie| ihrer| ihr|  |
+||wir| uns| uns| unser|  |
+||ihr| euch| euch| euer|  |
+||sie| sie | ihnen| ihrer|  |
+
 
 
 #Adjektive nach bestimmtem Artikel

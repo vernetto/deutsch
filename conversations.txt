@@ -126,13 +126,12 @@ in dieser Zeit
 ich komme aus (DAT) London
 ich komme aus den (DAT PLUR) USA
 ich komme aus der Schweiz
-ich komme aus der Schweiz
 
-aus aller Welt
+aus aller Welt (FEM DAT)
 
 er trinkt Bier aus (DAT NEU) einem Glas (NEU, das Glas)
 
-für den (MASC AKK) Monat Mai
+für den (MAS AKK) Monat Mai
 
 herausforderung = challenge 
 
