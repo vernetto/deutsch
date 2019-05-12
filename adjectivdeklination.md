@@ -1,9 +1,9 @@
 ||Case|Masc|Fem|Neut|Remarks|
 |-|-|-|-|-|-|
-|NOM|der Wagen | die Dose| das Lied| |
-|NOM|ein Wagen | eine Dose| ein Lied| |
-|AKK|den Wagen | die Dose| das Lied| in AKK only MAS changes resp. to NOM|
-|AKK|einrn Wagen | eine Dose| ein Lied| "" |
+||NOM|der Wagen | die Dose| das Lied| |
+||NOM|ein Wagen | eine Dose| ein Lied| |
+||AKK|den Wagen | die Dose| das Lied| in AKK only MAS changes resp. to NOM|
+||AKK|einrn Wagen | eine Dose| ein Lied| "" |
 
 
 
