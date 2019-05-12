@@ -1,7 +1,19 @@
+Bestimmte:
+NOM: DER_DIE_DAS_DIE E_E_E_EN 
+AKK: DEN_DIE_DAS_DIE EN_E_E_EN
+DAT: DEM_DER_DEM_DEN EN_EN_EN_EN
+GEN: DES_DER_DES_DER EN_EN_EN_EN
+
+Unbestimmte:
+NOM: _E_ ER_E_ES 
+AKK: EN_E_ EN_E_ES
+DAT: EM_ER_EM EN_EN_EN
+GEN: ES_ER_ES EN_EN_EN
+
 in der gleichen Stadt (Fem Dat -> der schönen Frau)
 in dem gleichen Dorf (Neu Dat -> dem kleinen Kind) = im gleichen Dorf (nur MAS oder NEU)
 ein anderes Thema (Neu Nom -> ein kleines Kind)
-in meiner Küche (dat)
+in meiner Küche (Fem Dat -> einer schönen Frau)
 
 klagen über etw (ACC) = sich beschweren über 
 ich klage über die lauten Kinder (NEU AKK PLUR) - das laute Kind (NEU AKK SING)
@@ -34,10 +46,9 @@ durch einen Tunnel (MAS) gehen
 ich gehe um (AKK) den Block (MAS)
 bis kommende Woche (FEM AKK) , bis kommenden Mittwoch (MAS AKK) 
 
-
 bestehen aus 11 Fächer (das Fach/die Fächer) (DAT)
 
-um Almosen betteln und ich hatte Mitleid mit ihm (mit diesem Mann - mit diesem Kind - mit dieser Frau)
+um Almosen betteln und ich hatte Mitleid mit ihm (mit diesem Mann - mit dieser Frau - mit diesem Kind)
 
 (NOM) (GEN) (DAT) (AKK)
 du, deiner, dir, dich
