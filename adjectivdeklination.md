@@ -10,10 +10,11 @@
 ||DAT|einem Wagen | einer Dose| einem Lied| |
 
 
-NOM GEN DAT AKK
-du, deiner, dir, dich
-er , seiner , ihm , ihn 
-sie, ihrer, ihr, sie
+||NOM| AKK|GEN| DAT| 
+||ich| mich| meiner| mir|
+||du| dich| deiner| dir|
+||er | ihn | seiner| ihm | 
+||sie| sie| ihrer| ihr| 
 
 
 #Adjektive nach bestimmtem Artikel
