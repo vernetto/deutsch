@@ -10,6 +10,12 @@
 ||DAT|einem Wagen | einer Dose| einem Lied| |
 
 
+NOM GEN DAT AKK
+du, deiner, dir, dich
+er , seiner , ihm , ihn 
+sie, ihrer, ihr, sie
+
+
 #Adjektive nach bestimmtem Artikel
 
 ||MÄN  |  WEI | SAC |
