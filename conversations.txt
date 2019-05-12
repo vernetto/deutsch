@@ -195,7 +195,7 @@ Libyen
 Erzgebirge
 
 ich gehe in die (AKK) Kirche (FEM)
-ich muss die Milch in den Kühlschrank (MAS)
+ich muss die Milch (FEM) in den Kühlschrank (MAS)
 
 Karen ist beim Artz
 Karen ist seit zehn Tagen Krank (der Tag, die Tage, aber DAT ist den Tagen)
@@ -203,10 +203,7 @@ Karen bekommt vom (=von dem) Artz Penicyllin
 Karen geht nicht mehr zur (zu der) Schule (FEM) 
 Ich fahre NACH Afrika (NACH ist für Lände oder Städte oder Kontinenten) ... aber AUSNAHME ist NACH HAUSE
 
-
 Schöne Woche noch
-
-
 
 anderthalb = 1.5 
 Nachtleben
@@ -224,8 +221,7 @@ der Enkel, die Enkelin, die Enkeln = grandchild
 der Neffe/die Nichte=nipote
 
 tagsüber=during the day
-sie wohnen bei seiner Grossmutter / bei seinem Grossvater / bein seinen Grosseltern
-
+sie wohnt bei seiner Grossmutter (FEM) / bei seinem Grossvater (MAS) / bein seinen Grosseltern (PLU)
 ich gehe zu dem Fotogeschäft / zum Fotogeschäft
 
 durch (AKK MAS) den Park
@@ -235,7 +231,7 @@ ich bekomme eine Tablette von dem (DAT MAS) Arzt
 Berlin war nach dem Krieg zertstört  
 ich habe das Geld von meiner Mutter bekommen
 ich habe das Geld von meinem Vater bekommen
-ich habe das Geld von meinen Eltern bekommen
+ich habe das Geld von meinen Eltern (PLU) bekommen
 
 wir sind am Ende dieser Stunde (FEM GEN), ende des Unterrichts (MAS GEN)
 
@@ -256,11 +252,10 @@ bist du am Wochenende in der Schweiz gewesen?
 er nach Italien gefahren ist
 
 vor allem (haptsächlich)
-er arbeitet bei einer zweisprachigen Firma
+er arbeitet bei einer zweisprachigen Firma (FEM)
 
-
-TE KA MO LO
-Normalerweise gehe ich jeden Tag um 8:00 Urh aus dem Haus (das Haus)
+TE KA MO LO  TEMPORAL KAUSAL MODAL LOKAL
+Normalerweise gehe ich jeden Tag um 8:00 Urh aus dem Haus (NEU)
  
 essen (verb) -> Essen (NEUTRUM) substantiv
 
@@ -269,177 +264,6 @@ gegenüber (DAT), dem Bahnhof (MAS) genegüber / genegüber dem Bahnhof
 endung Universität immer FEM
   
 von Bergen umgeben (surrounded by mountains)
-
-
-______________ ARTE
-
-
-abgesehen=apart
-unübersehbar=incalculable
-langfristig =long term
-Lieferung frei Bordsteinkante=Delivery free curbside
-abgeholt=picked up
-ermüdung=fatigue
-aus heiterem Himmel=out of the blue
-eignet sich hervorragend=is great
-vormachen=demonstrate
-wiederbelebung=reanimation
-betrachter=observer
-frühchen=premature child
-abdrehen=turn
-nachhelfen=help out
-Punktion =injection
-herbeigeeilt=hastened
-herzversagen=heart failure
-umgehen= workaround
-ich gerne viel von mir preisgeben=I like to reveal a lot about myself
-Beziehungsaufbau=relationship building
-
-Beschwerden=complaints
-Völlegefühl=bloating
-verschluckt=swallowed
-
-Sodbrennen=heartburn
-
-irgendwer=anyone
-alle Achtung=full respect
-in digitalen Zeitalter=in the digital age
-Medikamenten verabreichen=administer
-
-Der passt sich den Gegebenheiten an=it adapts to the circumstances
-Unbefugten=unauthorized
-ähnlich dem Verfahren=like the process
-weitestgehend=largely
-auseinanderhalten=keep apart
-
-
-Schleichend=creeping
-loswerden=get rid of
-Zahnschmelz=tooth enamel
-Geld verschwenden=waste money
-Geld ausgeben=spend money
-
-
-auf ihre Bedürfnisse einzugehen=to respond to their needs
-
-bedürfnisbefriedigung=need satisfaction
-fehlanzeige=dead loss, nil, none
-
-nach belieben=at will
-
-höchstgenau=with high precision
-
-
-Zustand=state
-angesiedelt=settled
-karg=barren
-gestaltet=designed
-Unikate=unique
-wegrand=wayside
-ähneln=be similar to
-Gehöfte=Homesteads
-verrichten=perform
-sticken, häkeln, flechten=embroider, crochet, braid
-Scheu=shy
-Gehörn=horned
-Bräuche=custome
-gesellige=sociable
-vorlage=template
-filzen=felt
-gehaltvoll=nutritious
-obhut=
-überliefert=traditional
-vorübergehend=temporarily
-verweilen=dwell
-vogelkunde=ornithology
-umhergezogen=went about
-verzehren=consume
-Grunz=oink
-Euter=udder
-unabdinglich=indispensable
-Grasland=prairie
-Hirten=shepherd
-erlegt=killed
-Geistesrichtungen=schools of thought
-auffordert=asks
-Zusammenhänge=relationships
-umgestülpt=inverted
-nachwuchs=offsprings
-
-
-https://www.arte.tv/de/videos/065301-001-A/traumrouten-des-orients/
-Elefantenrüssel=trunk
-erschließen=open up, develop
-überragend=outstanding
-ausnahmezustand=state of emergency
-
-
-Fahrtauglichkeit=driving ability
-herabsetzen=reduce
-Überholen=overtaking
-Abbiegen=turn
-abblendlicht=dimmed headlights
-Scheinwerfer=headlights
-ausweichen=avoid
-lediglich=merely
-Verzweigung=branching
-Rechtsvortritt=right of way
-Nebenstrasse=side street
-
-Anhängers=trailer
-Ankuppeln=connect
-einspuren=einordnen=place
-trübem=cloudy
-verweigern=deny
-Zufahrt=entrance
-Haftung=adhesive force,grip
-
-aufwendig=costly
-Aufwand=effort, expenditure
-Nachfrage=demand
-geschmirgelt=sanded
-griffig=firm
-prunkvoll=magnificently
-schuldigkeit=duty
-körperertüchtigung=physical training
-entrinnen=escape
-spendabel=generous
-befindlichkeit=mood
-Stechschritt=goose step
-verzichten=renounce
-gemeinsamkeiten=similarities
-verlustreiche=wasteful
-wuselige=bustling
-unumstritten=undisputed
-Zuweilen=occasionally
-mitleidenschaft gezogenen Städten=affected cities
-unbeugsam=unbending
-Gewinnspanne=margin
-
-
-mutmaßliche=supposed
-betörende=captivating
-vermächtnis=legacy
-ansehen=regard
-ertüchtigung=exercise
-Überlieferung=tradition
-nachzugehen=pursue
-belebt=busy, animated
-verdrängen=replace,repress
-fürsorgliche Betreuung=caring care
-barmherzigkeit=compassion
-verstreut=scattered
-Teig=dough
-knusprig=crispy
-Errungenschaften=achievements
-heiter=cheerful,bright
-derweil=meantime
-beleidigen=offend
-Sachgeschenke=tangible Gifts
-genascht=nibbled
-ersehnte=awaited
-erwerben=purchase
-gedeiht=flourishes
 
 
 
@@ -580,5 +404,7 @@ Ein Zeuge beobachtete die Tat  (Präteritum)
 wurde
 
 Das ist ein Muss ! Notwendig !
+
+
 
 
