@@ -1,3 +1,26 @@
+||Case|Masc|Fem|Neut|Remarks|
+|-|-|-|-|-|-|
+||NOM|der Wagen | die Dose| das Lied| |
+||NOM|ein Wagen | eine Dose| ein Lied| |
+||AKK|den Wagen | die Dose| das Lied| MAS der->den ein->einen|
+||AKK|einen Wagen | eine Dose| ein Lied| "" |
+||GEN|des Wagen | der Dose| des Lied| der->des das->des die->der ein->eines eine->einer|
+||GEN|eines Wagen | einer Dose| eines Lied| |
+||DAT|dem Wagen | der Dose| dem Lied| |
+||DAT|einem Wagen | einer Dose| einem Lied| |
+
+
+||NOM|AKK|DAT|GEN| 
+|-|-|-|-|-|
+||ich| mich| mir|meiner| |
+||du| dich| dir|deiner| |
+||er | ihn |  ihm |seiner| | 
+||sie| sie| ihrer| ihr|  |
+||wir| uns| uns| unser|  |
+||ihr| euch| euch| euer|  |
+||sie| sie | ihnen| ihrer|  |
+
+
 
 #Adjektive nach bestimmtem Artikel
 

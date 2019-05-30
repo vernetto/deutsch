@@ -1,6 +1,19 @@
+Bestimmte:
+NOM: DER_DIE_DAS_DIE E_E_E_EN 
+AKK: DEN_DIE_DAS_DIE EN_E_E_EN
+DAT: DEM_DER_DEM_DEN EN_EN_EN_EN
+GEN: DES_DER_DES_DER EN_EN_EN_EN
+
+Unbestimmte:
+NOM: _E_ ER_E_ES 
+AKK: EN_E_ EN_E_ES
+DAT: EM_ER_EM EN_EN_EN
+GEN: ES_ER_ES EN_EN_EN
+
 in der gleichen Stadt (Fem Dat -> der schönen Frau)
 in dem gleichen Dorf (Neu Dat -> dem kleinen Kind) = im gleichen Dorf (nur MAS oder NEU)
 ein anderes Thema (Neu Nom -> ein kleines Kind)
+in meiner Küche (Fem Dat -> einer schönen Frau)
 
 klagen über etw (ACC) = sich beschweren über 
 ich klage über die lauten Kinder (NEU AKK PLUR) - das laute Kind (NEU AKK SING)
@@ -21,22 +34,21 @@ Bergrettung Dienst muss eingreifen
 
 Heutzutage 
 
-von aus bei mit nach seit zu -> DAT, und NUR DAT!
+von aus bei mit nach seit zu -> IMMER DAT, und NUR DAT!
 für durch um gegen ohne bis (IMMER MIT AKK)
 
 das ist für dich (AKK), für den Mann, für das Kind
 komm mit mir (DAT)
 
-eine Frau ohne einen Mann (MAS AKK), ist wie ein Fisch (MAS) ohne ein Fahrrad (NEU AKK)
+eine Frau ohne einen Mann (MAS AKK), ist wie ein Fisch (MAS NOM) ohne ein Fahrrad (NEU AKK)
 ohne dich
 durch einen Tunnel (MAS) gehen
 ich gehe um (AKK) den Block (MAS)
 bis kommende Woche (FEM AKK) , bis kommenden Mittwoch (MAS AKK) 
 
-
 bestehen aus 11 Fächer (das Fach/die Fächer) (DAT)
 
-um Almosen betteln und ich hatte Mitleid mit ihm (mit diesem Mann - mit diesem Kind - mit dieser Frau)
+um Almosen betteln und ich hatte Mitleid mit ihm (mit diesem Mann - mit dieser Frau - mit diesem Kind)
 
 (NOM) (GEN) (DAT) (AKK)
 du, deiner, dir, dich
@@ -67,6 +79,9 @@ den ganzen Tag hat es geschneit
 vor ein Paar Tagen
 
 ich nutze es jeden Tag (MAS), jeden Abend, auf jeden Fall
+
+alle sex Monate
+ein ruhiges Leben (das Leben)
 
 Es war ein sehr anstrengender/mühsamer Tag (der Tag, der Mann)
 
@@ -110,10 +125,13 @@ in dieser Zeit
 
 ich komme aus (DAT) London
 ich komme aus den (DAT PLUR) USA
+ich komme aus der Schweiz
+
+aus aller Welt (FEM DAT)
 
 er trinkt Bier aus (DAT NEU) einem Glas (NEU, das Glas)
 
-für den (MASC AKK) Monat Mai
+für den (MAS AKK) Monat Mai
 
 herausforderung = challenge 
 
@@ -177,7 +195,7 @@ Libyen
 Erzgebirge
 
 ich gehe in die (AKK) Kirche (FEM)
-ich muss die Milch in den Kühlschrank (MAS)
+ich muss die Milch (FEM) in den Kühlschrank (MAS)
 
 Karen ist beim Artz
 Karen ist seit zehn Tagen Krank (der Tag, die Tage, aber DAT ist den Tagen)
@@ -185,10 +203,7 @@ Karen bekommt vom (=von dem) Artz Penicyllin
 Karen geht nicht mehr zur (zu der) Schule (FEM) 
 Ich fahre NACH Afrika (NACH ist für Lände oder Städte oder Kontinenten) ... aber AUSNAHME ist NACH HAUSE
 
-
 Schöne Woche noch
-
-
 
 anderthalb = 1.5 
 Nachtleben
@@ -206,8 +221,7 @@ der Enkel, die Enkelin, die Enkeln = grandchild
 der Neffe/die Nichte=nipote
 
 tagsüber=during the day
-sie wohnen bei seiner Grossmutter / bei seinem Grossvater / bein seinen Grosseltern
-
+sie wohnt bei seiner Grossmutter (FEM) / bei seinem Grossvater (MAS) / bein seinen Grosseltern (PLU)
 ich gehe zu dem Fotogeschäft / zum Fotogeschäft
 
 durch (AKK MAS) den Park
@@ -217,7 +231,7 @@ ich bekomme eine Tablette von dem (DAT MAS) Arzt
 Berlin war nach dem Krieg zertstört  
 ich habe das Geld von meiner Mutter bekommen
 ich habe das Geld von meinem Vater bekommen
-ich habe das Geld von meinen Eltern bekommen
+ich habe das Geld von meinen Eltern (PLU) bekommen
 
 wir sind am Ende dieser Stunde (FEM GEN), ende des Unterrichts (MAS GEN)
 
@@ -238,11 +252,10 @@ bist du am Wochenende in der Schweiz gewesen?
 er nach Italien gefahren ist
 
 vor allem (haptsächlich)
-er arbeitet bei einer zweisprachigen Firma
+er arbeitet bei einer zweisprachigen Firma (FEM)
 
-
-TE KA MO LO
-Normalerweise gehe ich jeden Tag um 8:00 Urh aus dem Haus (das Haus)
+TE KA MO LO  TEMPORAL KAUSAL MODAL LOKAL
+Normalerweise gehe ich jeden Tag um 8:00 Urh aus dem Haus (NEU)
  
 essen (verb) -> Essen (NEUTRUM) substantiv
 
@@ -251,177 +264,6 @@ gegenüber (DAT), dem Bahnhof (MAS) genegüber / genegüber dem Bahnhof
 endung Universität immer FEM
   
 von Bergen umgeben (surrounded by mountains)
-
-
-______________ ARTE
-
-
-abgesehen=apart
-unübersehbar=incalculable
-langfristig =long term
-Lieferung frei Bordsteinkante=Delivery free curbside
-abgeholt=picked up
-ermüdung=fatigue
-aus heiterem Himmel=out of the blue
-eignet sich hervorragend=is great
-vormachen=demonstrate
-wiederbelebung=reanimation
-betrachter=observer
-frühchen=premature child
-abdrehen=turn
-nachhelfen=help out
-Punktion =injection
-herbeigeeilt=hastened
-herzversagen=heart failure
-umgehen= workaround
-ich gerne viel von mir preisgeben=I like to reveal a lot about myself
-Beziehungsaufbau=relationship building
-
-Beschwerden=complaints
-Völlegefühl=bloating
-verschluckt=swallowed
-
-Sodbrennen=heartburn
-
-irgendwer=anyone
-alle Achtung=full respect
-in digitalen Zeitalter=in the digital age
-Medikamenten verabreichen=administer
-
-Der passt sich den Gegebenheiten an=it adapts to the circumstances
-Unbefugten=unauthorized
-ähnlich dem Verfahren=like the process
-weitestgehend=largely
-auseinanderhalten=keep apart
-
-
-Schleichend=creeping
-loswerden=get rid of
-Zahnschmelz=tooth enamel
-Geld verschwenden=waste money
-Geld ausgeben=spend money
-
-
-auf ihre Bedürfnisse einzugehen=to respond to their needs
-
-bedürfnisbefriedigung=need satisfaction
-fehlanzeige=dead loss, nil, none
-
-nach belieben=at will
-
-höchstgenau=with high precision
-
-
-Zustand=state
-angesiedelt=settled
-karg=barren
-gestaltet=designed
-Unikate=unique
-wegrand=wayside
-ähneln=be similar to
-Gehöfte=Homesteads
-verrichten=perform
-sticken, häkeln, flechten=embroider, crochet, braid
-Scheu=shy
-Gehörn=horned
-Bräuche=custome
-gesellige=sociable
-vorlage=template
-filzen=felt
-gehaltvoll=nutritious
-obhut=
-überliefert=traditional
-vorübergehend=temporarily
-verweilen=dwell
-vogelkunde=ornithology
-umhergezogen=went about
-verzehren=consume
-Grunz=oink
-Euter=udder
-unabdinglich=indispensable
-Grasland=prairie
-Hirten=shepherd
-erlegt=killed
-Geistesrichtungen=schools of thought
-auffordert=asks
-Zusammenhänge=relationships
-umgestülpt=inverted
-nachwuchs=offsprings
-
-
-https://www.arte.tv/de/videos/065301-001-A/traumrouten-des-orients/
-Elefantenrüssel=trunk
-erschließen=open up, develop
-überragend=outstanding
-ausnahmezustand=state of emergency
-
-
-Fahrtauglichkeit=driving ability
-herabsetzen=reduce
-Überholen=overtaking
-Abbiegen=turn
-abblendlicht=dimmed headlights
-Scheinwerfer=headlights
-ausweichen=avoid
-lediglich=merely
-Verzweigung=branching
-Rechtsvortritt=right of way
-Nebenstrasse=side street
-
-Anhängers=trailer
-Ankuppeln=connect
-einspuren=einordnen=place
-trübem=cloudy
-verweigern=deny
-Zufahrt=entrance
-Haftung=adhesive force,grip
-
-aufwendig=costly
-Aufwand=effort, expenditure
-Nachfrage=demand
-geschmirgelt=sanded
-griffig=firm
-prunkvoll=magnificently
-schuldigkeit=duty
-körperertüchtigung=physical training
-entrinnen=escape
-spendabel=generous
-befindlichkeit=mood
-Stechschritt=goose step
-verzichten=renounce
-gemeinsamkeiten=similarities
-verlustreiche=wasteful
-wuselige=bustling
-unumstritten=undisputed
-Zuweilen=occasionally
-mitleidenschaft gezogenen Städten=affected cities
-unbeugsam=unbending
-Gewinnspanne=margin
-
-
-mutmaßliche=supposed
-betörende=captivating
-vermächtnis=legacy
-ansehen=regard
-ertüchtigung=exercise
-Überlieferung=tradition
-nachzugehen=pursue
-belebt=busy, animated
-verdrängen=replace,repress
-fürsorgliche Betreuung=caring care
-barmherzigkeit=compassion
-verstreut=scattered
-Teig=dough
-knusprig=crispy
-Errungenschaften=achievements
-heiter=cheerful,bright
-derweil=meantime
-beleidigen=offend
-Sachgeschenke=tangible Gifts
-genascht=nibbled
-ersehnte=awaited
-erwerben=purchase
-gedeiht=flourishes
 
 
 
@@ -482,7 +324,7 @@ wenn Mann einen Garten hat
 houses=Häuser
 peaches=Pfirsiche
 
-Ich arbeite in einer Bank / bei einer Bank
+Ich arbeite in einer Bank / bei einer Bank (dat)
 Manche Kollegen dürfen gelegentlich von zu Hause aus arbeiten
 Swan=Schwan,Schwäne
 eine Gans, Gänse=ah du dumme Gans, ah du blöde kuh
@@ -490,7 +332,7 @@ Mutter,Mütter (plur)
 der Körper kann sich nicht daran gewöhnen
 ich wünsche ihnen 
 auch ein blinder Huhn findet manchmal einen Korn
-
+ich wünsche dir einen Schönen Abend (der)
 ______________________
 
 
@@ -506,5 +348,63 @@ im Tag, im Jahr, in der Nacht
 am Abend, am Vormittag, 
 
 in der Mitte von Italien
+
+
+Schweiß, schwitzen, 
+zum ersten Mal (neutrum dat)
+
+_______
+
+20190506
+anhaben=to wear 
+Einkäufe erledigen
+an diese Schule geschrieben
+Schule,Schulen
+der Fall
+zurzeit
+in den nächsten Jahren (DAT PLUR)
+
+1. Die Testpersonen von LiveTest arbeiten von zu Hause aus oder in ihren eigenen Büros.
+2. Wir stellen dir hier die 10 besten Arbeiten von zu Hause aus vor.
+3. Diesen Luxus – von zu Hause aus zu arbeiten – gönnen sich immer mehr Menschen.
+
+von hier aus sind 20 Km
+
+Das Lamm (baby -> neutrum, wie das Kind) 
+
+Der Löwe frisst das Lamm (Präsens)
+Das Lamm wird von dem Löwen gefressen (Präsens)
+
+Der Löwe frass das Lamm  (Präteritum: älter als Perfekt)
+Das Lamm wurde von dem Löwen gefressen (Präteritum)
+
+Der Löwe hat das Lamm gefressen (Perfekt : näher in der Zeit)
+Das Lamm ist von dem Löwen gefressen worden (Perfekt)
+
+Der Löwe hatte das Lamm gefressen (Plusquamperfekt)
+Das Lamm war von dem Löwen gefressen worden (Plusquamperfekt)
+
+
+Der Polizist hält den Autofahrer an. (Präsens)
+Der Autofahrer wird von dem Polizisten angehalten  (Präsens)
+
+Der Polizist hielt den Autofahrer an. (Präteritum)
+Der Autofahrer wurde von dem Polizisten angehalten  (Präteritum)
+
+Der Polizist hat den Autofahrer angehalten. (Perfekt)
+Der Autofahrer ist von dem Polizisten angehalten worden (Perfekt)
+
+Der Polizist hatte den Autofahrer angehalten (Plusquamperfekt)
+Der Autofahrer war von dem Polizisten angehalten worden (Plusquamperfekt)
+
+Ein Zeuge beobachtet die Tat  (Präsens)
+Die Tat wird von einem Zeugen beobachtet (Präsens)
+
+Ein Zeuge beobachtete die Tat  (Präteritum)
+wurde
+
+Das ist ein Muss ! Notwendig !
+
+
 
 
