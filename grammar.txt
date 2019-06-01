@@ -72,6 +72,24 @@ der Tomatensalat
 der Fußballspieler
 
 
+der/das Marzipan
+der/das Keks
+der/das Kaugummi
+
+der Band/das Band
+der Zürichsee/die See
+der Leiter/die Leiter
+
+Nomitativ
+Das Mädchen singt.
+Die Katze schläft.
+Er ist ein guter Lehrer.
+Das wird ein Pullover.
+
+Akkusativ
+Ich sehe den Hund.
+Er hat ein Lied gesungen.
+
 
 
 {p 158}
