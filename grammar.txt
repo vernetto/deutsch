@@ -114,6 +114,37 @@ der Computer, des Computers
 Ich mag die Farbe des Wagens
 Die Grösse des Computers ist nicht wichtig
 
+der Freund, des Freundes
+der Mann, des Mannes
+der Sitz, des Sitzes
+der Arzt, des Arztes
+der Tisch, des Tisches
+das Schloss, des Schlosses
+Die Schwester des Arztes hilft manchmal in der Sprechstunde.
+Das Museum befindet sich in der Nähe des Schlosses.
+
+Nominativ
+der Wagen, ein Wagen
+die Dose, eine Dose
+das Lied, ein Lied
+Akkusativ
+den Wagen, einen Wagen
+die Dose, eine Dose
+das Lied, ein Lied
+Genitiv
+des Wagens, eines Wagens
+der Dose, einer Dose
+des Lieds, eines Lieds
+
+
+Genitiv
+Das Auto der Frau war rot.
+Der Hund meiner Mutter ist ganz klein.
+Wegen des schlechten Wetters müssen wir nach Hause gehen.
+Trotz ihrer Krankheit geht sie jeden Tag spazieren.
+
+
+
 
 
 {p 158}
