@@ -1,4 +1,78 @@
 
+Er hat sich das Bein gebrochen.
+Sie hat sich die Hände schon gewaschen.
+ 
+der Mann, die Person, das Mädchen
+die Katze, die Katzen
+der Teppich, die Zeit, das Bild
+
+Masculin
+der Mann, der Löwe
+der Sommer, der August, der Freitag, der Norden
+der Wecker, der Computer
+der Trabant, der Ballast, der Kapitalismus, der Tresor
+der Teppich, der Essig, der Frühling
+
+
+Feminin
+die Falte, die Brücke
+die Schönheit
+die Sehenswürdigkeit
+die Gewerkschaft
+die Zeitung
+die Bäckerei
+
+die Distanz, der Kranz
+die Konkurrenz
+die Theorie, das Knie
+die Panik, der Pazifik
+die Union, der Spion
+die Elektrizität 
+die Temperatur, das Abitur
+
+Er hat eine Drei gekriegt.
+
+ 
+Neutrum
+das Getreide
+das Geschirr
+das Geschöpf
+das Getreide
+das Kindlein
+das Haus, das Häuschen
+
+der Bach, das Bächlein
+die Katze, das Kätzchen
+
+ein Drittel davon
+das Baby
+das Kind
+das Kalb
+das Lamm
+
+der Hund, die Schlange, das Vieh
+das Schwimmen
+das Spielen
+das Radfahren
+
+das Ereignis
+das Eigentum
+
+das Reservat
+das Tablett
+das Telefon
+das Thema
+das Medikament
+das Ultimatum
+das Studium
+
+
+die Armbanduhr
+der Tomatensalat
+der Fußballspieler
+
+
+
 
 {p 158}
 Sie hat viel durchgemacht in ihrem Leben
@@ -931,14 +1005,122 @@ Mein Bruder studiert Deutsch.
 Er hat in Köln studiert.
 
 
+Tragen
+Ich trug ihren Koffer zum Bahnhof.
+Du trägst die ganze Verantwortung dafür.
+Ich würde meine Haare gern länger tragen.
 
 
+Treffen
+Sie trifft sich zweimal pro Woche mit ihm.
+Der Ball traf ihn am Kopf.
+Du hast das Ziel gut getroffen.
 
 
+Treten
+Er hat mich getreten.
+Sie trat auf die Bremse.
+Pass auf, wohin du trittst!
+Er ist mir auf den Fuß getreten.
+
+Trinken
+Er trank die ganze Flasche leer.
+Ich habe zu viel getrunken.
+Wollen wir etwas trinken gehen?
+
+Tun
+Ich werde das auf keinen Fall tun.
+So etwas tut man nicht!
+Sie tat, als ob sie schliefe.
+
+Sich überlegen
+Ich habe mir schon überlegt, was ich machen werde.
+Ich muss es mir überlegen.
+Würden Sie es sich noch einmal überlegen?
 
 
+Vergessen
+Ich habe seinen Namen vergessen.
+Sie vergaß, die Blumen zu gießen.
+Sie vergisst ständig ihre Bücher.
 
 
+Verlangen
+Unsere Lehrerin verlangt wirklich sehr viel von uns.
+Das kannst du nicht von mir verlangen.
+Wie viel hat er dafür verlangt?
+
+Verlieren
+Wenn du verlierst, musst du mir 10 Euro zahlen.
+Wir haben drei Spiele hintereinander verloren.
+Er verlor kein Wort darüber.
+
+
+Verschwinden
+Sie verschwanden in der Dunkelheit.
+Der Zauberer ließ das Kaninchen verschwinden.
+Er ist seit Sonntag verschwunden.
+
+
+Wachsen
+Der Baum wächst nicht mehr.
+Er ließ sich einen Bart wachsen.
+Ich bin im letzten Jahr 10 Zentimeter gewachsen.
+
+Wandern
+Im Schwarzwald kann man gut wandern.
+Wir sind am Wochenende gewandert.
+Seine Gedanken wanderten zurück in die Vergangenheit.
+
+Waschen
+Ich habe mir die Hände gewaschen.
+Er wäschst sich jeden Tag.
+Die Katze wusch sich in der Sonne.
+
+Werben
+Die Partei wirbt zur Zeit Mitglieder.
+Unsere Firma muss um neue Kunden werben.
+Im Fernsehen wird zu viel geworben.
+
+
+Werden
+Mir wird schlecht.
+Ich will Lehrerin werden.
+Der Kuchen ist gut geworden.
+
+
+Werfen
+Er warf den Ball über den Zaun.
+Sie wirft mit Geld um sich.
+Der Chef hat ihn aus der Firma geworfen.
+
+Wissen
+Ich weiß nicht.
+Er hat nichts davon gewusst.
+Sie wussten, wo das Kino war.
+
+
+Wollen
+Er will nach London gehen.
+Das habe ich nicht gewollt.
+Sie wollten nur mehr Geld.
+
+
+Zerstören
+Die ganzen Abgase zerstören die Ozonschicht.
+Er hat ihr Selbstvertrauen zerstört.
+Er zerstörte ihre Ehe.
+
+
+Ziehen
+Seine Familie ist nach München gezogen.
+In diesem Zimmer zieht es.
+Sie hat mich am Ärmel gezogen.
+
+Zwingen
+Er hat ihn gezwungen, das zu tun.
+Sie zwangen uns, den Vertrag zu unterschreiben.
+Ich kann dich nicht zwingen.
 
 
 
