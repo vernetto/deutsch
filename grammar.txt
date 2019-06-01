@@ -685,6 +685,208 @@ Sie hat sehr an ihrem Vater gehangen.
 Er hängt an seinem Beruf.
 Er hat das Bild an die Wand gehängt.
 
+Heizen
+Der Ofen heizt gut.
+Wir heizen mit Holz.
+Ab Oktober wird geheizt.
+
+Helfen
+Er hat mir dabei geholfen.
+Diese Arznei hilft gegen Kopfschmerzen.
+Sein Vorschlag half mir wenig.
+
+Holen
+Er holt jeden Tag frische Milch vom Supermarkt.
+Soll ich ihn ans Telefon holen?
+Ich habe mir eine Erkältung geholt.
+
+Kennen
+Ich kenne ihn nicht.
+Er kannte kein Erbarmen.
+Kennst du mich noch?
+
+
+Kommen
+Er kam die Straße entlang.
+Ich komme zu deiner Party.
+Woher kommst du?
+
+
+Können
+Er kann gut schwimmen.
+Sie konnte kein Wort Deutsch.
+Kann ich gehen?
+
+Lassen
+Sie ließ uns warten.
+Ich lasse den Hund nicht auf das Sofa.
+Sie haben ihn allein im Auto gelassen.
+
+
+Laufen
+Er lief so schnell er konnte.
+Sie läuft ständig zur Polizei.
+Das Schiff ist auf Grund gelaufen.
+
+
+Leiden
+Sie litt an Asthma.
+Wir haben unter der Hitze gelitten.
+Ich kann ihn nicht leiden.
+
+Lesen
+Das habe ich in der Zeitung gelesen.
+Es war in ihrem Gesicht zu lesen.
+Dieses Buch liest sich gut.
+
+Liegen
+Wir lagen den ganzen Tag am Strand.
+Köln liegt am Rhein.
+Es hat daran gelegen, dass ich krank war.
+
+
+Lügen
+ich lüge
+du lügst 
+er/sie/es lügt
+wir lügen
+ihr lügt
+sie/Sie lügen
+
+ich log
+du logst
+er/sie/es log
+wir logen
+ihr logt
+sie/Sie logen
+
+Er log ständig.
+Ich würde lügen, wenn ich das sagen würde.
+Das ist gelogen!
+
+
+Machen
+Was machst du?
+Ich habe die Betten gemacht.
+Ich werde es morgen machen.
+
+
+Misstrauen
+Sie misstraute ihrem Gedächtnis.
+Ich würde seinen Ratschlägen misstrauen.
+Ich habe ihr von Anfang an misstraut.
+
+Mögen
+ich mag
+du magst
+er/sie/es mag
+wir mögen
+ihr mögt
+sie/Sie mögen
+Ich mag gern Vanilleeis.
+Er mochte sie nicht danach fragen.
+Ich habe ihn noch nie gemocht.
+
+Müssen
+Ich muss auf die Toilette.
+Wir müssen jeden Abend unsere Hausaufgaben machen.
+Sie hat abwaschen müssen.
+
+Nehmen
+Hast du den Bus in die Stadt genommen?
+Wie viel nimmst du dafür?
+Er nahm sich vom Brot.
+
+
+Rechnen
+Lass mich rechnen, wie viel das wird.
+Emma kann gut rechnen.
+Damit habe ich nicht gerechnet.
+
+
+Reden
+Man kann überhaupt nicht mit ihr reden.
+Er redete ständig von seinem Hund.
+Ich werde mit deinem Vater reden.
+
+
+Rennen
+Sie rannte schnell weg.
+Er rennt dauernd zum Chef.
+Ich bin mit dem Kopf gegen die Wand gerannt.
+
+
+Rufen
+Sie riefen um Hilfe.
+Ich habe dir ein Taxi gerufen.
+Er rief seine Schwester zu sich.
+
+
+Scheinen
+Die Sonne schien.
+Es scheint, als ob du recht hast.
+Sie schienen glücklich zu sein.
+
+
+Schlafen
+Sie schläft immer noch.
+Heute Nacht wirst du bestimmt gut schlafen.
+Er schlief während des Unterrichts.
+
+
+Schlagen
+England hat Deutschland geschlagen.
+Ihr Herz schlug schneller.
+Die Uhr schlägt drei.
+
+
+Schneiden
+Sie schneidet ihm die Haare.
+Ich habe mir in den Finger geschnitten.
+Sie schnitt die Tomaten in Scheiben.
+
+
+Schreiben
+Er schrieb das Wort an die Tafel.
+Wie schreibst du deinen Namen?
+Sie hat mir einen Brief geschrieben.
+
+
+Schreien
+Sie schrie vor Schmerzen.
+Wir haben geschrien, er hat uns aber nicht gehört.
+Schreien Sie nicht so!
+
+Schwimmen
+Ich kann nicht schwimmen.
+Er ist über den Fluss geschwommen.
+Wir schwammen im Geld.
+
+
+Sehen
+Mein Vater sieht schlecht.
+Ich habe diesen Film noch nicht gesehen.
+Er sah auf die Uhr.
+
+
+Sein
+Er ist zehn Jahre alt.
+Wir waren gestern im Theater.
+Mir war kalt.
+
+
+Singen
+Sie sang das Kind in den Schlaf.
+Er singt nicht gut.
+Ich habe dieses Lied früher oft gesungen.
+
+
+
+
+
+
+
+
 
 
 
