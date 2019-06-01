@@ -259,7 +259,15 @@ gleich wie: der Gedanke/des Gedankens, der Funke/des Funkens, der Buchstabe/des 
 Das hängt von der Wichtigkeit des Namens ab.
 
 
+das Buch von Hans
+die Werke von Marx
+die Freundin von Klaus
 
+an Herrn Schmidt
+Sehr geehrte Herren
+
+Die Schmidts haben uns zum Abendessen eingeladen.
+Die Schultzens waren nicht zu Hause.
 
 
 
