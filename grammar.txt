@@ -135,6 +135,10 @@ Genitiv
 des Wagens, eines Wagens
 der Dose, einer Dose
 des Lieds, eines Lieds
+Dativ
+dem Wagen, einem Wagen
+der Dose, einer Dose
+dem Lied, einem Lied
 
 
 Genitiv
@@ -142,6 +146,94 @@ Das Auto der Frau war rot.
 Der Hund meiner Mutter ist ganz klein.
 Wegen des schlechten Wetters müssen wir nach Hause gehen.
 Trotz ihrer Krankheit geht sie jeden Tag spazieren.
+eines Tages
+
+Dativ
+dem Auto
+dem Mädchen
+Wir gehen nach Hause.
+Er hat sich zu Tode gearbeitet.
+zu welchem Zwecke?
+Er gab dem Mann das Buch.
+Er hilft seiner Mutter im Haushalt.
+Nach dem Essen gingen wir spazieren.
+Er kam mit einer Freundin.
+
+Präpositionen mit DATIV
+an, auf, hinter, in, neben, über, unter, vor, zwischen
+Ich sitze neben dem Fenster.
+Die Katze lag unter dem Tisch.
+Er war in der Stadt - ABER - Sie geht in die Stadt.
+Mir ist kalt.
+
+Ich habe mir die Haare gewaschen.
+Zieh dir die Jacke aus.
+
+Mit den Autos hatte sie ständig Probleme.
+
+Die Blumen waren nicht teuer.
+Die Lehrerinnen sind ziemlich jung.
+Das Leben der Frauen in vielen Ländern ist schwierig.
+Wo gehst du mit den Blumen hin?
+
+Plural
+der Kuchen, die Kuchen
+der Lehrer, die Lehrer
+der Onkel, die Onkel
+Die Kuchen sehen lecker aus.
+Die Onkel kommen morgen an.
+Das war die Schuld der Lehrer.
+Es gibt ein kleines Problem mit den Kuchen.
+der Apfel, die Äpfel
+der Garten, die Gärten
+Die Äpfel sind nicht reif genug.
+Die Gärten waren wunderschön.
+Schau mal die Größe der Äpfel an!
+Den Äpfeln fehlt ein bisschen Sonne.
+
+der Stuhl, die Stühle
+die Angst, die Ängste
+
+Die Stühle sind neu.
+Die Regierung muss die Ängste der Bevölkerung ernst nehmen.
+Die Farbe der Stühle.
+Der Tischler macht den Stühlen neue Beine.
+
+das Geschenk, die Geschenke
+der Tisch, die Tische
+das Kind, die Kinder
+
+Die Geschenke sind auf dem Tisch.
+Ich muss die Kinder abholen.
+Die Auswahl der Tische im Laden war groß.
+Sie geht mit den Kindern spazieren.
+
+das Dach, die Dächer
+der Mann, die Männer
+Die Dächer werden repariert.
+Man hatte die Männer völlig vergessen.
+Was ist die Rolle der Männer in unserer Gesellschaft?
+Die Frauen sollten den Männern nicht immer recht geben.
+
+das Auto, die Autos
+das Hotel, die Hotels
+das Restaurant, die Restaurants
+das Baby, die Babys
+das Thema, die Themen
+das Drama, die Dramen
+das Risiko, die Risiken
+der Park, die Parks
+der Chef, die Chefs
+die Firma, die Firmen
+
+
+Die Hotels in der Stadt sind ziemlich teuer. 
+Die Risiken sind sehr hoch.
+Die Kinder finden die Babys ganz niedlich.
+Was hältst du von den Preisen der Autos?
+Das ist die Stadt mit den vielen Parks.
+
+
 
 
 
