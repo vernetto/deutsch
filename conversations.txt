@@ -5,7 +5,7 @@ DAT: DEM_DER_DEM_DEN EN_EN_EN_EN
 GEN: DES_DER_DES_DER EN_EN_EN_EN
 
 Unbestimmte:
-NOM: _E_ ER_E_ES 
+NOM: _E_ ER_E_ES
 AKK: EN_E_ EN_E_ES
 DAT: EM_ER_EM EN_EN_EN
 GEN: ES_ER_ES EN_EN_EN
@@ -71,9 +71,7 @@ ich danke dir für die Blumen
 für dich es ist besser 19 Uhr
 
 bis kommende Woche
-
 _____________
-
 
 den ganzen Tag hat es geschneit
 vor ein Paar Tagen
@@ -342,27 +340,28 @@ wenn ich spazieren gehen
 der Schauspieler der Ulisses darstellt ist Bekim Femiu
 der Regisseur ist Italiener
 
-
-
 im Tag, im Jahr, in der Nacht
-am Abend, am Vormittag, 
+am Abend, am Vormittag
 
 in der Mitte von Italien
 
-
 Schweiß, schwitzen, 
-zum ersten Mal (neutrum dat)
+zum ersten Mal (NEU DAT)
 
 _______
 
 20190506
-anhaben=to wear 
+anhaben=to wear
 Einkäufe erledigen
 an diese Schule geschrieben
 Schule,Schulen
 der Fall
 zurzeit
 in den nächsten Jahren (DAT PLUR)
+in der nächsten Woche
+am nächsten Tag
+am gleichen Tag
+
 
 1. Die Testpersonen von LiveTest arbeiten von zu Hause aus oder in ihren eigenen Büros.
 2. Wir stellen dir hier die 10 besten Arbeiten von zu Hause aus vor.
@@ -372,7 +371,7 @@ von hier aus sind 20 Km
 
 Das Lamm (baby -> neutrum, wie das Kind) 
 
-Der Löwe frisst das Lamm (Präsens)
+Der Löwe frisst das Lamm (Präsens)	
 Das Lamm wird von dem Löwen gefressen (Präsens)
 
 Der Löwe frass das Lamm  (Präteritum: älter als Perfekt)
@@ -405,6 +404,147 @@ wurde
 
 Das ist ein Muss ! Notwendig !
 
+ich bin mit dem Zug gefahren
+viel Zeit
 
+Verabredung
 
+den überblick verlieren
+aufgehört
+die Bastion
+was Initiativen angeht
+zum Meer
+die See, das Meer
+er fährt zur See=in mare (marinaio)  zur = zu der
+er fährt zum See=al lago  zum = zu dem
 
+in diesem Buch
+
+as Schachbrett
+
+Wenn sich die Gelegenheit ergibt
+sich ergeben=to surrender
+
+worauf bezieht es sich?
+von was sprichst du?
+
+einstellen=prepararsi
+
+es ist ein sehr gutes Buch
+
+mit dir mitkommt
+Kommst du mit mir mit?
+
+wachsam=alert
+betrunken=besoffen
+
+anführungszeichen=quotation mark
+
+rate mal=guess what
+scheitern=fail
+Weizenkorn,Weizenkörner
+Hochebene=altipiano
+
+der Brunnen,die Brunnen=well
+wenn du das Wasser herausholst, wird das Niveau des Wassers niedriger werden
+
+von Heissem Wetter (das Wetter) (von + Dativ)
+von Kind auf (since I was a child)
+
+zufällig=per Zufall=by chance
+in meinem Zimmer
+rolladen=shutters
+mein Zimmer nach Süden orientiert
+die Sonne
+als ich ein teenager war
+in den Siebziger=in the seventies
+
+Zeit verbringen=spend the time (verbracht)
+Geld verbrauchen=spend money (verbraucht)
+
+conscience objector=Wehrdienstverweigerer
+Pflegeheim=Alterheim
+exploited=ausgenutzt
+donation
+Nichtregierungsorganisation  
+non profit=gemeinnützig
+
+Beispiel: er hat gesagt, ich sei verrückt
+Wenn ich reich wäre=wäre ich reich
+
+Stellenausschreibung
+Anzeige
+Ansprechpartner
+
+Myrtha Patané-Reist
+Floskel
+
+https://blogsheet.info/wp-content/uploads/2013/08/Bewerbungsanschreiben_Muster.png
+
+Berufserfahrung
+Kassenwart
+
+was hast du vor? what you up to?
+
+Zulassungsprüfung=prova di ammissione
+
+der Oberschenkelknochen=Femur
+das Schienbein=tibia
+das Knochenmark=midollo rosso
+rote Blutkörperchen
+
+die Küche=kitchen
+der Keks (die Kekse)= biscotto
+der Kuchen (torta)
+
+der Vorteil
+aufstrebender Pfleger
+Bewerber=applicant
+
+Lehrer (prof) - Schüler (student)
+
+Betriebssystem=Operating System
+
+Tretmühle=rat's race
+am gleichen Ort
+gegenseitig=reciprocal
+
+Austausch=exchange
+Unterhaltung=conversation
+
+über den Körper (AKK, der Körper)
+
+sei bitte nicht so Feige! (coward, Feigling)
+
+der Unterhalt, die Instandhaltung, Wartung = maintenance
+Bremsbacken = pattini
+Stoßdämpfer, Federung
+Scheibe
+ich habe etwas bereut
+den Unterschied spüren
+Pfad,Pfade, auf den Pfaden, auf den Strassen
+von meine Fahrad absteigen/aufsteigen - auf dem Fahrrad (das Fahrrad)
+von meine Auto ein/aufsteigen 
+
+ich gehe in die Stadt, ich wohne in der Stadt
+Wirtschaftswachstum
+Anleitung=Anweisung=istruzione
+Aufschluss=informazione
+Aufschlussreich=revealing
+gewalttätig=violento
+brutal=violento
+
+in der Mitte von Nirgendwo
+Mitteilung, Hinweis=annuncio
+sie sind still gestanden
+den gleichen Fehler
+angerufen
+2 Uhr Nachts
+
+unvorstellbar
+undenkbar
+das Vieh, das Schaf, ein Stück Vieh, ich nehe den Kafee mit zwei Stück Zucker
+zählen=count zahlen=pay
+Haare raufen=strapparsi i capelli
+Rückgrat
+er hat mir sehr geholfen
