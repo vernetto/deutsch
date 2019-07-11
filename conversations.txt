@@ -534,6 +534,7 @@ Aufschlussreich=revealing
 gewalttätig=violento
 brutal=violento
 
+
 in der Mitte von Nirgendwo
 Mitteilung, Hinweis=annuncio
 sie sind still gestanden
@@ -548,3 +549,57 @@ zählen=count zahlen=pay
 Haare raufen=strapparsi i capelli
 Rückgrat
 er hat mir sehr geholfen
+=======
+Ohrenstöpsel
+wenn du joung bist
+ins Aostatal
+die Esel
+mitfahren
+viel Geld ausgeben
+besitzen
+besitzen
+glauben an
+Chaos
+Unordnung
+das Durcheinander
+Fußabdruck
+erzeugen ?
+künstlich
+in ein entwickeltes Land umwandeln
+ihr Land
+im Gegenzug
+Disthopie
+übersetzen
+Arabien
+Länder
+in ihrem Land
+oft
+vielmals
+das Problem
+sehr hohe 
+jedes mal , wenn er...
+steigt
+sie werden entführt
+die Botschaft
+anzeigen
+eine Anzeige erstatten
+Rache
+an ihn abgeben
+die Menschenrechte
+Auslegung
+der Anzug
+Anzug
+auf jemanden stolz sein
+Turnschuhe
+sneakers
+gehorchen
+allgemeines Muster
+Mi chiedeva perché ero rimasto a casa.
+Noi facciamo questo per ottenere un risultato migliore.
+Spero che sia una bell'esperienza.
+Se fossi te, farei un'altra cosa.
+Wenn ich du wäre, tue ich etwas anders
+würde ich etwas anderes tun.
+täte ich etwas anderes.
+ 
+
