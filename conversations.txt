@@ -12,8 +12,9 @@ GEN: ES_ER_ES EN_EN_EN
 
 in der gleichen Stadt (Fem Dat -> der schönen Frau)
 in dem gleichen Dorf (Neu Dat -> dem kleinen Kind) = im gleichen Dorf (nur MAS oder NEU)
-ein anderes Thema (Neu Nom -> ein kleines Kind)
 in meiner Küche (Fem Dat -> einer schönen Frau)
+
+ein anderes Thema (Neu Nom -> ein kleines Kind)
 
 klagen über etw (ACC) = sich beschweren über 
 ich klage über die lauten Kinder (NEU AKK PLUR) - das laute Kind (NEU AKK SING)
@@ -38,10 +39,10 @@ von aus bei mit nach seit zu -> IMMER DAT, und NUR DAT!
 für durch um gegen ohne bis (IMMER MIT AKK)
 
 das ist für dich (AKK), für den Mann, für das Kind
+ohne dich
 komm mit mir (DAT)
 
 eine Frau ohne einen Mann (MAS AKK), ist wie ein Fisch (MAS NOM) ohne ein Fahrrad (NEU AKK)
-ohne dich
 durch einen Tunnel (MAS) gehen
 ich gehe um (AKK) den Block (MAS)
 bis kommende Woche (FEM AKK) , bis kommenden Mittwoch (MAS AKK) 
@@ -56,7 +57,8 @@ er , seiner , ihm , ihn
 sie, ihrer, ihr, sie
 
 mit dir bin ich glücklich
-ich gehe nach Hause (AUSNAHME, "nach" immer mit Stadt, Land, Kontinent, oder "oben", "unten")- ich bleibe zu Hause
+ich gehe nach Hause (AUSNAHME, "nach" immer mit Stadt, Land, Kontinent, oder "oben", "unten") 
+ich bleibe zu Hause
 
 meine ganze Körper juckt
 Pustel und Pickel
@@ -70,7 +72,6 @@ dir=DAT, dich=ACC
 ich danke dir für die Blumen
 für dich es ist besser 19 Uhr
 
-bis kommende Woche
 _____________
 
 den ganzen Tag hat es geschneit
@@ -87,7 +88,7 @@ besonders
 mein Team besteht aus 5 Mitgliedern (DAT PLUR), 
 die andere 3 mussen die Arbeit (AKK FEM) von 5 erledigen.
 
-Firma/Firmen (FEM) 
+die Firma/Firmen (FEM) 
 die Aufgabe=function (Hausaufgabe), die Ausgabe=edition
 
 der Wettbewerb=competition
@@ -102,12 +103,13 @@ demütigend, deprimierend
 Reihenfolge, Ordnung
 
 meiner Meinung (F) nach (DAT)
+meiner Ansicht nach
 
 vorangestellt (preceding)
 nachgestellt (after)
 
-Meiner Ansicht nach
-in diesem Fall ("in" brauchts manchmal AKK manchmal DAT)
+in diesem Fall (der Fall, mit DAT ... "in" brauchts manchmal AKK manchmal DAT)
+in dieser Zeit (die Zeit)
 
 Wetterwechsel (Wende, Veranderung)
 
@@ -115,26 +117,23 @@ ich zeige dir
 
 look! = schauen, show = zeigen
 
-unter (DAT) der Sonne (FEM); ein Sohn, drei Söhne 
+unter der Sonne (DAT FEM, die Sonne/Sonnen); ein Sohn, drei Söhne 
 
 unter ist eine Wechselpräposition -> manchmal mit AKK manchmal mit DAT
-in diesem Fall, mit DAT 
-in dieser Zeit
 
-ich komme aus (DAT) London
-ich komme aus den (DAT PLUR) USA
-ich komme aus der Schweiz
+ich komme aus London (DAT) 
+ich komme aus den USA (DAT PLUR) 
+ich komme aus der Schweiz (DAT) 
 
-aus aller Welt (FEM DAT)
+aus aller Welt (FEM DAT, die Welt)
+er trinkt Bier aus einem Glas (DAT NEU, das Glas)
 
-er trinkt Bier aus (DAT NEU) einem Glas (NEU, das Glas)
-
-für den (MAS AKK) Monat Mai
+für den Monat Mai (MAS AKK)
 
 herausforderung = challenge 
 
-wir gehen zu einem (MASC DAT) Freund 
-wir gehen zu einer (FEM DAT) Freundin 
+wir gehen zu einem Freund (MASC DAT) 
+wir gehen zu einer Freundin (FEM DAT) 
 wir gehen zu Freunden (PLUR MASC)
 wir gehen zu Freundinen (PLUR FEM)
 ich gehe mit meinen Freundinen ins Kino
@@ -143,16 +142,16 @@ Robert wohnt bei seiner Tante (DAT FEM)
 ich arbeite bei einer Bank (DAT FEM)
 
 was macht Robert nach (vor) dem Essen
-Richard wohnt seit einer (FEM DAT) Woche
-Sie wohnt seit einem (MAS DAT) Monat
-Sie wohnen seit einem (NEU DAT) Jahr hier 
+Richard wohnt seit einer Woche (FEM DAT)
+Sie wohnt seit einem Monat (MAS DAT)
+Sie wohnen seit einem Jahr hier (NEU DAT)
 
 wir fahren mit einem (NEU DAT) Auto/Fahrrad nach Zürich
 
 nach dem Abort (MAS DAT), vor dem Essen (NEU DAT)
 
-er lernt mit einem Freund
-Robert geht durch einen (MAS AKK) Park 
+er lernt mit einem Freund (DAT)
+Robert geht durch einen Park (MAS AKK)
 Ich fahre durch Frankreich nach Spanien
 
 der Übung ist schwer = ist schwierig
@@ -166,7 +165,7 @@ der Welt (FEM GEN) die Welt (FEM NOM)
 Stausee (reservoir)
 
 Nord (pron: t) Italien 
-Süd von Libye
+Süd von Libyen
 in der Mitte von Sahel
 
 der Himmel - da ist blauer Himmel
@@ -192,8 +191,8 @@ Bevölkerungskontrolle
 Libyen 
 Erzgebirge
 
-ich gehe in die (AKK) Kirche (FEM)
-ich muss die Milch (FEM) in den Kühlschrank (MAS)
+ich gehe in die Kirche (FEM AKK)
+ich muss die Milch (FEM) in den Kühlschrank (MAS) setzen
 
 Karen ist beim Artz
 Karen ist seit zehn Tagen Krank (der Tag, die Tage, aber DAT ist den Tagen)
@@ -557,7 +556,6 @@ die Esel
 mitfahren
 viel Geld ausgeben
 besitzen
-besitzen
 glauben an
 Chaos
 Unordnung
@@ -603,4 +601,29 @@ Wenn ich du wäre, tue ich etwas anders
 würde ich etwas anderes tun.
 täte ich etwas anderes.
  
+mit hohes Fieber
+jedes Mal=each time
+denen er begegnet
+der Zugereiste=??
+Deutschland ab den Wege
+von der Pest gerettet
+überzogen=coated
+in meinem Büro (das Büro)
+hektisch
+Reaktion
+
+sowohl als auch
+Ich sehe was, was du nicht siehst
+
+Schwarz und Grau, zwei hälften (trennbar) Griffe plastik + Metal
+aus welchen Material. Schere
+
+Der Gegenstand, den ich sehe. Besteht aus 2 Teilen. Die Form.  
+
+Holz
+Es dient einen Zweck
+Pinsel
+Saiteninstrument=strumento a corda
+Blasinstrument
+
 
