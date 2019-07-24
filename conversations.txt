@@ -31,7 +31,7 @@ mir ist Übel
 25 Grad (der Grad/die Grade)
 der Körper ist daran nicht gewöhnt
 Berg Skifahren (pron: schi)
-Bergrettung Dienst muss eingreifen
+Bergrettungsdienst muss eingreifen
 
 Heutzutage 
 
@@ -124,6 +124,9 @@ unter ist eine Wechselpräposition -> manchmal mit AKK manchmal mit DAT
 ich komme aus London (DAT) 
 ich komme aus den USA (DAT PLUR) 
 ich komme aus der Schweiz (DAT) 
+ich wohne in der Schweiz (DAT)
+ich fahre in die Schweiz (AKK) (Schweiz, Turkei)
+ich fahre nach Spanien
 
 aus aller Welt (FEM DAT, die Welt)
 er trinkt Bier aus einem Glas (DAT NEU, das Glas)
@@ -167,6 +170,7 @@ Stausee (reservoir)
 Nord (pron: t) Italien 
 Süd von Libyen
 in der Mitte von Sahel
+in der Stadtmitte 
 
 der Himmel - da ist blauer Himmel
 die Mittelmeer Küste
@@ -206,12 +210,12 @@ anderthalb = 1.5
 Nachtleben
 ich Komme aus Italien
 Mitternacht=midnight
-hinfahrt=la ida
-ruckfahrt=la vuelta
+hinfahrt=outward journey
+rückfahrt=return journey
 hintereinander=in a row
-Gebühren
+Gebühren=fees
 Kreuzworträtsel=cruciverba
-Leckereien
+Leckereien=goodies
 begleiten=accompany
 
 der Enkel, die Enkelin, die Enkeln = grandchild
@@ -221,11 +225,11 @@ tagsüber=during the day
 sie wohnt bei seiner Grossmutter (FEM) / bei seinem Grossvater (MAS) / bein seinen Grosseltern (PLU)
 ich gehe zu dem Fotogeschäft / zum Fotogeschäft
 
-durch (AKK MAS) den Park
-um (AKK MAS) den Bodensee
-gegen (AKK MAS) den Schmerz
-ich bekomme eine Tablette von dem (DAT MAS) Arzt
-Berlin war nach dem Krieg zertstört  
+durch den Park (AKK MAS) 
+um den Bodensee (AKK MAS) 
+gegen den Schmerz (AKK MAS) 
+ich bekomme eine Tablette von dem Arzt (DAT MAS) 
+Berlin war nach dem Krieg zerstört 
 ich habe das Geld von meiner Mutter bekommen
 ich habe das Geld von meinem Vater bekommen
 ich habe das Geld von meinen Eltern (PLU) bekommen
@@ -248,7 +252,7 @@ ich wohne in der nähe, in der Schweiz (DAT FEM), aber ich fahre in die Schweiz 
 bist du am Wochenende in der Schweiz gewesen?
 er nach Italien gefahren ist
 
-vor allem (haptsächlich)
+vor allem (hauptsächlich)
 er arbeitet bei einer zweisprachigen Firma (FEM)
 
 TE KA MO LO  TEMPORAL KAUSAL MODAL LOKAL
@@ -256,13 +260,11 @@ Normalerweise gehe ich jeden Tag um 8:00 Urh aus dem Haus (NEU)
  
 essen (verb) -> Essen (NEUTRUM) substantiv
 
-gegenüber (DAT), dem Bahnhof (MAS) genegüber / genegüber dem Bahnhof 
+gegenüber (DAT), dem Bahnhof (MAS) gegegüber / gegegüber dem Bahnhof 
 
 endung Universität immer FEM
   
 von Bergen umgeben (surrounded by mountains)
-
-
 
 Wiederholung macht den Meister
 
@@ -271,29 +273,25 @@ die Ecke
 nach dem Tod seiner Frau und seines Kindes
 
 Schmiergeld=bribe
-geisel=hostage
-
-
-
+Geisel=hostage
 
 seit jeher=always
-kuscheltiere=stuffed animals
-windel=diaper
+Kuscheltier=stuffed animals
+Windel=diaper
 befallen=infested
 ausgelegt=designed
 Ablehnung=rejection
 mitnichten=by no means
-Gehege=reserve
-Streicheleinheiten=tender loving care
+Gehege=reserve,compound
+Streicheleinheit=tender loving care
 Zuneigung=affection
 absehbar=conceivable
 züchten=breed
 vorgaukeln=lead to believe
 Vorkommen=occurrence
 
-im Schattem
-wasserVerdunstung
-
+im Schatten=in the shade
+WasserVerdunstung=water evaporation
 
 Nachfahren, Vorfahren
 betreiber, betreiben
@@ -305,12 +303,12 @@ Nieselregen=drizzle
 Brände=fires
 auslösen=trigger
 Gefährte=fellow
-Trauergottesdienst=
+Trauergottesdienst=mourning worship
 Nachbarinnen,Nachbarin,Nachbar,Nachbarn=neighbor(s)
 
 most of our trees=die meisten unserer Bäume (GEN)=die meisten von unseren Bäumen (DAT)
 Schwalben=rondini
-Lucciole=Glühwürmchen
+Glühwürmchen=glowworm
 Libellen=libellule
 Unausgeglichenheit=disequilibrio
 Ökosystem=ecosystem
@@ -328,7 +326,7 @@ eine Gans, Gänse=ah du dumme Gans, ah du blöde kuh
 Mutter,Mütter (plur)
 der Körper kann sich nicht daran gewöhnen
 ich wünsche ihnen 
-auch ein blinder Huhn findet manchmal einen Korn
+auch ein blinder Huhn findet manchmal ein Korn (das Korn)
 ich wünsche dir einen Schönen Abend (der)
 ______________________
 
@@ -361,7 +359,6 @@ in der nächsten Woche
 am nächsten Tag
 am gleichen Tag
 
-
 1. Die Testpersonen von LiveTest arbeiten von zu Hause aus oder in ihren eigenen Büros.
 2. Wir stellen dir hier die 10 besten Arbeiten von zu Hause aus vor.
 3. Diesen Luxus – von zu Hause aus zu arbeiten – gönnen sich immer mehr Menschen.
@@ -370,7 +367,7 @@ von hier aus sind 20 Km
 
 Das Lamm (baby -> neutrum, wie das Kind) 
 
-Der Löwe frisst das Lamm (Präsens)	
+Der Löwe frisst das Lamm (Präsens)	=The lion eats the lamb
 Das Lamm wird von dem Löwen gefressen (Präsens)
 
 Der Löwe frass das Lamm  (Präteritum: älter als Perfekt)
@@ -381,7 +378,6 @@ Das Lamm ist von dem Löwen gefressen worden (Perfekt)
 
 Der Löwe hatte das Lamm gefressen (Plusquamperfekt)
 Das Lamm war von dem Löwen gefressen worden (Plusquamperfekt)
-
 
 Der Polizist hält den Autofahrer an. (Präsens)
 Der Autofahrer wird von dem Polizisten angehalten  (Präsens)
@@ -419,7 +415,7 @@ er fährt zum See=al lago  zum = zu dem
 
 in diesem Buch
 
-as Schachbrett
+das Schachbrett
 
 Wenn sich die Gelegenheit ergibt
 sich ergeben=to surrender
@@ -452,7 +448,7 @@ von Kind auf (since I was a child)
 
 zufällig=per Zufall=by chance
 in meinem Zimmer
-rolladen=shutters
+Rolladen=shutters
 mein Zimmer nach Süden orientiert
 die Sonne
 als ich ein teenager war
@@ -475,13 +471,12 @@ Stellenausschreibung
 Anzeige
 Ansprechpartner
 
-Myrtha Patané-Reist
 Floskel
 
 https://blogsheet.info/wp-content/uploads/2013/08/Bewerbungsanschreiben_Muster.png
 
-Berufserfahrung
-Kassenwart
+Berufserfahrung=work experience
+Kassenwart=treasurer
 
 was hast du vor? what you up to?
 
@@ -504,7 +499,7 @@ Lehrer (prof) - Schüler (student)
 
 Betriebssystem=Operating System
 
-Tretmühle=rat's race
+Tretmühle=rat's race (rattenrennen NICHT)
 am gleichen Ort
 gegenseitig=reciprocal
 
@@ -536,7 +531,7 @@ brutal=violento
 
 in der Mitte von Nirgendwo
 Mitteilung, Hinweis=annuncio
-sie sind still gestanden
+sie sind stillgestanden=they are standing still
 den gleichen Fehler
 angerufen
 2 Uhr Nachts
@@ -563,9 +558,9 @@ das Durcheinander
 Fußabdruck
 erzeugen ?
 künstlich
-in ein entwickeltes Land umwandeln
+in ein entwickeltes Land umwandeln=to transform into a developed country
 ihr Land
-im Gegenzug
+im Gegenzug=in return
 Disthopie
 übersetzen
 Arabien
@@ -585,19 +580,17 @@ Rache
 an ihn abgeben
 die Menschenrechte
 Auslegung
-der Anzug
-Anzug
+der Anzug=the suit
 auf jemanden stolz sein
-Turnschuhe
-sneakers
-gehorchen
+Turnschuhe=sneakers
+gehorchen=obey
 allgemeines Muster
 
 Mi chiedeva perché ero rimasto a casa.
 Noi facciamo questo per ottenere un risultato migliore.
 Spero che sia una bell'esperienza.
-Se fossi te, farei un'altra cosa.
-Wenn ich du wäre, tue ich etwas anders
+
+Wenn ich du wäre, tue ich etwas anders=Se fossi te, farei un'altra cosa.
 würde ich etwas anderes tun.
 täte ich etwas anderes.
  
@@ -625,5 +618,77 @@ Es dient einen Zweck
 Pinsel
 Saiteninstrument=strumento a corda
 Blasinstrument
+
+wegen der Hitze (GEN)
+wegen des schlechten Wetters (des kleinen Kind(e)s) (GEN NEU)
+jedes Jahr 
+sind gezwungen Brunnen zu graben, auspumpen
+Grundwassertabelle=falda freatica
+wie kann Mann, ohne Energie Wasser entsalzen?
+es gibt keinen Unterschied (der) zwischen ihm und dir (DAT)
+er nimmt an viele Veranstaltungen Teil
+
+als ich Jung war
+wenn ich Jung wäre (Konjunkiv II -> nicht wirchliche sache), sässe ich tief in der Scheiße (oder: würde ich tief in der Scheiße sitzen)
+wäre ich eine Frau, würde ich Pippo heiraten
+
+Ausrede=Grund=pretext
+
+=== Konjunktiv II
+ich war (Präteritum) -> ich wäre (Konjunktiv II)
+ich gab -> ich gäbe
+ich flog -> ich flöge
+
+Bedingungsatz, Wünsch (wenn er doch käme) (oh, käme er doch heute, dann wäre ich zufriede)
+Er kauft ein Buch, ich würde dieses buch nicht kaufen.
+Vergleich: er spricht Italienisch, als ob er Italiener wäre.
+
+sie verdienen doppel so viel (twice as much)
+eine Entscheidung treffen
+
+Auszeit nehmen
+Huhn (chicken = male or female) , hähnchen (Fleisch, oder diminutiv von Hahn )
+Hahn = cock (gallo)
+Henne = hen = Huhn
+Wasserhahn = water tap
+
+
+die Schüssel=bowl
+schälen = sbucciare
+komm her=vieni qui, kommt her=venite qui (komm = verbstamm ohne endung)
+fahren -> du fährst, imperativ=fahr! (irregulär, umlaut nur am 2 oder 3 person)
+hören, imperativ=hör zu! (hören is regulär, hat immer umlaut)
+geben -> gib! gebt (plural)!
+einkaufen -> kauf ein!
+lassen -> lasst!
+
+Knoblauchzehe=spicchio d'aglio
+
+unter ständigem Rühren=mescolare regolarmente
+
+Otto Waalkes  komiker
+
+abschmecken = probieren
+
+die Gabel=forchetta
+die Brühe=brodo
+der Teller=il piatto
+Geschirr 
+Gesteck = posate
+
+das Rührei= Omelette
+
+das Ei, die Eier.
+nimm ein Frisches Ei, öffne (schlage das Ei auf), giess es in eine Schüssel (AKK),
+verrühre es mit einer Gabel, in die Pfanne geben (giessen), unter ständigem Rühren brat.
+
+verrühren verquirlen
+mach=mache (imper)
+komm=komme (imper)
+
+der Herd= fornello
+Kocher ist für Wasser
+
+die Pfanne
 
 

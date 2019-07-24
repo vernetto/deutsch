@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63aa7ff9-0b86-4366-a06b-838c0d42c734" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/conversations.txt" beforeDir="false" afterPath="$PROJECT_DIR$/conversations.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
@@ -23,9 +22,7 @@
         <entry file="file://$PROJECT_DIR$/adjectivdeklination.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="300">
-                <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-              </first_editor>
+              <first_editor />
               <second_editor />
             </state>
           </provider>
@@ -97,7 +94,7 @@
     <property name="last_opened_file_path" value="S:/pierre/downloads/CH_NEU.DIC" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -126,7 +123,7 @@
       <workItem from="1562714480841" duration="1190000" />
       <workItem from="1562718805908" duration="1324000" />
       <workItem from="1562819767654" duration="3343000" />
-      <workItem from="1563009425872" duration="7144000" />
+      <workItem from="1563009425872" duration="7902000" />
     </task>
     <task id="LOCAL-00001" summary="bekenntsinnes">
       <created>1563098632907</created>
@@ -146,11 +143,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13133000" />
+    <option name="totallyTimeSpent" value="13891000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12526652" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -246,9 +242,7 @@
     <entry file="file://$PROJECT_DIR$/adjectivdeklination.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="300">
-            <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-          </first_editor>
+          <first_editor />
           <second_editor />
         </state>
       </provider>
