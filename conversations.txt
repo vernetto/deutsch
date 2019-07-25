@@ -22,7 +22,7 @@ ich gehe mit den Kindern (DAT PLUR, NEU)
 ich gehe mit den Männern (DAT PLUR, MAS)
 ich gehe mit den Frauen (DAT PLUR, FEM)
 mit den Büchern (DAT PLUR, NEU)
-mit den Blätter (DAT PLUR, NEU)
+mit den Blättern (DAT PLUR, NEU)
 
 ab heute=from today
 
