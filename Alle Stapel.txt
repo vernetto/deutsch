@@ -1,0 +1,74 @@
+in the same City	in der gleichen Stadt	
+in the same village	in dem gleichen Dorf	in
+in my kitchen	in meiner Küche	in
+a different topic	ein anderes Thema	in
+to complain about something	klagen über etw	über
+I complain about the noisy children	ich klage über die lauten Kinder	über
+I go with the children	ich gehe mit den Kindern	über
+I go with the men	ich gehe mit den Männern	über
+I go with the women	ich gehe mit den Frauen<br>	über
+with the books	mit den Büchern	über
+with the leaves	mit den Blätter	mit
+from today	ab heute	ab
+ankle	der Knöchel/die Knöchel	
+arm	der Arm/die Arme	
+chest	die Brust/die Brüste	
+I am sick	mir ist Übel	mir
+Degree	der Grad/die Grade	noun
+the body is not used to it	der Körper ist daran nicht gewöhnt	
+Ski Alpinism	Berg Skifahren	
+Mountain rescue service must intervene	Bergrettungsdienst muss eingreifen	
+nowadays	Heutzutage	
+propositionen immer mit Dativ	von aus bei mit nach seit zu	
+propositionen immer mit akkusativ	für durch um gegen ohne bis	
+this is for you	das ist für dich	
+for the man	für den Mann	für
+for the child	für das Kind	für
+without you	ohne dich	ohne
+come with me	komm mit mir	imperativ
+a woman without a man, is like a fish without bicycle	eine Frau ohne einen Mann&nbsp;, ist wie ein Fisch&nbsp;ohne ein Fahrrad	imperativ
+to go through a tunnel	durch einen Tunnel (der) gehen	
+I go around the block	ich gehe um den Block	
+see you next week	bis kommende Woche	
+see you next Wednesday	bis kommenden Mittwoch	
+the subject	das Fach/die Fächer	
+with you I am happy	mit dir bin ich glücklich	
+I go home	ich gehe nach Hause	
+I stay home	ich bleibe zu Hause	
+my whole body aches	meine ganze Körper juckt	
+Pustules and pimples	Pustel und Pickel	
+my cat fights always with my dog	meine Katze (F) streitet sich immer mit meinem (DAT MAS) Hund	
+dog	der Hund, die Hunde	
+do you have a cat?	hast du eine Katze?	
+No, I have no cat, I have a dog and a child&nbsp;	Nein, ich habe keine Katze (F), einen Hund (M) und ein Kind	
+I thank you for the flowers	ich danke dir für die Blumen	
+it has snowed for the whole day	den ganzen Tag hat es geschneit	
+I use it every day, every evening, in every opportunity	ich nutze es jeden Tag,&nbsp;jeden Abend, auf jeden Fall	
+a peaceful life	ein ruhiges Leben	
+my team consists of 5 members	mein Team besteht aus 5 Mitgliedern	
+company	die Firma/Firmen	
+function	die Aufgabe	
+edition	die Ausgabe	
+competition	der Wettbewerb	
+fluent	fliessend, fachlich	
+they want you to speak fluent German	Sie wollen, dass du fliessend Deutsch sprichst	
+sea resort	Meeresort	
+alarming	besorgniserregend, beunruhigend	
+depressing	demütigend, deprimierend	
+sequence	Reihenfolge, Ordnung	
+in my opinion	meiner Meinung nach	
+from my point of view	meiner Ansicht nach	
+preceding	vorangestellt	
+in this case	in diesem Fall	
+in these times	in dieser Zeit	
+Wetterwechsel&nbsp;	change in the weather	
+I come from London	ich komme aus London	
+I come from USA	ich komme aus den USA	aus
+I come from Switzerland	ich komme aus der Schweiz	aus
+I live in Switzerland	ich wohne in der Schweiz	aus
+I travel to Switzerland	ich fahre in die Schweiz	aus
+I travel to Spain	ich fahre nach Spanien	aus
+from around the world	aus aller Welt	aus
+he drinks beer from a glass	er trinkt Bier aus einem Glas	aus
+challenge	herausforderung	
+we go to a friend	wir gehen zu einem Freund (zu einer Freundin)	
