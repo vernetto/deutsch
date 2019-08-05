@@ -740,4 +740,6 @@ er hat nicht gebellt
 discover=herausfinden, entdecken
 invent=erfinden
 
+aufnahmeprüfung=esame di ammissione
+
 
