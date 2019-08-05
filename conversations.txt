@@ -741,5 +741,14 @@ discover=herausfinden, entdecken
 invent=erfinden
 
 aufnahmeprüfung=esame di ammissione
+aus diesem Grund=for this reason
+
+mitten im Jungel
+aussätzigen=lebbroso
+Lepra-Krankenhaus
+Südamerika
+verwöhntes Kind=spoiled
+
+
 
 
