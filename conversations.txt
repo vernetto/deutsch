@@ -495,7 +495,10 @@ der Vorteil
 aufstrebender Pfleger
 Bewerber=applicant
 
-Lehrer (prof) - Schüler (student)
+Lehrer (prof) - 1 Schüler (student) 2 Schüler
+
+wie geht's deinen Schülern?
+Ihnen geht es sehr gut
 
 Betriebssystem=Operating System
 
@@ -735,6 +738,7 @@ es war ein ereignisvoller Tag
 
 sie haben überall geschnüffelt
 in dem Zimmer
+in deinem neuem Zimmer
 er hat nicht gebellt
 
 discover=herausfinden, entdecken
@@ -804,5 +808,85 @@ lassen, sehen, fühlen, hören -> ohne zu
 einkaufen: ich mag es, einzukaufen
 kennenlernen (mit Vorsilbe, prefix)
 
-ich habe viele Pfeile im meinem Köcher
+ich habe viele Pfeile im meinem Köcher (der Köcher)
+
+ich habe keine Zeit (FEM)
+
+neue Orte besuchen
+
+mit meiner Mutter, bei ihr (FEM) , bei ihm (MAS)
+
+ich möchte sie nicht langweiligen
+
+der Lenker, der Scheinwerfer, der Schlauch, Reifen, mit der Strasse 
+Radnabe, Speichen, der Sattel, der Rahmen, der Reifen, das Schutzblech
+
+Steigung, Neigung
+sie kommen in meine Wohnung (AKK)
+
+es kommt von aussen
+
+
+der Mauer (muratori)
+der Bagger (scavatore)
+
+für ihren Beruf (der Beruf)
+für den Beruf
+meinen, deinen, seinen, ihren, unseren, euren, ihren
+
+dreiviertel fünf=4.45
+beliebte = popular
+
+Strasse, Strassen
+
+alle drehen die Fahne nach dem Wind
+alles=tutto
+wir sind alle zusammen gegangen ein Bad zu machen
+Redewendung=modo di dire
+jeder ist zum Mehr gegangen=alle sind zum Mehr gegangen
+
+ich bereite eine Tasse Malzkaffee vor
+das Maultier, die Maultiere
+den ganzen Tag wie ein Maultier arbeiten
+ich sollte mein ganzes Leben verändern
+
+der Zweig, die Zweige (=der Ast, die Äste)
+
+Zwischen zwei Zwetschgenbaumzweigen sitzen zwei zwitschernde Schwalben.
+Ratschlag=Rat=advice
+Weicheier=pussy
+Hirnerschütterung=concussion
+kühlen mit Eis
+Sprechstundenhilfe=receptionist
+
+was ist geschehen=
+eine Wärmflasche fü
+
+sie befinden sich=sie sind gelegen
+
+der Lohn
+noch nicht ausrangiert=abstellgleis
+die Verabredung=appointment=der Termin
+vorschlagen=make a proposition
+der Berg, auf dem Gipfel, einen Tour, einen Ausflug
+auf die Spitze (AKK) des Berges, Kühltasche, 
+ziehen (pull), schieben (push)
+wir stellen uns eine bequeme Rückkehr (FEM) sicher.
+den Pfad entlang ()
+aufräumen=to tidy
+ich lege es dir nahe=ti propongo di...
+auch falls sie mich nicht einstellen sollten...
+es gibt mir selbstvertrauen
+für jede Situation (AKK FEM)
+Gelegenheit=opportunità
+kannst du mir einen Gefallen tun
+
+Ich liege nicht mehr Mama und Papa auf der Tasche=stare sulla borsa (zur Last fallen =essere un peso)
+ein Auge (das Auge) zudrücken=chiudere un occhio
+
+Gegenwärtig/Aktuell
+ausgeschlossen
+
+whatever you say, they attack you=Was auch immer du sagst, sie greifen dich an
+unerträglich=insopportabile
 
