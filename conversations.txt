@@ -45,7 +45,7 @@ komm mit mir (DAT)
 eine Frau ohne einen Mann (MAS AKK), ist wie ein Fisch (MAS NOM) ohne ein Fahrrad (NEU AKK)
 durch einen Tunnel (MAS) gehen
 ich gehe um (AKK) den Block (MAS)
-bis kommende Woche (FEM AKK) , bis kommenden Mittwoch (MAS AKK) 
+bis kommende Woche (FEM AKK), bis kommenden Mittwoch (MAS AKK) 
 
 bestehen aus 11 Fächer (das Fach/die Fächer) (DAT)
 
@@ -110,6 +110,9 @@ nachgestellt (after)
 
 in diesem Fall (der Fall, mit DAT ... "in" brauchts manchmal AKK manchmal DAT)
 in dieser Zeit (die Zeit)
+die ganze Zeit (AKK)
+das ganze Wochenende, schönes Wochenende (AKK) 
+
 
 Wetterwechsel (Wende, Veranderung)
 
@@ -864,11 +867,13 @@ eine Wärmflasche fü
 
 sie befinden sich=sie sind gelegen
 
-der Lohn
+der Lohn, die Löhne
 noch nicht ausrangiert=abstellgleis
 die Verabredung=appointment=der Termin
 vorschlagen=make a proposition
 der Berg, auf dem Gipfel, einen Tour, einen Ausflug
+auf dem Berg (DAT) in dem Bergen (DAT)
+auf der Strasse 
 auf die Spitze (AKK) des Berges, Kühltasche, 
 ziehen (pull), schieben (push)
 wir stellen uns eine bequeme Rückkehr (FEM) sicher.
@@ -889,4 +894,255 @@ ausgeschlossen
 
 whatever you say, they attack you=Was auch immer du sagst, sie greifen dich an
 unerträglich=insopportabile
+
+aufbauen=montare
+
+Uhrzeigersinn=clockwise
+Gegenuhrzeigersinn=counterclockwise
+Feder und Nut=Spring and groove
+Basteln=do it yourself
+die Improvisation
+ich bin der Meinung (GEN)
+entkommen=escape
+Schildkröte Nacken=turtle neck
+Lebensunterhalt verdienen=to make a living
+Einstellungsgehalt=hiring salary
+jemanden hinhalten=to stop someone
+verzögern=delay
+Ausgaben Einnahmen=uscite entrate
+Einnahmen - Ausgaben = Gewinn=guadagno
+Schießstand=poligono di tiro
+carnivoro=Fleisch fressend
+
+
+niemand, der sich um mich (AKK) kümmert
+um genauer zu sein (per essere preciso)
+Zeit verbringen (pasar el tiempo)
+zunehmend 
+Ich habe mich angemeldet
+es ist erforderlich, um an dem Kurs (an+DAT) teilzunehmen
+
+worum geht es darìn? (de que se trata)
+darìn geht es um + AKK
+
+wird Kindern geholfen (DAT PLUR)
+niesen-geniest
+ich kann es mir leisten
+abwechslungsreich=diversified
+bei jeder Tätigkheit (DAT) helfen
+wobei kann ich dir helfen?
+
+
+abgelenkt=distratto (ablenken)
+ablehnen=rifiutare
+Stunde, Lektionen, Unterrichten
+
+fliegen ist nicht so meins=flying is not mine
+überdacht=indoor
+wirr=confuso
+Handlung=trama
+
+https://deutschlernerblog.de/grammatik-uebungen-c1-starke-und-unregelmaessige-verben-konjugation/
+
+er gibt klein bei=arrendersi
+erlassen=rimettere, perdonare i debiti
+erlöschen=spegnersi, es erlischt
+wohin hat es dich verschlagen=dove sei finito
+quelle, quillt
+erlassen,erlässt
+untergraben, untergräbt
+
+
+Er stammt aus der Türkei
+Turkischer Abstammung
+Bülen Ceilan
+
+Ich bereite mich auf den neuen Kurs
+Düngemittel=natürlicher Dünger
+Samenkorn, Samenkörner=seed
+
+Nach dem Schweizerisch Gesetzen
+
+Der Roman, Der Film, Das Theaterstück, Das Schauspiel
+
+Der Ort, Das Dorf
+Der Angriff
+Das Meer
+Das Ei
+Das Tier
+Das Verhalten
+Das Ereignis
+Der Zusammenhang
+Der Hai
+Die Qualle
+Das Schiff
+
+_________
+
+bis zum Dreißigsten September
+
+Rat mal was geschehen ist
+
+ich habe mich meines Autos entledigt (sbarazzarsi)
+
+sie sprechen über (von) Krankheiten
+es gibt keine Kinder
+
+von einmal auf dem anderem (from one time to the other)
+in der Nähe des Meeres
+er kann den Klang der Wellen hören
+
+anbieten=offer
+angenommen oder abgesagt (taken or refused)
+
+heute ist der letzte Tag des Monates
+Vorschlag, ich habe einen Vorschlag gemacht, etwas vorgeschlagen
+
+ausreichend ist
+
+verlangen=request
+Nachfrage=demand
+
+theoretisch stimme ich Bertrand Russel zu
+ein gutes Haus, ein gutes Auto haben
+
+ich hatte einen Platten
+ein Grösses Ventil
+das Päckchen (kleine Packet)
+
+schwindlig (dizzy)
+
+dafür und dagegen (pros and cons)
+abwegen=soppesare
+
+was wurde sich ändern wenn du den Job in Bern annehmen würdest
+was wurde sich ändern wenn du den Job in Bern annähmest
+
+ein Sprung ins Leer (in Kalte Wasser)
+
+stressig (stressful)
+
+Er hat gesagt, er sei müde -> Konj I , indirekte rede, zum zitieren
+Er hat gesagt, er wäre müde -> Konj II, irreal
+
+rue dich aus! (riposati)
+
+Der Herbst (autumn)
+im Grunde genommen (essentially)
+ich hätte in die Schweiz gehen sollen 
+
+in einem Krankenhaus (das, DAT)
+ein Kratzen im Hals 
+
+aus aller Welt
+das Licht anmachen (turn on the lights)
+Einbauküche EBK (Equipped kitchen)
+
+mir ihre Wohnung vermieten=dare in affitto
+ich miete=io prendo in affitto
+mir antworten
+Bourgeois
+
+ich kam nach Hause
+es hat geregnet
+ich habe mich beschämt
+
+er kommt von weither=he comes from afar
+Geige, Galgen, Saite (string)
+Klang (suono) Lärm (rumore)
+der Mörser=mortar
+erraten=indovinare
+Floss=zattera
+Meuterei gerechtfertigt (giustificata) 
+
+Neidisch=envious
+der Neid
+ich bin Neidisch auf seine Persönlichkeit
+
+Flugbahnen, Laufbahn = traiettoria
+Überflieger=overachiever
+von der Hand (DAT) in dem Mund (AKK) leben   (die Hand, der Mund)
+
+der Spaß bleibt auf der Strecke 
+
+niemand hindert dich daran (nessuno te lo impedisce)
+meinerseit, was mich betrifft (as far as I am concerned)
+
+in ein Mädchen verliebt sein=to be in love with a girl
+noch 10 Minuten halte ich aus (resisto altri 10 minuti)
+hundemüde
+Kahl=bald (mit eine Glatze)
+bündeln=zusammen binden
+der Lenker (velo), das Steuer (auto)
+wir sind am Ende dieser Geschichte
+
+du hast viel Wasser abbekommen
+die Herbst Farben
+glatt Eis=scivoloso
+Kandidatur=politics, Bewerbung=job
+renew=erneuer, renovate=renovieren
+
+der Aufstieg=la salita (ich gehe hoch, ich gehe aufwärts)
+der Abstieg=la discesa (ich gehe runter, ich gehe abwärts)
+entschlossenheit=determination
+
+ich bin aussen, ich gehe hinaus
+es gibt nicht (Objekt), er ist nicht da (Person)
+der Ort, das Dorf
+komm herein (vieni dentro)
+hinein 
+Einmischung mit dem Leben der Leute (PLURAL)
+
+Haben die Steinfaser Schuhe Vorteile gegenüber den Leder Schuhe? KEIN
+Wie musst der Stein behandelt werden um flexibel zu werden? FROXLIN + HEISS UND KALT
+Welche Textilien kann man nicht aus Stein herstellen? T-SHIRT 
+Warum sind diese Produkte aktuell so nachgefragt ? 
+
+Pilz (mushroom)
+Filz (feltro)
+
+teuer, kostspielig=expensive
+köstlich=delicious
+kostbar=precious
+kosten=degustate
+
+abschmelzen=sciogliersi
+verschmelzen=fondere 
+
+die erste Partei 
+
+Gutmensch=die Linken und Netten
+
+wenn ich einmal reich bin 
+
+far confusione = verwechseln, durcheinander bringen
+
+kämpfen (infinitiv)
+musste
+ich musste den ganzen Tag arbeiten
+unter dem Regen
+Wettervorhersagen (previsioni del tempo)
+Klimawandel
+Sturm/Stürme
+
+ich habe ein anderes Vorstellungsgespräch gemacht
+unstabil=instable
+ein Irrtum (der Irrtum, die Irrtümer) begehen / ich habe begangen
+abgelehnt
+verzweifelt=desperate
+
+warum ist das alles geschehen ?
+warum geschah das alles ?
+
+enthusiasm=Begeisterung
+daran erinnere ich mich
+Reichtum/Reichtümer
+er war ermordet worden (er wurde ermordet)
+gläubig=credente
+der Raum/die Räume
+mit einem sehr starken Moralsinn
+superare=überwinden
+
+er hat Selbstmord begangen
+
 
