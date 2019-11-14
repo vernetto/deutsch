@@ -75,7 +75,7 @@ für dich es ist besser 19 Uhr
 _____________
 
 den ganzen Tag (AKK) hat es geschneit
-vor ein Paar Tagen
+vor ein Paar Tagen (vor ist Wechselproposition)
 
 ich nutze es jeden Tag (MAS), jeden Abend, auf jeden Fall
 
@@ -822,7 +822,7 @@ mit meiner Mutter, bei ihr (FEM) , bei ihm (MAS)
 ich möchte sie nicht langweiligen
 
 der Lenker, der Scheinwerfer, der Schlauch, Reifen, mit der Strasse 
-Radnabe, Speichen, der Sattel, der Rahmen, der Reifen, das Schutzblech
+Radnabe, Speichen, der Sattel, der Rahmen, der Reifen, das Schutzblech (blech=latta)
 
 Steigung, Neigung
 sie kommen in meine Wohnung (AKK)
@@ -1127,22 +1127,75 @@ Sturm/Stürme
 
 ich habe ein anderes Vorstellungsgespräch gemacht
 unstabil=instable
-ein Irrtum (der Irrtum, die Irrtümer) begehen / ich habe begangen
+ein Irrtum (der Irrtum, die Irrtümer) begehen / ich habe begangen , er hat Selbstmord begangen
+
 abgelehnt
 verzweifelt=desperate
 
 warum ist das alles geschehen ?
 warum geschah das alles ?
 
-enthusiasm=Begeisterung
+Begeisterung=enthusiasm
 daran erinnere ich mich
 Reichtum/Reichtümer
 er war ermordet worden (er wurde ermordet)
 gläubig=credente
-der Raum/die Räume
+der Raum/die Räume aber das Zimmer
 mit einem sehr starken Moralsinn
 superare=überwinden
 
-er hat Selbstmord begangen
+das Verhalten=behaviour
+die Haltung=atteggiamento
+überreden/überzeugen (überredet/uberzeugt)
+Aufwertung=gentrification
+zunehmend,schritt für schritt
+das Viertel
+verdrängt=displaced
+Existenzangst
+Atmosphäre,Umgang
+Hypothek (mortgage)
+Augenzeugenbericht=eyewitness account
+aufwühlend=disturbing
+ihr Schicksal ist Schlimmer 
 
+am letzten (vorherigen) Montag (dativ)
+
+der Stift (Bleistift)
+
+Tiere sind wie wir (nicht "wie uns!")
+
+Vorderrad, Hinterrad, das Rad, die Räder
+das Licht, die Lichter
+das Vorderlicht, das Rücklicht
+
+der Stuhl, die Stühle
+der Sattel, die Sättel
+ich sitze auf einem (DAT) Stuhl
+Vogel Strauß=ostrich
+
+die Klingel (bell), die Klingeln
+Lenker (manubrio), lenken=to steer
+
+die Flucht, ich bereite meine Flucht vor
+der grösste Traum meines Lebens, aus der Schweiz zu fliehen
+
+ich stelle mir vor, es ist eine Wechselproposition
+
+untrennbare verben:
+Miss Emp-er-ent muss Zere ver-ge-ben
+(mistrauen
+empfehlen
+ertrinken
+entfernen
+zerbrechen
+vergleichen
+geniessen
+beinhalten, bereiten, beginnen, befehlen)
+
+Reformhaus=health food store
+
+ausreichend=sufficient
+
+Ohne Fleiß kein Preis
+Morgens in den Spiegel geschaut, schon den ganzen Tag versaut.
 
