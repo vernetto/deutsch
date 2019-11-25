@@ -926,7 +926,7 @@ worum geht es darìn? (de que se trata)
 darìn geht es um + AKK
 
 wird Kindern geholfen (DAT PLUR)
-niesen-geniest
+niesen-geniest (drizzle)
 ich kann es mir leisten
 abwechslungsreich=diversified
 bei jeder Tätigkheit (DAT) helfen
@@ -1068,7 +1068,7 @@ der Spaß bleibt auf der Strecke
 niemand hindert dich daran (nessuno te lo impedisce)
 meinerseit, was mich betrifft (as far as I am concerned)
 
-in ein Mädchen verliebt sein=to be in love with a girl
+in ein Mädchen (AKK) verliebt sein=to be in love with a girl
 noch 10 Minuten halte ich aus (resisto altri 10 minuti)
 hundemüde
 Kahl=bald (mit eine Glatze)
@@ -1198,4 +1198,90 @@ ausreichend=sufficient
 
 Ohne Fleiß kein Preis
 Morgens in den Spiegel geschaut, schon den ganzen Tag versaut.
+
+Wind aus (von) Süden
+zum zweite Mal (das Mal, dieses Mal)
+eine Prüfung bestehen, ich habe es bestanden
+auf das Zertifikat konzentrieren
+ich fahre nach Zürich, ich fahre zu ihm (DAT), zu einem anderen Kunden fahren
+
+Küche
+Abstellkammer
+Kühlschrank
+Spülbecken=sink
+Washbecken (in Badezimmer)
+Spülmaschine (Geschirr)
+Küchenzeile (kitchenette)
+Gasherd (stove)
+Ofen (zu backen)
+backen, ich backe, du bächst, er bäckst
+Herd (zu kochen)
+
+her (zu mir)
+hin (there)
+komm heraus (vieni fuori)
+ich gehe hinaus 
+raus (= hinaus oder heraus)
+
+komm herein
+ich gehe hinein
+
+komm herunter
+nach unten = herunter
+ich gehe hinunter
+
+hinauf=up (die Treppe hinauf=upstairs)
+treppauf treppab (selten benutzt)
+
+komm herüber, hinüber
+komm rüber (come over)
+dort drüben=over there
+
+das Geld ist aufgebraucht=die Stunde ist vorbei (finito)
+
+ich bin nach Hause gerannt, um ein Vorstellungsgespräche über Skype zu machen
+ich bin ein sabbernder alter Mann
+
+beweisen=to prove
+unter Beweis stellen
+mit dem Schwanz wedeln=scodinzolare (wag the tail)
+ich bin fast gefressen worden
+die Peripherie=der Stadtrand
+die Wildnis, in der Wildnis
+streunende Hunde
+von streunenden Hunden getötet worder
+ein Hunde Rudel (pack)
+ich bin in ihr (das) Territorium eingedrungen
+Hunderudel
+der Wolf, die Wölfe
+Was qualifiziert ihn seinen Kollegen nach?
+der Schmied=blacksmith
+der Schlosser=locksmith
+ich wünschte zu tun - ich möchte tun (modal Verb) - ich sah dich kommen
+Modalwerben: dürfen, können, mögen, müssen, sollen und wollen -> kein ZU
+Bildröhre=tubo catodico
+Herzschrittmacher=pacemaker
+autoritärer=
+
+werden + infinitiv
+werden + partizip vergangenheit
+ich werde gehasst von jemandem
+er wird von mir gehasst
+
+Beschaffenheit=quality,nature
+Wie ist dein Gehirn beschaffen? What is your brain like?
+
+das einzige wunderschöne Ding hier in der Schweiz ist der Bus, der dich nach Italien bringt
+letzte Woche, letzter Montag, letztes Jahr 
+ein email schicken an eine Verein (der Verein)
+
+sie haben mir darum gebeten (bitten, ask)
+sie haben mir The geboten (bieten, offer)
+
+zur Verfügung stehen=essere a disposizione
+
+ich gehe arbeiten (gehe is WIE Modalverben)
+
+der Strand, das Ufer
+medizinische Hilfe
 
