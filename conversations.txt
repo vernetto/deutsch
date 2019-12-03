@@ -250,7 +250,7 @@ Sonnenbad nehmen
 
 sie schwimmen im Fluss
 
-ich wohne in der nähe, in der Schweiz (DAT FEM), aber ich fahre in die Schweiz (AKK) 
+ich wohne in der Nähe, in der Schweiz (DAT FEM), aber ich fahre in die Schweiz (AKK) 
 
 bist du am Wochenende in der Schweiz gewesen?
 er nach Italien gefahren ist
@@ -1125,7 +1125,7 @@ Wettervorhersagen (previsioni del tempo)
 Klimawandel
 Sturm/Stürme
 
-ich habe ein anderes Vorstellungsgespräch gemacht
+ich habe ein weiteres Vorstellungsgespräch (DAS) gemacht
 unstabil=instable
 ein Irrtum (der Irrtum, die Irrtümer) begehen / ich habe begangen , er hat Selbstmord begangen
 
@@ -1284,4 +1284,47 @@ ich gehe arbeiten (gehe is WIE Modalverben)
 
 der Strand, das Ufer
 medizinische Hilfe
+
+ich zahle die Rechnung
+ich zähle die Tage, die mich
+
+achtmal=eight times
+verteilen=distribute 
+teilen=share
+
+beitragen=contribute
+
+
+ich habe von der Bibliothek (Dativ) von Aosta ausgeliehen (ausleihen)
+Radsportler (Radrennfahrer)
+
+Amateur 
+ich bin besessen von Pantani
+frühreif
+Ich mache eine Wette
+Ich setze - sie haben auf ihn gesetz
+bestechen, schmieren 
+sie kontrollieren das die Radsportler kein Doping nehmen
+erhöht
+am Abend vorher 
+das Ende
+der Richter (die Richter, pl)=giudice
+
+Mülleimer=garbage bin
+
+Vielfach, mehrmals
+die Strategie der Mafia
+vorgetäuscht
+die Dosis (dose), die Dose (can)
+der Tatort (crime scene)
+Fernsehsendung=trasmissione televisiva
+Christdemokrat
+er wollte Italien regieren
+sie wussten wo er versteckt war
+er ist getötet worder
+Staatsstreich 
+unterwandern=infiltrate
+sie greifen ein (eingreifen)
+
+Beschwerdebrief
 
