@@ -75,7 +75,9 @@ für dich es ist besser 19 Uhr
 _____________
 
 den ganzen Tag (AKK) hat es geschneit
-vor ein Paar Tagen (vor ist Wechselproposition)
+vor ein Paar Tagen (DATIV  vor ist Wechselproposition)
+seit 10 Tagen (DATIV)
+
 
 ich nutze es jeden Tag (MAS), jeden Abend, auf jeden Fall
 
@@ -88,7 +90,7 @@ besonders
 mein Team besteht aus 5 Mitgliedern (DAT PLUR), 
 die andere 3 mussen die Arbeit (AKK FEM) von 5 erledigen.
 
-die Firma/Firmen (FEM) 
+die Firma/die Firmen (FEM) 
 die Aufgabe=function (Hausaufgabe), die Ausgabe=edition
 
 der Wettbewerb=competition
@@ -111,8 +113,8 @@ nachgestellt (after)
 in diesem Fall (der Fall, mit DAT ... "in" brauchts manchmal AKK manchmal DAT)
 in dieser Zeit (die Zeit)
 die ganze Zeit (AKK)
-das ganze Wochenende, schönes Wochenende (AKK) 
-
+das ganze Wochenende (DAS ENDE), schönes Wochenende (AKK) 
+das ganze Jahr (DAS ENDE)
 
 Wetterwechsel (Wende, Veranderung)
 
@@ -347,6 +349,7 @@ in der Mitte von Italien
 
 Schweiß, schwitzen, 
 zum ersten Mal (NEU DAT)
+letzes Mal
 
 _______
 
@@ -511,13 +514,14 @@ gegenseitig=reciprocal
 
 Austausch=exchange
 Unterhaltung=conversation
+Haltung=attitude
 
 über den Körper (AKK, der Körper)
 
 sei bitte nicht so Feige! (coward, Feigling)
 
-der Unterhalt, die Instandhaltung, Wartung = maintenance
-Bremsbacken = pattini
+die Verwaltung, der Unterhalt,die Instandhaltung,die Wartung=maintenance
+Bremsbacken=pattini
 Stoßdämpfer, Federung
 Scheibe
 ich habe etwas bereut
@@ -1200,7 +1204,8 @@ Ohne Fleiß kein Preis
 Morgens in den Spiegel geschaut, schon den ganzen Tag versaut.
 
 Wind aus (von) Süden
-zum zweite Mal (das Mal, dieses Mal)
+zum zweiten Mal (das Mal, dieses Mal)
+nächstes Mal
 eine Prüfung bestehen, ich habe es bestanden
 auf das Zertifikat konzentrieren
 ich fahre nach Zürich, ich fahre zu ihm (DAT), zu einem anderen Kunden fahren
@@ -1307,7 +1312,7 @@ bestechen, schmieren
 sie kontrollieren das die Radsportler kein Doping nehmen
 erhöht
 am Abend vorher 
-das Ende
+das Ende der Qual
 der Richter (die Richter, pl)=giudice
 
 Mülleimer=garbage bin
@@ -1327,4 +1332,279 @@ unterwandern=infiltrate
 sie greifen ein (eingreifen)
 
 Beschwerdebrief
+
+1 Juni 2019 1 November 2019, 350 Euro + 100 Ausrüstung
+500 Euro Arzt
+enttäuscht
+ich fordern die Kostenerstattung
+
+Beschwerde über Krav Maga training
+
+sehr geehrte Damen und Herren,
+anfang 2019 habe ich Ihre Website entdeckt, und Ihr (DAS) PDF "wie man mit Krav Maga unbesiegbar wird: trainieren bei uns" gelesen. Ihre Redestil war sehr überzeugend und ich war sehr begeistert. 
+Ich dachte: "endlich werde ich in der Lage sein, auf der Strassen bei Nacht zu gehen ohne zu fürchten, angegriffen zu werden." Über Ihre Website habe ich viele sehr positive Bewertungen gelesen, 
+dann wollte ich mich unbedingt anmelden.
+Seit 1. Juni 2019 bis 1. November 2019 habe ich an Ihren Kursen teilgenommen. 
+Dafür musste ich 350 Euro + 100 Ausrüstung bezahlen. 
+Mit grösstem Eifer und grösster Sorgfalt habe ich alle Übungen zu Hause gemacht und am Ende habe ich cum laude die Abschlussprüfung bestanden.
+
+Einen Monat später, 5. Dezember, ich bin von zwei Kerlen (DAT) angegriffen worden, die wollten meine Handtasche stehlen.
+Ich erinnerte mich an ihre Werbung "ohne Schwierigkeit kannst du zwei Gegner gleichzeitig zu Ohnmacht bringen, mit Krava Maga!". So beschloss ich zu reagieren mit ein paar Krava Maga Manövern, die aber waren total ineffektiv, und bin sofort verprügelt worden, und endete im Krankenhaus mit einer gebrochenen Nase. Das kostete mich 500 Euro medizinische Ausgaben.
+
+Ich fordere von Ihnen die Kostenerstattung des gesamten Kurses (350 Euros) und die 500 Euros medizinische Ausgaben.
+
+Falls Sie mit mir sprechen wollen, meine (die) Telefonnummer ist 0762124321. Sollte ich nichts von Ihnen vor Ende (DAT) dieses Jahres hören, werden Sie von meinem Anwalt kontaktiert.
+
+Mit freundlichen (DAT) Grüssen
+
+
+
+es ist sehr wichtig, in der Lage zu sein, ein Brief zu schreiben
+
+der Zweck des Blutes - viele verschiedene Zwecke
+Nahrungsmittel, Nährstoffe
+
+der Kampf, die Kämpfe
+das Datum ,die Daten
+
+Schade (what a pity)
+sich schämen (avergonzarse)
+der Schaden (damage) (pl. die Schäden)
+
+die Kraft, die Kräfte
+fliessend (scorrevole), flüssig (liquido), fleißig (diligente)
+
+als=in the past
+wann=Frage über ein Zeitpunkt
+wenn=(sempre quando ho tempo)
+
+Lust auf Schokolade
+die Stichsäge
+Brett=tavola di legno
+Tafel=lavagna
+
+mitten auf der Wiese 
+Steckdose=presa di corrente
+Verlängerung=prolunga
+die Rohrzange=pipe wrench
+das Rohr,die Rohre
+Klempner=tubista
+schrauben=screw
+Schraube=vite
+Schraubenzieher=cacciavite
+Hobel=pialla
+glatt=liscio
+
+Vietnamese
+Spannend=eccitante
+ich bin nicht so gespannt auf etwas=non interessato
+Anstrengend=stressful
+feste Anstellung=permanent job
+Sprachschule
+ich bin enttäuscht=sono deluso
+erbärmlich
+
+
+Ich bin damit einverstanden=sono d'accordo
+ermahnen=esortare
+
+angekündigt=announced
+gekündigt=resign
+das Böse hat keine Grenzen
+ich pfeif drauf, er ist mir schnuppe=I don't give a damn
+dieser Alptraum (DER) hat länger als 6 Monate gedauert
+
+herausfordernde Situation=challenging
+
+das Gehirn wurde zerstört (el cerebro fue dañado) (Präteritum)
+das Gehirn ist zerstört worden (Perfekt) (ha sido destruido)
+
+auf alle Fälle
+gehe ich zu ihm in Turin 
+
+geizig (stingy), gierig (greedy)
+
+während der Urlaubzeit
+ich kann nicht mit ihm rechnen
+
+offensichtlich=apparently
+anscheinend=apparently
+offenbar=apparently
+ich habe einen Neffe, und zwei Enkelkinder 
+
+ich fühle mich mies (miserable)
+das Stockbett
+
+ich habe ausgehalten=I have resister
+
+===
+
+wie modal verben (kein "zu"):
+ich bleibe lieber stehen
+ich fahre jetzt einkaufen
+ich fühle mein Hertz klopfen
+sie gehe heute abend tanzen
+wir hören sie singen
+sie lässt ihr Auto reparieren
+ich sehe ihn aus dem Bus steigen
+
+es hört auf zu regnen
+helfen: er hilft mir aufraumen, er hilft mir das Haus aufzuraumen (mit direkten Object)
+lehren, lernen: ich lehre meinen Sohn lesen, ich lehre meinen Sohn die Deutsche Verben zu lesen
+das kind lernt jetzt lesen, das kind lernt jetzt das Evangelium zu lesen
+
+ein Paar Mal 
+dicht besiedelt
+die Hälfte= half (substantiv)
+
+das Grass mähen (to mow the grass)
+die Möwe mögen Tortellini
+das Vergnügen=il piacere
+die Vernunft=la ragione
+Steter Tropfen höhlt den Stein
+einzuhämmer=martellarsi
+
+du hast mich gefragt
+
+Hochgeschwindigkeit
+verhaften, in Haft
+Haftstrafe von 1 Jahr
+albern=foolish
+emotional verbundet
+zurückhalten
+
+EL=EssLöffel (grosse Löffel) TL=tee Löffel
+zerlassen=geschmolzen
+Semmelbrösel=pan grattato
+machen wir weiter=andiamo avanti
+fortsetzen=continuare (qualcosa)
+zerteilen=cut into pieces
+der Kern der Angelegenheit
+
+Nudelholz=mattarello
+manchmal füge ich ein Stück Käse hinzu
+
+pro Stunde
+
+anstecken=infect
+das Horoskop
+Fachgeschäft
+Schlittschuhe Rocer=pattini da ghiaccio
+Marken
+Kufe=pattino
+
+über dem Durchschnitt
+
+ich unterstelle dir etwas=insinuare
+Angelobung=swearing-in ceremony
+geloben=to promise
+
+https://de.wikipedia.org/wiki/Hannes_Ringlstetter liedermacher = cantautore
+
+
+auf der rechte Seite
+auf der äusserste linke Seite
+Palmen=Palm Tree
+Pappeln=pioppi
+der Schwan, die Schwäne
+die Gans,  die Gänse
+die Wolke, die Wolken
+Hand in Hand
+die Flöte (flauto)
+
+verschwommen=blurry
+
+Gefrierpunkt=freezing point
+betroffen=affected
+überschwemmung=flood
+den Fluss entlang
+entlang des Flusses
+vor Kurzem=a little time ago
+Vorstellung=presentation
+Bestechung=Schmiergeld=bribe
+Schweden=Swede
+seit einer Woche (DATIV)
+
+was hast du vor?
+Tischtennis Tisch
+die Bar, in einer Bar
+bei meinem Cousin
+Gesellschaft leisten=to give company
+aufwachen=to get up
+stable=der stall (stalla)
+er kam aus Romagna
+die Nationalhymne
+bei der jetzigen Firma, bei der neuen Firma
+worum geht es? de que se trata?
+Einstellung=attitude
+einstellen=employ someone
+
+Schneider=sarto
+schnitzen=intagliare
+Erste Hilfe=pronto soccorso
+
+irrtümlich=by mistake
+sich unterordnen=to subordinate
+
+auf der einen Seite=
+Heuchelei=hypocrisy
+sich etwas ausdenken=to think of sth.
+
+imaginär=imaginary
+in einen Geschichtsbuch=history book
+
+der Franzose, die Französin, die Franzosen, die Französinnen
+surgeon=Chirurg
+Segelboot=Segelschiff
+Schlager=hit song
+eingängig=catchy
+aufführung=performance
+
+der Laden, die Läden
+Suchtmittel=dependence causing substance
+ist längst aus=is long over
+schon längst nicht mehr=da tanto tempo non piu'
+Reise zur Mittelpunkt der Erde
+Lebenswandel=moral conduct
+die Ausprache=pronunciation
+der Staat (state), die Stadt,
+die Wiese=
+der Rasen=prato
+die Weide=meadow, grazing land (pascolo) Weidetiere
+herumlungern=to lounge around 
+Ausflug=excursion
+Umschwung=reversal
+durchsetzte=to enforce
+auseinanderzusetzen=to deal with
+im Auftrag=su incarico di
+Weshalb=warum
+Fördergelder=finanziamenti
+
+sei 2 Monaten
+mit dem neuen Job (der Job)
+mit der neuen Arbeit (die Arbeit)
+
+Anforderung=Erwartung
+ins Büro gehen (akk)
+zweideutig=ambiguous
+deutlich sprechen=grenau, klaar
+ich habe noch nicht gefragt
+es gibt einen Russen (mit akkusativ); es ist ein Russe
+es git zwei Inder in der Firma
+Brasilien, Italien, Spianien, Portugal
+vervielfältigen=reproduce
+
+Vorstand=Management
+Vorstands Vorsitzender=President
+Geschäftsführer=President
+vertreiben, der Vertrieb=marketing
+vergewaltigen=to rape
+verwalten=to manage
+der Verkauf=Sales
+Werbung=advertising
+Veranstaltung=event (Fest, meeting)
+das Personal, Personalabteilung=HR
+Buchhaltung=accounting
+ich konnte die Augen nicht offen halten
+
 
