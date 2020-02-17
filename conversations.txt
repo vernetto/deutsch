@@ -1606,5 +1606,54 @@ Veranstaltung=event (Fest, meeting)
 das Personal, Personalabteilung=HR
 Buchhaltung=accounting
 ich konnte die Augen nicht offen halten
+Marktforschung=Market Research
+Marke Entwicklung=Brand Development
+ein Formular, zwei Formulare ausfüllen
+es würde für ein Zeichen von Faulheit gehalten (betrachtet, gesehen)
+ein Schläfchen machen, ein Nickerchen halten= to take a nap
+Bedürfnis von unserem Körper (von + DAT)
 
+Land, Länder
+was ist der Plural, was ist die Pluralform von "Land"?
+aus verschidenen Ländern (DAT PLUR)
+Prioritäten setzen
+bezieht sich auf eine Person (AKK, die Person), auf einen Mensch (AKK)
+mir fehlehn 2 Jahren
+mir fehlt 1 Jahr
+es ist eins der besten Bücher, das ich gelesen habe
+ich war dabei, die spanische Version von diesem Buch zu suchen
+(SING) der Erfolg, die Niederlage
+(PLURAL) die Erfolge, die Niederlagen
+gekennzeichnet=characterized
+befasst er sich=he deals
+Bezug, Bezüge=references
+ähneln, ähnelten
 
+die Wut, wütend
+mitten der Nacht
+
+Sodbrennen=heartburn
+gestresst (nicht STRESSIERT)
+
+eingestehen=to confess
+abzwingen=to force
+
+beruhigen=to calm
+berühren=to touch
+
+vorgesetzt=superior
+Abitur=maturità
+Schlesische Weber
+
+naughty=frech, ungezogen
+Trichter = imbuto
+Bösewichter=i cattivi
+
+despektierlich=disrespectful
+im Zentrum der Welt, am Arsch der Welt  
+
+invade=einfallen
+diese Wandel ist nicht aufzuhalten
+Sintflut=deluge
+
+wegen dieser dummen Frau
