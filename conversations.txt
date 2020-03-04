@@ -147,7 +147,8 @@ wir gehen zu Freundinen (PLUR FEM)
 ich gehe mit meinen Freundinen ins Kino
 
 Robert wohnt bei seiner Tante (DAT FEM)
-ich arbeite bei einer Bank (DAT FEM)
+ich àrbeite bei einer Bank (DAT FEM)
+die Àrbeit
 
 was macht Robert nach (vor) dem Essen
 Richard wohnt seit einer Woche (FEM DAT)
@@ -1121,7 +1122,7 @@ wenn ich einmal reich bin
 
 far confusione = verwechseln, durcheinander bringen
 
-kämpfen (infinitiv)
+Kampf - kämpfen (infinitiv)
 musste
 ich musste den ganzen Tag arbeiten
 unter dem Regen
@@ -1203,7 +1204,7 @@ ausreichend=sufficient
 Ohne Fleiß kein Preis
 Morgens in den Spiegel geschaut, schon den ganzen Tag versaut.
 
-Wind aus (von) Süden
+Wind aus (von) Süden (Südwind)
 zum zweiten Mal (das Mal, dieses Mal)
 nächstes Mal
 eine Prüfung bestehen, ich habe es bestanden
@@ -1729,4 +1730,51 @@ Milchbauern
 die Kuh, die Kühe
 Grossgrundbesitzer=latifondista
 für etwas eignen=to lend oneself
+
+der Vokal, die Vokale
+der Konsonant, die Konsonanten
+
+Obsession=Besessenheit
+Lunch break=Mittagspause
+in open air=in Freien
+seitdem Ich bei dieser neuen Firma
+
+die Woche, das Ende, das Wochenende
+dieses Wochenende 
+es ist folgendes vorgekommen
+ich habe ihr meine Hilfe geboten (bieten)
+Geburtsort
+gegensatz=opposition
+
+Ansammlung=accumulation
+indifferent=gleichgültig
+Mann muss genau abwägen=ponder
+unaufhaltbar=unstoppable
+
+Aussprache=pronunciation
+Abscheulich=abominable
+
+Ausschreitungen=riot
+Damm, Dämme , Staudamm
+stauen=to block, to accumulate
+
+Raster=graticola,grate
+
+Lied, Lieder (songs)
+ich habe verdient
+
+ich habe darüber nachgedacht / ich habe an das gedacht
+es ist immer etwas los=there is always something on
+
+unterdrücken=repress
+erpressen=blackmail
+polytheistisch, atheistisch
+
+Er tat so, als (wissen) wüsste er die Antwort nicht.
+Sie versprachen mir, ich (bekommen) bekäme ein Geschenk.
+Wenn es (gehen) ginge, würde ich mit dir kommen.
+Sie befürchteten, wir (können) könnten die Aufgabe nicht lösen.
+Ach, wenn das Kind doch endlich (schlafen) schliefe 
+Wenn du ihn (einladen) eingeladen hättest, (er/kommen) wäre er gekommen
+
 
