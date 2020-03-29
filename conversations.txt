@@ -1796,7 +1796,7 @@ Ausschlag=rash
 kratzen=scratch
 ausbreiten=diffendersi
 Diät oder Ernährung
-Einrichtung=institution
+Einrichtung=institution,enti,facilities
 
 =========
 
@@ -1850,4 +1850,68 @@ einen guten Lohn, der Lohn
 Weinberg=vigneti
 Winzer=vignaiolo
 auf das Land
+
+Vereinigung=Kammer
+Lieferkette=
+
+sie sind ermutigt worden=sono incoraggiate
+Konzern=enterprise
+hervorragend=excellent
+
+Hefe=yeast
+Gelassenheit=serenity
+wird kontaminiert werden=will be contaminated
+Schilddrüse=thyroid
+
+Wechseljahre=menopausa
+verdrängung=displacement
+
+Wer hat uns verraten? Sozialdemokraten!
+Feinfühligkeit=tactfulness
+Gruselig=spaventoso
+beteiligung,teilhabe=participation
+ablaufen=svolgersi
+
+sie sind der Gefahr ausgesetz
+unter den Nägeln
+Kammerspiel
+angeklagt war=accused
+
+Präsenz
+pausieren,anhalten=sospendere
+die Zeit aufwenden=invest the time
+es geschah, es ist geschehen
+
+Schnittmengen
+
+wegen meiner Arbeit
+Halswirbelsäule
+Schildkröte=turtle
+zusammengezogen=contratto
+Kornkammer=granaio
+wegen des Mangels Personal / mangels Personal 
+viele Male
+überlaufen
+
+
+du siehst den Wald vor lauter Bäumen nicht
+ohne vom Fleck zu kommen=without getting off the mark
+Abwärtsspirale=Downward spiral
+
+Lichte=clear
+
+ins Büro, in das Büro
+der Schweiss (sudore), schwitzen
+
+technisch ausgefeilt=sophisticated
+selten=rarely
+seltsam=strange (doktor Seltsam)
+
+des Films,
+außerhalb der Stosszeiten 
+an der Ecke von Paradeplatz und Badenerstrasse
+sehr gut angebunden
+ich gehe nie ins Restaurant, ins Kino, ins Theater
+ich gehe zum Bahnhof
+Banküberfall=bank robbery
 
