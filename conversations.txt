@@ -524,6 +524,7 @@ Bremsbacken=pattini
 Stoßdämpfer, Federung
 Scheibe
 ich habe etwas bereut
+ich bereue=I regret
 den Unterschied spüren
 Pfad,Pfade, auf den Pfaden, auf den Strassen
 von meine Fahrad absteigen/aufsteigen - auf dem Fahrrad (das Fahrrad)
@@ -1914,4 +1915,133 @@ sehr gut angebunden
 ich gehe nie ins Restaurant, ins Kino, ins Theater
 ich gehe zum Bahnhof
 Banküberfall=bank robbery
+
+erzwingen=enforce
+Durchsage=announcement
+die Lücke=spazio
+Leertaste=space bar
+ausüben=practice
+äußern=utter
+während des Burgerkrieges
+Ladegerät=battery recharger
+
+Brasilien, brasilianisch, Brasilianer
+
+vorlesen=read out
+Vorlesung=lecture
+
+draussen=fuori
+ich bin draussen, ich gehe aussen
+Wohin gehst du? Aussen!
+eingeschaltet=turned on
+frieren=freeze (morir de frio)
+einfrieren=to freeze (congelar) tiefgekühlt
+wo liegt der Unterschied zwischen Kühlschrank und Tiefkühltruhe (deef freezer)
+Tiefkühltruhe=Gefrierschrank=Gefriertruhe=freezer 
+geheizt
+
+jederzeit=at any time
+staatlich=state owned
+jeden Monat=each month
+jährlich Einkommen=yearly income
+dreimal so hock wie in Norditalien
+Ich wundere mich=I wonder how
+
+derzufolge=secondo la quale
+Steuerhinterziehung=fiscal evasion
+auf dem Bergen,in dem Bergen
+Steuerlast=fiscal pressure
+die Hilfe vom Staat
+mich bewerben=to apply
+etwas beantragen=to demand
+sie sind Aufstand nähe
+
+
+an eine gefährliche Stelle
+er steht mitten auf der Kreuzung
+der Verkehr=traffic
+den Verkehr zu regeln
+sie halten an, sie haben angehalten (sie haben gestopped)
+Führerschein=
+das Bedürfnis verspüren=sentire il bisogno
+ich spüre einen Schmerz
+Radwegen=bicycle paths
+überfahren werden=essere investito
+Abgas=exhaust
+sie fahren über die Kreuzung
+sie gehen über die Strasse
+überqueren die Strasse
+durchqueren=Sven Heading 
+das Schild , die Schilder
+mann lauft einen Umweg
+Abkürzung=scorciatoia
+Fahrbahn=Spur=carreggiata
+neben der Baustelle=di fianco alla
+er fährt an der Baustelle vorbei=passare oltre
+Kreisverkehr, um den Brunnen herum
+Brunnen=
+steigen,gestiegen
+fallen,sinken (gesunken)
+das Verkauf
+Begriffen
+der Bahnübergang, Schranke=gate
+Vorfahrt=precedenza
+
+Kritzeleien=scribbles
+in den letzen 10 Jahren (DAT)
+der neuen Projecte(DEN PLUR)
+einarbeiten=introduce myself
+ich wusste, das es sehr anstrengend werden würde (das Konjunctif am Ende, nebensatz)
+Was das Auswendiglernen betrifft ()
+nützlich,nützlicher
+entkommen=fliehen=scappare
+Kneipe=bar
+nach dem Krieg
+sie hätten die Deportation vermeiden gekonnt
+
+die Einschränkung
+Magenbeschwerden=mal di pancia
+geeignet=appropriate
+Verdauungsprobleme
+es scheint als ob diese Coronakrise vorbei wäre (KONJ)
+ab (oder nach) 26 April es wird gelockert
+immer wenn ich müde bin, darf ich ins Bett gehen
+aus diesen Gründen
+versprochen - gehalten
+nachahmen,nachgeamt=imitate
+
+Sto scrivendo un articolo sul gerundio. Ich schreibe gerade einen Artikel über das Gerundium.
+Il treno sta partendo. Der Zug fährt gerade ab.
+Marco è ancora raffreddato, ma va migliorando. Marco ist immer noch erkältet, aber es geht ihm immer besser.
+Imparo l’italiano facendo molti esercizi. Ich lerne Italienisch, indem ich viele Übungen mache. 
+Ho imparato l’italiano facendo molti esercizi. Indem ich viele Übungen gemacht habe, habe ich Italienisch gelernt.
+Imparerò l’italiano facendo molti esercizi. Wenn ich viele Übungen machen werde, werde ich Italienisch lernen.
+Essendo vissuta in Cina, conosco bene la lingua inglese. Da ich in China gelebt habe, kann ich gut Englisch.
+Essendo scoppiato un temporale, siamo tornati a casa prima del previsto. Da ein Gewitter ausgebrochen ist, sind wir vorzeitig nach Hause zurückgekehrt.
+Essendomi ammalato, non potrò andare alla festa. Da ich krank geworden bin, werde ich nicht zur Party gehen können.
+Pur lavorando molto, Marco non guadagna tanto. Obwohl Marco viel arbeitet, verdient er nicht viel.
+Pur sapendolo non lo direi. Selbst wenn ich es wüsste, würde ich es nicht sagen.
+Avendo visto il mazzo di fiori, l'ha chiamato. Nachdem sie den Blumenstrauß gesehen hatte, rief sie ihn an.
+Avendo molto da fare, Giulia non può aiutarci col trasloco. Da Giulia viel zu tun hat, kann sie uns nicht beim Umzug helfen.
+Abbiamo passato la sera ridendo. Wir haben den ganzen Abend lachend verbracht.
+Potendo andrei in vacanza. Wenn ich könnte, würde ich Urlaub machen.
+Facendo la spesa ho incontrato Giulia. Beim Einkaufen habe ich Giulia getroffen.
+aber: Ho incontrato Giulia mentre faceva la spesa. Ich habe Giulia getroffen, die gerade einkaufte.
+Non avendolo visto per qualche anno, non l’ho quasi riconosciuto. Da ich ihn seit einigen Jahren nicht mehr gesehen hatte, habe ich ihn kaum erkannt.
+Non avendola vista per qualche anno, non l’ho quasi riconosciuta. Da ich sie seit einigen Jahren nicht mehr gesehen hatte, habe ich sie kaum erkannt.
+
+Dienstleistung=servizi
+mit bunten Kleidern (DAT PLUR)
+
+Gerücht=rumore
+Geruch=odore
+Nachdenken=reflect (wenn ich so darüber nachdenke)
+über den tisch gezogen=
+sich etwas anmerken lassen= ein poker face 
+
+Pfau
+der Wolf, die Wölfe
+Wildschwein=boar
+Fahrradwege
+Auferstehung=Resurrection
 
