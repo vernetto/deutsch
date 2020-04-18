@@ -2039,9 +2039,23 @@ Nachdenken=reflect (wenn ich so darüber nachdenke)
 über den tisch gezogen=
 sich etwas anmerken lassen= ein poker face 
 
-Pfau
+Pfau=peakock
 der Wolf, die Wölfe
 Wildschwein=boar
 Fahrradwege
 Auferstehung=Resurrection
+wir werden alle ärmer werden
+grübeln=ponder,speculate
+klatschen=applaud
+Müllmann=dustman
+der Schlaf ist so wichtig wie das Essen
+Schläfchen
+der Apfel, die Äpfel
+Faulenzertum=pigrizia
+ein Viertel von den Leuten schlafen heimlich in Büro
+Schaden und Nutzen
+im Lauf der Zeit=in the course of time
+
+
+jitsi 
 
