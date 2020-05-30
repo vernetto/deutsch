@@ -1,3 +1,6 @@
+https://github.com/vernetto/deutsch/blob/master/adjectivdeklination.md
+
+
 Bestimmte:
 NOM: DER_DIE_DAS_DIE E_E_E_EN 
 AKK: DEN_DIE_DAS_DIE EN_E_E_EN
@@ -2077,4 +2080,16 @@ Er wird am .... in Ulm geboren. (Präsens)
 Er wächst in München auf. aufwachsen=grow up aufwachen=wake up
 1901 gibt er die Deutsche Nationalität auf, und er würde ein Bürger der Schweiz.
 Lehrer meinen aus him werde nie etwas, weil er sich nicht sagen lässt.
+
+
+===========
+TO REPEAT
+https://www.srf.ch/news/schweiz/grosser-lockerungs-schritt-das-hat-der-bundesrat-am-mittwoch-entschieden-die-uebersicht
+
+https://www.srf.ch/play/tv/einstein/video/lewa-savanne-ein-stueck-afrika-im-zoo-zuerich?id=174e04f1-3512-40b9-ab1a-65560317a42a
+
+
+Der junge Mann hat ein Fahrrad.
+Die junge Frau hat eine Blume.
+
 
