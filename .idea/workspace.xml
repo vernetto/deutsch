@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63aa7ff9-0b86-4366-a06b-838c0d42c734" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/einburgerung.txt" beforeDir="false" afterPath="$PROJECT_DIR$/einburgerung.txt" afterDir="false" />
     </list>
@@ -32,12 +31,6 @@
   <component name="DefaultGradleProjectSettings">
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>kein</find>
-      <find>ihrem</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,7 +47,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pvgoogletranslate" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -83,7 +76,7 @@
       <workItem from="1590781740154" duration="136000" />
       <workItem from="1590782925263" duration="72000" />
       <workItem from="1590784910273" duration="32000" />
-      <workItem from="1590784963398" duration="9147000" />
+      <workItem from="1590784963398" duration="18695000" />
     </task>
     <task id="LOCAL-00001" summary="bekenntsinnes">
       <created>1563098632907</created>
@@ -113,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590819317068</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Grosser Rat">
+      <created>1590831518877</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590831518877</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,22 +150,27 @@
     <MESSAGE value="bekenntsinnes" />
     <MESSAGE value="april" />
     <MESSAGE value="parlament" />
-    <option name="LAST_COMMIT_MESSAGE" value="parlament" />
+    <MESSAGE value="Grosser Rat" />
+    <option name="LAST_COMMIT_MESSAGE" value="Grosser Rat" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="478" y="62" key="CommitChangelistDialog2" timestamp="1590819314981">
+    <state x="478" y="62" key="CommitChangelistDialog2" timestamp="1590831517078">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="478" y="62" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1590819314981" />
+    <state x="478" y="62" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1590831517078" />
     <state x="-1322" y="138" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1587230583215" />
+    <state x="549" y="190" key="FileChooserDialogImpl" timestamp="1590847960432">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="190" key="FileChooserDialogImpl/0.0.1536.864/-1920.0.1536.864@0.0.1536.864" timestamp="1590847960432" />
     <state x="277" y="77" key="SettingsEditor" timestamp="1590784942775">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="277" y="77" key="SettingsEditor/0.0.1536.864/-1920.0.1536.864@0.0.1536.864" timestamp="1590784942775" />
-    <state x="442" y="221" key="Vcs.Push.Dialog.v2" timestamp="1590819320891">
+    <state x="442" y="221" key="Vcs.Push.Dialog.v2" timestamp="1590831521356">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="442" y="221" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1590819320891" />
+    <state x="442" y="221" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1590831521356" />
     <state x="-1368" y="276" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1587230587303" />
     <state x="477" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1590784911750">
       <screen x="0" y="0" width="1536" height="864" />
