@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63aa7ff9-0b86-4366-a06b-838c0d42c734" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+    <list default="true" id="63aa7ff9-0b86-4366-a06b-838c0d42c734" name="Default Changelist" comment="more">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pvgoogletranslate" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tutorials" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -76,7 +76,7 @@
       <workItem from="1590781740154" duration="136000" />
       <workItem from="1590782925263" duration="72000" />
       <workItem from="1590784910273" duration="32000" />
-      <workItem from="1590784963398" duration="19713000" />
+      <workItem from="1590784963398" duration="24368000" />
     </task>
     <task id="LOCAL-00001" summary="bekenntsinnes">
       <created>1563098632907</created>
@@ -127,7 +127,21 @@
       <option name="project" value="LOCAL" />
       <updated>1590867977961</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="gitignore">
+      <created>1590868063413</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1590868063413</updated>
+    </task>
+    <task id="LOCAL-00009" summary="more">
+      <created>1590939712989</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1590939712989</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,35 +179,41 @@
     <MESSAGE value="april" />
     <MESSAGE value="parlament" />
     <MESSAGE value="Grosser Rat" />
-    <MESSAGE value="more" />
     <MESSAGE value="saule" />
-    <option name="LAST_COMMIT_MESSAGE" value="saule" />
+    <MESSAGE value="gitignore" />
+    <MESSAGE value="more" />
+    <option name="LAST_COMMIT_MESSAGE" value="more" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="478" y="62" key="CommitChangelistDialog2" timestamp="1590867976469">
+    <state x="478" y="62" key="CommitChangelistDialog2" timestamp="1590939734527">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="478" y="62" key="CommitChangelistDialog2/0.0.1536.864/-1920.0.1536.864@0.0.1536.864" timestamp="1590867976469" />
-    <state x="478" y="62" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1590831517078" />
+    <state x="478" y="62" key="CommitChangelistDialog2/0.0.1536.864/-1920.0.1536.864@0.0.1536.864" timestamp="1590868061696" />
+    <state x="478" y="62" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1590939734527" />
     <state x="-1322" y="138" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1587230583215" />
-    <state x="549" y="190" key="FileChooserDialogImpl" timestamp="1590847960432">
+    <state x="549" y="190" key="FileChooserDialogImpl" timestamp="1590939662369">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="190" key="FileChooserDialogImpl/0.0.1536.864/-1920.0.1536.864@0.0.1536.864" timestamp="1590847960432" />
+    <state x="549" y="190" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1590939662369" />
     <state x="277" y="77" key="SettingsEditor" timestamp="1590784942775">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="277" y="77" key="SettingsEditor/0.0.1536.864/-1920.0.1536.864@0.0.1536.864" timestamp="1590784942775" />
-    <state x="442" y="221" key="Vcs.Push.Dialog.v2" timestamp="1590867979783">
+    <state x="442" y="221" key="Vcs.Push.Dialog.v2" timestamp="1590939715459">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="442" y="221" key="Vcs.Push.Dialog.v2/0.0.1536.864/-1920.0.1536.864@0.0.1536.864" timestamp="1590867979783" />
-    <state x="442" y="221" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1590831521356" />
+    <state x="442" y="221" key="Vcs.Push.Dialog.v2/0.0.1536.864/-1920.0.1536.864@0.0.1536.864" timestamp="1590868065852" />
+    <state x="442" y="221" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1590939715459" />
     <state x="-1368" y="276" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1587230587303" />
     <state x="477" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1590784911750">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="477" y="260" key="com.intellij.ide.util.TipDialog/0.0.1536.864/-1920.0.1536.864@0.0.1536.864" timestamp="1590784911750" />
+    <state x="209" y="59" key="new project wizard" timestamp="1590924931650">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="209" y="59" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1590924931650" />
   </component>
   <component name="masterDetails">
     <states>
