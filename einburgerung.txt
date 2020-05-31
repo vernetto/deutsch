@@ -102,9 +102,10 @@ https://de.wikipedia.org/wiki/Grosser_Rat_(Bern)
 
 https://de.wikipedia.org/wiki/Schweizerische_Volkspartei  SVP Albert Rösti
 https://de.wikipedia.org/wiki/Sozialdemokratische_Partei_der_Schweiz  SP Christian Levrat
-https://de.wikipedia.org/wiki/FDP_Kanton_Z%C3%BCrich FDP
+https://de.wikipedia.org/wiki/FDP_Kanton_Z%C3%BCrich FDP Freisinnig-Demokratische Partei
 https://de.wikipedia.org/wiki/Gr%C3%BCnliberale_Partei GLP Jürg Grossen
 https://de.wikipedia.org/wiki/Gr%C3%BCne_Partei_der_Schweiz GPS
+https://de.wikipedia.org/wiki/Christlichdemokratische_Volkspartei CVP
 
 https://de.wikipedia.org/wiki/Bundespr%C3%A4sident_(Schweiz) Wahl: Vereinigten Bundesversammlung
 
@@ -143,4 +144,12 @@ https://www.ahv-iv.ch/de/Sozialversicherungen/Erg%C3%A4nzungsleistungen-EL
 https://bildungssystem.educa.ch/de/obligatorische-schule-1
 
 https://de.wikipedia.org/wiki/Drei-S%C3%A4ulen-System_(Schweiz)
+Gesetz über die berufliche Vorsorge BVG
+Alters- und Hinterlassenenversicherung AHV
+Invalidenversicherung IV
+Ergänzungsleistungen EL
+Arbeitslosenversicherung ALV
+
+https://www.youtube.com/watch?v=xh3F-kTXUTA&list=PL_tuE4yHrlfhT6hgbUnKDi8C65SuzO0oM&index=2&t=0s
+
 
