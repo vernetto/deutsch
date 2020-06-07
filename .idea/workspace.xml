@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63aa7ff9-0b86-4366-a06b-838c0d42c734" name="Default Changelist" comment="more">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +75,8 @@
       <workItem from="1590781740154" duration="136000" />
       <workItem from="1590782925263" duration="72000" />
       <workItem from="1590784910273" duration="32000" />
-      <workItem from="1590784963398" duration="24368000" />
+      <workItem from="1590784963398" duration="25668000" />
+      <workItem from="1591024822389" duration="2491000" />
     </task>
     <task id="LOCAL-00001" summary="bekenntsinnes">
       <created>1563098632907</created>
@@ -141,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590939712989</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="more">
+      <created>1590939826649</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1590939826649</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,17 +192,21 @@
     <option name="LAST_COMMIT_MESSAGE" value="more" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="478" y="62" key="CommitChangelistDialog2" timestamp="1590939734527">
+    <state x="478" y="62" key="CommitChangelistDialog2" timestamp="1591515631050">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="478" y="62" key="CommitChangelistDialog2/0.0.1536.864/-1920.0.1536.864@0.0.1536.864" timestamp="1590868061696" />
-    <state x="478" y="62" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1590939734527" />
+    <state x="478" y="62" key="CommitChangelistDialog2/0.0.1536.864/-1920.0.1536.864@0.0.1536.864" timestamp="1591515631050" />
+    <state x="478" y="62" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1590939812254" />
     <state x="-1322" y="138" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1587230583215" />
-    <state x="549" y="190" key="FileChooserDialogImpl" timestamp="1590939662369">
+    <state x="549" y="190" key="FileChooserDialogImpl" timestamp="1591339267152">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="190" key="FileChooserDialogImpl/0.0.1536.864/-1920.0.1536.864@0.0.1536.864" timestamp="1590847960432" />
-    <state x="549" y="190" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1590939662369" />
+    <state x="549" y="190" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1591339267152" />
+    <state x="439" y="137" key="NewModule_or_Project.wizard" timestamp="1591339288261">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="439" y="137" key="NewModule_or_Project.wizard/0.0.1536.864@0.0.1536.864" timestamp="1591339288261" />
     <state x="277" y="77" key="SettingsEditor" timestamp="1590784942775">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -210,10 +221,14 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="477" y="260" key="com.intellij.ide.util.TipDialog/0.0.1536.864/-1920.0.1536.864@0.0.1536.864" timestamp="1590784911750" />
-    <state x="209" y="59" key="new project wizard" timestamp="1590924931650">
+    <state x="508" y="236" key="git4idea.merge.GitPullDialog" timestamp="1591515615136">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="209" y="59" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1590924931650" />
+    <state x="508" y="236" key="git4idea.merge.GitPullDialog/0.0.1536.864/-1920.0.1536.864@0.0.1536.864" timestamp="1591515615136" />
+    <state x="209" y="59" key="new project wizard" timestamp="1591339051216">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="209" y="59" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1591339051216" />
   </component>
   <component name="masterDetails">
     <states>
