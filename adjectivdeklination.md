@@ -82,6 +82,8 @@ Possessivpronomen
 
 Masculin und Neutrum
 
+| G | E |
+|-|-|
 |ich|mein|
 |du|dein|
 |er|sein|
