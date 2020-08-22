@@ -78,3 +78,11 @@ auch nach: einige, mehrere, viele, wenige; Zahlen
 ||sie| sie | ihnen| ihrer|  |
 
 
+Possessivpronomen
+
+Masculin und Neutrum
+||ich||mein||
+||du||dein||
+||er||sein||
+||sie||ihr||
+
