@@ -81,8 +81,9 @@ auch nach: einige, mehrere, viele, wenige; Zahlen
 Possessivpronomen
 
 Masculin und Neutrum
-||ich||mein||
-||du||dein||
-||er||sein||
-||sie||ihr||
+
+|ich|mein|
+|du|dein|
+|er|sein|
+|sie|ihr|
 
