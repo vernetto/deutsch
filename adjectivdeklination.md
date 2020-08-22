@@ -1,4 +1,4 @@
-#Adjektive nach bestimmtem Artikel
+# Adjektive nach bestimmtem Artikel
 
 ||MÄN  |  WEI | SAC |
 |-|-|-|-|
@@ -21,7 +21,7 @@ auch nach: dieser, jener, jeder, mancher, welcher
 auch nach: diese, jene, manche, solche, welche, alle, keine, meine, deine....
 
 
-#Adjektive nach unbestimmtem Artikel
+# Adjektive nach unbestimmtem Artikel
 
 ||MÄN  | WEI  | SAC |
 |-|-|-|-|
@@ -33,7 +33,7 @@ auch nach: diese, jene, manche, solche, welche, alle, keine, meine, deine....
 auch nach: kein, mein, dein, sein, ihr, unser, euer, irgendein
 
 
-#Adjektive nach 0-Artikel
+# Adjektive nach 0-Artikel
 
 ||MÄN  | WEI | SAC | 
 |-|-|-|-|
@@ -78,7 +78,7 @@ auch nach: einige, mehrere, viele, wenige; Zahlen
 ||sie| sie | ihnen| ihrer|  |
 
 
-Possessivpronomen
+# Possessivpronomen
 
 Masculin und Neutrum
 
