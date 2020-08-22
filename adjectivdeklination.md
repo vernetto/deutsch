@@ -84,8 +84,14 @@ auch nach: einige, mehrere, viele, wenige; Zahlen
 
 | G | Masculin und Neutrum | Feminin |
 |-|-||
-|ich|mein||
-|du|dein||
-|er|sein||
-|sie|ihr||
+|ich|mein|meine|
+|du|dein|deine|
+|er|sein|seine|
+|sie|ihr|ihre|
+|es|sein|seine|
+|wir|unser|unsere|
+|ihr|euer|eure|
+|sie|ihr|ihre|
+|Sie|Ihr|Ihre|
+
 
