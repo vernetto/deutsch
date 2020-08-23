@@ -68,7 +68,7 @@ auch nach: einige, mehrere, viele, wenige; Zahlen
 
 
 |NOM|AKK|DAT|GEN| 
-|-|-|-|-|-|
+|-|-|-|-|
 |ich| mich| mir|meiner| |
 |du| dich| dir|deiner| |
 |er | ihn |  ihm |seiner| | 
@@ -83,7 +83,7 @@ auch nach: einige, mehrere, viele, wenige; Zahlen
 
 
 | G | Masculin und Neutrum | Feminin |
-|-|-||
+|-|-|-|
 |ich|mein|meine|
 |du|dein|deine|
 |er|sein|seine|
