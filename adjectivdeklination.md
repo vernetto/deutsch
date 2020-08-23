@@ -55,7 +55,7 @@ auch nach: kein, mein, dein, sein, ihr, unser, euer, irgendein
 auch nach: einige, mehrere, viele, wenige; Zahlen
 
 
-|Case|Masc|Fem|Neut|Remarks|
+| Case | Masc | Fem | Neut | Remarks |
 |---|---|---|---|---|---|
 |NOM|der Wagen | die Dose| das Lied| |
 |NOM|ein Wagen | eine Dose| ein Lied| |
