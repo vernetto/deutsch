@@ -66,6 +66,7 @@ auch nach: einige, mehrere, viele, wenige; Zahlen
 |DAT|dem Wagen | der Dose| dem Lied| |
 |DAT|einem Wagen | einer Dose| einem Lied| |
 
+# Personalpronomen
 
 |NOM|AKK|DAT|GEN| 
 |-|-|-|-|
