@@ -56,7 +56,7 @@ auch nach: einige, mehrere, viele, wenige; Zahlen
 
 
 | Case | Masc | Fem | Neut | Remarks |
-|---|---|---|---|---|---|
+|---|---|---|---|---|
 |NOM|der Wagen | die Dose| das Lied| |
 |NOM|ein Wagen | eine Dose| ein Lied| |
 |AKK|den Wagen | die Dose| das Lied| MAS der->den ein->einen|
