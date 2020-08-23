@@ -22,4 +22,12 @@ Präteritum: ich mochte, wir mochten
 
 Perfekt: ich habe gemocht
 
-# sollen (
+# sollen (shall)
+
+Präsens:  ich soll, wir sollen
+
+Präteritum: ich sollte, wir sollten
+
+Perfekt: ich habe gesollt
+
+
