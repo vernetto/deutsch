@@ -1,4 +1,4 @@
-# müssen 
+# müssen (to must)
 
 Präsens: ich muss , wir müssen
 
@@ -6,7 +6,7 @@ Präteritum: ich musste, wir mussten
 
 Perfekt: ich habe gemusst
 
-# dürfen
+# dürfen (to can)
 
 Präsens: ich darf, wir dürfen
 
@@ -14,7 +14,7 @@ Präteritum: ich durfte, wir durften
 
 Perfekt: ich habe gedurft
 
-# mögen
+# mögen (to like)
 
 Präsens: ich mag, wir mögen
 
@@ -22,3 +22,4 @@ Präteritum: ich mochte, wir mochten
 
 Perfekt: ich habe gemocht
 
+# sollen (
