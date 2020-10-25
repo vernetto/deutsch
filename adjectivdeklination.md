@@ -1,35 +1,11 @@
-||Case|Masc|Fem|Neut|Remarks|
-|-|-|-|-|-|-|
-||NOM|der Wagen | die Dose| das Lied| |
-||NOM|ein Wagen | eine Dose| ein Lied| |
-||AKK|den Wagen | die Dose| das Lied| MAS der->den ein->einen|
-||AKK|einen Wagen | eine Dose| ein Lied| "" |
-||GEN|des Wagen | der Dose| des Lied| der->des das->des die->der ein->eines eine->einer|
-||GEN|eines Wagen | einer Dose| eines Lied| |
-||DAT|dem Wagen | der Dose| dem Lied| |
-||DAT|einem Wagen | einer Dose| einem Lied| |
-
-
-||NOM|AKK|DAT|GEN| 
-|-|-|-|-|-|
-||ich| mich| mir|meiner| |
-||du| dich| dir|deiner| |
-||er | ihn |  ihm |seiner| | 
-||sie| sie| ihrer| ihr|  |
-||wir| uns| uns| unser|  |
-||ihr| euch| euch| euer|  |
-||sie| sie | ihnen| ihrer|  |
-
-
-
-#Adjektive nach bestimmtem Artikel
+# Adjektive nach bestimmtem Artikel
 
 ||MÄN  |  WEI | SAC |
 |-|-|-|-|
-|NOM|der junge Mann | die schöne Frau| das kleine Kind |
-|AKK|den jungen Mann |  die schöne Frau| das kleine Kind |
-|DAT|dem jungen Mann | der schönen Frau| dem kleinen Kind |
-|GEN|des jungen Mann(e)s | der schönen Frau| des kleinen Kind(e)s |
+|NOM|der junge Mann | die junge Frau| das junge Kind |
+|AKK|den jungen Mann |  die junge Frau| das junge Kind |
+|DAT|dem jungen Mann | der jungen Frau| dem jungen Kind |
+|GEN|des jungen Mann(e)s | der jungen Frau| des jungen Kind(e)s |
 
 auch nach: dieser, jener, jeder, mancher, welcher
 
@@ -37,27 +13,27 @@ auch nach: dieser, jener, jeder, mancher, welcher
 
 | G | E |
 |-|-|
-|NOM |die alten Freunde|
-|AKK |die alten Freunde|
-|DAT |den alten Freunden|
-|GEN |der alten Freunde|
+|NOM |die jungen Freunde|
+|AKK |die jungen Freunde|
+|DAT |den jungen Freunden|
+|GEN |der jungen Freunde|
 
 auch nach: diese, jene, manche, solche, welche, alle, keine, meine, deine....
 
 
-#Adjektive nach unbestimmtem Artikel
+# Adjektive nach unbestimmtem Artikel
 
 ||MÄN  | WEI  | SAC |
 |-|-|-|-|
-|NOM|ein junger Mann | eine schöne Frau| ein kleines Kind |
-|AKK|einen jungen Mann | eine schöne Frau| ein kleines Kind |
-|DAT|einem jungen Mann | einer schönen Frau| einem kleinen Kind |
-|GEN|eines jungen Mann(e)s | einer schönen Frau| eines kleinen Kind(e)s |
+|NOM|ein junger Mann | eine junge Frau| ein junges Kind |
+|AKK|einen jungen Mann | eine junge Frau| ein kleines Kind |
+|DAT|einem jungen Mann | einer jungen Frau| einem jungen Kind |
+|GEN|eines jungen Mann(e)s | einer jungen Frau| eines jungen Kind(e)s |
 
 auch nach: kein, mein, dein, sein, ihr, unser, euer, irgendein
 
 
-#Adjektive nach 0-Artikel
+# Adjektive nach 0-Artikel
 
 ||MÄN  | WEI | SAC | 
 |-|-|-|-|
@@ -77,4 +53,46 @@ auch nach: kein, mein, dein, sein, ihr, unser, euer, irgendein
 
 
 auch nach: einige, mehrere, viele, wenige; Zahlen
+
+
+| Case | Masc | Fem | Neut | Remarks |
+|---|---|---|---|---|
+|NOM|der Wagen | die Dose| das Lied| |
+|NOM|ein Wagen | eine Dose| ein Lied| |
+|AKK|den Wagen | die Dose| das Lied| MAS der->den ein->einen|
+|AKK|einen Wagen | eine Dose| ein Lied| "" |
+|GEN|des Wagen | der Dose| des Lied| der->des das->des die->der ein->eines eine->einer|
+|GEN|eines Wagen | einer Dose| eines Lied| |
+|DAT|dem Wagen | der Dose| dem Lied| |
+|DAT|einem Wagen | einer Dose| einem Lied| |
+
+# Personalpronomen
+
+|NOM|AKK|DAT|GEN| 
+|-|-|-|-|
+|ich| mich| mir|meiner| |
+|du| dich| dir|deiner| |
+|er | ihn |  ihm |seiner| | 
+|sie| sie| ihrer| ihr|  |
+|wir| uns| uns| unser|  |
+|ihr| euch| euch| euer|  |
+|sie| sie | ihnen| ihrer|  |
+
+
+# Possessivpronomen
+
+
+
+| G | Masculin und Neutrum | Feminin |
+|-|-|-|
+|ich|mein|meine|
+|du|dein|deine|
+|er|sein|seine|
+|sie|ihr|ihre|
+|es|sein|seine|
+|wir|unser|unsere|
+|ihr|euer|eure|
+|sie|ihr|ihre|
+|Sie|Ihr|Ihre|
+
 
