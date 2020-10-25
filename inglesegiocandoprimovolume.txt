@@ -1,18 +1,20 @@
 001
+
 Wohin alle diese Leute gehen?
-Kirche
-Fisch
-Gefängnis
-Tennis
-Schule
-Heute ist Freitag
-Nach Fluss
+die Kirche, zur Kirche
+der Fisch, zum Fischmarkt
+das Gefängnis, ins Gefängnis
+das Tennis, zum Tennisplatz
+die Schule, zur Schule
+Heute ist Freitag (der)
+Nach Fluss (der), zum Fluss
+
 
 002
 
-Eins, nummer Eins
+Eins, nummer Eins (die Nummer)
 Tag nummer Eins
-Der erste Tag des Jahres
+Der erste Tag des Jahres (der Tag)
 Der Erste von Januar
 Alte Jahr, Neue Jahr
 Der Alte Jahr ist Vorbei
@@ -21,9 +23,8 @@ Frohes neues Jahr zu dir
 Frohes neues Jahr zu allerseits
 Dir auch ein Frohes neues Jahr
 
-
-
 003
+
 Tag nummer eins - der erste Tag des Jahres
 Herzlich willkommen, neues Jahr!
 Auf Wiedersehen, neues Jahr
