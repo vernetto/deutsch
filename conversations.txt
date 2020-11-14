@@ -1,6 +1,5 @@
 https://github.com/vernetto/deutsch/blob/master/adjectivdeklination.md
 
-
 Bestimmte:
 NOM: DER_DIE_DAS_DIE E_E_E_EN 
 AKK: DEN_DIE_DAS_DIE EN_E_E_EN
@@ -373,10 +372,12 @@ am gleichen Tag
 
 von hier aus sind 20 Km
 
+da wir darüber sprechen....
+
 Das Lamm (baby -> neutrum, wie das Kind) 
 
-Der Löwe frisst das Lamm (Präsens)	=The lion eats the lamb
-Das Lamm wird von dem Löwen gefressen (Präsens)
+Der Löwe frisst das Lamm (Präsens) = The lion eats the lamb
+Das Lamm wird von dem (=vom) Löwen gefressen (Präsens) (der Löwe ist n-deklination)
 
 Der Löwe frass das Lamm  (Präteritum: älter als Perfekt)
 Das Lamm wurde von dem Löwen gefressen (Präteritum)
@@ -388,7 +389,7 @@ Der Löwe hatte das Lamm gefressen (Plusquamperfekt)
 Das Lamm war von dem Löwen gefressen worden (Plusquamperfekt)
 
 Der Polizist hält den Autofahrer an. (Präsens)
-Der Autofahrer wird von dem Polizisten angehalten  (Präsens)
+Der Autofahrer wird von dem Polizisten (n-Deklination) angehalten  (Präsens)
 
 Der Polizist hielt den Autofahrer an. (Präteritum)
 Der Autofahrer wurde von dem Polizisten angehalten  (Präteritum)
