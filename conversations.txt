@@ -2255,4 +2255,9 @@ anschieben
 ADAC
 starthilfe geben
 
+Der wievielte ist heute? dreinundzwanzigste (NOM)
+Den wiefielten haben wir heute? dreinundzwanzigsten (AKK)
+Am wiefielten hast du Geburtstag? dreinundzwanzigsten (DAT)
+
+
 
