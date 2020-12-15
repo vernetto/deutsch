@@ -217,7 +217,7 @@ modrige=rotting
 entzückte=delighted
 gespäht=peeked
 
-SEITE30
+SEITE030
 Maul=nozzle
 entgegenstellen=oppose
 fuchtelte=waved
@@ -233,6 +233,65 @@ herabliess=descend
 Moder=rot
 morschem=rotten
 übersät=littered
+Mahlstein=millstone
+glitschig=slippery
+Moss=muschio
 
+SEITE032
+vorhin=earlier
+aufgeschürft=raschiato
+hochkant=upright
+runterkullern=roll down
+auf Anhieb=at first
+losrollte=roll off
+Einwände erheben=raise objections
+Fällkeile=hedges
+anheben=raise
+feststeckte=stuck
+schob=push
+Steinbrocken=stone chipping
+ächzte=groan
+wedelte=wag
+lutschte=suck
+vor lauter Aufregung=for pure excitement
+gespürt=felt
+unverhoffte=unexpected
+reglos=motionless
+treiben=float
+dämmerte=dawned
+überholt=superato
 
+SEITE034
+zogen=push
+lauschte=listened
+streunt=roam
+Summen=buzz
+Laterne=lamp
+Prasseln=crackling
+angelockt=lure
+Brei=mash
+hingegen=on the contrary
+Bienenstöcke=beehives
+Hacke und Rechen=pick and rake
+verkündete=announced
+Obhut=custody
+schaltete ein=coinvolgersi
+zuckte=contrasse
+durchringen=bring himself
+bejahen=affirm
+vorerst=for now
+
+SEITE036
+drang (dringen)=insist
+Heuschober=haystack
+Kornspeicher=granary
+Eckbank=corner seat
+Anrichte=credenza
+Gestrüpp=macchia
+aufgestossen=opened up
+gezüchtet (züchten)=allevati
+gereihten=allineati
+beäugten=eyed,ogled
+vergorenen=fermented
+Lehrerpult=desk
 
