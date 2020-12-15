@@ -207,7 +207,32 @@ flüsternd=whispering
 unauffällig=unremarkable
 hinausspähen=peek out
 aus den Augen lassen=lose sight of
+flachsblondes Haar=flax blonde hair
+hochgekrempelten=rolled up
+Nicken=nod
+tosenden=roaring
+abgesetzt=deposited
+Gräser=grass
+modrige=rotting
+entzückte=delighted
+gespäht=peeked
 
+SEITE30
+Maul=nozzle
+entgegenstellen=oppose
+fuchtelte=waved
+auseinanderstoben=scapparono da una parte all'altra
+Kiesel=pebble
+Uferböschung=argine
+Wärterhäuschen=attendant's hut
+Brennnesseln=ortiche
+Sätzen=frasi
+schrammte=raschiarsi
+Falltür=trapdoor
+herabliess=descend
+Moder=rot
+morschem=rotten
+übersät=littered
 
 
 
