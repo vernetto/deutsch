@@ -294,4 +294,30 @@ gereihten=allineati
 beäugten=eyed,ogled
 vergorenen=fermented
 Lehrerpult=desk
+gestapelten=stacked
+hineingeritzt=carved into it
+nachzuhaken=pursue,follow up
+schnaubte=snorted
+Schwebe=suspence
+erraten=guess
+eingeritzt=scratched
+Einkerbungen=notches
+begriff (begreifen)=understand
+
+SEITE038
+erahnen=guess
+gemähte=mowed
+Handbreit=hand
+Saumpfad=mulattiera
+Hufgetrappel=hooves pounding
+Talsohle=valley floor
+reger Verkehr=lively traffic
+Dörfler=villagers
+heiter=bright
+träge=sluggish
+gesättigte=saturated
+Hörer=earpiece
+Gebirgler=montanaro
+Auflegen=hang up
+insgeheim=secretly
 
