@@ -83,5 +83,131 @@ beklemmenden=oppressive
 SEITE016
 Wildbäche=torrents
 schnurrstracks=straight away
+woandershin=somewhere else
+unsteten=unsteady
+zog er sich um (umziehen)=he changed clothes
+Karohemd=checked shirt
+Cordhose=pantaloni di velluto a coste
+Wandern=hikes
+in diesen Dörfern (Dorf)=villages
+vorzulesen=read aloud
+wiederholt=repeatedly
+Höchstsumme=max amount
+nippte (nippen)=sip
+Schoss=womb
+Bereitwillig=readily
+
+SEITE018
+Almhutten (Alm=Alp)=chalets
+Geröllfeldern=debris
+geschwungenen=curved
+Höhenangabe=Height indication
+dermassen=so
+aufbrechen=set out
+weitaus=far
+
+SEITE021
+Ausläufer=diramazione
+abgetan=dismissed
+Schotterweg=gravel road
+floss (fliessen)=flow
+auffunkeln=sparkle
+fällen=abbattere
+Floss=raft
+hingab=indulge
+
+SEITE022
+aufgebrochen (aufbrechen)=start
+musterte=examined
+Scheunen=barns
+weideten (waiden)=graze
+ausluden=unload
+beschnuppern=sniff
+kraulte=scratched,fondle
+Dachgepäckträger=roof rack
+verheissungsvoll=promising
+Schuppen=hangar
+Stützpfähle=support piles
+türmten=piled up
+obenauf=on top
+Anstalten=preparations
+insgeheim=secretly
+Blösse zu geben=to lower one's guard
+Begabung=talent
+hochhob=lift
+Tränke=drinking trough
+umschliessen=surround
+bemoosten=mossy
+Steinschindeln=tegole di tetto
+russgeschwärzte=blackened with soot
+Schornstein=chimney
+
+SEITE024
+Hängeschränke=wall cupboard
+Küchenspüle=kitchen sink
+ausnahmslos=invariably
+angeschimmelt=moldy
+ausgeblichen=faded
+gusseiserner=cast iron
+einrichten=furnish
+wortkarg=taciturn
+entgegennahm=accepted
+belauern=stalk
+Einbruch=break-in
+abgereist=leave
+schichtete=layer
+Holzscheite=wood billet
+knüllte=crumple
+hüllen=wrapped
+anbrannte=burn
+wusch (waschen)=wash
+Erkundungsgebiet=exploration area
+Klamm=ravine
+Stromschnellen=rapids
+ungestüm=impetuous
+Birken=betulle
+Dickicht=boshetto
+Schotterrinne=gravel channel
+Baumstämme=tree trunks
+
+SEITE026
+faulten=rot
+eintrübte=offuscati
+hin und her wogten=back and forth waved
+gebogenen Knauf=bent handle
+gescheckt=spotted
+auf eigene Faust=on their own
+hinterherrannte=run after
+widerstrebend=reluctantly
+Wiese=meadow
+watete (waten)=wade
+durchweichter=sodden
+klatschnassen=wet all over
+würdigen=degnare
+vollgesogen=soaked
+aufleben=revive
+anstellen=start,engage
+weit vorhaus=way ahead
+Nutzgarten=Kitchen garden
+Sägewerk=sawmill
+Molkerei=dairy
+Milchkannen=milk cans
+vorbeizubringen=bring over
+Balkongeländer=Balcony railing
+
+
+SEITE028
+roch (riechen)=smell
+Duft=smell
+geronnener=coagulated
+verschlang (verschlingen)=devour
+hinterher=after
+Stegs=bridge
+flüsternd=whispering
+unauffällig=unremarkable
+hinausspähen=peek out
+aus den Augen lassen=lose sight of
+
+
 
 
