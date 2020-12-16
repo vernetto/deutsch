@@ -327,4 +327,6 @@ flackernden=flickering
 SEITE040
 klapprigen=shaky
 vergeuden=waste
-
+Reisszwecken=Thumbtacks
+einzeichnen=plot
+zuteilwurde=was granted
