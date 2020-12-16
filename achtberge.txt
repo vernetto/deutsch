@@ -398,54 +398,75 @@ Kriegsgeheul=Howl of war
 gejohle=howling
 Acker=fields
 verlässlich=reliable
-Käppi
-gebückt
+Käppi=cap
+gebückt=bent over
 
 
 SEITE048
-seltsam
-aufgelegt
-partout
-Kühehüten
-gelagert
-konterte
-Mulde
-Rinnsalen
-Farnen
-matschig
-Miene
-Gram
-struppigen
+seltsam=strange
+aufgelegt=disposed
+partout=at all costs
+Kühehüten=cow guards
+anders gelagert ist=is different
+konterte=countered,replied
+Mulde=trough
+Rinnsalen=rivoulets,trickle
+Farnen=ferns
+matschig=muddy
+Miene=face,expression
+Gram=grief
+struppigen=shaggy
 
 SEITE050
-zugesägten
-Dachbalken
-Schäbigkeit
-Wellblech
-hausten
-reiften
-Käseleibe
-abgenagter
-Liebesmüh
-Auflagen
-Liebhaberei
+zugesägten=sawn
+Dachbalken=roof beans
+Schäbigkeit=shabbiness
+Wellblech=Corrugated iron
+hausten=dwelled
+reiften=matured
+Käselaibe=cheeses
+abgenagter=gnawed
+Liebesmüh=waste of effort
+Auflagen=conditions
+Liebhaberei=hobby
 
 SEITE052
-verstreuten
-Sträuchern
-getilgt
-hinzulegen
-zu einem Grinsen verzogenen Mund
-zerklüftete Kämme
-gemeint
-allmählich
-ich hab vor 
-begehen
-stapfen
+verstreuten=scattered
+Sträuchern=bushes
+getilgt=erase
+hinzulegen=to lay down
+zu einem Grinsen verzogenen Mund=mouth twisted into a grin
+zerklüftete Kämme=jagged ridges
+gemeint=meant
+allmählich=gradually
+ich hab vor, ihn morgen zu begehen=I plan to do it tomorrow 
+stapfen=trudge
 
 SEITE054
-verstellen
-unaufhaltsam
-Rinnsalen
-mattglänzenden
+sich verstellen=dissimulate
+unaufhaltsam=inexorable
+mattglänzenden=matt-finished
+mitnichten=by no means 
+staunte (stauen)=marvel
+Hangneigung=gradient
+ungewohnt=unusual
+Abgase=exhaust
+
+SEITE056
+herumliefen (laufen)=walked around
+proppenvoll=jam-packed
+kratzigen=itchy
+abglichen=matched
+gesellt=joined
+schüchtern=shy
+entging (entgehen)=escape
+Kegel=cone
+Schnapsfahne=???
+ich stellte mich schlafend=I pretended to be asleep
+perlmuttfarben=mother-of-pearl
+losgezogen (losziehen)=set off
+herumrascheln=rustling around
+
+
+
 
