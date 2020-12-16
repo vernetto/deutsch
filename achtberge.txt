@@ -485,4 +485,20 @@ vorbeugte=bent over
 Gefälle=slope
 Gebilde=structures
 geborstenen (bersten)=broken
+auftürmenden=towering
+aufgebrochen=set out
+überwinden=overcome
+
+SEITE060
+Brechreiz=nausea
+Galle=bile
+schlapp=flappy
+
+
+SEITE062
+Schneeraupen=battipista
+plattgewalzten=flattened,steamrolled
+schlepplift=skilift
+Heerscharen=legions
+Sessellift=chairlift
 
