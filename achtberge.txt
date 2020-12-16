@@ -330,3 +330,122 @@ vergeuden=waste
 Reisszwecken=Thumbtacks
 einzeichnen=plot
 zuteilwurde=was granted
+fuhren (fahren)=travelled
+angesagter=more hip
+taunass=dew wet
+schnallte  (schnallen)=fasten
+einschlug=drive in
+beschienenen=illuminated
+bescherte=bestowed
+Rast=rest
+Weggabelung=bivio
+japste (japsen)=gasp
+duldete (dulden)=tolerate
+verschnaufen=to catch one's breath 
+keinerlei=not at all
+beibrachte=teach
+Austausch=exchange
+Anstrengung=effort
+geschliffen=polished
+
+SEITE042
+verliehen=award,give
+hinaustraten (hinaus=out, treten=step)=stepped out
+stiessen (stossen)=bumped
+lauter=nothing but
+vereinzelten=isolated
+Gelände=terrain
+eingeebnet (einebnen, ebnen=eben machen) =leveled
+aufgeschichtet=piled up
+ausgehoben=excavated
+anzulegen=edify
+einstigen=former
+betreiben=operate
+vorwagte=ventured
+Entbehrungen=austerity
+baufälligen=dilapidated
+Rätseln=puzzles
+Vorgesetzte=superiors
+kommt ganz darauf an=it depends
+holen wir die ein=let's catch up with them
+strotzten=be bursting
+Knöcheln=ankles
+
+SEITE044
+Auffassung=opinion
+sie wichen (weichen) seitlich aus=they give way laterally
+Floskeln=empty phrases
+vorgesehen=intended
+Heidelbeeren=blueberries
+Wacholder=juniper
+anschliessenden=subsequent
+wichen (weichen)=give way
+Mulden=trough
+schlugen=beat
+Blitzeinschlägen=lightning strikes
+
+SEITE046
+ablegte=dropped
+Seilschaften=cordate
+bescheidene=modest,humble
+erhabenen=sublime
+gewundene=tortuous
+zerklüftete=fissured
+nachvollziehen=comprehend
+vorhalten=hold out
+Sauseschritt=a passo di carica
+Kriegsgeheul=Howl of war
+gejohle=howling
+Acker=fields
+verlässlich=reliable
+Käppi
+gebückt
+
+
+SEITE048
+seltsam
+aufgelegt
+partout
+Kühehüten
+gelagert
+konterte
+Mulde
+Rinnsalen
+Farnen
+matschig
+Miene
+Gram
+struppigen
+
+SEITE050
+zugesägten
+Dachbalken
+Schäbigkeit
+Wellblech
+hausten
+reiften
+Käseleibe
+abgenagter
+Liebesmüh
+Auflagen
+Liebhaberei
+
+SEITE052
+verstreuten
+Sträuchern
+getilgt
+hinzulegen
+zu einem Grinsen verzogenen Mund
+zerklüftete Kämme
+gemeint
+allmählich
+ich hab vor 
+begehen
+stapfen
+
+SEITE054
+verstellen
+unaufhaltsam
+Rinnsalen
+mattglänzenden
+
