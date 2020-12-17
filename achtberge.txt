@@ -560,5 +560,56 @@ kehrtzumachen=to turn around
 rächten (rächen)=avenge
 Tierbaue=dens, animal house
 verbeulten Napf=dented bowl
+auskunftsfreudig=informative
 
+SEITE068
+ausfocht=fought
+Ziehsohn=foster son
+Erdkunde=geografia
+büffelte (büffeln)=schiaffeggiare
+ordentlich=properly
+angezogen=dressed
+haderte (hadern)=quarrel
+antaten (antun)=fare
+eifrig=eager
+klaglos=without complaint
+bekochen=cook
+knuddeln=cuddle
+zuhörte=listen
+ausholte=strike out
+Einvernehmen=understanding
+Scheu=shy
+ertappte=caught
 
+SEITE070
+bestand (bestehen)=pass
+anrief (anrufen)=call
+Schachtel=box
+Stechbeiteln=chisel
+Schnitzeisen=carving iron
+andersherum=the other way round
+betraten (betreten)=entered
+dahinfloss=floated away
+Riesentümpel=Giant pool
+zerrten (zerren)=dragged
+einklemmten=trapped,clipped
+entsprang=arose
+Ländereien=real estate
+Erlen=ontani
+auf...tat (auftun)=aprirsi
+Kieseln=pebbles
+einsilbig=monosyllabic
+
+SEITE072
+Geröll=rubble
+Rascheln=rustle
+Hinhören=listen
+Wünschelrutengänger=water diviner
+würdig=worthy
+ragte=loom
+irgendwann=eventually
+vorhatten=intended
+Vortag=the day before
+vorgeschlagen=proposed
+aufnehmen=take up,include
+schwebte (schweben)=impend
