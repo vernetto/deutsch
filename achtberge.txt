@@ -631,5 +631,50 @@ Krächzen=caw,croak
 Abfolge=sequence
 die Seele aus dem Leib kotzen=puke the soul out of the body
 vornehmen=carry out
+geröteten=reddened
+andächtige=pious
+krakelige=spidery
+raufziehen=???
+Zuflucht=refuge
+
+SEITE078
+widerwärtig=disgusting
+eingeschenkt=poured
+prostete mir zu=toasted me
+bezwinger=conqueror
+aufgeknöpftem=to button down 
+Gesimse=corniche
+verschwommene=blurred
+getrübte=clouded
+Balkonbrüstung=balcony parapet
+von ihrem Rand erheben musste=had to rise from its edge
+entgegenzutreten=to oppose
+anzulegen=to put on
+
+SEITE080
+Stirn=forehead
+Wangenknochen=cheekbone
+Kragen=collar
+zischte=hissed
+bleckte ein Gebiss=bared denture
+behutsam=cautiously
+entgegensetzen=contrast,oppose
+Waden=calves
+Strümpfe=stockings
+langging=long walked (???)
+ballte (ballen)=clenched
+Hieb=cut
+Schläfe=temple
+Boxhaken=boxing hook
+Knüppel=stick
+taumelte=staggered,reeled
+herabhängen=hang down
+schlaff=flaccid
+Rücken=back
+einfordern=claim
+er sich mit dem Falschen angelegt hatte=he had messed with the wrong guy
+Aber darauf kam es nicht an=But that didn't matter
+Einbruch=break-in
+
 
 
