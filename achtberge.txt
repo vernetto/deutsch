@@ -543,6 +543,22 @@ Kohlenmeiler=charcoal pile
 
 SEITE066
 entschlüsselte=decypher
-
+beibringen=procure
+treffend=appropriate
+Lärche=larici
+Rotbuche=faggio
+Zirbelkiefer=pino cembro
+an etwas (DAT) hängen=aggrapparsi a qualcosa
+Stollen=tunnel
+abgebaut=depleted
+fortgeschafft=carried away
+einstürzen=collapse
+erhobenen Hauptes=col capo alto
+Unannehmlichkeiten=trouble
+Pfützen=puddle
+kehrtzumachen=to turn around
+rächten (rächen)=avenge
+Tierbaue=dens, animal house
+verbeulten Napf=dented bowl
 
 
