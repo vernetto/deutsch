@@ -675,6 +675,32 @@ einfordern=claim
 er sich mit dem Falschen angelegt hatte=he had messed with the wrong guy
 Aber darauf kam es nicht an=But that didn't matter
 Einbruch=break-in
+bedrückt=depressed
+geknüpft=tied
+
+SEITE082
+verhüllte=veiled
+herumstapfen=trudging around
+Rechenschaft abzulegen=Accountability discard
+verrammelten=barricaded
+ebenfalls=also
+zuschlagen=hit,slam
+austeilen=distribute
+eigentlich=actual
+Anlass=occasion
+nichtig=futile
+erstanden=acquired
+Förster=forest ranger
+Ausflüchte=excuses
+auffielen=stood out
+
+SEITE084
+besänftigend=soothing
+Auseinandersetzung=altercation
+Heringe=pegs
+im Nu=in a flash
+hielt inne=stopped for a moment
+schaute auf=looked up
 
 
 
