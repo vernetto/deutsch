@@ -613,3 +613,20 @@ Vortag=the day before
 vorgeschlagen=proposed
 aufnehmen=take up,include
 schwebte (schweben)=impend
+
+SEITE074
+Schulabschluss=graduation
+buddelte=digged
+Schnaubend=snorting
+handbreite=hand width
+speisten=feed
+sträuben=resist
+wusch (waschen)=washed
+kraxle=scramble
+
+SEITE076
+Trichter=funnel
+
+
+
+
