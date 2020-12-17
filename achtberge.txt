@@ -626,7 +626,10 @@ kraxle=scramble
 
 SEITE076
 Trichter=funnel
-
-
+Tagesanbruch=daybreak
+Krächzen=caw,croak
+Abfolge=sequence
+die Seele aus dem Leib kotzen=puke the soul out of the body
+vornehmen=carry out
 
 
