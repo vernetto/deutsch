@@ -701,6 +701,31 @@ Heringe=pegs
 im Nu=in a flash
 hielt inne=stopped for a moment
 schaute auf=looked up
+störrischer=mulish
+Gurt=belt
+Redeerlaubnis=Permission to speak
+glättend=glazing
+nachhaken=to dig deeper
+beleidigt=offended
+Befreiungsakt=act of liberation
 
-
+SEITE086
+umsehen=look around
+bestaunte=wonder at
+Tupfer=mop
+knallige=gaudy
+Nadelbäume=conifer
+Eigenbrötlertum=solitude
+Geländewagen=Off-road vehicle
+wiegend=swaying
+stemmen=lever,prop
+lautstark=vociferous
+hochkrempeln=tuck up
+Gesässtasche=hip pocket
+hervorschaute=peered
+zerknitterten=crumpled
+Schein=banknote
+x-beliebig=any old
+ausstehen=suffer
+Tonfall=accent
 
