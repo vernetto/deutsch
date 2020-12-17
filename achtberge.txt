@@ -501,4 +501,48 @@ plattgewalzten=flattened,steamrolled
 schlepplift=skilift
 Heerscharen=legions
 Sessellift=chairlift
+gefälligst=kindly
+Unbeschwertheit=carefree
+Schwermut=melancholy
+Niedergeschlagenheit=depression,dejection
+nachvollziehen=comprehend
+in Verzückung geraten=in ecstasy
+berauschte mich=inebriate
+ausmalen=imagine
+über jäh=bruscamente
+aufgegebenen=abbandonato
+ansatzweise=in una certa misura
+hindurchschlängeln=thread my way through
+eingebildet (einbilden)=imagined
+Trieb=drive
+
+SEITE064
+herbeisehnen=long for
+heranwachsen=grow up
+hereinkommen=walk in
+Treppenabsatz=platform
+Geländer=railing
+wir fest davon ausgingen=we firmly assumed
+lotste (lotsen)=guide
+Vorankündigung=prior notice
+Schnürsenkel=shoelaces
+band (binden)=tie
+höhnisch=derisive
+anschlug=aim at
+anstellen=to get into mischief 
+Erstürmen=take by storm
+ausgetretenen=trodden
+querfeldein=across
+zügig=rapid
+drauflos=straight on
+aufzeigte=disclose
+Kiefern=pine
+windschief=crooked
+überwucherten=overgrown
+Kohlenmeiler=charcoal pile
+
+SEITE066
+entschlüsselte=decypher
+
+
 
