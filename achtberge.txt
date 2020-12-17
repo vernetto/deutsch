@@ -728,4 +728,33 @@ Schein=banknote
 x-beliebig=any old
 ausstehen=suffer
 Tonfall=accent
+vertrödelten=idle away
+verbargen=hid
+
+
+SEITE088
+gesprossen (spriessen)=sprout
+Überzug=coat
+Eisenbürsten=iron brushes
+wetteiferten (wetteifern)=compete
+gelenkig=flexible
+Turner=gymnast
+Fachwissen=know how
+scharten (scharen)=gather
+Harzduft=piney fragrance
+Begüterten=moneyed
+hochgezogene=elevated
+Kästen=coffer,chest
+Anwesen=estate
+Kunstbände=art books
+
+SEITE090
+Beleidigten=offended
+verschaffen=procure
+sich vorgenommen=to take something up
+derjenige=the one who
+auf ihn zugehen=to go to him
+besessen (besitzen)=possess
+an besagten Morgen=said morning
+übervoll=overfull
 
