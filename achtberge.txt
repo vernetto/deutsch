@@ -919,3 +919,44 @@ hinfiel=cadde
 unvermittelt=suddenly
 Sprünge=cracks
 Bruchkanten=breaklines
+Eisschollen=ice sheets
+sonnenbeschienenen=sunlit (beschienen=illuminate)
+Schattierungen=shades
+schweifen=wander
+gönnte=allowed
+abklopfte=beat off
+Zirbelkiefer=pine
+
+
+SEITE120
+drei Jahre her=three years ago
+ausfindig zu machen=to detect
+Graupel=sleet
+gehegt=foster
+wandte ich ein=I objected
+
+SEITE122
+Handlanger=handy-man
+ausgedacht=thought up
+erläutern=explain
+ergoss=poured out
+Kraftstoff=fuel
+derjenige=the one who
+lauter unverzeihliche Fehler=lots of unforgivable mistakes
+verharrten=pause
+gewichen (weichen)=soak
+
+SEITE124
+bröckeln=crumble
+begradigen=straighten
+trug sie ab (abtragen)=to strip,to wear
+zog sie hoch (hochziehen)=pull up
+Bodendielen=floor boards
+wühlte (wühlen)=rummaged
+Stöckchen=stick
+
+SEITE126
+Futterkrippen=Feeding troughs
+
+
+
