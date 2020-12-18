@@ -957,6 +957,40 @@ Stöckchen=stick
 
 SEITE126
 Futterkrippen=Feeding troughs
+Jauche=manure,sewage
+Sensenstein=Scythe stone
+Sense wetzt (wetzen)=scythe (falce) sharpen
+Flusskiesel=Ciottoli di fiume
+Dielen=tavole del pavimento
+abtragen=remove
 
+SEITE128
+todgeweiht (weihen, dedicato)=condannato,moribondo
+vorm (vor dem)=prima
+Holzpflöcken=Wooden pegs
+
+SEITE130
+belädt (laden)=load,burden
+stapfte=trudge
+Trostlosigkeit=desolation
+Hinterlassenschaften=legacy,estate
+streifte=graze
+Ebenbild=image,counterpart
+
+SEITE132
+belud (beladen)=load
+Brei=pulp
+kuschelte=cuddle
+Einvernehmen=agreement
+gelingen=succeed
+
+SEITE134
+fürsorglich=caring
+Heimlichtuerei=sneakiness
+Inwiefern=how
+zerstritten (zerstreiten)=quarrel
+Stücke=piece
+
+SEITE136
 
 
