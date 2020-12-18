@@ -828,6 +828,80 @@ ergriff (ergreifen)=catch
 anstrengen=strain,exert
 kürzertreten=slow down,step down
 Verrentung=retirement
+Niederlassung=location
+krankhaft=morbid
+schrak hoch (hochschrecken)=startle
+flehte sie an (anflehen)=implore
 
+SEITE106
+gehetzt (hetzen)=hounded,hurried
+anstrengend=arduous
+durchgetretenem=trodden
+ausgeschiedener=retired
+Anweisung=instructions
+aufsetzen=lay
+vermache=bequeath
+kühl=cool
+Auszug=walkout
+ehrenamtlich=voluntarily
+erworben=acquired
 
+SEITE108
+im Vorfeld=previously
+Flurkarte=cadastral map
+zwangsläufig=inevitably
+Bedürfnis=need
+baggern=excavate
+Kies=gravel
+
+SEITE110
+hinterherhinken=to drag behind 
+Ausschau=look out,prospect
+Schläfe=temple
+gestützt=supported
+Lockruf=call
+aufragten=loom
+Fleckchen=beauty spot
+Holzscheiten=wood billet
+pustete (pusten)=blew
+aufzüngelten=flickered
+angesetzten=impostate
+wohnlich einrichtet=homely set up
+Gardinen=curtains
+Aussicht=view
+Krug=jug
+verwegenem=daring
+
+SEITE112
+nachzuschenken=refill
+Grübeln=ruminations
+auf die Sprünge halfen=help on the jumps
+verschlungenen=tangled
+Holz nachlegen=to stoke a fire with wood 
+Scheite=pezzo di legno
+abholen=collect
+in aller Herrgottsfrühe=at the crack of dawn
+Beileidsformel=Condolence formula
+schwielig (Schwiele)=callous
+
+SEITE114
+Glied=limb
+Abzug=trigger
+du ähnelst deinem Vater=you look like your father
+kräuselte (kräuseln)=increspare
+Scheune=barn (fienile)
+Pflug=aratro
+Bagger=excavator
+mitbekommen=realize
+ragen=protrude
+hingekriegt=managed
+
+SEITE116
+wagenheber=jack (crick)
+verkneifen=trattenere
+Fahrt aufnahm=picked up speed
+brachen wir auf (aufbrechen)=set out
+Grundstück=property,piece of land
+befolgen=follow
+durchgebogenen=bent
 
