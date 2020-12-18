@@ -904,4 +904,14 @@ brachen wir auf (aufbrechen)=set out
 Grundstück=property,piece of land
 befolgen=follow
 durchgebogenen=bent
+täuschte (täuschen)=deceive
+Angeln=hinges
+angerichtet=wreak
+abgetragen (abtragen)=strip,dig
+nachgab (nachgeben)=to give in
+Bruno schwieg nach wie vor=Bruno was still silent
+die Beine vertreten=maintain
+er war mir aufgefallen=I noticed him
+
+
 
