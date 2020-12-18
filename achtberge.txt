@@ -505,7 +505,6 @@ gefälligst=kindly
 Unbeschwertheit=carefree
 Schwermut=melancholy
 Niedergeschlagenheit=depression,dejection
-nachvollziehen=comprehend
 in Verzückung geraten=in ecstasy
 berauschte mich=inebriate
 ausmalen=imagine
@@ -912,6 +911,11 @@ nachgab (nachgeben)=to give in
 Bruno schwieg nach wie vor=Bruno was still silent
 die Beine vertreten=maintain
 er war mir aufgefallen=I noticed him
+Matsch=sludge
 
-
-
+SEITE118
+betupft=tamponato
+hinfiel=cadde
+unvermittelt=suddenly
+Sprünge=cracks
+Bruchkanten=breaklines
