@@ -992,5 +992,32 @@ zerstritten (zerstreiten)=quarrel
 Stücke=piece
 
 SEITE136
+Zwillingsseilsträngen=Twin rope strands
+verstaute=store
+Wucht=force
+
+SEITE138
+einfräsen=mill in
+Umfangs=size
+lotrechte=perpendicular
+
+SEITE140
+künden=witness
+vorbeugen=bend forward
+streichen=paint,scratch
+erloschen=extinguished
+allmorgendlicht=every morning
+Harz=resin
+Meissel=chisel
+entfachte=spark
+Glut=embers
+rausriss=ripped out
+
+SEITE142
+zugehalten=hold closed
+ablehnend=hostile
+
+
+
 
 
