@@ -766,4 +766,68 @@ blindlings=blindly
 schummelt=cheats
 Ehrgeiz=ambition
 Spalt=crack,fissure
+Ösenschraube=eyebolt,eye screw
+
+SEITE094
+ich kam gut voran=I made good progress
+aufschürfte (aufschürfen)=to graze oneself, scraped
+Schritt=footstep
+vergangen=departed
+Schnur=line,string, spago
+rücklings=backwards
+umschlagen=change suddenly
+aufgebrochen=started
+zerrte (zerren)=drag,jerk
+
+SEITE096
+knisternde=crackling
+streifte (streifen)=wander
+Erhebungen=rising
+umherstreifen=ramble
+ausmachen=locate
+Senke=dip
+Flause=Unsinn,Spinnerei
+Kennzeichen=license plate
+Verlegenheit=embarassment
+Anhöhe=elevation
+ausmahlte (ausmalen)=paint in
+bescherte (bescheren)=bestow
+
+SEITE098
+Glockengeläut=bell ringing
+zu dritt oder viert =in 3 or 4
+Mütter (plural of Mutter) und Zicklein=madri e bambini
+gefügig=docile
+anbrüllen=yell at
+liefen (laufen)=run
+besagter=aforesaid
+hinpendeln,herpendeln=commute
+nachhakte (nachhaken)=follow up
+
+SEITE100
+anbekam (ankommen)=attain
+Versöhnung=conciliazioni
+
+SEITE102
+gezeugt (zeugen)=conceived
+schuften=toil away
+geerbt (erben)=inherit
+auf Anhieb=instantly,at start
+
+SEITE104
+vorweisen=produce
+grusslos=with no greetings
+bemühte (sich bemühen)=try
+wiederum=in turn
+schildern=describe
+gekonnt (können)=can
+konnte (können)
+Gestalt=shape
+annahm (annehmen)=accept,assume
+ergriff (ergreifen)=catch
+anstrengen=strain,exert
+kürzertreten=slow down,step down
+Verrentung=retirement
+
+
 
