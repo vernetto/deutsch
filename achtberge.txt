@@ -1082,3 +1082,38 @@ SEITE154
 körnig=granular
 Kamm=comb,ridge
 Blöken=bleat
+
+SEITE156
+Ich stiess auf=I came across
+belanglos=irrelevant
+Ausrufezeichen=exclamation mark
+losgerannt (losrennen)=ran off
+verstaute (verstauen)=store
+vernachlässigten=neglected
+Mittellagen=middle layers
+Eigenbrötler=loner
+einholte=caught up
+
+SEITE158
+stopfte=stuffed
+prahlerisch=boastful
+abgehakt=checked off
+unbehelligt=unmolested
+hinausstürzten=rushed out
+Angelrute=fishing rod
+samt=together
+
+SEITE160
+gehauenen=carved
+heilfroh=really glad
+
+SEITE162
+unausweichlich=inevitable
+wuchern=grow
+bückte (bücken)=bend down
+jäten=weed
+
+
+
+
+
