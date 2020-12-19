@@ -1019,5 +1019,66 @@ ablehnend=hostile
 Marotten=stranezze, quirks
 zusammensetzen=put together
 Rotwild=red deer
+verharrte=remain
+durchzuschlagen=knock through
 
+SEITE144
+Fantasiebegabtere=more imaginative
+austoben=let off steam
+verausgaben=spend
+Ausgewanderten=emigrants
+durchaus=absolutely
+hineinversetzen=to put inside
+entgegensetzen=oppose
+Einfühlungsvermögen=empathy
+gegenübergetreten=confront,oppose
+fuhren (fahren)=viaggiare
+per Anhalter fahren=hitchhike
 
+SEITE146
+Mörser=mortar
+einläutete=herald
+zurückzulegen=lay back
+Langkofel scharte=Langkofel valley
+ansteuerten=drive
+prallen=blazing
+auftürmt=pile
+auslaufen=run out
+
+SEITE148
+gefaucht=growl
+Störenfried=mischief
+auf die leichte schulter nehmen=take something lightly
+verrauchte=smoked
+einnistete=nested
+finster=dark
+behelligte=bother
+mit zunehmendem Alter=with increasing age
+ungerecht=unjust
+ausgeschlagen=rejected
+Bleibe=abode
+Bestandteil=part,component
+schlechthin=per se, absolutely
+althergebrachten=traditional
+
+SEITE150
+vermacht=bequeathed
+Schindeln=assicelle
+Schuppen=shed
+Furchen=furrow,solchi
+Oberlicht=lucernaio
+deshalb=therefore
+blendeten=dazzle
+
+SEITE152
+Walzblei=Piombo arrotolato
+Erlenwald=foresta di ontani
+Schneise=corsia
+drängten sich=affollavano
+karge=barren
+Nachgiebiges=yielding,soft
+
+SEITE154
+körnig=granular
+Kamm=comb,ridge
+Blöken=bleat
