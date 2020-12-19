@@ -1112,6 +1112,9 @@ unausweichlich=inevitable
 wuchern=grow
 bückte (bücken)=bend down
 jäten=weed
+liebend gern=with love
+verkam (verkommen)=degenerate
+dicht=tight,dense
 
 
 
