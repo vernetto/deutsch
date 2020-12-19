@@ -1115,6 +1115,24 @@ jäten=weed
 liebend gern=with love
 verkam (verkommen)=degenerate
 dicht=tight,dense
+hinbekommen=get it
+
+SEITE164
+durchaus=absolutely
+anmassend=arrogant
+ich es leid war=I was tired of it
+abgeschuftet (abschuffen)=drudge
+um die Runden zu kommen=arrivare a fine mese
+Flieger=plane
+spaßeshalber=just for fun
+Sitztruhe=cassapanca
+Anrichte=credenza
+Schleifpapier=carta vetrata
+aufgearbeitet=lavorato
+Bohlen=tavole
+Vorratsraum=dispensa
+verstauten=stowed
+
 
 
 
