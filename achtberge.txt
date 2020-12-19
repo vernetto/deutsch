@@ -1016,8 +1016,8 @@ rausriss=ripped out
 SEITE142
 zugehalten=hold closed
 ablehnend=hostile
-
-
-
+Marotten=stranezze, quirks
+zusammensetzen=put together
+Rotwild=red deer
 
 
