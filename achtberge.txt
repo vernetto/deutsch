@@ -1132,9 +1132,19 @@ aufgearbeitet=lavorato
 Bohlen=tavole
 Vorratsraum=dispensa
 verstauten=stowed
+Riegel=bar,latch
 
+SEITE166
+straucheln=stumble
+verdorrte=wither
+Zügel=reins
+voranzugehen=to go ahead
 
-
-
+SEITE170
+verarbeitet=processed
+krakeelten=brawl
+Gaumen=palate
+verwöhnen=spoil
+verschnaufte=to catch one's breath
 
 
