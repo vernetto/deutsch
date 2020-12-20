@@ -1146,5 +1146,39 @@ krakeelten=brawl
 Gaumen=palate
 verwöhnen=spoil
 verschnaufte=to catch one's breath
+zustande brachte=achieve
+
+SEITE172
+ausgegangen=start
+aus der Übung=out of practice
+verwischte=efface
+schlichte=simple
+Einsiedler kate=hermit ???
+wohligen=cozy
+aufgestaut=dammed up
+
+SEITE174
+einschlagen=hit,pursue
+erproben=test,try out
+von Dauer gewesen=been permanent
+umsetzen=implement
+sich rarmachen=farsi vedere poco in giro
+bewährte=to prove of value
+
+SEITE176
+nichts einzuwenden haben=to have no objections 
+der Entschluss=decision
+abgewiesen=rejected
+Verzug=delay
+schlug er sich mit jemandem herum=he was fighting someone
+Fliesen=tiles
+zur Genüge kannte=knew enough
+schielte=squint
+schielte zu ihr hinüber=looked over at her
+Stichelei=teasing
+es war das Mindeste, was ihr zustand=it was the least she was entitled to
+zur Genüge=enough
+
+
 
 
