@@ -1196,6 +1196,13 @@ Ochsengespann=team of oxen
 Weidenkörbe=wicker basket
 
 SEITE180
-
+spitz und scharfkantig=pointed and sharp-edged
+Tröge=truogoli
+schuppiger=flaky
+wogender=ansante
+Lehm=clay
+verputzt=plastered
+zarte=tender
+Knospe=bud
 
 
