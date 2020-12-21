@@ -1204,5 +1204,45 @@ Lehm=clay
 verputzt=plastered
 zarte=tender
 Knospe=bud
+rieten (raten)=advise
+
+SEITE182
+weshalb=for which reason
+scharren=scratch
+grasten=graze
+Pavian=baboon
+betrat=entered
+anfreudeten=were pleased
+Fahnen=flags
+abgeschüttelt=shaken off
+vergötterte=idolized
+liebkosten=caress
+unablässig=incessantly
+rückversichern=reinsure
+allesamt trächtig=all pregnant
+geflohen=fled
+umstellt=surrounded
+vorneweg=ahead
+Schlusslicht=taillight
+holten (holen)=fetch
+
+SEITE184
+Bimmeln=jingle
+übertönten (übertönen)=drown
+Wiederbelebungsmassnahme=Resuscitation measure
+bergan=uphill
+gesellte=joined
+ausgerechnet=just
+anschneiden=touch on,cut
+Löwenzahn=dandelion
+knallgelbe=bright yellow
+gejätet (jäten)=weeded
+humpelnd=limping
+nachziehen=follow
+zügig=rapid
+dürr=dry
+schier=almost
+
+
 
 
