@@ -1238,11 +1238,192 @@ Löwenzahn=dandelion
 knallgelbe=bright yellow
 gejätet (jäten)=weeded
 humpelnd=limping
-nachziehen=follow
+nachzog (nachziehen)=follow
 zügig=rapid
 dürr=dry
 schier=almost
+prosteten (prosten)=cheer,toast
+einlebten=settle in
 
+SEITE186
+ergab (ergeben)=produce, yield
+ausschlafen=sleep in
+überlassen=leave 
+liebkosen=caress
+Gezwitscher=twittering
+Vorabend=eve
+abzuschöpfen (abschöpfen)=skim
+Lab=rennet,caglio
+Tüchern=cloth,fabric
+abgeseiht=sieved,strain
+gemächlich=leisurely
+Reh=deer
 
+SEITE188
+umherstreifte=prowled
+Witterung=scent
+Läuten=chime
+gibt aus (aufgeben)=to give up
+aufheben=cancel,set aside
+Anspielung=reference,allusion
 
+SEITE190
+verlernen=unlearn
+gurgelte=gurgled
+Senke=trough
+blies (blasen)=blew
+Stute=female horse
+Nicken=nod
 
+SEITE192
+Schlusslicht=tail lamp,rear end light
+abschüssig=steep,precipitous 
+davonbrausen=dash off, speed off, go with full speed
+kulisse=backdrop scenery
+abzuhauen=to run away
+Dampflok=steam locomotive
+ausgesucht=select
+
+SEITE194
+bedrückte=depressed
+löste auf (auflösen)=terminate,cancel
+rausträgt=carry out
+Verlobungsring=Engagement ring
+büssen=atone,expiate
+
+SEITE196
+zugehörig=belonging to
+hinauffuhr (hinauffahren)=drove up
+gescharrt (scharren)=scratched
+schlüpften (schlüpfen)=hatched
+Vorhaben=project,plan
+
+SEITE198
+förmlich=formally,frigid
+Gehege=enclosure
+Adler=eagle
+es rechnet sich=it pays off
+absichtlich=intentionally
+lostrat (lostreten)=kick off
+verfehlt (verfehlen)=miss,fail
+
+SEITE200
+Steinhagel=hail of stones
+bezeugten (bezeugen)=testify
+Furchen=solchi
+
+SEITE202
+leibhaftig=incarnato
+ausholenden=sweeping
+verdingten (verdingen)=to hire oneself out
+Geltungssucht=ossessione
+Machtstreben=Striving for power
+
+SEITE204
+sie hatte seine Knöckel  verstaut=si era slogata la caviglia
+Sonnenstich=sunstroke
+sich schonen=take things easy
+ohne sie gross anstellen=without making them big
+regelrecht=regularly
+kam zum Erliegen=came to a standstill
+Vordächer=porches
+einwandfrei=unobjectionable
+danach=after that
+nach wie vor=still
+gebürstetem Fell=brushed fur
+Umzug=move,procession
+Fichtenwipfel=spruce treetops
+Brachen=wasteland
+
+SEITE206
+der Flur, die Flure=corridors
+rumhocken=squat around
+von der Hand in den Mund leben=live from hand to mouth,vivere alla giornata
+Brombeer=blackberry (more)
+Blätterdickicht=Thicket of leaves,boschetto di foglie
+Betonwehr=lavoro in cemento armato
+Planierrädern=Ruote livellatrici
+Vorschriften=regolamento
+Gleise=tracks
+Lore=truck,wagon
+Daneben=next to that,besides
+zuraunen=whisper
+Aufbruch=departure,breakup
+
+SEITE208
+Schmorbraten=stufato,pot roast
+brutzelten=frizzle,sfrigolare
+vorgefallen=occurred
+Zügen=drag,strain,move
+einschenkte=pour out
+anstossen=brindare
+ohne Punkt und Komma=senza punto e virgola (???)
+stillschweigende=tacit,silent
+Übereinkunft=agreement
+ranzig=rancid
+umrührte (umrühren)=stirred
+vermengt=mixed up
+gehäutet (häuten)=skinned
+eklig=disgusting
+genuschelt=mumbled
+mitbekommen=get,realize
+
+SEITE210
+übermannte=overwhelmed
+Betriebe=business
+umzingelte=surrounded
+im Beisein=in presence
+Käseerlös=cheese proceeds
+abbezahlen=pay off
+autark=self sufficient
+Stallmiete=stall rental
+tilgen=pay off
+behelfen=help
+eingespart=saved
+als ich das Thema anschnitt=quando affrontai l'argomento
+
+SEITE212
+Normalsterblicher=Normal mortal
+dabei hast du sie dir selbst eingebrockt=you got it on yourself (???)
+reg dich ab (abregen)=calm down
+Riesenschrecken=huge horror
+mithelfen=help along
+kurz angebunden (jmdm. gegenüber kurz angebunden sein)=to be short with so, bruscamente
+versehen=provide
+verblichenen=faded
+verschlissenen=worn out
+Bittgebete=supplications
+
+SEITE214
+streichle=caress
+erlegen=kill,shoot
+beigebracht=taught
+jemals=ever
+einprägen=imprint,impress
+vorgehabt=plan,intend
+
+SEITE216
+Elternteil=parent
+zugedröhten=affollato
+verwahrlosten=neglected
+mitansehen=watch
+aushändigte (aushändigen)=handed over
+
+SEITE218
+sich gefügt (fügen)=comply
+die Zeit totschlagen=to kill time
+vorhabe=plan
+hinsoll=should go
+raufziehen=pull up
+verzerrt=distorted
+hereinbrechend=breaking in
+
+SEITE220
+mir fiel auf=I noticed
+versengt=scorched
+ockergelb=ocher yellow
+sandfarben=sand colored
+loderte=blazed
+Rutsche=slide
+umfing (umfangen)=surround
+Grasbüschel=tuft of grass
