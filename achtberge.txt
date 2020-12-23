@@ -1459,3 +1459,7 @@ zerlegte (zerlegen) = disassemble
 spalten=split
 Fäustel und Spaltkeil=sledge hammer and splitting wedge (mazza e cuneo)
 zaghaft=timid
+Knacken=crack
+dumpf=dull
+ablöste=replace
+durchschimmern=shine through
