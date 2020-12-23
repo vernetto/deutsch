@@ -1454,3 +1454,8 @@ SEITE224
 schleifen=drag
 entgleisen=derail
 verfing (verfangen)=entangle,caught
+absoff (absaufen)=to flood
+zerlegte (zerlegen) = disassemble
+spalten=split
+Fäustel und Spaltkeil=sledge hammer and splitting wedge (mazza e cuneo)
+zaghaft=timid
