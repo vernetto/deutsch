@@ -1424,6 +1424,33 @@ versengt=scorched
 ockergelb=ocher yellow
 sandfarben=sand colored
 loderte=blazed
+Bretterbrücke=Wooden bridge
 Rutsche=slide
 umfing (umfangen)=surround
 Grasbüschel=tuft of grass
+Feldstecher=binoculars
+Eindringling=intruder
+auf die Lauer=on the lookout
+
+SEITE222
+zerknüllte=crumpled up,crushed
+Schachtel=packet
+verriegelt=locked
+aufgestapelt=pile up
+umgedreht=turned around
+vergilbten=yellowed
+brünstigen=on heat,rutting
+sauer=angry
+Ausschau hielten=looked out
+angeworfen=started
+Kreischen=screeching
+Sägeblatt=saw blade
+umrunden=circumnavigate
+Krachen=crash,smash
+was soll ich gross sagen=What should I say
+getrauert=mourned
+
+SEITE224
+schleifen=drag
+entgleisen=derail
+verfing (verfangen)=entangle,caught
