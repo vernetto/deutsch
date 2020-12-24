@@ -30,7 +30,7 @@ anschwoll=swell
 säumte=lined up
 hielt an (aushalten)=withstand
 beschimpfen=vituperate
-schlüupfen=slip
+schlüpfen=slip
 Dauerregen=continuous rains
 schlimmig=moldy
 Holzbalken=timber
@@ -1524,4 +1524,97 @@ heftig=violently
 SEITE232
 verkroch sich=strisciare via
 Kälbern (Kalb, Kälber)=vitelli
+angeknabbert (anknabbern)=nibble
+Bescheidenheit=modesty
+Seitenhieb=thrust,side blow
+abwarf=yield
+verpachten=to let for rent
+anbrechen=dawn
 
+
+SEITE234
+eingesehen=realized
+gestand (gestehen)=confess
+stand auf (aufstehen)=stood up
+trudelten (trudeln)=slowly walk
+klobigen=chunky
+in rauen Mengen=in huge quantities
+vorbeischleichen=sneak past
+beschwipst=merry,tipsy brilli
+Moos=muschio
+sie hatte keineswegs vor zu vereinsamen=she did not intend to be lonely  (ich habe nicht vor=I don't plan to)
+reihte (einreihen) ich mich in die Karavane ein=I lined up in the caravan 
+
+SEITE236
+gewunden=tortuous
+angesammelt=accumulated
+Wellblechdächer=Corrugated iron roofs
+Schubkarren=wheelbarrow
+freigeschaufelt (freischaufeln) = shoveled free
+Schneepflug=snow plow
+aufgegeben=given up
+Wenden=turn
+Anhaltspunkt=reference point
+abfangen=brace,intercept
+abrutschen=slip off
+auslösen=trigger
+aufsetzen=put on
+auftreten=occur
+hervorschauten=looked out, peered
+verschnaufen=breathe
+abgestorben=dead
+ausgebreitet=spread out
+vorgeneigt=leaned forward
+
+SEITE238
+kerzengerade=straight as a pin
+er stieß sich wild entschlossen ab=he pushed himself off with fierce determination
+aufnehmen=take up
+überbleibsel=leftover
+weitete sich=widened
+unaufgeräumt¨=untidy
+ausgezogen=undressed
+gerechnet=expected
+
+SEITE240
+schürte=stir up,stoked
+Kessel=boiler,kettle
+gepökelt (pökeln)=cure,salt
+meine Wut auslassen=vent my Anger
+über den Tisch gezogen=ripped off
+ich mir eingebildet habe=I imagined
+umsatteln=change saddle
+sich eingestehen=admit
+ich überliess mich der Wärme=I surrendered to the warmth
+Unbedingtheit=absoluteness
+geneigt=inclined,disposed
+aus diesem Traum rissen (reißen)=ripped from this dream
+Brausen=roar
+Grollen=rumble
+Abgang=exit
+
+SEITE242
+grelles Licht=glare
+Ansammlung=accumulation
+anzog (anziehen)=attracted
+aufragenden=towering
+erneut=again
+ehrfürchtig=reverent
+Schneegesimse=Snow cornices
+Gebirgsgrat=Mountain ridge
+mich geschlagen geben=give myself up
+
+SEITE244
+mitgenommen=run down
+Wasserader=water vein
+niedergestreckt=lay down
+verschollen=missing
+angebracht=appropriate
+
+SEITE246
+log (lügen) ich=I lied
+abschreiten=inspect
+dazugehörige=corresponding
+Gumpen=pools
+beschieden=decided
+mitunter=sometimes
