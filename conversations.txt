@@ -2280,3 +2280,17 @@ schlafe, ich schlief, ich habe geschlafen
 fahre, ich fuhr, ich bin gefahren
 
 
+Einschreiben von der Kammer
+marode=dilapidated
+Schmarrn=nonesense
+
+telefonieren mit
+brauchen für
+gratuliere dir zu diesem Anlass, diese Abschluss (laurea)
+erzählen von einem Person (vergangenheit)
+antworten auf deine Frage (gegenwart oder zukunft)
+glaubst du an den Weihnachtsmann
+
+an dem glaube ich nicht
+
+
