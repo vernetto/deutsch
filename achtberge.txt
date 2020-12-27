@@ -34,6 +34,9 @@ schlüpfen=slip
 Dauerregen=continuous rains
 schlimmig=moldy
 Holzbalken=timber
+
+SEITE012
+
 Beratungstelle=helpdesk
 Sendungsbewusstsein=sense of mission
 Ulmen=elms
@@ -47,9 +50,6 @@ vorfiel=occur
 wutentbrannt=furious
 Besteck=cutlery
 erstarrt=frozen
-
-SEITE013
-
 fluchten (fluchen)=curse,swear
 ausartete=degenerate
 Schützengraben=trenches
@@ -67,6 +67,8 @@ Wehmut=melancholy
 woraufhin=whereupon
 harrte=await
 irgendwann=sometime
+sehnsüchtig=longingly
+war sie es leid=she was tired of it
 Rührung=emotion
 Überführung=crossover
 Verehrer=devotee
@@ -78,6 +80,7 @@ den Gang einlegte=put in the gear
 davonfuhr (fahren)=drove away
 schnürtnen=lace up
 schrofferen=rugged
+gestehen=confess
 beklemmenden=oppressive
 
 SEITE016
@@ -109,7 +112,10 @@ weitaus=far
 SEITE021
 Ausläufer=diramazione
 abgetan=dismissed
+wachte (wachen)=watch
+abgehender=outgoing
 Schotterweg=gravel road
+Talschlucht==gorge
 floss (fliessen)=flow
 auffunkeln=sparkle
 fällen=abbattere
@@ -209,6 +215,7 @@ hinausspähen=peek out
 aus den Augen lassen=lose sight of
 flachsblondes Haar=flax blonde hair
 hochgekrempelten=rolled up
+Ernsthaftigkeit=seriousness
 Nicken=nod
 tosenden=roaring
 abgesetzt=deposited
@@ -226,10 +233,12 @@ Kiesel=pebble
 Uferböschung=argine
 Wärterhäuschen=attendant's hut
 Brennnesseln=ortiche
+Brombeersträuchen=cespugli di more
 Sätzen=frasi
 schrammte=raschiarsi
 Falltür=trapdoor
 herabliess=descend
+Wannen=tubs
 Moder=rot
 morschem=rotten
 übersät=littered
@@ -244,6 +253,7 @@ hochkant=upright
 runterkullern=roll down
 auf Anhieb=at first
 losrollte=roll off
+zuwege bringen=bring about
 Einwände erheben=raise objections
 Fällkeile=hedges
 anheben=raise
@@ -312,6 +322,7 @@ Saumpfad=mulattiera
 Hufgetrappel=hooves pounding
 Talsohle=valley floor
 reger Verkehr=lively traffic
+Stimmengewirr=Babble of voices,confusion
 Dörfler=villagers
 heiter=bright
 träge=sluggish
@@ -375,9 +386,11 @@ SEITE044
 Auffassung=opinion
 sie wichen (weichen) seitlich aus=they give way laterally
 Floskeln=empty phrases
+Jubel=cheers,saluti
 vorgesehen=intended
 Heidelbeeren=blueberries
 Wacholder=juniper
+gediehen (gedeihen)=thrive
 anschliessenden=subsequent
 wichen (weichen)=give way
 Mulden=trough
@@ -418,14 +431,16 @@ Gram=grief
 struppigen=shaggy
 
 SEITE050
+althergebrachte=traditional
 zugesägten=sawn
 Dachbalken=roof beans
 Schäbigkeit=shabbiness
+schwirrte=buzzed
 Wellblech=Corrugated iron
 hausten=dwelled
 reiften=matured
 Käselaibe=cheeses
-abgenagter=gnawed
+abgenagter (abnagen)=gnawed
 Liebesmüh=waste of effort
 Auflagen=conditions
 Liebhaberei=hobby
@@ -433,7 +448,7 @@ Liebhaberei=hobby
 SEITE052
 verstreuten=scattered
 Sträuchern=bushes
-getilgt=erase
+getilgt (tilgen)=pay off, erase
 hinzulegen=to lay down
 zu einem Grinsen verzogenen Mund=mouth twisted into a grin
 zerklüftete Kämme=jagged ridges
@@ -444,7 +459,9 @@ stapfen=trudge
 
 SEITE054
 sich verstellen=dissimulate
+ansprechen=appeal
 unaufhaltsam=inexorable
+Rinnsalen=trickle,rivulets
 mattglänzenden=matt-finished
 mitnichten=by no means 
 staunte (stauen)=marvel
@@ -461,7 +478,7 @@ gesellt=joined
 schüchtern=shy
 entging (entgehen)=escape
 Kegel=cone
-Schnapsfahne=???
+Schnapsfahne=boozy breath
 ich stellte mich schlafend=I pretended to be asleep
 perlmuttfarben=mother-of-pearl
 losgezogen (losziehen)=set off
@@ -510,7 +527,9 @@ berauschte mich=inebriate
 ausmalen=imagine
 über jäh=bruscamente
 aufgegebenen=abbandonato
+sengenden=searing,bruciante
 ansatzweise=in una certa misura
+verblassen=fade
 hindurchschlängeln=thread my way through
 eingebildet (einbilden)=imagined
 Trieb=drive
@@ -559,10 +578,11 @@ kehrtzumachen=to turn around
 rächten (rächen)=avenge
 Tierbaue=dens, animal house
 verbeulten Napf=dented bowl
+das stumpfe BLatt einer Sense mitgehen=go along with the blunt leaf of a scythe
 auskunftsfreudig=informative
 
 SEITE068
-ausfocht=fought
+ausfocht (fechten)=fought,sword play
 Ziehsohn=foster son
 Erdkunde=geografia
 büffelte (büffeln)=schiaffeggiare
@@ -571,6 +591,8 @@ angezogen=dressed
 haderte (hadern)=quarrel
 antaten (antun)=fare
 eifrig=eager
+Ausflüge=trips
+Ausflüge=Ausflüge
 klaglos=without complaint
 bekochen=cook
 knuddeln=cuddle
@@ -579,6 +601,7 @@ ausholte=strike out
 Einvernehmen=understanding
 Scheu=shy
 ertappte=caught
+wider verdrängte=repressed
 
 SEITE070
 bestand (bestehen)=pass
@@ -590,7 +613,9 @@ andersherum=the other way round
 betraten (betreten)=entered
 dahinfloss=floated away
 Riesentümpel=Giant pool
+auseinanderstoben =scattered
 zerrten (zerren)=dragged
+bahnen=carve out
 einklemmten=trapped,clipped
 entsprang=arose
 Ländereien=real estate
@@ -619,6 +644,7 @@ buddelte=digged
 Schnaubend=snorting
 handbreite=hand width
 speisten=feed
+Fortschreiten=progression
 sträuben=resist
 wusch (waschen)=washed
 kraxle=scramble
@@ -633,7 +659,7 @@ vornehmen=carry out
 geröteten=reddened
 andächtige=pious
 krakelige=spidery
-raufziehen=???
+raufziehen=pull up
 Zuflucht=refuge
 
 SEITE078
@@ -692,12 +718,15 @@ erstanden=acquired
 Förster=forest ranger
 Ausflüchte=excuses
 auffielen=stood out
+aufbrausend=irascible
 
 SEITE084
 besänftigend=soothing
 Auseinandersetzung=altercation
+Laut=sound
 Heringe=pegs
 im Nu=in a flash
+zerren=drag
 hielt inne=stopped for a moment
 schaute auf=looked up
 störrischer=mulish
@@ -740,6 +769,7 @@ gelenkig=flexible
 Turner=gymnast
 Fachwissen=know how
 scharten (scharen)=gather
+gleichgesinnte=same-minded
 Harzduft=piney fragrance
 Begüterten=moneyed
 hochgezogene=elevated
@@ -769,6 +799,7 @@ Spalt=crack,fissure
 
 SEITE094
 ich kam gut voran=I made good progress
+abfangen=intercept
 aufschürfte (aufschürfen)=to graze oneself, scraped
 Schritt=footstep
 vergangen=departed
@@ -831,10 +862,14 @@ Niederlassung=location
 krankhaft=morbid
 schrak hoch (hochschrecken)=startle
 flehte sie an (anflehen)=implore
+in den Schlaf wiegen=lulled to sleep
+runterschalten=downshift
 
 SEITE106
 gehetzt (hetzen)=hounded,hurried
 anstrengend=arduous
+Warnblinkanlage=Hazard warning lights
+schlapp machen=collapse
 durchgetretenem=trodden
 ausgeschiedener=retired
 Anweisung=instructions
