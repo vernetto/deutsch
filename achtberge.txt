@@ -885,8 +885,9 @@ im Vorfeld=previously
 Flurkarte=cadastral map
 zwangsläufig=inevitably
 Bedürfnis=need
-baggern=excavate
 Kies=gravel
+baggern=excavate
+
 
 SEITE110
 hinterherhinken=to drag behind 
@@ -903,6 +904,7 @@ angesetzten=impostate
 wohnlich einrichtet=homely set up
 Gardinen=curtains
 Aussicht=view
+Sims=ledge
 Krug=jug
 verwegenem=daring
 
@@ -967,6 +969,8 @@ SEITE120
 drei Jahre her=three years ago
 ausfindig zu machen=to detect
 Graupel=sleet
+drollig=funny
+in die Tat umsetzen=translate into action
 gehegt=foster
 wandte ich ein=I objected
 
@@ -974,7 +978,7 @@ SEITE122
 Handlanger=handy-man
 ausgedacht=thought up
 erläutern=explain
-ergoss=poured out
+ergoss (ergiessen)=poured out
 Kraftstoff=fuel
 derjenige=the one who
 lauter unverzeihliche Fehler=lots of unforgivable mistakes
@@ -986,7 +990,9 @@ bröckeln=crumble
 begradigen=straighten
 trug sie ab (abtragen)=to strip,to wear
 zog sie hoch (hochziehen)=pull up
+Latten=bars
 Bodendielen=floor boards
+Balken=bars
 wühlte (wühlen)=rummaged
 Stöckchen=stick
 
@@ -996,11 +1002,13 @@ Jauche=manure,sewage
 Sensenstein=Scythe stone
 Sense wetzt (wetzen)=scythe (falce) sharpen
 Flusskiesel=Ciottoli di fiume
+Krempel=junk,rubbish
 Dielen=tavole del pavimento
 abtragen=remove
 
 SEITE128
 todgeweiht (weihen, dedicato)=condannato,moribondo
+gebeutelt=battered
 vorm (vor dem)=prima
 Holzpflöcken=Wooden pegs
 
@@ -1009,11 +1017,15 @@ belädt (laden)=load,burden
 stapfte=trudge
 Trostlosigkeit=desolation
 Hinterlassenschaften=legacy,estate
+bucklig=hunched
 streifte=graze
 Ebenbild=image,counterpart
 
 SEITE132
 belud (beladen)=load
+antrieb=drive
+verrichtete=performed
+aufmachen=open
 Brei=pulp
 kuschelte=cuddle
 Einvernehmen=agreement
