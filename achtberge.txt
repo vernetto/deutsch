@@ -1063,6 +1063,8 @@ rausriss=ripped out
 SEITE142
 zugehalten=hold closed
 ablehnend=hostile
+dicht an dicht=close together
+zielstrebig=determined
 Marotten=stranezze, quirks
 zusammensetzen=put together
 Rotwild=red deer
@@ -1084,6 +1086,8 @@ per Anhalter fahren=hitchhike
 
 SEITE146
 Mörser=mortar
+wirkte er älter=he looked older
+schwärmte (schwärmen)=raved
 einläutete=herald
 zurückzulegen=lay back
 Langkofel scharte=Langkofel valley
@@ -1093,10 +1097,12 @@ auftürmt=pile
 auslaufen=run out
 
 SEITE148
+noch ehe=even before
 gefaucht=growl
-Störenfried=mischief
+Störenfried=mischief,troublemaker
+verständigen=notified
+gegen nachmittag=around afternoon
 auf die leichte schulter nehmen=take something lightly
-verrauchte=smoked
 einnistete=nested
 finster=dark
 behelligte=bother
@@ -1121,13 +1127,18 @@ SEITE152
 Walzblei=Piombo arrotolato
 Erlenwald=foresta di ontani
 Schneise=corsia
+Kamm=crest
 drängten sich=affollavano
 karge=barren
+Geröll wich=give way to the rubble
 Nachgiebiges=yielding,soft
 
 SEITE154
+hüpfen=jump
+keuchte=panted
 körnig=granular
 Kamm=comb,ridge
+übersäte=covered
 Blöken=bleat
 
 SEITE156
@@ -1143,6 +1154,7 @@ einholte=caught up
 
 SEITE158
 stopfte=stuffed
+aufscheuchen=stir up
 prahlerisch=boastful
 abgehakt=checked off
 unbehelligt=unmolested
