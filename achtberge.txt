@@ -1163,10 +1163,17 @@ Angelrute=fishing rod
 samt=together
 
 SEITE160
+Heuschrecken=locust
 gehauenen=carved
+Klaps aufs Hinterteil=slap on the bottom
+Einzug halten=finding its way
+Abreise=departure
+haderte=quarrel
+verflogen=vanished
 heilfroh=really glad
 
 SEITE162
+Bergbauer=mountain farmer
 unausweichlich=inevitable
 wuchern=grow
 bückte (bücken)=bend down
