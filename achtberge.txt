@@ -1373,7 +1373,9 @@ ausgesucht=select
 
 SEITE194
 bedrückte=depressed
+unscheinbar=inconspicuous
 löste auf (auflösen)=terminate,cancel
+Verheißung=promises
 rausträgt=carry out
 Verlobungsring=Engagement ring
 büssen=atone,expiate
@@ -1381,8 +1383,10 @@ büssen=atone,expiate
 SEITE196
 zugehörig=belonging to
 hinauffuhr (hinauffahren)=drove up
+Schornstein=chimney
 gescharrt (scharren)=scratched
-schlüpften (schlüpfen)=hatched
+auf einmal=at once
+schlüpften (schlüpfen)=slip
 Vorhaben=project,plan
 
 SEITE198
@@ -1407,7 +1411,7 @@ Geltungssucht=ossessione
 Machtstreben=Striving for power
 
 SEITE204
-sie hatte seine Knöckel  verstaut=si era slogata la caviglia
+sie hatte seine Knöckel verstaut=si era slogata la caviglia
 Sonnenstich=sunstroke
 sich schonen=take things easy
 ohne sie gross anstellen=without making them big
@@ -1419,6 +1423,7 @@ danach=after that
 nach wie vor=still
 gebürstetem Fell=brushed fur
 Umzug=move,procession
+zu zweit=by twos
 Fichtenwipfel=spruce treetops
 Brachen=wasteland
 
@@ -1451,6 +1456,8 @@ ranzig=rancid
 umrührte (umrühren)=stirred
 vermengt=mixed up
 gehäutet (häuten)=skinned
+nach und nach=bit by bit
+mitansehen=watch
 eklig=disgusting
 genuschelt=mumbled
 mitbekommen=get,realize
@@ -1465,13 +1472,15 @@ abbezahlen=pay off
 autark=self sufficient
 Stallmiete=stall rental
 tilgen=pay off
+abklapperte=scour
 behelfen=help
 eingespart=saved
 als ich das Thema anschnitt=quando affrontai l'argomento
+aufziehen=bring up
 
 SEITE212
 Normalsterblicher=Normal mortal
-dabei hast du sie dir selbst eingebrockt=you got it on yourself (???)
+dabei hast du sie dir selbst eingebrockt=you got it on yourself (???) there you have it brewed yourself
 reg dich ab (abregen)=calm down
 Riesenschrecken=huge horror
 mithelfen=help along
@@ -1486,6 +1495,7 @@ streichle=caress
 erlegen=kill,shoot
 beigebracht=taught
 jemals=ever
+ritzte (ritzen)=scratched
 einprägen=imprint,impress
 vorgehabt=plan,intend
 
@@ -1493,6 +1503,8 @@ SEITE216
 Elternteil=parent
 zugedröhten=affollato
 verwahrlosten=neglected
+schleifen=haul,drag
+schulen=educate
 mitansehen=watch
 aushändigte (aushändigen)=handed over
 
@@ -1512,6 +1524,7 @@ ockergelb=ocher yellow
 sandfarben=sand colored
 loderte=blazed
 Bretterbrücke=Wooden bridge
+mich bückte (bücken)=bent down
 Rutsche=slide
 umfing (umfangen)=surround
 Grasbüschel=tuft of grass
@@ -1526,6 +1539,7 @@ verriegelt=locked
 aufgestapelt=pile up
 umgedreht=turned around
 vergilbten=yellowed
+Röhren=roar
 brünstigen=on heat,rutting
 sauer=angry
 Ausschau hielten=looked out
@@ -1535,6 +1549,7 @@ Sägeblatt=saw blade
 umrunden=circumnavigate
 Krachen=crash,smash
 was soll ich gross sagen=What should I say
+angelegt=created
 getrauert=mourned
 
 SEITE224
@@ -1542,6 +1557,7 @@ schleifen=drag
 entgleisen=derail
 verfing (verfangen)=entangle,caught
 absoff (absaufen)=to flood
+geschleudert=hurled
 zerlegte (zerlegen) = disassemble
 spalten=split
 Fäustel und Spaltkeil=sledge hammer and splitting wedge (mazza e cuneo)
