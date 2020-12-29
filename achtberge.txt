@@ -1193,7 +1193,7 @@ Flieger=plane
 spaßeshalber=just for fun
 Sitztruhe=cassapanca
 Anrichte=credenza
-Schleifpapier=carta vetrata
+Schleifpapier=carta vetrata (schleifen=grind)
 aufgearbeitet=lavorato
 Bohlen=tavole
 Vorratsraum=dispensa
@@ -1201,13 +1201,16 @@ verstauten=stowed
 Riegel=bar,latch
 
 SEITE166
+bergan=uphill
 straucheln=stumble
 verdorrte=wither
+und ob!=you bet!
 Zügel=reins
 voranzugehen=to go ahead
 
 SEITE170
 verarbeitet=processed
+Fächern (das Fach, die Fächer)=compartment
 krakeelten=brawl
 Gaumen=palate
 verwöhnen=spoil
@@ -1215,11 +1218,14 @@ verschnaufte=to catch one's breath
 zustande brachte=achieve
 
 SEITE172
+hob auf (aufheben)=to pick something up
+Speichen=spokes
 ausgegangen=start
 aus der Übung=out of practice
 verwischte=efface
 schlichte=simple
 Einsiedler kate=hermit ???
+Vertrautheit=familiarity
 wohligen=cozy
 aufgestaut=dammed up
 
@@ -1228,12 +1234,14 @@ einschlagen=hit,pursue
 erproben=test,try out
 von Dauer gewesen=been permanent
 umsetzen=implement
+läutete sie das Ende ein=ring in
 sich rarmachen=farsi vedere poco in giro
 bewährte=to prove of value
 
 SEITE176
 nichts einzuwenden haben=to have no objections 
 der Entschluss=decision
+anklagend=accusing
 abgewiesen=rejected
 Verzug=delay
 schlug er sich mit jemandem herum=he was fighting someone
@@ -1268,6 +1276,7 @@ schuppiger=flaky
 wogender=ansante
 Lehm=clay
 verputzt=plastered
+auskennen=know
 zarte=tender
 Knospe=bud
 rieten (raten)=advise
@@ -1278,7 +1287,7 @@ scharren=scratch
 grasten=graze
 Pavian=baboon
 betrat=entered
-anfreudeten=were pleased
+anfreundeten=befriended
 Fahnen=flags
 abgeschüttelt=shaken off
 vergötterte=idolized
@@ -1286,6 +1295,7 @@ liebkosten=caress
 unablässig=incessantly
 rückversichern=reinsure
 allesamt trächtig=all pregnant
+muh=moo
 geflohen=fled
 umstellt=surrounded
 vorneweg=ahead
@@ -1293,6 +1303,9 @@ Schlusslicht=taillight
 holten (holen)=fetch
 
 SEITE184
+bellen=bark
+zwicken=pinch
+gesellten (sich gesellen)=to join
 Bimmeln=jingle
 übertönten (übertönen)=drown
 Wiederbelebungsmassnahme=Resuscitation measure
@@ -1305,6 +1318,7 @@ knallgelbe=bright yellow
 gejätet (jäten)=weeded
 humpelnd=limping
 nachzog (nachziehen)=follow
+durchaus=quite
 zügig=rapid
 dürr=dry
 schier=almost
@@ -1322,6 +1336,9 @@ abzuschöpfen (abschöpfen)=skim
 Lab=rennet,caglio
 Tüchern=cloth,fabric
 abgeseiht=sieved,strain
+entweichen=escape
+Vorhaben=project
+Gehege=enclosure
 gemächlich=leisurely
 Reh=deer
 
@@ -1329,9 +1346,11 @@ SEITE188
 umherstreifte=prowled
 Witterung=scent
 Läuten=chime
+Labs=enzyme caglio
 gibt aus (aufgeben)=to give up
 aufheben=cancel,set aside
 Anspielung=reference,allusion
+Hast=rush
 
 SEITE190
 verlernen=unlearn
@@ -1339,6 +1358,7 @@ gurgelte=gurgled
 Senke=trough
 blies (blasen)=blew
 Stute=female horse
+Laibe=loaves
 Nicken=nod
 
 SEITE192
@@ -1348,6 +1368,7 @@ davonbrausen=dash off, speed off, go with full speed
 kulisse=backdrop scenery
 abzuhauen=to run away
 Dampflok=steam locomotive
+Ständig=all the time
 ausgesucht=select
 
 SEITE194
