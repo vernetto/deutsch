@@ -15,8 +15,9 @@ Kälte: cold
 johlend: shout
 hinab: down
 zog sie es vor (vorziehen): prefer
-veranstalten: organize
-Kuppen= summits
+veranstalten:organize
+Kuppen=summits
+Ernüchterung=disillusionment
 erwähnen=mention
 ragten (ragen) = tower
 Gewändern=garments
@@ -34,6 +35,7 @@ schlüpfen=slip
 Dauerregen=continuous rains
 schlimmig=moldy
 Holzbalken=timber
+Trockenschuppen=drying shed
 
 SEITE012
 
@@ -507,6 +509,7 @@ aufgebrochen=set out
 überwinden=overcome
 
 SEITE060
+schleifte=dragged
 Brechreiz=nausea
 Galle=bile
 schlapp=flappy
@@ -522,6 +525,7 @@ gefälligst=kindly
 Unbeschwertheit=carefree
 Schwermut=melancholy
 Niedergeschlagenheit=depression,dejection
+nachvollziehen=comprehend
 in Verzückung geraten=in ecstasy
 berauschte mich=inebriate
 ausmalen=imagine
@@ -1065,6 +1069,7 @@ zugehalten=hold closed
 ablehnend=hostile
 dicht an dicht=close together
 zielstrebig=determined
+hortet=hoarded
 Marotten=stranezze, quirks
 zusammensetzen=put together
 Rotwild=red deer
@@ -1132,6 +1137,9 @@ drängten sich=affollavano
 karge=barren
 Geröll wich=give way to the rubble
 Nachgiebiges=yielding,soft
+aufgesetzt=put on
+verlagert=relocated
+hochgestemmt=listed up
 
 SEITE154
 hüpfen=jump
@@ -1140,6 +1148,7 @@ körnig=granular
 Kamm=comb,ridge
 übersäte=covered
 Blöken=bleat
+auftaten=appeared
 
 SEITE156
 Ich stiess auf=I came across
@@ -1561,11 +1570,13 @@ geschleudert=hurled
 zerlegte (zerlegen) = disassemble
 spalten=split
 Fäustel und Spaltkeil=sledge hammer and splitting wedge (mazza e cuneo)
+hallte (hallen)=echoed
 zaghaft=timid
-Knacken=crack
 dumpf=dull
 ablöste=replace
+Knacken=crack
 durchschimmern=shine through
+schweifen=wander
 einzuritzen=scratch
 trug (tragen)=carry
 
@@ -1574,9 +1585,11 @@ in der Glut gegart (garen)=cooked in the embers
 gar=cooked
 beizustehen=assist
 abwimmeln=turn away
+im keim=in bud
 eine geschlagene Stunde=a full hour
 erstbeste=the first that comes along
 hab es mir angeschaut=I looked at it
+ohnehin=anyway
 ausgespart=left out
 aus heiterem Himmel=out of the blue
 Dämmerung=dusk
@@ -1586,6 +1599,7 @@ sich schlau genug anstellt=acts smart enough
 ergründen=discover
 
 SEITE228
+Genervtheit=annoyance
 sehnte (sehnen)=desire
 verkriechen=crawl away
 als Erster=as the first
@@ -1609,6 +1623,7 @@ angefressen=eroded
 
 SEITE230
 im Ganzen=in toto
+umschloss=embrace
 fuhrwerkte=drove
 mitsamt=together
 Gerippe=carcass
@@ -1618,6 +1633,7 @@ Zerlegen=disassemble
 wohl=probably,perhaps
 ankündigen=announce
 geeinigt=agreed
+verwehren=deny
 zuallererst=first of all
 geschmorrt=braised,brasato
 angerührt=touched
@@ -1639,6 +1655,7 @@ SEITE234
 eingesehen=realized
 gestand (gestehen)=confess
 stand auf (aufstehen)=stood up
+Rührung=emotion
 trudelten (trudeln)=slowly walk
 klobigen=chunky
 in rauen Mengen=in huge quantities
@@ -1690,6 +1707,7 @@ umsatteln=change saddle
 sich eingestehen=admit
 ich überliess mich der Wärme=I surrendered to the warmth
 Unbedingtheit=absoluteness
+seit jeher=always
 geneigt=inclined,disposed
 aus diesem Traum rissen (reißen)=ripped from this dream
 Brausen=roar
