@@ -1,0 +1,7 @@
+
+*21.02.2013
+Koryphäe
+Vorlage=template
+vorgegeben=default
+anfertigen=produce
+gruselig=creepy
