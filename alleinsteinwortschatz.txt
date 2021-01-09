@@ -55,12 +55,12 @@ mysterium=mystery
 vorsätzlich=deliberately
 Gärsilo=fermentation silo
 Gülle=manure
-
-
-
-
-
-
+tränkt, tränken=soak
+angeben=indicate
+aufwendig=laborious
+ausgeschrieben=announced
+Lücke=gap
+verrät (verraten)=reveals
 
 
 
