@@ -5,3 +5,75 @@ Vorlage=template
 vorgegeben=default
 anfertigen=produce
 gruselig=creepy
+
+*28.02.2013
+Überlegung=thought
+freigesetzt=free up
+abgeleitet=derived 14:25
+verlegenheit=embarassement
+Bedieneinheit=control unit  19:34
+Düsenausgang=nozzle outlet
+herkömmlich=conventional
+würgen=choke
+der Schuppen=scale
+dehnbar=stretchable,elastic
+Überbleibsel=remnant, leftover
+Höckern=hump
+
+07.03.2013
+abgelagert=deposited
+Ablagerung=deposit
+verformt=deformed
+übertragen=transfer
+unterbau=lower structure
+spritze=syringe
+Kolben=piston
+wettmachen=make up for it
+
+säbelsäge=sega alternativa
+auf mal=at once
+Muschel=shell
+rupfen=pluck
+Bissen=morsel
+Schrägstrich=slach
+
+14.03.2013
+ansonsten=otherwise
+standhalten=withstand
+wärmeträger=heat carrier
+
+vorhanden=available
+gewetzt=sharpened
+sich beeilen=hurry up
+dösen=doze,snooze
+angeschlossen=connected
+eingesetzt=set in
+in angriff nehmen=attack
+
+21.03.2013
+mysterium=mystery
+vorsätzlich=deliberately
+Gärsilo=fermentation silo
+Gülle=manure
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
