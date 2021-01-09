@@ -62,9 +62,41 @@ ausgeschrieben=announced
 Lücke=gap
 verrät (verraten)=reveals
 
+28.03.2013
+auftauen=thaw
 
 
 
+04.04.2013
+zerlegt=disassemble
+verstopfen=clog
+vorkommen=occur
+aufbereitet=processed
+
+11.04.2013
+verbaut=installed
+begegnet=encountered, meet
+goldgrube=gold mine
+schlacke=slag,scorie
+entspricht=corresponds
+rückbau=dismantling
+geglückt=successful
+verlockend=tempting
+einrücken=report for duty
+Ausreisser=runaway
+
+18.04.2013
+brutvogel=breeding bird
+Storch=stork (gru)
+verspricht=promises
+betreut=looked after
+eingelassen=let in
+abgelassen=drained
+abseits=aside
+durchsetzen=accomplish,achieve
+fühlbar=pallpable
+durchstich=puncture
+abgebaut=disassemble
 
 
 
