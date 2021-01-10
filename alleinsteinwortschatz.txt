@@ -135,5 +135,65 @@ beschichtung=coating
 ölabweisend=oil-repellent
 läuft auf hochtouren=runs at full speed
 
+30.05.2013
+Pfau=peacock
+schlagartig=abruptly
+
+06.06.2013
+Bedürfnis=needs
+angebetet=adored
+gehetzt=chased
+gemütlichkeit=coziness
+
+13.06.2013
+wann trifft sich der Geistesblitz=when does the flash of inspiration meet
+schlechthin=absolutely
+unheimlich viele=an awful lot
+die Wiege=cradle
+auffallend=striking
+nach wunsch=as desired
+
+20.06.2013
+scheitern=fail
+planmässig=according to plan
+zerklüftet=fissured
+der Mahlengestein=millstone
+kargen=barren
+verhaltensstörung=behavioral disorder
+packend=thrilling
+
+27.06.2013
+angewiesen=reliant
+eiltempo=hurry
+ausgerüstet=equipped
+die Pelerine=raincoat
+angesagt=trendy,hip
+
+22.08.2013
+die Amsel=blackbird
+durchhaltevermögen=perseverance
+durchsetzen=prevail
+befallen=infected
+betreut=supervised
+nichtsdestotrotz=nevertheless
+genugtuung=satisfaction
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
