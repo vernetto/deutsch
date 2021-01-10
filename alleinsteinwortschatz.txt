@@ -97,15 +97,43 @@ durchsetzen=accomplish,achieve
 fühlbar=pallpable
 durchstich=puncture
 abgebaut=disassemble
+ließ es locker=let it go
+Meißel=chisel
 
 
 
+25.04.2013
+verschmäht=disdained
+herumsprechen=get around
+Schleuse=floodgate
+aufgetragen=applied
 
 
+02-05-2013
+verheerend=devastating
+aufwand=effort
+abgetrieben=be driven off course
+ungetümer=brutal
+abgeschossen=shot down
 
 
+16.05.2013
+hüten=guard
+unbedenklich=harmless, thoughtless
+fleissig=diligent,industrious
+belohnen=reward
+Antriebs=drive
+tüfteln=tinker
+tüftelei=tinkering
 
-
+23.05.2013
+knackig=crisp
+anzug=suit
+manschette=cuff (polsino)
+beschaffung=procurement
+beschichtung=coating
+ölabweisend=oil-repellent
+läuft auf hochtouren=runs at full speed
 
 
 
