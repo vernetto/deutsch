@@ -178,11 +178,14 @@ betreut=supervised
 nichtsdestotrotz=nevertheless
 genugtuung=satisfaction
 
+29.08.2013
+bewiesen=proven
+verkehrsvergehen=traffic offense
+Verhütungsmethode=contraception
 
 
-
-
-
+12.09.2013
+unbehagen=disconfort
 
 
 
