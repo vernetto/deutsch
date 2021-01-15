@@ -2347,5 +2347,35 @@ der Dokumentarfilm, die Dokumentarfilme
 fortschrittlich=forward-looking 
 
 
+Leitkultur
+das Kassenband
+der Warentrenner
+die Ware, die Waren
+der Kunde, die Kundin, die Kunden, die Kundinnen (n-deklination)
+vorwurfsvoll
+der Vorwurf
+Auftrag=assignment
+achtsam=careful
+Schiedsrichter=referee
+vorgeschritten=advanced
+am häufigsten
+geschehen=sich passieren
+Erstürmung
+gewinne
+Geldwäsche
+Waschung=ablution
+der Putzlappen=cleaning rag
+der Staub
+ausklopfen=beat
+Teppichklopfer
+wischen
+Scheibenwischer=tergicristalli
+
+
+
+
+
+
+
 
 

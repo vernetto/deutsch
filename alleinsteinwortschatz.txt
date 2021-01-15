@@ -188,13 +188,21 @@ Verhütungsmethode=contraception
 unbehagen=disconfort
 
 
+19.09.2013
+
+26.09.2013
 
 
+03.10.2013
+begutachten=appraise
+nachgestellt=adjusted
+knauserig=stingy
+ausmerzen=weed out,eradicate
+kinderkrankheiten=teething
+beheben=remedy
+tönt nach viel?= sounds like a lot?
 
-
-
-
-
+10.10.2013
 
 
 
