@@ -418,51 +418,77 @@ das Ableben=demise
 
 
 20.02.2014
-Bartgeier=
-hüpft=
-erlegte
-Krallen=
-Uhus=
-Aasfresser=
-erhobene=
-Anstoss=
-erlegt=
-Lafette=
-Deckung=
-Staunen=
-Zinn=
-Energieabgabe=
-auf die Pirsch gehen=
-Radiosignet=
-Tonaufnahmen=
-Auftraggeber=
-Oma-haft=
-Damit ist Schluss=
-Mottenkiste=
-Bläser=
-Ab jetzt=
-Das Fiese ist=
+Bartgeier=Bearded vulture
+hüpft (hüpfen)=hop,bounce
+erlegte=killed
+Krallen=claws
+Uhus=Eagle owls
+Aasfresser=scavenger
+erhobene=raised
+Anstoss=kicking off,impetus,offense
+Lafette=gun carriage
+Deckung=cover
+Staunen=wonder
+Zinn=tim
+Energieabgabe=Energy output
+auf die Pirsch gehen=go on the prowl
+Radiosignet=sign
+Tonaufnahmen=Sound recordings
+Auftraggeber=customer
+Damit ist Schluss=That’s over
+aus der Mottenkiste holen=to dig sth. out 
+der Bläser=blower
+Ab jetzt=From now
+Das Fiese ist=The evil is
 
 
 27.02.2014
-ins Stotter zu geraten=
-EU-Geldern=
-aufwändige=
-übersehen=
-Beize=
-würzen=
-siebt...ab=
-entfalten=
-Anrichten=
-Salpetersäure=
-z.T.=zur Teil?
-unterorden=comply
-Anlass=
+ins Stotter zu geräten=to stutter
+EU-Geldern=funds
+aufwändige=elaborate,costly
+übersehen=have a view of
+Beize=pickle
+würzen=spice up
+siebt...ab=sieve
+entfalten=unfold
+Anrichten=serving
+Salpetersäure=nitric acid
+z.T.=zum Teil=partly
+unterorden=comply,subordinate
+Anlass=occasion
 verdrängt=repressed
 
 
 06.03.2014
-bei Weitem
+bei Weitem=by far
+einberechnen=take into account
+Trümmer=debris
+anspruchsvoll=demanding
+zugeordnet=assigned
+nachgewiesen=proven
+hingegen=on the other hand
+verzwickten=tricky
+Löscharbeit=Fire fighting
+träg=sluggish
+überträgt=transmits
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
