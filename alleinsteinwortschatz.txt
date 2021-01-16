@@ -309,25 +309,160 @@ abneigung=dislike
 
 
 09.01.2014 
+behaglich=comfortable
+das Brustbein=sternum
+Polster=pad
+nachweisen=prove
+übernommen=take,assume
+rückschlüsse=conclusions
+kitzelt=titillate
+vertretbar=justifiable
+bruchpunkt=breakpoint
+anhäufen (angehäuft)=accumulate,pile up
+vorgestellt=presented
+die Stärke=starch
 
 
+16.01.2014
+obdach=shelter
+richten sich=focus
+gehbehindert=handicapped
+
+23.01.2014
+der Gefahr is gebannt=il pericolo è scongiurato
+das Kreischen=screeching
+Düsenjäger=jet fighter
+
+30.01.2014
+anschlagen=
+vornehmen=
+vermarktung=
+lagert=
+Schachtel=
+aufpeppen=
+Kutteln=
+sauset=
+angesteckt=
+seither=
+Aufbau=
+Funkuhr=
+einen Riegel schubt=
+schonen=preserve
+Boje=
+Tümmler=
+angewendet=
+
+06.02.2014
+das Problem angepackt=tackled the problem
+zugänglich=accessible
+gewährleistet=guaranteed
+entsorgt=disposed of
+Hörsaal=Lecture hall
+ausgezogen=moved out,undressed
+in Vergessenheit geraten=fell into oblivion
+übrigens=by the way
+vorgängich=beforehand
+anstossen=push
+gern geschehen=You are welcome
+ist gefordert=is required
+Schneewehe=snowdrift
+beeinträchtigt=impaired,reduced
+ungewollt=unintentionally
+Sprungbein=anklebone
+umfasst=includes
+detailgetreu=true to detail
+Voraussetzung=requirement
+angewiesen=reliant
+jetzt gilts ernst für Thobias=now it's serious for Tobias
+schweben=hover
+der Schanze=the ski jump
+angelegte=applied
+spreizte ohne Respect=spread without respect
+einleiten=initiate
+krachen=crash
+aufdrucken=imprint
+Anzug=suit
+übermütig=cocky
+überwindung=willpower,overcoming
+Anlauf=run-up
+Schanze=ski-jump
+oder etwa doch?=or does it?
 
 
+13.02.2014
+Stiele rote Rose (der Stiel)=stem
+der Ansturm=stampede
+die Gärtnerei=market garden
+Einschätzung=assessment
+eingespielt=recorded
+Übersee=Overseas
+Wimperntierchen=Ciliates
+welken=wither
+verstopft=clogged
+umrühren=stir
+Tütchen=Sachets
+verwelken=wither
+aufbewahrt=kept
+Blasebälgen (der Blasebalg)=soffietto,bellows
+gemächlich=piacevole
+angehend=budding (gemmazione)
+Zergliederung=dissezione
+Belang=concern
+herangetastet=approach
+der Gesässmuskel=Muscolo gluteo
+die Zufuhr=supply
+Lebzeiten=Lifetime
+die Andacht=prayer,devotion
+vergittert=barred
+das Ableben=demise
 
 
+20.02.2014
+Bartgeier=
+hüpft=
+erlegte
+Krallen=
+Uhus=
+Aasfresser=
+erhobene=
+Anstoss=
+erlegt=
+Lafette=
+Deckung=
+Staunen=
+Zinn=
+Energieabgabe=
+auf die Pirsch gehen=
+Radiosignet=
+Tonaufnahmen=
+Auftraggeber=
+Oma-haft=
+Damit ist Schluss=
+Mottenkiste=
+Bläser=
+Ab jetzt=
+Das Fiese ist=
 
 
+27.02.2014
+ins Stotter zu geraten=
+EU-Geldern=
+aufwändige=
+übersehen=
+Beize=
+würzen=
+siebt...ab=
+entfalten=
+Anrichten=
+Salpetersäure=
+z.T.=zur Teil?
+unterorden=comply
+Anlass=
+verdrängt=repressed
 
 
-
-
-
-
-
-
-
-
-
+06.03.2014
+bei Weitem
 
 
 
