@@ -203,6 +203,141 @@ beheben=remedy
 tönt nach viel?= sounds like a lot?
 
 10.10.2013
+beschaffenheit=nature
+vorwiegend=predominantly
+
+17.10.2013
+Fundgrube=treasure trove
+schlapp=listless,floppy
+streuner=stray
+einzelfall=individual case
+unwiderstehlich=irresistible
+umstände=circumstances
+schnattern=gibber,vibration
+
+24.10.2013
+Abstammen=spring,descent
+Nacktmull=Naked mole rat
+Durchbruch=breakthrough
+
+31.10.2013
+Übergänge=transitions,passage
+zerlegt=disassemble
+freistellen=release
+misslungen=failed
+Hinterhalt=ambush
+Fussgänger=pedestrian
+Durchsatz=throughput
+Durchsage=announcement
+ausfindig machen=locate
+Entflechtung=breaking up
+
+14.11.2013
+unverwüstlich=indestructible
+Schliff=cut
+ausgelegt=covered
+bezogen=based
+verabsetzen=dispose
+ächzen=groan,creak
+unverwechselbar=distinctive
+gegensätzlich=contrary
+Zimmermann=carpenter
+das a und o=the alpha and omega
+ermitteln=determine
+gefertigt=manufactured
+behutsam=gently
+gleichmäßig=evenly
+der Klang=sound
+verstimmt=out of tune
+Pfeifen=pipes
+schräge=sloping
+klingt=sound
+Stöpsel=peg,cork
+Hobel=slicer
+
+21.11.2013
+Dütschschwitz=german Switzerland
+die Eiablagen=egg deposition
+auf hochtouren=in full swing
+Umsetzung=implementation
+Stäbchen=rod,chopstick
+
+
+
+28.11.2013
+verderben=spoil
+niedlich=cute
+kuschelig=cosy,cuddly
+überlegen=superior
+basteln=handcraft
+umgefallen=fall over,pass out
+
+05.12.2013
+unmittelbar=right away
+in stellung=in position
+schweißen=weld
+Umlenkung=Redirection
+zustäding=responsible
+zerschlagen=smashed
+nachvollziehbar=comprehensible
+
+12.12.2013
+der Aufwand=effort
+Klauengeschwüre=foot ulcers
+nachwachsen=grown back
+trubel=hustle and bustle
+Scheune=barn
+Massentierhaltung=factory farming
+grosszügig=generously
+blattgold=gold leaf
+Störch=cicogna
+
+
+19.12.2013
+vermodern=decay
+an ort und stelle=in place
+
+
+
+02.01.2014
+Dolmetscher=interpreter
+voraus=ahead
+erkaufen=purchase
+ablaufen=run,expire
+abneigung=dislike
+
+
+
+09.01.2014 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
