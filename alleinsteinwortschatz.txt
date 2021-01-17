@@ -628,35 +628,38 @@ Umgang=Handling
 tückisch=treacherous
 schadhaft=defective
 fachgerecht=professional
-Enstehengeschichte=
-biedere=
-anzuschaffen=
-geklotz=
-eingerechnet=
-aufzeigt=
-Übersinni??
-gleichsetzen=
-ausmacht=
-Knäuel=
-aufkommen=
-Bestand=
-Feldhasen=
-überrollen=
-Greifvögel=
-angelegt=
-ausgelegt=
-Attrappe=
-Brache=
-Hopp=
-absuchen=
-nicht damal = not even??
-auf der Lauer=
+Entstehungsgeschichte=History of origin
+biedere=honest
+anzuschaffen=acquire
+geklotzt=padded
+eingerechnet=included
+aufzeigt=shows
+Übersinnlich=Paranormal
+gleichsetzen=equate
+ausmacht=matters
+Knäuel=ball,knot
+aufkommen=arise,emerge
+Bestand=duration
+Feldhasen=Brown hares (der Hase)
+überrollen=roll over
+Greifvögel=Birds of prey
+angelegt=created
+ausgelegt=designed
+Attrappe=dummy
+Brache=fallow
+Hopp=Hops
+absuchen=search
+auf der Lauer=on the lurk
 
-
-
-
-
-
+24.04.2014
+abzugeben=submit
+umfassend auszuwerten=to evaluate comprehensively
+Stimmbeteiligung=Voting participation
+Morgenstund hat Gold im Mund=The early bird catches the worm
+aufwändige=elaborate
+abtauchen=submerge
+Nabelschau=Navel gazing, narcisismus
+sorgte für Furore=caused a sensation
 
 
 
