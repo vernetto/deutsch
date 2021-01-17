@@ -569,6 +569,92 @@ massentauglich=suitable for the masses
 ausgefeilte=sophisticated
 
 
+03.04.2014
+Dämmstoff=Insulation material
+Dämmputz=Insulating plaster
+Aerogele=Aerogels
+Verputzprobe=Plastering test
+Verputz=Plastering
+Bindemittel=binder
+anspruchsvoll=demanding
+entweichen=escape
+durchlässig=permeable
+schweben=hover
+Rotmilan=nibbio reale
+tollkühne idee=daring idea
+entflogen=escaped
+entlarven=expose,unmask
+Sturmmöwe=Common gull
+angesagt=hip
+angeschwemmte=washed ashore
+vorangetrieben=driven forward
+Zusammensetzung=composition
+Aufbewahrung=storage
+
+
+10.04.2014
+eingelassen=embed,let in
+Kragarme schwanken=???
+Hohlkasten=Box girder
+zugeratet=advised
+deshalb=therefore
+wegnimmt=takes away
+Zehntel=one tenth
+Saite=string
+geklatscht=clapped
+Zeichner=disegnatori
+darbrachten=offered
+eindeutig=clearly
+Glieder=limbs
+
+
+17.04.2014
+entschärft=defused
+eingesetz=used
+Altlasten=Contaminated sites
+mit Tücken=with pitfalls
+Handhabung=handling
+Blindgänger=dud shot
+stählern=steely
+Aufräsen=Milling
+in der Luft gejagt=chased in the air
+weiträumig verseucht=widely contaminated
+Schadstoffe=Pollutants
+Rückständen=Residues
+nachträglich=retrospectively
+Viehbestand=Livestock
+Versuchsbetrieb=Trial operation
+Umgang=Handling
+tückisch=treacherous
+schadhaft=defective
+fachgerecht=professional
+Enstehengeschichte=
+biedere=
+anzuschaffen=
+geklotz=
+eingerechnet=
+aufzeigt=
+Übersinni??
+gleichsetzen=
+ausmacht=
+Knäuel=
+aufkommen=
+Bestand=
+Feldhasen=
+überrollen=
+Greifvögel=
+angelegt=
+ausgelegt=
+Attrappe=
+Brache=
+Hopp=
+absuchen=
+nicht damal = not even??
+auf der Lauer=
+
+
+
+
 
 
 
