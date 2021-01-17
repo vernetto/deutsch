@@ -471,12 +471,78 @@ verzwickten=tricky
 Löscharbeit=Fire fighting
 träg=sluggish
 überträgt=transmits
+Nachtfalter=moth
+Winterfalter=a butterfly
+unabdingbar=indispensable
+Fertigkeit=skillfulness
+anvertrauen=entrust
+Aufspiessen=impale
+Paarungsorganen=Mating organs
 
+13.03.2014
+Achterbahn=Roller coaster
+Hefe=yeast
+Gattungen=genera
+Sorgenkinder=Problem children
+Ringen=Wrestling
+Glaubenskrieg=War of faith
+Himmelsrichtungen=Cardinal points
+Langschläfer=Late riser
+RhB=Rhätisch Bahn
+Massenabfertigung=Mass processing
+Stehplatz=Standing room
+Ausgefalte=Unfolded
+Dornröschenschlaf=Sleeping Beauty
+eingeweiht=inaugurated
+vorspannen=preload
+Makel=flaw
+aufwendig=expensive,lavish
+Spagat=string
+geschleppt=towed
+sich einfallen lassen=come up with
+Wagen=cart
+Gleichklang=unison
+hingegen=however
+aufzutreiben=to find
+Saite=string
+verspielt=playful
+davor hütet=beware of it
+handfeste=tangible
 
+20.03.2014
+verbundete=
+gewienen=
+herzig=
+gefordert=
+aufrecht=
+heraushören=
+vorgespielt=
+Winselnd=
+deuten=
+Einbildung=
+Leckerchen (Gutzli)=
+Befehle erteilen=
+anstossen=
+Döschen=
+Makrosmat=
+auffällig=
+Wegrand=
+Stellenwert=
+Allroundtalent=
+in Gestrüpp=
+verhätschelt=
+zögerlich=
+geheuer=
+zurückhaltend=
+Pfosten=
+grausam sorry=
+plätscher=
 
-
-
-
+27.03.2014
+auflegen=
+mutwillig=
+verbogen=
+Verwitterung=
 
 
 
