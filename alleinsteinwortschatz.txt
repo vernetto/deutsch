@@ -510,44 +510,63 @@ davor hütet=beware of it
 handfeste=tangible
 
 20.03.2014
-verbundete=
-gewienen=
-herzig=
-gefordert=
-aufrecht=
-heraushören=
-vorgespielt=
-Winselnd=
-deuten=
-Einbildung=
-Leckerchen (Gutzli)=
-Befehle erteilen=
-anstossen=
-Döschen=
-Makrosmat=
-auffällig=
-Wegrand=
-Stellenwert=
-Allroundtalent=
-in Gestrüpp=
-verhätschelt=
-zögerlich=
-geheuer=
-zurückhaltend=
-Pfosten=
-grausam sorry=
-plätscher=
+verbündete=allies
+gewienen=??
+herzig=sweet,jovial
+gefordert=required
+aufrecht=upright
+heraushören=hear out
+vorgespielt=pretended
+Winselnd=Whimpering
+deuten=interpret
+Einbildung=imagination
+Leckerchen (Gutzli)=Treats
+Befehle erteilen=to give orders
+anstossen=spingere,nudge,clink glasses
+das Döschen=little jar
+Makrosmat=animali con senso dell'olfatto molto pronunciato
+auffällig=noticeable
+Wegrand=wayside
+Stellenwert=Status
+Allroundtalent=All-round talent
+in Gestrüpp=in thicket,scrub,brushwood
+verhätschelt=pampered
+zögerlich=hesitant
+geheuer=secure
+zurückhaltend=reluctant
+Pfosten=post
+plätscher=splash
 
 27.03.2014
-auflegen=
-mutwillig=
-verbogen=
-Verwitterung=
-
-
-
-
-
+auflegen=hang up
+mutwillig=maliciously
+verbogen=bent
+Verwitterung=weathering
+verziert=decorated
+aufeinander gelegt=placed on top of each other
+strecken=stretch
+mit Schlacke versetzt=mixed with slag (scoria)
+Damast-Schmied=??? fabbro
+der Degen=epee,sword
+nachbauen=recreate
+vollbracht=accomplished
+Einlagen=insoles,deposit
+verschimmelt=moldy
+Urkunden=Certificates
+Einstürzt=collapse
+durcheinander geraten=get confused
+stöbern=rummage
+Beschlüssel=key
+Anfängen=Beginnings
+Aufwirbelung=Resuspension
+Stirnfläche=frontal area
+gewagt=daring
+Heck=tail,rear
+verfrachten=ship
+Scheunentor=Barn door
+Wagenheber=jack
+massentauglich=suitable for the masses
+ausgefeilte=sophisticated
 
 
 
