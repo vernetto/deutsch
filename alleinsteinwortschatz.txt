@@ -689,27 +689,32 @@ Ohrwurm=catchy tune
 tückisch=treacherous
 Geschehen=event
 vorgelegt=submit something to so.
+antreten=report
+tüftler=trafficone
+gefertigt=manufactured
+geschleudert=catapult
 
+05.06.2014
+Schiedsrichter=referee
+gestritten=disputed
+Abgang=outflow
+Maischetank=Serbatoio di ammostamento
+ausgereift=mature
+Schiri Flop=Referee flop
+Anpfiff=kickoff
+gestürzt=overturned
+Ereignisvervollständigung=Event completion
+am Schnürchen=on the clock
+Knacknuss=tough nut
+Ballabgabe=ball delivery
+dereinst=one day
+im Abseits stehen=stand on the sidelines
+wie kein Zweiter=like no other
+Hüfteinsatz=Hip insert
+immerhin=all the same
+Bräunung=browning
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+12.06.2014
 
 
 
