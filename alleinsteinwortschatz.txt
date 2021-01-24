@@ -791,13 +791,97 @@ umschwenken=swivel around,to change sides,do an about-turn
 rütteln=shake
 Lösungsansätze=Possible solutions
 
+04.09.2014
+Aufziehen=wind up (clock)
+Sakko=jacket
+Halbschuhe=low shoe
+entspannung=relaxation
+Schlafgemach=Bedchamber
+ins Schwärmen bringen=to rave about
+Morgengrauen=dawn
+Abwahl=voting out
+Fragestellung=question
+Ausgeruht=rested
+brummelt=mumbles
+immerhin=after all
+einigermaßen=to some extent
+erlösung=salvation
+handfessel=handcuff
+angespornt=encouraged
 
 
+11.09.2014
+blinder passagier=stowaway, portoghese
+abgeschlossen=completed
+gerüstet=prepared
+voranschreiten=move forward
+ausführlich=in detail
+erhärtet=hardened
+absehbar=foreseeable
+Haube=hood
+gerüstet=prepared
+Stängel=stalk
 
 
+18.09.2014
+Erstklässler=first grader
+Einzuggebiet=basin, catchment area
+höhenflüge=high altitude flights
+Abwurf=release
+entmuten=discourage
 
 
+02.10.2014
+vermeintlich=supposedly,alledgedly
+Hüllen=envelop
+aufschlussreich=revealing
+schmälern=reduce
+schätzungsweise=approximately
+zuversichtlich=confident
+datensätze=records
+vorgegangen=act
+aufgedrückt=force open
+zapfen=tap
+abgehört=intercepted
+Abhör=intercept
+biegt=bend
+nachträglich=later
+Schwächung=weakening
+Schutzalter=age of consent
+hinter Gittern=behind bars
 
+09.10.2014
+krabbelt=crawls
+kribbelt=tingle
+scheinbar=seemingly
+brüten=breed
+ausgestattet=fitted
+gebastelt=tinkered
+ableger=offshoot
+bangen=fear
+Liebeskummer=Lovesickness
+vernachlässigen=neglect
+
+
+16.10.2014
+belebet=animates
+träge=sluggish
+mit Verlaub=with all due respect
+geschwungen=curved
+Taktgeber=clock,transmitter
+hemmungslose=unrestrained
+Prassen=feast
+Protzen=splurge, show off
+Aufklärung=enlightenment
+vergänglich=ephemeral
+ungelenk=awkward
+wenn ich ehrlich bin=to be honest
+Pöbel=mob
+Mieder=corsage
+Fächer=fan
+ich pudere mich=I powder myself
+Absatzschuhen=high heels
+irrlehren zuhauf=false doctrines abound
 
 
 
