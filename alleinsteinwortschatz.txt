@@ -882,19 +882,80 @@ Fächer=fan
 ich pudere mich=I powder myself
 Absatzschuhen=high heels
 irrlehren zuhauf=false doctrines abound
+unrein=impure,unclean
+stumpf=dull
+Bedienstete=servants
+Zofen=maids
+
+
+23.10.2014
+Schusslichkeit=Brutality
+nach bestem Wissen und gewissen=to the best of our knowledge and belief
+Röhrchen=test tube
+gelegentlich Aussetzen=occasional exposure
+
+30.10.2014
+gefordert=required
+die Einöde=desert
+zirpen=chirp
+aufgegriffen=picked up
+gefördert=sponsored
+Eindrücke=impressions
+Demut=humility
+Längerfristig=long term
+erlischt0goes out
+Trugschluss=fallacy
+auffällige=conspicuous
+Fehlanzeige=false report, nothing
+Raubbau=depletion
+betrübt=saddened
+
+06.11.2014
+
+
+13.11.2014
+befallen=infested
+follgezogen=followed
+vorgezogen=preferred
+
+
+20.11.2014
+harren aus=persevere
+Beinbruch=fracture of the leg
+gegrübelt=pondered,ruminated
+Sippe=clan
+
+04.12.2014
+geritzt=scratched 
+überzogen=overdrawn
+kunstharz=synthetic resin 
+gerät ins Grübeln=gets brooded, is shocked
+listig=cunning
 
 
 
+18.12.2014
+Tarnung=camouflage
+zugewandt=facing
+hochauflösend=hi resolution
+Kiemen=Gills
+behaart=hairy 
 
 
+08.01.2015
+Angsthase=Cowardice 
 
 
+15.01.2015
 
 
+22.01.2015
 
 
+29.01.2015
 
 
+05.02.2015
 
 
 
