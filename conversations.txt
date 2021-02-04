@@ -2458,6 +2458,12 @@ es muss passiert sein=deve essere successo
 eindrucksvoll=beeindruckend=impressive
 
 
+sein= immer mit NOMINATIV
+95% der Verben brauchen AKKUSATIV
+mit dativ: folgen, danken
+mit genitiv nur ein Paar: wir gedenken heute des Tages...
+
+
 
 
 
