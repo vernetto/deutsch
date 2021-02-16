@@ -988,6 +988,57 @@ Anfällig=frail,unimmunized
 Laubbaum=Deciduous tree 
 
 02.04.2015
+Sauklaue=pig claw
+nimmermehr=nevermore
+gestalten=shape,form
+Leim=glue
+züchtigen=chastise, discipline
+Missbildung=malformation
+Veredler=refiner
+überfällig=overdue
+Genick=neck
+
+09.04.2015
+
+
+16.04.2015
+
+
+23.04.2015
+
+30.04.2015
+
+07.05.2015
+
+21.05.2015
+
+
+28.05.2015
+
+
+04.06.2015
+
+18.06.2015
+
+25.06.2015
+
+02.07.2015
+
+27.08.2015
+
+03.09.2015
+
+10.09.2015
+
+17.09.2015
+
+
+24.09.2015
+
+01.10.2015
+
+
+08.10.2015
 
 
 
