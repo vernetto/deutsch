@@ -2581,39 +2581,6 @@ Ursprünglich gehörte dieses Gebiet zu China, und die Urbevölkerung war Chines
 Wladiwostok erlebte einen riesigen Aufschwung, weil sein Hafen Hauptquartier der russischen Pazifikflotte wurde.
 Nach dem Zerfall der Sowjetunion sinkt die Bevölkerungszahl wegen der Wirtschaftskrise erheblich.
 
-
-Spring Data (Entities, JPA Queries)
-Data model (PowerDesigner)
-Spring MVC
-Unit & Integrations test (Mockito)
-Swagger, stubs
-SOAPUI 
-AppDynamics
-Performance enhancements
-Concurrency issues (static variables)
-Intellij Debugger
-Spring Integration
-Activiti BPM engine
-Active MQ 
-
-
-Pole Position - CH and India
-Swiss Client ID
-in USA, CSDA
-critical deadlines (June, October +)
-Internal APP, UBS traders 
-SMA 
-5x24
-
-Spring, Struts, Hibernate, SQL DB, Swing Fat Client, 20 years old app
-
-Gaps on Business Requirements
-5 experienced in CH
-Documentation in Confluence - explaining high level
-
-Tosca FW for Testing
-Functional Testing driven by Excel
-
 ==============
 
 Berufe
