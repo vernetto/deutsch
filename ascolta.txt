@@ -1,0 +1,877 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1020,
+    "dDurationMs": 7470,
+    "segs": [ {
+      "utf8": "[Musik] Die Männer bei ihnen verfolgen einen Fall aus"
+    } ]
+  }, {
+    "tStartMs": 8490,
+    "dDurationMs": 4229,
+    "segs": [ {
+      "utf8": " Alles von Fabio gibt es größer mit diesem Video, das ich mit dir kommentieren möchte"
+    } ]
+  }, {
+    "tStartMs": 12719,
+    "dDurationMs": 5371,
+    "segs": [ {
+      "utf8": " jüngste politische Wechselfälle, die die x-te Form betreffen würden"
+    } ]
+  }, {
+    "tStartMs": 18090,
+    "dDurationMs": 5849,
+    "segs": [ {
+      "utf8": " Unterdrückung einer Auferlegung, die uns durch ein Dekret erreicht"
+    } ]
+  }, {
+    "tStartMs": 23939,
+    "dDurationMs": 6920,
+    "segs": [ {
+      "utf8": " Gesetz, das mit der Unterschrift des Präsidenten des gewählten Rates zielen würde"
+    } ]
+  }, {
+    "tStartMs": 30859,
+    "dDurationMs": 6871,
+    "segs": [ {
+      "utf8": " Der derzeitige Mario Draghi soll erneut Bürger und Arbeiter treffen"
+    } ]
+  }, {
+    "tStartMs": 37730,
+    "dDurationMs": 5259,
+    "segs": [ {
+      "utf8": " Haushalte und nationale Unternehmen sprechen wir diesmal über a"
+    } ]
+  }, {
+    "tStartMs": 42989,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": " Das Gesetzesdekret kann sich nicht mehr an die Dekrete des Präsidenten erinnern"
+    } ]
+  }, {
+    "tStartMs": 48149,
+    "dDurationMs": 4951,
+    "segs": [ {
+      "utf8": " Der von Giuseppe unterzeichnete Ministerrat ist seitdem sehr umstritten"
+    } ]
+  }, {
+    "tStartMs": 53100,
+    "dDurationMs": 6270,
+    "segs": [ {
+      "utf8": " Sie wurden gelinde gesagt missbraucht, weil sie den Willen des Volkes umgingen"
+    } ]
+  }, {
+    "tStartMs": 59370,
+    "dDurationMs": 4169,
+    "segs": [ {
+      "utf8": " Nehmen wir an, die gesetzgebende Gewalt wurde nicht durch das Parlament zum Ausdruck gebracht"
+    } ]
+  }, {
+    "tStartMs": 63539,
+    "dDurationMs": 5221,
+    "segs": [ {
+      "utf8": " Denken Sie daran, jetzt gibt es das Gesetzesdekret, das dies sicherstellen sollte"
+    } ]
+  }, {
+    "tStartMs": 68760,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": " Eine größere Demokratie geht dann vom Rat und den Ministern über"
+    } ]
+  }, {
+    "tStartMs": 73500,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": " Das Parlament schaut sich leider das interne Vorsitzende-Team an, dann ai"
+    } ]
+  }, {
+    "tStartMs": 79680,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": " Gebäude, in denen die Demokratie mit aller Kraft verteidigt werden sollte"
+    } ]
+  }, {
+    "tStartMs": 85020,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": " Leider und es besteht die Befürchtung, dass dieses Gesetzesdekret dem sehr ähnlich ist"
+    } ]
+  }, {
+    "tStartMs": 91740,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": " Dekret des Präsidenten des Ministerrates daher an die dpcm daher wenig"
+    } ]
+  }, {
+    "tStartMs": 95790,
+    "dDurationMs": 4259,
+    "segs": [ {
+      "utf8": " Ändern Sie das Gesetz leider ist es ein Werkzeug, das zweiwertig ist, wenn Sie es aufsetzen"
+    } ]
+  }, {
+    "tStartMs": 100049,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": " bei einer mama in falschen händen könnte leider auch das gleiche gesetz gelten"
+    } ]
+  }, {
+    "tStartMs": 104759,
+    "dDurationMs": 6301,
+    "segs": [ {
+      "utf8": " mit einem Instrument des negativen Zwangs zum Nachteil der Gemeinschaft zu dienen"
+    } ]
+  }, {
+    "tStartMs": 111060,
+    "dDurationMs": 3589,
+    "segs": [ {
+      "utf8": " oder als Unterstützung zur Regulierung menschlicher Beziehungen und damit Gefälligkeiten"
+    } ]
+  }, {
+    "tStartMs": 114649,
+    "dDurationMs": 7150,
+    "segs": [ {
+      "utf8": " von der Verwendung und von denen, die die Macht haben, daher das Gesetz leider heute"
+    } ]
+  }, {
+    "tStartMs": 121799,
+    "dDurationMs": 5091,
+    "segs": [ {
+      "utf8": " es ist jetzt auch in Bezug auf nicht ausgewogen"
+    } ]
+  }, {
+    "tStartMs": 126890,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": " eine Harmonie in einer Vereinigung mit Gerechtigkeit, wo oben als Vorläufer"
+    } ]
+  }, {
+    "tStartMs": 131780,
+    "dDurationMs": 5070,
+    "segs": [ {
+      "utf8": " Es sollte eine Moralphilosophie existieren, um die Regierung mit den politischen Beziehungen in Einklang zu bringen"
+    } ]
+  }, {
+    "tStartMs": 136850,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": " wirtschaftlich und sozial ist daher eine Situation, in der wir wirklich sagen, eine"
+    } ]
+  }, {
+    "tStartMs": 141620,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": " Situation von Kaka sind wir leider nicht zu sagen, dass wir müssen"
+    } ]
+  }, {
+    "tStartMs": 144950,
+    "dDurationMs": 6630,
+    "segs": [ {
+      "utf8": " erkenne alles, weil ein Jahr nach dem dpcm vom 8. März 2020"
+    } ]
+  }, {
+    "tStartMs": 151580,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": " Bisher haben wir, obwohl in der Vergangenheit etwas mehr Vorsicht geboten war, untersucht, ob"
+    } ]
+  }, {
+    "tStartMs": 156110,
+    "dDurationMs": 5610,
+    "segs": [ {
+      "utf8": " analysiert sie erwartet und dass wir ein wenig verstehen müssen, um dieses Virus diese zu verstehen"
+    } ]
+  }, {
+    "tStartMs": 161720,
+    "dDurationMs": 5010,
+    "segs": [ {
+      "utf8": " Zählen Sie diese Todesfälle, diese Pandemie, dieses Massaker, was wirklich was gibt"
+    } ]
+  }, {
+    "tStartMs": 166730,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": " Farce etcetera nach einem Jahr stellen wir fest"
+    } ]
+  }, {
+    "tStartMs": 169610,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": " als auf diese Weise mit dieser Beharrlichkeit weiter durchzuhalten"
+    } ]
+  }, {
+    "tStartMs": 174200,
+    "dDurationMs": 5310,
+    "segs": [ {
+      "utf8": " therapeutisch einer Massenimpfung trotz auch der Risiken und Gefahren, die"
+    } ]
+  }, {
+    "tStartMs": 179510,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": " Zum Beispiel wurden sie aus Losen geboren, die ebenfalls nur nachträglich zum Nachteil zurückgezogen wurden"
+    } ]
+  }, {
+    "tStartMs": 184130,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": " trat seit den Losen des Gens astra zum Beispiel in Sizilien auf 20.000 auf"
+    } ]
+  }, {
+    "tStartMs": 188720,
+    "dDurationMs": 5489,
+    "segs": [ {
+      "utf8": " 18 Tausend Impfstoffe wurden verabreicht, wobei 8 2000 zurückgezogen wurden, aber es gibt"
+    } ]
+  }, {
+    "tStartMs": 194209,
+    "dDurationMs": 6090,
+    "segs": [ {
+      "utf8": " jetzt 18 Tausend Menschen, die irgendwie untersucht und behandelt werden müssen und auch"
+    } ]
+  }, {
+    "tStartMs": 200299,
+    "dDurationMs": 4771,
+    "segs": [ {
+      "utf8": " Es wird im Laufe der Zeit überwacht, weil sie eine Thrombose riskieren oder wer weiß was"
+    } ]
+  }, {
+    "tStartMs": 205070,
+    "dDurationMs": 5370,
+    "segs": [ {
+      "utf8": " Nebenwirkungen von vielen, die nicht sicher waren, ob Sie gut verstehen, dass wir eins sind"
+    } ]
+  }, {
+    "tStartMs": 210440,
+    "dDurationMs": 5549,
+    "segs": [ {
+      "utf8": " wirklich kritische Situation wirklich kritisch und die hohen Gesundheitsbehörden dort"
+    } ]
+  }, {
+    "tStartMs": 215989,
+    "dDurationMs": 5791,
+    "segs": [ {
+      "utf8": " Informieren Sie, dass wir dies nicht tun werden, selbst wenn wir jemals eine Weltbevölkerung impfen müssen"
+    } ]
+  }, {
+    "tStartMs": 221780,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": " Wir wären in der Lage, dieses Virus auszurotten. Uns wurde gesagt, dass dieses Virus mit"
+    } ]
+  }, {
+    "tStartMs": 225650,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": " Die beigefügte Variante ist auch schwierig, sich an einen Impfstoff zu halten, der sein muss"
+    } ]
+  }, {
+    "tStartMs": 230060,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": " Gezielte tote Tatsachen sagten, aber ein sich änderndes Grippevirus ist ein Becken mit"
+    } ]
+  }, {
+    "tStartMs": 235940,
+    "dDurationMs": 3019,
+    "segs": [ {
+      "utf8": " einfach zu organisieren und so weiter"
+    } ]
+  }, {
+    "tStartMs": 238959,
+    "dDurationMs": 3831,
+    "segs": [ {
+      "utf8": " Deshalb leben wir mit diesem Briantean-Virus"
+    } ]
+  }, {
+    "tStartMs": 242790,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": " und wenn für viele Jahre dann, wenn wir mit diesem Drücken und Ziehen spielen müssen"
+    } ]
+  }, {
+    "tStartMs": 246780,
+    "dDurationMs": 6810,
+    "segs": [ {
+      "utf8": " gelb rot bräunlich orange Spritz so weiter verbreitet"
+    } ]
+  }, {
+    "tStartMs": 253590,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": " Verstehe gut, dass wir in einer wirklich schlechten Verfassung sind, weil wir es nicht können"
+    } ]
+  }, {
+    "tStartMs": 258630,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": " Das heißt, wir werden früher sterben, wenn wir mit diesem Drücken und Ziehen spielen"
+    } ]
+  }, {
+    "tStartMs": 262620,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": " bis wir das Virus ausrotten können"
+    } ]
+  }, {
+    "tStartMs": 265620,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": " Verstehe hier gut, dass du nicht einmal einen Abschluss in Medizin oder ein Kleid dafür brauchst"
+    } ]
+  }, {
+    "tStartMs": 269520,
+    "dDurationMs": 6329,
+    "segs": [ {
+      "utf8": " Verstehe, was rational rational ist, durch eine minimale Bettfärbung"
+    } ]
+  }, {
+    "tStartMs": 275849,
+    "dDurationMs": 4591,
+    "segs": [ {
+      "utf8": " in Bewegung und kritisches Denken, also welches Spiel spielen wir?"
+    } ]
+  }, {
+    "tStartMs": 280440,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": " hier gibt es einen angriff auf die volkswirtschaft, der nicht nur in der gewählt wird"
+    } ]
+  }, {
+    "tStartMs": 286500,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": " Grundrechte, die auch mit der Arbeit verbunden sind Die Fingerarbeit wird sanktioniert"
+    } ]
+  }, {
+    "tStartMs": 290490,
+    "dDurationMs": 5489,
+    "segs": [ {
+      "utf8": " aus der Verfassung nicht aus einer Laune heraus, sondern weil es dazu dient, aufzubauen und zu"
+    } ]
+  }, {
+    "tStartMs": 295979,
+    "dDurationMs": 6511,
+    "segs": [ {
+      "utf8": " Halten Sie eine Nation ohne Arbeit am Leben. Wir sind tot, weil die"
+    } ]
+  }, {
+    "tStartMs": 302490,
+    "dDurationMs": 5399,
+    "segs": [ {
+      "utf8": " Der öffentliche Scheunengrill ist nicht unendlich, wenn es keine Arbeit gibt, wenn Sie uns das vorenthalten"
+    } ]
+  }, {
+    "tStartMs": 307889,
+    "dDurationMs": 7500,
+    "segs": [ {
+      "utf8": " Arbeit schaffen wir keinen Wert und riskieren folglich, a"
+    } ]
+  }, {
+    "tStartMs": 315389,
+    "dDurationMs": 6181,
+    "segs": [ {
+      "utf8": " Mazza-Leute, aber international zu dem Ruf, nicht in der Lage zu sein, eine ganze Nation zu ernähren"
+    } ]
+  }, {
+    "tStartMs": 321570,
+    "dDurationMs": 6290,
+    "segs": [ {
+      "utf8": " Mit anderen Worten, weil wir kein Produkt mehr haben, handeln wir ein Risiko"
+    } ]
+  }, {
+    "tStartMs": 327860,
+    "dDurationMs": 7299,
+    "segs": [ {
+      "utf8": " unsicher von 0,2 Prozent der Letalität bei früheren Pathologien mit Protokollen"
+    } ]
+  }, {
+    "tStartMs": 335159,
+    "dDurationMs": 4531,
+    "segs": [ {
+      "utf8": " fehlerhafte anhänge dies sind die daten des höheren gesundheitsinstituts für a"
+    } ]
+  }, {
+    "tStartMs": 339690,
+    "dDurationMs": 6270,
+    "segs": [ {
+      "utf8": " Risiko Diese Letalität des Virus verbirgt 19 für ein bestimmtes Risiko, das eins ist"
+    } ]
+  }, {
+    "tStartMs": 345960,
+    "dDurationMs": 5579,
+    "segs": [ {
+      "utf8": " Massaker, die aus dem Tod einer Volkswirtschaft eines Systems resultieren werden"
+    } ]
+  }, {
+    "tStartMs": 351539,
+    "dDurationMs": 3361,
+    "segs": [ {
+      "utf8": " sozial, wenn wir den Job behalten und blockieren"
+    } ]
+  }, {
+    "tStartMs": 354900,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": " Alles, was wir nicht einmal tun, um Mario zu unterstützen"
+    } ]
+  }, {
+    "tStartMs": 359310,
+    "dDurationMs": 5790,
+    "segs": [ {
+      "utf8": " selbst bei finanziellen Verpflichtungen war alles, was ein Geschäftssystem war, e"
+    } ]
+  }, {
+    "tStartMs": 365100,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": " von Familien, die wir eine Nation töten, ist eine"
+    } ]
+  }, {
+    "tStartMs": 368970,
+    "dDurationMs": 4169,
+    "segs": [ {
+      "utf8": " 100% sicheres Risiko Dies ist nicht die einhundert Nebenwirkungen"
+    } ]
+  }, {
+    "tStartMs": 373139,
+    "dDurationMs": 6271,
+    "segs": [ {
+      "utf8": " Prozent hier müssen wir begründen, warum wir alle eine tragen"
+    } ]
+  }, {
+    "tStartMs": 379410,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": " Zunahme der Armut eine Zunahme der Arbeitslosigkeit des Hungers daher von"
+    } ]
+  }, {
+    "tStartMs": 383370,
+    "dDurationMs": 6299,
+    "segs": [ {
+      "utf8": " daher Tod der Morde an seiner CD der organisierten Mikrokriminalität von"
+    } ]
+  }, {
+    "tStartMs": 389669,
+    "dDurationMs": 6241,
+    "segs": [ {
+      "utf8": " physische und psychische Schäden an armen Kindern, die leider verboten sind"
+    } ]
+  }, {
+    "tStartMs": 395910,
+    "dDurationMs": 5750,
+    "segs": [ {
+      "utf8": " in ihrem Arbeitsalter des Spiels, weil sie nicht können, weil es einen Virus gibt und deshalb"
+    } ]
+  }, {
+    "tStartMs": 401660,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": " Sie müssen zu Hause aufwachen und geknebelt können dann nicht auf der Schaukel spielen"
+    } ]
+  }, {
+    "tStartMs": 406740,
+    "dDurationMs": 4769,
+    "segs": [ {
+      "utf8": " der organisierten Makrokriminalität, warum täuschen wir uns hier nicht a"
+    } ]
+  }, {
+    "tStartMs": 411509,
+    "dDurationMs": 3331,
+    "segs": [ {
+      "utf8": " Minimum an Intellekt in Bewegung mit kritischem Denken"
+    } ]
+  }, {
+    "tStartMs": 414840,
+    "dDurationMs": 4799,
+    "segs": [ {
+      "utf8": " Wenn es in einem Moment der Krise nicht für alle eine Krise ist, nehmen wir doch nicht die Pisse"
+    } ]
+  }, {
+    "tStartMs": 419639,
+    "dDurationMs": 4381,
+    "segs": [ {
+      "utf8": " dieser Reichtum, der in die Hände einer Aristokratie übertragen wird und ich"
+    } ]
+  }, {
+    "tStartMs": 424020,
+    "dDurationMs": 5459,
+    "segs": [ {
+      "utf8": " Plutokraten des Patriziers und so weiter müssen höchstwahrscheinlich zu a führen"
+    } ]
+  }, {
+    "tStartMs": 429479,
+    "dDurationMs": 5581,
+    "segs": [ {
+      "utf8": " aktualisierte Zweifel, dass diese Nische profitieren und spekulieren wird"
+    } ]
+  }, {
+    "tStartMs": 435060,
+    "dDurationMs": 5609,
+    "segs": [ {
+      "utf8": " Dies ist ein Krisenzustand, in dem die Krise nicht jedermanns Sache ist und sich daher entwickelt"
+    } ]
+  }, {
+    "tStartMs": 440669,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": " auch eine Form von Betrug und Plünderung von sozialer Entbehrung, wo"
+    } ]
+  }, {
+    "tStartMs": 445199,
+    "dDurationMs": 4201,
+    "segs": [ {
+      "utf8": " Der große Teil der Bevölkerung verliert zum Vorteil anderer"
+    } ]
+  }, {
+    "tStartMs": 449400,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": " Wir haben bereits Spekulationen mit den Masken gesehen, an die Sie denken"
+    } ]
+  }, {
+    "tStartMs": 453570,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": " Die Masken, die du denkst, wenn mit den Impfstoffen endlich alles"
+    } ]
+  }, {
+    "tStartMs": 458340,
+    "dDurationMs": 4139,
+    "segs": [ {
+      "utf8": " Aus einer zentralen Kontrolle des Angebots folgt, dass"
+    } ]
+  }, {
+    "tStartMs": 462479,
+    "dDurationMs": 4591,
+    "segs": [ {
+      "utf8": " dann verwaltet langsam die Frage, die Sie die großen verstehen"
+    } ]
+  }, {
+    "tStartMs": 467070,
+    "dDurationMs": 6990,
+    "segs": [ {
+      "utf8": " multinationale Unternehmen oder solche großen Widerstandsunternehmen, die zwar Mincio sind"
+    } ]
+  }, {
+    "tStartMs": 474060,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": " Teilweise in diesem Moment der Krise zu verlieren, wird das Einkommen morgen haben"
+    } ]
+  }, {
+    "tStartMs": 481580,
+    "dDurationMs": 4950,
+    "segs": [ {
+      "utf8": " Sie werden die Macht haben, die Nachfrage zu beeinflussen, weil es ein Angebot sein wird"
+    } ]
+  }, {
+    "tStartMs": 486530,
+    "dDurationMs": 5639,
+    "segs": [ {
+      "utf8": " kontrolliert in Form von Oligopolen also was in der Wirtschaftsakademie von"
+    } ]
+  }, {
+    "tStartMs": 492169,
+    "dDurationMs": 3361,
+    "segs": [ {
+      "utf8": " Studie als Marktversagen, seit wir uns davon entfernt haben"
+    } ]
+  }, {
+    "tStartMs": 495530,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": " sogenannter idealer perfekter Wettbewerb dies ist leider der Markt das ist der"
+    } ]
+  }, {
+    "tStartMs": 500150,
+    "dDurationMs": 4370,
+    "segs": [ {
+      "utf8": " staatliches Marktsystem, das über dem Staat aufhörte"
+    } ]
+  }, {
+    "tStartMs": 504520,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": " Institution, die stattdessen gehen, um den Markt zu regulieren"
+    } ]
+  }, {
+    "tStartMs": 508520,
+    "dDurationMs": 5519,
+    "segs": [ {
+      "utf8": " Dies ist das Modell und das Spiel, weil wir auch an a zweifeln müssen"
+    } ]
+  }, {
+    "tStartMs": 514039,
+    "dDurationMs": 4201,
+    "segs": [ {
+      "utf8": " daher ein System, in dem eine Form der Spekulation auch unter Kontrolle stattfindet"
+    } ]
+  }, {
+    "tStartMs": 518240,
+    "dDurationMs": 4169,
+    "segs": [ {
+      "utf8": " im Informationsmarkt des Wissens, denn wenn wir gehen und schauen"
+    } ]
+  }, {
+    "tStartMs": 522409,
+    "dDurationMs": 5071,
+    "segs": [ {
+      "utf8": " Zu der Geschichte gab es schon vor der Co-Führung eine Welt, die auf dem Terror von basiert"
+    } ]
+  }, {
+    "tStartMs": 527480,
+    "dDurationMs": 4109,
+    "segs": [ {
+      "utf8": " Medienterrorismus von Manipulationen und so weiter"
+    } ]
+  }, {
+    "tStartMs": 531589,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": " Dann denken Sie, Sie gehen. Wir haben alle ein Smartphone. Wir haben alle einen Computer"
+    } ]
+  }, {
+    "tStartMs": 537589,
+    "dDurationMs": 4591,
+    "segs": [ {
+      "utf8": " fest tragbar würde es ausreichen, überall zu schreiben"
+    } ]
+  }, {
+    "tStartMs": 542180,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": " viel auf der Suche nach Spannungsstrategie"
+    } ]
+  }, {
+    "tStartMs": 544880,
+    "dDurationMs": 5850,
+    "segs": [ {
+      "utf8": " Wir schreiben hier eine Strategie der Terrorstrategie der Spannung usw."
+    } ]
+  }, {
+    "tStartMs": 550730,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": " Es gibt keinen Populismus. Es gibt keine Verschwörung. Andere auf Wikipedia finden Sie hier"
+    } ]
+  }, {
+    "tStartMs": 557690,
+    "dDurationMs": 3269,
+    "segs": [ {
+      "utf8": " schnelle Kultur hier finden Sie die Informationen, aber wie auch immer es da ist"
+    } ]
+  }, {
+    "tStartMs": 560959,
+    "dDurationMs": 5611,
+    "segs": [ {
+      "utf8": " auch von den ms quellen findest du auf dem treccani daher das wörterbuch der geschichte"
+    } ]
+  }, {
+    "tStartMs": 566570,
+    "dDurationMs": 5610,
+    "segs": [ {
+      "utf8": " von der Tour der Spannung, die praktisch zu etwas Terror schmeckt und die"
+    } ]
+  }, {
+    "tStartMs": 572180,
+    "dDurationMs": 5159,
+    "segs": [ {
+      "utf8": " Jahre des Blei-Terrorismus in Italien werden leider bereits unterstützt"
+    } ]
+  }, {
+    "tStartMs": 577339,
+    "dDurationMs": 4291,
+    "segs": [ {
+      "utf8": " Noch vor der Kopie muss der Terror der Angst benutzt werden"
+    } ]
+  }, {
+    "tStartMs": 581630,
+    "dDurationMs": 5370,
+    "segs": [ {
+      "utf8": " induzieren ein Thema schlimmer noch eine Masse schlimmer noch eine Bevölkerung"
+    } ]
+  }, {
+    "tStartMs": 587000,
+    "dDurationMs": 7920,
+    "segs": [ {
+      "utf8": " ganz, um bestimmte Entscheidungen zu akzeptieren, zum Beispiel auch unpopuläre e"
+    } ]
+  }, {
+    "tStartMs": 594920,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": " daher durch eine Induktion der Angst selbst"
+    } ]
+  }, {
+    "tStartMs": 598100,
+    "dDurationMs": 5429,
+    "segs": [ {
+      "utf8": " daher die Strukturreformen von Zwangsformen durch Angst"
+    } ]
+  }, {
+    "tStartMs": 603529,
+    "dDurationMs": 5441,
+    "segs": [ {
+      "utf8": " denn ohne die Angst und den Terror verlieren Sie wahrscheinlich sogar Ihr Leben"
+    } ]
+  }, {
+    "tStartMs": 608970,
+    "dDurationMs": 5070,
+    "segs": [ {
+      "utf8": " Sicherlich ist die Masse auch in einer psychologischen Studie wissenschaftlich belegt"
+    } ]
+  }, {
+    "tStartMs": 614040,
+    "dDurationMs": 6780,
+    "segs": [ {
+      "utf8": " er hätte stattdessen nicht mit dem kontinuierlichen und konstanten Hammer von einem akzeptiert"
+    } ]
+  }, {
+    "tStartMs": 620820,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": " Angst vor existenzieller Entbehrung hier akzeptiert dann die Masse Ausgangssperre e"
+    } ]
+  }, {
+    "tStartMs": 626700,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": " Akzeptiere all diese Entscheidungen, die sie vom Absurden haben"
+    } ]
+  }, {
+    "tStartMs": 629610,
+    "dDurationMs": 6750,
+    "segs": [ {
+      "utf8": " Ich brauche einfach ein Minimum an kritischem Denken, um darüber nachzudenken"
+    } ]
+  }, {
+    "tStartMs": 636360,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": " Was passiert Ich wiederhole, es gibt keine Begründung a"
+    } ]
+  }, {
+    "tStartMs": 639990,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": " wissenschaftliche und rechtliche Grundlage von oben auf dem ganzen Chip"
+    } ]
+  }, {
+    "tStartMs": 645450,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": " der richter der voruntersuchungen des gerichts von reggio emilia hat"
+    } ]
+  }, {
+    "tStartMs": 649130,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": " erklärte in einem Urteil nur, dass es unzulässig ist dpcm unrechtmäßig unter für"
+    } ]
+  }, {
+    "tStartMs": 655290,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": " Was ist die Substanz, die das heißt, die grundlegenden Erlasse, dass die Verfassung"
+    } ]
+  }, {
+    "tStartMs": 660150,
+    "dDurationMs": 6780,
+    "segs": [ {
+      "utf8": " Italienische Konserven gibt es auch in diesen Notphasen jemanden, der das könnte"
+    } ]
+  }, {
+    "tStartMs": 666930,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": " denke nein, aber es gibt einen Notfall, in den wir auch auf diese Weise eingreifen sollten"
+    } ]
+  }, {
+    "tStartMs": 671400,
+    "dDurationMs": 5670,
+    "segs": [ {
+      "utf8": " gerechtfertigt diese Manöver es ist nicht gerechtfertigt zu verarmen wird das tun bringen"
+    } ]
+  }, {
+    "tStartMs": 677070,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": " ein Volk, das Sie verstehen wollen oder nicht, dass dies ein Spiel und eine Demagogie ist"
+    } ]
+  }, {
+    "tStartMs": 683150,
+    "dDurationMs": 6130,
+    "segs": [ {
+      "utf8": " absoluter Mord, den leider viele Menschen heute wahrscheinlich nicht fangen"
+    } ]
+  }, {
+    "tStartMs": 689280,
+    "dDurationMs": 5850,
+    "segs": [ {
+      "utf8": " weil sie aber Angst haben vor diesem ständigen terroristischen Hämmern"
+    } ]
+  }, {
+    "tStartMs": 695130,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": " dass sie eines Tages vielleicht verstehen werden, wenn sie erwacht sind, ist wahrscheinlich"
+    } ]
+  }, {
+    "tStartMs": 700290,
+    "dDurationMs": 7530,
+    "segs": [ {
+      "utf8": " Es wird zu spät sein. Lassen Sie uns dieses Rad zuerst anhalten, bevor wir dieses Rennen fortsetzen"
+    } ]
+  }, {
+    "tStartMs": 707820,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": " Lassen Sie die Leute vor dem Zuschlagen verstehen, warum wir in ernsthafter Gefahr sind"
+    } ]
+  }, {
+    "tStartMs": 712290,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": " Ich sage mit meinem Herzen in der Hand und lasse den Nachbarn es verstehen"
+    } ]
+  }, {
+    "tStartMs": 716160,
+    "dDurationMs": 5710,
+    "segs": [ {
+      "utf8": " Machen Sie es für alle freien und souveränen Männer verständlich. Es reicht aus, Sklaven zu sein"
+    } ]
+  }, {
+    "tStartMs": 721870,
+    "dDurationMs": 4830,
+    "segs": [ {
+      "utf8": " aber wir müssen damit aufhören, wir müssen verstehen, wer unser innerer Feind ist"
+    } ]
+  }, {
+    "tStartMs": 726700,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": " Für die Nation müssen wir verstehen, woher das Virus stammt"
+    } ]
+  }, {
+    "tStartMs": 730300,
+    "dDurationMs": 4850,
+    "segs": [ {
+      "utf8": " alles zusammen klar ausrotten"
+    } ]
+  }, {
+    "tStartMs": 735740,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": " [Musik]"
+    } ]
+  } ]
+}

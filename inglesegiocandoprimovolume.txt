@@ -1,86 +1,131 @@
 001
 
-Wohin alle diese Leute gehen?
-die Kirche, zur Kirche
-der Fisch, zum Fischmarkt
-das Gefängnis, ins Gefängnis
-das Tennis, zum Tennisplatz
-die Schule, zur Schule
-Heute ist Freitag (der)
-Nach Fluss (der), zum Fluss
+Wohin alle diese Leute gehen? куда идут все эти люди? Kuda idut vse eti lyudi
+тюрьма tyur'ma das Gefängnis, ins Gefängnis
+рыбы (ryby) der Fisch, zum Fischmarkt
+большой теннис  das Tennis, zum Tennisplatz
+церковь tserkov' die Kirche, zur Kirche
+школа die Schule, zur Schule
+Сегодня пятница Sevodnya pyatnitsa Heute ist Freitag (der)
+река, к реке Nach Fluss (der), zum Fluss
 
 
 002
 
-Eins, nummer Eins (die Nummer)
-Tag nummer Eins
-Der erste Tag des Jahres (der Tag)
-Der Erste von Januar
-Alte Jahr, Neue Jahr
-Der Alte Jahr ist Vorbei
-Frohes neues Jahr
-Frohes neues Jahr zu dir
-Frohes neues Jahr zu allerseits
-Dir auch ein Frohes neues Jahr
+один, номер один Eins, nummer Eins (die Nummer)
+День номер один Tag nummer Eins
+Первый день года Der erste Tag des Jahres (der Tag)
+Номер один день нового года. Tag nummer eins des neuen Jahres. 
+Primo di gennaio. Первое января. Erster Januar.
+il Primo di gennaio è il primo giorno dell'anno 1 января - первый день года Der 1. Januar ist der erste Tag des Jahres
+Anno vecchio, anno nuovo Старый год, новый год Alte Jahr, Neue Jahr
+l'anno vecchio è finito Старый год закончился Der Alte Jahr ist Vorbei
+Addio anno vecchio Прощай, старый год Auf Wiedersehen altes Jahr
+l'anno nuovo comincia новый год начинается Das neue Jahr beginnt
+benvenuto anno nuovo добро пожаловать в новый год Willkommen im neuen Jahr
+Buon anno С новым годом Frohes neues Jahr
+Buon anno a te, papà С Новым годом тебя, папа Frohes Neues Jahr, Papa
+Счастливого тебе нового года  Frohes neues Jahr zu dir
+Buon anno a tutti Всем счастливого Нового года Frohes neues Jahr an alle
+Тебя тоже с новым годом Dir auch ein Frohes neues Jahr
 
 003
 
-Tag nummer eins - der erste Tag des Jahres
-Herzlich willkommen, neues Jahr!
-Auf Wiedersehen, neues Jahr
-
-Frohes neues Jahr zu dir
+День номер один - первый день года Tag nummer eins - der erste Tag des Jahres
+Добро пожаловать, новый год! Herzlich willkommen, neues Jahr!
+До свидания Старый год Auf Wiedersehen, altes Jahr 
+Счастливого тебе нового года Frohes neues Jahr zu dir
 
 004
-Zwei, nummer zwei, 
-der zweite Januar
-Gino lernt Englisch mit Fräulein Kinn
-Ich bin Fräulein Kinn
-Gino, hör mal
-Ein Auge, zwei Augen
-Einem Ohr, zwei Ohren
-Eine Hand, zwei Hände
-Ein Bein, zwei Beine
-Einen Schuh, zwei Schuhe
-
+Due , numero due Два, номер два Zwei, nummer zwei
+Due gennaio второе января der zweite Januar
+Gino impara l'inglese con la signorina Kinn Джино изучает английский с Скучать Кинн Gino lernt Englisch mit Fräulein Kinn
+Я мисс Чин Ich bin Fräulein Kinn
+Джино, послушай Gino, hör mal
+Un occhio, due occhi, tu hai due occhi Один глаз, два глаза, у тебя два глаза Ein Auge (das), zwei Augen
+Одно ухо, два уха Einem Ohr (das), zwei Ohren
+Одна рука, две руки Eine Hand (die), zwei Hände
+Одна нога, две ноги Ein Bein (das), zwei Beine
+Один ботинок, два ботинка Einen Schuh (der), zwei Schuhe
+Naturalmente ho due gambe Конечно у меня две ноги Natürlich habe ich zwei Beine
+No signorina Kinn, se non le dispiace! Io ho solo una scarpa. Non riesco a trovare l'altra. Нет, мисс Кинн, если вы не против! У меня только одна туфля. Другого не найду. Nein, Miss Kinn, wenn es Ihnen nichts ausmacht! Ich habe nur einen Schuh. Ich kann den anderen nicht finden.
+Potete aiutare Gino a trovare l'altra scarpa? Можете (can) ли вы помочь (help) Джино найти (find) вторую обувь? Kannst du Gino helfen, den anderen Schuh zu finden?
+Egli l'ha perduta Он потерял (терять lose) это Er hat es verloren
 
 006
-Öffnen, schliessen
-Offen, geschlossen
-Aufmachen, zumachen
-das ist gleich
-wieder (nochmal) öffnen
+три, номер три drei, nummer drei 
+третье января der dritte Januar
+это дверь das ist eine Tür 
+Открой дверь! öffne die Tür! 
+закрой дверь! schließe die Tür! 
+aprila di nuovo, per piacere ! откройте его снова, пожалуйста! 
+Com'è la porta ora, aperta o chiusa ? Как дверь теперь открыта или закрыта?
+La porta è aperta. è aperta. Дверь открыта. Открыто.
+Questa è una finestra. Это окно.
+Com'è, aperta o chiusa? Как он открыт или закрыт?
+è chiusa. закрыто.
+Apri la finestra! Открой окно!
+Chiudi la finestra! Закройте окно!
+non capisco. Я не понимаю.
+sono la stessa cosa. они одно и то же. Sie sind ein und dasselbe.
+Capisci ora? Теперь (now) ты понимаешь?
+Allora, chiudi la finestra, per piacere. Так что закройте окно, пожалуйста.
+Per piacere, aprila di nuovo. Пожалуйста, откройте его снова.
+Com'è la finestra ora? Как сейчас окно?
+è aperta . Открыто .
 
 008
-Was für eine Schande
-Schade
-Pech
-der Zug fährt ab
-der Zug ist abgefahren
-gib mir den Ballon
-es ist weg
+Quattro, numero quattro.Четыре, номер четыре. 
+Il quattro gennaio. четвертое января  vierter januar 
+Immagine numero uno. Bild Nummer eins. Картинка номер один. 
+Che peccato ! Was für eine Schande / Schade / Pech  Какая жалость!
+der Zug fährt ab поезд отправляется
+der Zug ist abgefahren поезд ушел
+gib mir den Ballon дай мне воздушный шар
+no, dallo a me Нет, дай мне Nein, gib es mir
+e' scappato это ушло es ist weg 
+was für eine Schande ! какой позор! как жаль !
 
 010
-Fünfte
-Er ist Marys einziger Bruder
-Junge , Mädchen
-Sprechend
+Cinque, numero cinque Пять, номер пять
+Cinque di gennaio, il quinto giorno dell'anno Пятерка января, пятый день года
+Mike è un ragazzo. Mike è il fratello di Mary. è l'unico fratello di Mary.
+Майк мальчик. Майк - брат Мэри. он единственный брат Мэри.
+Mary è una ragazza, una bambina. Mary é la sorella di MIke. è l'unica sorella di Mike. Мэри девочка, ребенок. Мэри - сестра Майка. она единственная сестра Майка.
+Questo è Mike che parla. Это Майк говорит.
+Ciao, Mary! Привет Мэри!
+Questa è una storiella su Mike e Mary  Это шутка про Майка и Мэри
+Hey, Mike, dimmi, hai una sorella ?  Эй, Майк, скажи мне, у тебя есть сестра?
+Si, certo, ho una sorella. Ho una sola sorella: te!  Да, конечно, у меня есть сестра. У меня только одна сестра: ты!
+tu hai una sorella e io no. у тебя есть сестра, а у меня нет.
+ma tu hai un fratello: me ! но у тебя есть брат: я!
+non è lo stesso. Io voglio una sorella. это не одно и то же. Я хочу сестру.
+Idea! Идея!
+Guarda Mary! Hai una sorella ora! Посмотри на Мэри! Теперь у тебя есть сестра! Schau dir Mary an! Jetzt hast du eine Schwester!
+Che? Una sorella? Tu sei mia sorella? Oh, sei tu, Mike! Ora ho una sorella, ma non ho piu' un fratello. Что? Сестра? Ты моя сестра? О, это ты, Майк! Теперь у меня есть сестра, но у меня больше нет брата.
+
 
 
 012
-sechste
-Dreikönigsfest
-Es regnet Spielzeug
-Jedes Spielzeug hat Ein Etikett
-Puppe
-Teddybär
-Kreisel
-eine für dich, für mich ein
-Spielzeugauto 
-Malkasten
-Schachtel Bleistifte
-der Mond
-
+Sei, numero sei. il Sei di gennaio.  Шесть, номер шесть. шестого января.
+il Sei di gennaio, Epifania. Che bel giorno ! Шестого января, Крещение. Какой прекрасный день!
+E che bella notte. И какая прекрасная ночь.
+è una notte magica. это волшебная ночь.
+Guarda, piovono giocattoli. Смотри, идет дождь игрушек. Schau, es regnet Spielzeug.
+Ogni giocattolo ha un'etichetta У каждой игрушки есть этикетка Jedes Spielzeug hat Ein Etikett
+il numero uno è un trenino номер один - маленький поезд
+il numero due è una bambola. per te. номер два - кукла. для тебя. 
+il numero tre è una palla. per me. номер три - мяч. для меня.
+il numero quattro è un orsacchiotto. per te. номер четыре - плюшевый мишка. для тебя.
+il numero cinque sono due trottole. una per me e una per te. номер пять - это два спина. один для меня и один для вас.
+il numero sei è una automobilina. per me. номер шесть - игрушечная машинка. для меня.
+il numero sette è una scatola di colori. per te.  число семь - это коробка цветов. для тебя. 
+il numero otto è una scatola di matite. per te. номер восемь - это коробка с карандашами. для тебя. 
+il numero nove è номер девять
+io non sono un giocattolo, bambini, prego! Я не игрушка, дети, пожалуйста!
+Io sono la Luna! Я Луна!
+E niente cartellino per me, per favore! И никаких тегов для меня, пожалуйста!
+Non è un giocattolo.. è la Luna! Это не игрушка .. это Луна!
 
 014
 siebte
