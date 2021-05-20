@@ -1,6 +1,6 @@
 001
 
-Wohin alle diese Leute gehen? куда идут все эти люди? Kuda idut vse eti lyudi
+куда идут все эти люди? Kuda idut vse eti lyudi Wohin alle diese Leute gehen? 
 тюрьма tyur'ma das Gefängnis, ins Gefängnis
 рыбы (ryby) der Fisch, zum Fischmarkt
 большой теннис  das Tennis, zum Tennisplatz
@@ -9,6 +9,15 @@ Wohin alle diese Leute gehen? куда идут все эти люди? Kuda idu
 Сегодня пятница Sevodnya pyatnitsa Heute ist Freitag (der)
 река, к реке Nach Fluss (der), zum Fluss
 
+понедельник Montag
+вторник Dienstag
+среда Mittwoch
+Четверг Donnerstag 
+Пятница Freitag 
+Суббота Samstag 
+Воскресенье Sontag 
+
+понедельник вторник среда Четверг Пятница Суббота Воскресенье 
 
 002
 
@@ -39,7 +48,7 @@ Buon anno a tutti Всем счастливого Нового года Frohes n
 004
 Due , numero due Два, номер два Zwei, nummer zwei
 Due gennaio второе января der zweite Januar
-Gino impara l'inglese con la signorina Kinn Джино изучает английский с Скучать Кинн Gino lernt Englisch mit Fräulein Kinn
+Gino impara l'inglese con la signorina Kinn Джино изучает английский с мисс Кинн Gino lernt Englisch mit Fräulein Kinn
 Я мисс Чин Ich bin Fräulein Kinn
 Джино, послушай Gino, hör mal
 Un occhio, due occhi, tu hai due occhi Один глаз, два глаза, у тебя два глаза Ein Auge (das), zwei Augen
@@ -49,8 +58,8 @@ Un occhio, due occhi, tu hai due occhi Один глаз, два глаза, у 
 Один ботинок, два ботинка Einen Schuh (der), zwei Schuhe
 Naturalmente ho due gambe Конечно у меня две ноги Natürlich habe ich zwei Beine
 No signorina Kinn, se non le dispiace! Io ho solo una scarpa. Non riesco a trovare l'altra. Нет, мисс Кинн, если вы не против! У меня только одна туфля. Другого не найду. Nein, Miss Kinn, wenn es Ihnen nichts ausmacht! Ich habe nur einen Schuh. Ich kann den anderen nicht finden.
-Potete aiutare Gino a trovare l'altra scarpa? Можете (can) ли вы помочь (help) Джино найти (find) вторую обувь? Kannst du Gino helfen, den anderen Schuh zu finden?
-Egli l'ha perduta Он потерял (терять lose) это Er hat es verloren
+Potete aiutare Gino a trovare l'altra scarpa? Можете ли вы помочь Джино найти вторую обувь? Kannst du Gino helfen, den anderen Schuh zu finden?
+Egli l'ha perduta Он потерял это Er hat es verloren
 
 006
 три, номер три drei, nummer drei 
@@ -128,202 +137,342 @@ E niente cartellino per me, per favore! И никаких тегов для ме
 Non è un giocattolo.. è la Luna! Это не игрушка .. это Луна!
 
 014
-siebte
-Schnalle meine Schuhe
-Schließe die Tür
-abholen Stöcken
-legen sie gerade
-ein gute Fetthenne
+number seven  номер семь
+the seventh day of the year седьмой день года
+one two buckle my shoe один два застегните мою обувь
+three four shut the door три четыре закрыли дверь
+five six pick up sticks пять шесть подбирать палки
+seven eight lay them straight семь восемь уложить их прямо 
+nine ten a good fat hen девять десять хорошая жирная курица
+
 
 015
-das Buch
-der Spiegel
-das Boot 
-die Kinder (das Kind)
-die Bäume (der Baum)
-die Häuser (das Haus)
+Книга das Buch
+зеркало der Spiegel
+лодка das Boot 
+дети, ребенок die Kinder (das Kind)
+деревья die Bäume (der Baum)
+дома die Häuser (das Haus)
 
 016
-die Puppe
-das Auto
-der Zug
-der Spiegel
-das Auge
-die Boote
-das Haus
-der Ballon
-die Ballone
-die Bäume
-das Buch
-die Fähne
+кукла die Puppe
+автомобиль das Auto
+поезд der Zug
+зеркало der Spiegel
+глаз das Auge
+лодки die Boote
+дом das Haus
+воздушный шар der Ballon
+воздушные шары die Ballone
+деревья die Bäume
+Книга das Buch
+флаг die Fähne
 
 017
-die Uhr
-die Lampe
-der Besen
-eine Maus (die Maus)
-zwei Mäuse
-Käse
+clock Часы die Uhr
+lamp фонарь die Lampe
+broom метла der Besen
+one mouse одна мышь eine Maus (die Maus)
+two mice две мыши zwei Mäuse
+cheese сыр Käse
 
 018
-achte
-komm schon!
-es ist Zeit, aufzustehen
-Ich will nicht aufstehen
-Schäm dich!
-die Jalousien sind auf!
-oben, hoch, auf, nach oben, hinauf
-in Ordnung
+otto, numero otto восемь, номер восемь
+gennaio, il mese di gennaio Январь, январь месяц
+ottavo giorno del mese di gennaio восьмой день января
+sono le sette del mattino семь утра
+buongiorno, Jack ! доброе утро, Джек!
+Avanti, sono le sette, è ora di alzarsi! Давай, семь часов, пора вставать!
+Buongiorno, mamma ! Fa molto freddo ? Доброе утро, мама ! Очень холодно ?
+Certo, siamo in inverno, sai? Конечно, сейчас зима, понимаете?
+Sto così caldo a letto! Non voglio alzarmi. Мне так жарко в постели! Я не хочу вставать.
+Vergogna! Vergognati, Jack ! Стыд! Позор тебе, Джек!
+Perchè?
+Guarda! Il sole è alto, gli uccelli sono svegli, le tapparelle sono alzate, e tu ti devi alzare, Jack! Смотри! Солнце взошло, птицы проснулись, жалюзи подняты, и ты должен вставать, Джек!
+Si si va bene! Mi sto alzando! Да ты в порядке! Я встаю!
+
+
 
 
 020
-neunte
-Zwei Augen
-Zwei Hände
-Zwei Schuhe
-Ach je
-Such danach!
-unter dem Bett
-Wie ist das?
+Nove, numero nove Девять, номер девять
+Gennaio, il mese di gennaio Январь, январь месяц
+Nono giorno del mese di gennaio Девятый день января
+nove di gennaio девять января
+Tu hai due occhi, Gino У тебя два глаза, Джино
+Si, signora Kinn Да, миссис Кинн
+Tu hai due mani У тебя две руки
+si si Да да да
+Hai due gambe У тебя две ноги
+Naturalmente ho due gambe, signora Kinn Конечно, у меня две ноги, миссис Кинн
+Hai due scarpe У тебя две туфли
+No, signora Kinn, prego, io ho soltanto una scarpa. L'altra l'ho perduta. Нет, миссис Кинн, пожалуйста, у меня только одна туфля. Я потерял другого.
+Santo cielo! allora cercala, Gino! Боже мой! тогда ищи это, Джино!
+Hai trovato la tua scarpa, Gino? Ты нашел свой ботинок, Джино?
+Si, signorina Kinn. Era sotto il letto. Да, мисс Кинн. Это было под кроватью.
+Benissimo, Ora ascolta. Tu hai due occhi. Hai due mani. Hai due gambe. Хорошо, теперь слушай. У тебя два глаза. У тебя две руки. У тебя две ноги.
+Si! Да!
+Hai due scarpe. У тебя две туфли.
+No signorina Kinn, prego, io ho tre scarpe! Нет, мисс Кинн, пожалуйста, у меня три туфельки!
+Come?? Как??
+Due scarpe sotto il letto, più una al piede, fanno tre! Две туфли под кроватью плюс одна на ноге, получается три!
+Oh povera me, Gino! Devi mettere un po' di ordine tra le tue scarpe! Боже мой, Джино! Вам нужно навести порядок в своей обуви!
+
 
 022
-der zehnte Januar
-sehen Sie das Bild an
-zeigen Sie mit dem Finger auf ihn
-auf dem Stuhl
-auf dem Tisch
-Bleistift
-Tintenfass
-Stift
-unter dem Stuhl
-Der Junge sitzt am Tisch
-legte das Buch auf dem Tisch
-setze die Katze auf dem Stuhl
-das Buch ist auf dem Tisch
+dieci numero dieci десять номер десять
+dieci gennaio, decimo giorno del mese di gennaio.  10 января, десятый день января. 
+guarda la vignetta  посмотрите на картинку  sehen Sie das Bild an
+c'è un bambino есть ребенок
+bene, indicalo col dito e dì: questo è un bambino Хорошо,  укажи на него пальцем  и скажите: это ребенок zeigen Sie mit dem Finger auf ihn
+questo è un bambino это ребенок
+ora indica col dito il tavolo e dì: questo è un tavolo теперь укажите пальцем на стол и скажите: это стол
+questo è un tavolo  это стол
+Nella vignetta c'é anche un gatto e una sedia. Indica il gatto col dito e dì: questo è un gatto. На рисунке также изображены кот и стул. Укажите пальцем на кошку и скажите: это кошка.
+questo è un gatto это кошка
+e la sedia e dì: questa è una sedia и стул и скажи: это стул
+questa è una sedia  это стул
+un libro, una matita, un calamaio e una penna. Sul tavolo. книга, карандаш, чернильница и перо. На столе.
+il libro è sul tavolo книга на столе
+la matita è sul tavolo карандаш на столе
+il calamaio e la penna sono sul tavolo чернильница и ручка на столе
+sulla sedia на стуле
+non c'è niente sulla sedia на стуле ничего нет
+sotto il tavolo под столом
+il gatto è sotto il tavolo кошка под столом
+al tavolo В таблице
+il bambino siede al tavolo ребенок сидит за столом
+metti questo libro sul tavolo положи эту книгу на стол
+metti il gatto sulla sedia посадить кота на стул
+
+на = sulla, под = sotto, за = al
+
+ 
 
 024
-elfte
-sehen Sie das Bild an
-Schmetterlinge
-wie schön sie sind!
-Sie sind blau und rosa
-Ich möchte sie zu fangen
-Achtung! Aufpassen!
-Löwe
-Seemann, Matrose, ein Blumentopf 
+undici, numero undici одиннадцать, номер одиннадцать
+undici di gennaio. undici gennaio одиннадцать января. одиннадцать января
+farfalle! Ci sono due farfalle! бабочки! Есть две бабочки!
+Come sono belle! Sono azzurre e rosa! Le voglio acchiappare. Какие они красивые! Они голубые и розовые! Я хочу их поймать.
+Ehi là, ehi tu ragazzo! Stai attento! Attento, dico! Привет, мальчик! Осторожно! Осторожно, говорю я!
+
+Ho fame. Hum! Come sono affamato! Я голоден. Гм! Как я голоден!
+Ehi tu, Stai attento! C'è un leone! Stai attento ! Эй ты, будь осторожен! Есть лев! Осторожно !
+Ehi marinaio, un vaso di fiori sta per colpirti sulla testa! Attento! Эй, матрос, ваза с цветами вот-вот ударит тебя по голове! Осторожный!
+
 
 026
-Zwölf, Zwölftel
-Mary ist auf einer Leiter 
-und schläght auf einen Nagel
+Двенадцать, двенадцатая Zwölf, Zwölftel
+Questa è una storia su Mike e Mary. Это история о Майке и Мэри.
+Li ricordi? Mike è il fratello di Mary e Mary è la sorella di Mike.  Вы их помните? Майк - брат Мэри, а Мэри - сестра Майка.
+Mary è su una scala a pioli e sta picchiando a tutta forza su un chiodo. Bum bum. Mike dice: Мэри стоит на лестнице и изо всех сил врезается в гвоздь. Бум бум. Майк говорит
+Mary, smetti di fare tutto questo rumore, per piacere! Мэри, перестань шуметь, пожалуйста!
+Ma Mary non è molto gentile. Risponde solo: NO! Но Мэри не очень добра. Он только отвечает: НЕТ! 
+e continua a picchiare. bum bum. Mike si arrabbia. и продолжай бить. бум бум. Майк злится.
+strappa la scala da sotto i piedi di Mary. вырвать лестницу из-под ног Мэри.
+La povera Mary deve afferrarsi al chiodo. Grida: Бедной Мэри приходится ухватиться за гвоздь. Кричать:
+per amor del cielo, che cosa stai facendo? ради всего святого, что ты делаешь?
+Tieniti al chiodo, mia cara. Io debbo portar via la scala.  Придерживайтесь гвоздя, моя дорогая. Мне нужно убрать лестницу.
 
-Er greift das Leiter unter Mary Füsse
-Mary musst auf dem Nadel zu kuppeln
-um Himmels willen
-Ich muss die Leiter wegnehmen
-Halten auf dem Nagel
-hängen an den Nagel
-Mary war nicht sehr nett entweder
+e lascia Mary appesa al chiodo. и оставляет Мэри висеть на гвозде.
+
+Mary piange. Плачет Мэри.
+
+Quello che Mike ha fatto non è gentile, ma veramente Mary non era stata molto gentile nemmeno lei! То, что сделал Майк, было неприятно, но и Мэри на самом деле была не очень хороша!
 
 
 
 028
-dreizehnte 
-Johnny der Forscher
-sehr scharf auf Abenteuer und Erkundungen
-Keller, dunkel schmutzig voller Kohle
-es ist ein Kerker
-eine Prinzessin hier gefangen gehalten
-er sieht überall, und insbesondere im Kohlenhaufen
-er wird schmutzig
+tredici, numero tredici. тринадцать, номер тринадцать.
+tredici di gennaio тринадцатого января
+tredicesimo giorno dell'anno тринадцатый день года
+Salve, bambini! Здравствуйте дети!
+Vi presento Johnny l'Esploratore!  Встречайте Джонни-исследователя!
+Chi é Johnny l'Esploratore? Кто такой Джонни-исследователь?
+Johnny l'Esploratore è un bambino molto appassionato di avventure e esplorazioni. Джонни-исследователь - ребенок, который очень любит приключения и исследования.
+Questa è la ragione per cui lo chiamano Johnny l'Esploratore. Вот почему они называют его Джонни-разведчиком.
+Oggi Johnny l'Esploratore ha scoperto la cantina della sua casa. Сегодня Джонни-исследователь обнаружил подвал своего дома.
+è buia, sporca, piena di carbone. Johnny pensa: темно, грязно, полно угля. Джонни думает:
+è una prigione sotterranea... это темница ...
+ci deve essere una principessa tenuta prigioniera qui! здесь должна быть принцесса в плену!
+dice, e cerca dappertutto... e specialmente nel mucchio di carbone. он говорит, и ищет везде ... и особенно в куче угля.
+Johnny non trova la principessa e si sporca moltissimo. Джонни не может найти принцессу и очень пачкается.
+Guardate l'ultima vignetta! Essa mostra il povero Johnny dopo la sua esplorazionie della cantina. Vedete come é sporco? Посмотри последний мультик! На нем изображен бедный Джонни после осмотра подвала. Вы видите, насколько он грязный?
+
 
 030
-vierzehnte 
-Rosen sind rot
-Veilchen sind blau
-Zucker ist süss
+Номер четырнадцать. Number fourteen.
+Четырнадцатое число января. The fourteen of the month of January.
+Четырнадцатый день в году. The fourteen day of the year.
+Розы красные Roses are read
+фиалки синие violets are blue 
+сахар сладкий sugar is sweet
+и ты тоже and so are you
+
+
 
 032
-ein Hund
-eine Show
-ein Brief
-ein Pferd
-ein Flugzeug
-eine Zwiebel
-ein Umschlag
-eine Stunde
-eine Katze
-ein Schuh
-ein Spiegel
-ein Apfel
-ein Ei
-eine Orange
-eine Kirche
-ein Elefant
-ein Taschentuch
-eine Puppe
-eine Hand
-ein Hase
-ein Bleistift
-ein Pfeil
-ein Tisch
-ein Stuhl
-ein Fuss
-eine Stunde
-ein Arm
-ein Strauss
+собака ein Hund 
+шоу  eine Show
+письмо ein Brief
+лошадь ein Pferd
+самолет ein Flugzeug
+лук eine Zwiebel
+конверт ein Umschlag
+один час eine Stunde
+кошка eine Katze
+ботинок ein Schuh
+зеркало ein Spiegel
+Яблоко ein Apfel
+яйцо ein Ei
+апельсин eine Orange
+Церковь eine Kirche
+слон ein Elefant
+под вопросом ein Taschentuch
+кукла eine Puppe
+рука eine Hand
+заяц ein Hase
+карандаш ein Bleistift
+стрела ein Pfeil
+стол ein Tisch
+кресло ein Stuhl
+фут ein Fuss
+час eine Stunde
+рука ein Arm
+букет ein Strauss
 
 
 034
-Fünfzehnte
-Johnny hat gerade aus dem Bett
-Das erste am Morgen , er wäscht sein Gesicht, Hände und Hals in die Waschbecken 
-er putzt seine Zähne mit Zahnbürste
-er nimmt ein Bad in der Badewanne
-Er benutzt es oft
-Dusche
-Er trocknet sich mit einem Handtuch
-Er streicht sich die Haare mit eine Haarbürste
-er kämme mith einem Kamm
-Wofür is eine Nagelbürste?
-Was über den Schwamm, Zahnpasta, Talkum Puder
-die Toilette ist vorbei
-Er ist ziemlich rein und verlässt das Bad
+quindici, numero quindici пятнадцать, номер пятнадцать 
+quindici di gennaio пятнадцатое января 
+una settimana, sette giorni fanno una settimana неделя, семь дней составляют неделю 
+quindici giorni fanno un fortnight пятнадцать дней составляют две недели 
+le sette e cinque. пять минут восьмого. 
+Jack si é alzato dal letto. è nella stanza da bagno ora. Джек встал с постели. он сейчас в ванной.
+Come prima cosa la mattina, Jack si lava la faccia, le mani e il collo nel lavabo. С утра Джек моет лицо, руки и шею в раковине. 
+Poi si lava i denti con uno spazzolino da denti e fa il bagno nella vasca da bagno. Затем чистит зубы зубной щеткой и принимает ванну. 
+C'e' anche una doccia nella stanza da bagno di Jack. В ванной комнате Джека также есть душ. 
+Si, c'è, e Jack spesso la usa. Да, есть, и Джек часто этим пользуется. 
+poi Jack si asciuga con un asciugamano, si spazzola i capelli con una spazzola da capelli e si pettina con un pettine. затем Джек вытирается полотенцем, расчесывает волосы расческой и расчесывает себя расческой. 
+A che serve lo spazzolino da unghie ? Для чего нужна кисточка для ногтей? 
+Diamine, lo spazzolino da unghie serve per pulire le unghie. Ma le cose più importanti in un bagno sono il sapone e l'acqua. Черт возьми, щетка для ногтей предназначена для мытья ногтей. Но самое главное в ванной - мыло и вода. 
+Ma le cose più importanti in un bagno sono il sapone e l'acqua. Но самое главное в ванной - мыло и вода. 
+E quanto alla spugna, il dentifricio, il talco e lo specchio? А как насчет губки, зубной пасты, талька и зеркала? 
+Sono molto importanti, ma non tanto quanto l'acqua e sapone. Они очень важны, но не так важны, как мыло и вода. 
+Bene, ora la toeletta di Jack è finita. Что ж, теперь переодевание Джека закончено. 
+È tutto pulito e perciò esce dalla stanza da bagno. Все чисто и поэтому выходит из ванной.
+
+035
+soap мыло
+sponge губки
+tooth-paste зубная паста 
+tooth-brush зубная щетка 
+comb гребень 
+talcum powder тальк
+towels полотенца 
+mirror зеркало 
+hair brush щетка для волос 
+nail brush кисточка для ногтей 
+tub ванна
+wash-basin умывальник 
+shower душ 
 
 
 036
-Es ist diese Käfer brummt against die Fensterscheibe
+sedici, numero sedici шестнадцать, номер шестнадцать
+sedici di gennaio шестнадцать января
+Gino impara l'inglese con la signorina Kinn. Джино изучает английский с мисс Кинн.
+Questo è un libro. Это книга.
+Questi sono libri, molti libri. Это книги, много книг.
+Questo. Uno. Questi. Molti. Этот. Один. Эти. Много.
+Capisci, Gino? Ты понимаешь, Джино?
+Si signorina Kinn. Да, мисс Кинн.
+Questa è una matita. Это карандаш. 
+Queste sono molte matite. Это много карандашей. 
+Questa (o questo). queste (o questi). Это (или это). эти (или эти). 
+Senti la differenza fra this e these? Вы чувствуете разницу между этим и этим?
+Si signorina Kinn, la sento. Да, мисс Кинн, я это чувствую. 
+No! non è giusto! è sbagliato! dillo di nuovo, Gino. Нет! Это не правильно! это не правильно! скажи это еще раз, Джино. 
+Signora Kinn, prego! Non sono io. È quel moscone che ronza laggiù contro il vetro della finestra. Sente? Миссис Кинн, пожалуйста! Это не я. Это та большая муха, которая жужжит вон там, у оконного стекла. Ты слышишь? 
 
 038
-Siebzehnte 
-Die Farben 
-Das Meer ist blau
-Die Mohnblumen sind rot
-Die Gänseblümchen sind gelb
-Das Gras ist grün
-Die Rinde der Bäume ist braun
-Die Wolken sind Rosa
-Der Himmel ist hellblau
-Die Seleg sind weiss
-Der Rauch des Schiffes ist grau
-Welche Farbe hat eine Orange?
-Welche Farbe hat ein Regenbogen ?
-Welche Farbe mögen Sie am meisten?
+diciassette, numero diciassette семнадцать, номер семнадцать 
+I colori, tutti i colori, i colori dell'arcobaleno Цвета, все цвета, цвета радуги 
+Das Meer ist blau Море синее 
+Die Mohnblumen sind rot Маки красные 
+Die Gänseblümchen sind gelb Ромашки желтые 
+Das Gras ist grün Трава зеленая 
+Die Rinde der Bäume ist braun Кора деревьев коричневая 
+Die Wolken sind Rosa Облака розовые 
+Der Himmel ist hellblau Небо голубое 
+Die Segel sind weiss Паруса белые 
+Der Rauch des Schiffes ist grau Дым корабля серый 
+Die Schiffe ist schwarz Корабли черные 
+Welche Farbe hat eine Orange? Какого цвета апельсин? 
+Welche Farbe hat ein Regenbogen ? Какого цвета радуга? 
+Welche Farbe mögen Sie am meisten? Какой цвет тебе больше всего нравится? 
+Che colori vedi nella tua stanza? Какие цвета вы видите в своей комнате? 
 
 040
-Achtzehnte
-Was ist mit ihm passiert?
-Ich werde dick ziehen nach oben
-Er wurde von einem Löwen angegriffen
-er schoss den Löwen
-in letzer Sekunde
+diciotto, numero diciotto восемнадцать, номер восемнадцать 
+diciotto di gennaio восемнадцатое января 
+Ti ricordi le vignette della pagina dell'undici di gennaio Вы помните мультики на странице 11 января 
+La prima vignetta mostrava un bambino che acchiappava farfalle. Первый мультфильм показал ребенка, ловящего бабочек. 
+Stava cadendo in un burrone, ma fu salvato al momento giusto. Он падал в овраг, но вовремя был спасен. 
+Dammi la mano, ragazzo. Ti tirerò su! Дай мне руку, мальчик. Я подниму тебе настроение! 
+Vignetta numero due. Наклейка номер два. 
+Ricordi quell'esploratore che stava per essere assalito da un leone? Помните того исследователя, на которого собирался нападать лев? 
+Egli si arrampicava su un albero e fu salvato da un amico al momento giusto. Он забрался на дерево, и в нужный момент его спас друг. 
+Che cosa fece quell'amico? Что сделал этот друг? 
+Diamine, sparò al leone. Черт возьми, он застрелил льва. 
+Ricordi quel marinaio sulla cui testa stava per cadere un vaso di fiori? Помните того моряка, на голову которого собиралась упасть ваза с цветами? 
+Che cosa gli successe? Что с ним случилось? 
+Ebbene, niente. Qualcuno afferrò il vaso da fiori proprio al momento giusto e il marinaio si salvò. Ну ничего. Кто-то в нужный момент схватил горшок, и моряк был спасен. 
+
+
 
 042
-Sie haben einen Schneemann gebaut 
-Ein feuer anzunden 
-Eine Tasse Tee
-Der Schneeman was geschmolzen 
+diciannove, numero diciannove.
+diciannove di gennaio
+Mike e Mary hanno costruito un pupazzo di neve. Майк и Мэри построили снеговика. 
+Di', Mary, non pensi che il nostro pupazzo di neve avrà freddo qui fuori? Скажи, Мэри, тебе не кажется, что нашему снеговику здесь будет холодно? 
+Oh si, Mike. Povero pupazzo di neve! Ах да, Майк. Бедный снеговик! 
+Che cosa possiamo fare per lui? Что мы можем для него сделать? 
+Io posso fare un po' di the bollente. Я могу приготовить горячий чай.  
+Io posso accendere un fuoco per lui. Che ne pensi, Mary? Я могу развести для него костер. Как ты думаешь, Мэри? 
+Penso che è un'ottima idea. Думаю, это отличная идея.
+Un po' più tardi. Чуть позже.
+Ecco una tazza di the bollente. Вот чашка горячего чая.
+ed ecco il fuoco per il nostro pupazzo di neve. а вот и огонь для нашего снеговика. 
+Starà ben caldo vicino a questo bel fuoco! У этого прекрасного костра будет приятно тепло! 
+Quando Mike e Mary tornarono il giorno seguente, trovarono che il pupazzo di neve si era quasi completamente sciolto! Когда Майк и Мэри вернулись на следующий день, они обнаружили, что снеговик почти полностью растаял! 
+Essi sentirono una voce: Они услышали голос: 
+se c'è qualcuno cui non piacciono le cose calde, quello sono io! Если есть кто-то, кто не любит горячее, то это я!
+non mi piacciono le cose calde Я не люблю горячее
+
+
+
+горячий и холодный  = caldo e freddo
+
 
 
 044
-zwanzigste
+venti, numero venti двадцать, номер двадцать
+il venti di gennaio. двадцатое января.
+Johnny l'Esploratore scopre la soffitta della sua casa. Джонни-разведчик обнаруживает чердак своего дома. 
+Quante cose vecchie, inutili, polverose! Сколько старых, бесполезных, пыльных вещей!
+Questo posto ha un certo bisogno di una buona ripulita! Это место нуждается в хорошей уборке!
+Così Johnny apre la finestra e getta tutto fuori. Джонни открывает окно и все выкидывает.
+Vecchie lampade, sedie rotte, libri polverosi, tutto vola fuori dalla finestra e cade nel giardino di sotto. Старые лампы, сломанные стулья, пыльные книги, все вылетает в окно и падает в сад внизу.
+Ma la mamma sente il rumore e non è d'accordo. Но мама слышит шум и не соглашается.
+Corre di sopra e dice Он бежит наверх и говорит
+Che cosa stai facendo, Johnny? Что ты делаешь, Джонни?
+Ti meriti una buona sculacciata! Вы заслуживаете хорошей порки!
+Johnny piange. Джонни плачет.
+Vedi? Questo è quello che succede quando tocchi le cose che non ti appartengono. Понимаете? Вот что происходит, когда вы касаетесь вещей, которые вам не принадлежат.
+
+
+
+
+
+
