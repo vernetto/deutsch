@@ -1,10 +1,10 @@
 Mein Arbeitstag beginnt üblicherweise um 9 Uhr.
 
 Bevor versuche ich ein bisschen mit meinem Fahrrad zu farhen, 
-weil es geistig und körperlich gesund ist, dein Tag
-mit etwas physische Aktivität anzufangen.
+weil es geistig und körperlich gesund ist, deinen Tag
+mit etwas physischen Aktivität anzufangen.
 
-Aber manchmal wache ich zu spät auf, und ich muss sofort 
+Aber manchmal wache ich zu spät auf, und muss ich sofort 
 an meinen Computer sitzen.
 
 Die ersten 15 Minuten sind dem Lesen von emails gewidmet.
@@ -12,7 +12,7 @@ Es ist wichtig, über die neuesten Ereignisse auf dem Laufenden zu bleiben.
 
 Dann versuche ich, etwas zu erledigen.
 
-Um 10 Uhr mein Team hat eine Telekonferenz, damit jeder über den Forschritt seiner Arbeit berichten kann.
+Um 10 Uhr hat mein Team eine Telekonferenz, damit jeder über den Forschritt seiner Arbeit berichten kann.
 Diese Konferenz dauert ungefähr 30 Minutes. 
 
 Manchmal haben wir weitere Konferenzen mit anderen Teams, um unsere Arbeit zu koordinieren.
