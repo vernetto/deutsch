@@ -1337,14 +1337,37 @@ beheben=repair
 
 
 
+22.06.2017
+zurückgelegen=trail
+angurten=strap on 
+geglückt=successful 
+Hebebühne=lifting ramp
+ausscheren=change lane
+ausgereift=mature
+herum wedelt=wags around
+Banges Warten: fearful waiting
 
 
+29.06.2017
+Borke=(Rinde), bark
+Ausschlag=decisive factor
+Astschere=troncarami
+Föhren=pini
+Vergandung=dimenticanza
+beteiligt=involved
+aufgezeichnet=recorded
+erfassen=capture
+umfassend=comprehensive
+Laubaum=Deciduous tree
+in Schuss halten=keep in good shape 
+abfackeln=torch
+eigenmächtig=unauthorized 
 
 
-
-
-
-
+24.08.2017
+Entrüstung=indignation
+wedelt mit dem Schwanz=wags his tail 
+zotten=villus
 
 
 

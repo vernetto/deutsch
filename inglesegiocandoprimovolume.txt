@@ -9,6 +9,13 @@
 Сегодня пятница Sevodnya pyatnitsa Heute ist Freitag (der)
 река, к реке Nach Fluss (der), zum Fluss
 
+я иду I am going 
+ты идешь you are going 
+он идет he is going  
+мы идем we are going 
+вы идете you are going 
+они идут they are going  
+
 понедельник Montag
 вторник Dienstag
 среда Mittwoch
@@ -19,13 +26,15 @@
 
 понедельник вторник среда Четверг Пятница Суббота Воскресенье 
 
+один два три четыре пять шесть семь восемь девять десять  
+
 002
 
 один, номер один Eins, nummer Eins (die Nummer)
 День номер один Tag nummer Eins
 Первый день года Der erste Tag des Jahres (der Tag)
 Номер один день нового года. Tag nummer eins des neuen Jahres. 
-Primo di gennaio. Первое января. Erster Januar.
+Первое января. Primo di gennaio.  Erster Januar.
 il Primo di gennaio è il primo giorno dell'anno 1 января - первый день года Der 1. Januar ist der erste Tag des Jahres
 Anno vecchio, anno nuovo Старый год, новый год Alte Jahr, Neue Jahr
 l'anno vecchio è finito Старый год закончился Der Alte Jahr ist Vorbei
@@ -33,7 +42,7 @@ Addio anno vecchio Прощай, старый год Auf Wiedersehen altes Jahr
 l'anno nuovo comincia новый год начинается Das neue Jahr beginnt
 benvenuto anno nuovo добро пожаловать в новый год Willkommen im neuen Jahr
 Buon anno С новым годом Frohes neues Jahr
-Buon anno a te, papà С Новым годом тебя, папа Frohes Neues Jahr, Papa
+Buon anno a te, papà Счастливого тебе нового года, папа Frohes Neues Jahr, Papa
 Счастливого тебе нового года  Frohes neues Jahr zu dir
 Buon anno a tutti Всем счастливого Нового года Frohes neues Jahr an alle
 Тебя тоже с новым годом Dir auch ein Frohes neues Jahr
@@ -77,7 +86,7 @@ Apri la finestra! Открой окно!
 Chiudi la finestra! Закройте окно!
 non capisco. Я не понимаю.
 sono la stessa cosa. они одно и то же. Sie sind ein und dasselbe.
-Capisci ora? Теперь (now) ты понимаешь?
+Capisci ora? Теперь ты понимаешь?
 Allora, chiudi la finestra, per piacere. Так что закройте окно, пожалуйста.
 Per piacere, aprila di nuovo. Пожалуйста, откройте его снова.
 Com'è la finestra ora? Как сейчас окно?
@@ -100,7 +109,7 @@ Cinque, numero cinque Пять, номер пять
 Cinque di gennaio, il quinto giorno dell'anno Пятерка января, пятый день года
 Mike è un ragazzo. Mike è il fratello di Mary. è l'unico fratello di Mary.
 Майк мальчик. Майк - брат Мэри. он единственный брат Мэри.
-Mary è una ragazza, una bambina. Mary é la sorella di MIke. è l'unica sorella di Mike. Мэри девочка, ребенок. Мэри - сестра Майка. она единственная сестра Майка.
+Mary è una ragazza, una bambina. Mary é la sorella di Mike. è l'unica sorella di Mike. Мэри девочка, ребенок. Мэри - сестра Майка. она единственная сестра Майка.
 Questo è Mike che parla. Это Майк говорит.
 Ciao, Mary! Привет Мэри!
 Questa è una storiella su Mike e Mary  Это шутка про Майка и Мэри
@@ -126,7 +135,7 @@ il numero uno è un trenino номер один - маленький поезд
 il numero due è una bambola. per te. номер два - кукла. для тебя. 
 il numero tre è una palla. per me. номер три - мяч. для меня.
 il numero quattro è un orsacchiotto. per te. номер четыре - плюшевый мишка. для тебя.
-il numero cinque sono due trottole. una per me e una per te. номер пять - это два спина. один для меня и один для вас.
+il numero cinque sono due trottole. una per me e una per te. номер пять - это два волчки. один для меня и один для вас.
 il numero sei è una automobilina. per me. номер шесть - игрушечная машинка. для меня.
 il numero sette è una scatola di colori. per te.  число семь - это коробка цветов. для тебя. 
 il numero otto è una scatola di matite. per te. номер восемь - это коробка с карандашами. для тебя. 
@@ -187,12 +196,15 @@ Buongiorno, mamma ! Fa molto freddo ? Доброе утро, мама ! Очен
 Certo, siamo in inverno, sai? Конечно, сейчас зима, понимаете?
 Sto così caldo a letto! Non voglio alzarmi. Мне так жарко в постели! Я не хочу вставать.
 Vergogna! Vergognati, Jack ! Стыд! Позор тебе, Джек!
-Perchè?
+Perchè? Почему?
 Guarda! Il sole è alto, gli uccelli sono svegli, le tapparelle sono alzate, e tu ti devi alzare, Jack! Смотри! Солнце взошло, птицы проснулись, жалюзи подняты, и ты должен вставать, Джек!
-Si si va bene! Mi sto alzando! Да ты в порядке! Я встаю!
+Si si va bene! Mi sto alzando! Да все в порядке ! Я встаю!
 
-
-
+весна primavera 
+летом estate 
+Осень autunno 
+зима inverno 
+весна летом Осень зима
 
 020
 Nove, numero nove Девять, номер девять
