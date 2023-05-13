@@ -1,19 +1,35 @@
 Meine ideale Wochenende ist folgedessen:
 
-# Freitag abends:
+# Freitag Abend:
 
-# Samstag morgens:
+- Ich esse wie ein Schwein und ich trinke wie ein Esel, bis ich komplett betrunken bin
+- Ich melde mich bei Netflix an, und für 6 Stunden schaue ich die letzte amerikanische Seifenoper,
+wenn möglich die dummste und gefüllt mit den meistens Woke-DEM Stereotypen, nämlich:
+  - Heterosexuellen discriminieren Homosexuellen
+  - Weisse discriminieren Afroamerikaner
+  - Putin ist ein Monster
+  - Russen sind teuflisch
+  - mRNA Impfstoffen werden uns von der nächsten Pandemie retten
+  - Trump ist ein bösewicht
+  - Gott gab Amerika das Recht, diesen Planeten zu regieren (Amerika über alles)
 
-# Samstag nachmittag:
+# Samstag Morgen:
+Ich schlafe bis 11 Uhr, dann ziehe ich eine Maske and, und laufe ich zum Impfzentrum um die letzte Dosis von mRNA COVID Impfstoffe zu bekommen.
+Dann renne ich zu McDonald und esse ich einen riesigen Grillenmehl Hamburger, mit einem Liter Coca-Cola voll mit Zucker, und ein süßlichen Donut.
 
-# Samstag abends:
-
-
-# Sonntag abends:
-
-
-# Sonntag abends:
+# Samstag Nachmittag:
+Dann gehe ich zum Einkaufszentrum und kaufe ich eine Reihe von idiotische nutzlose elektronische Geräte,
+den ich werde ein Paar Mal benutzen und dann im Müll werfen.
 
 
-# Sonntag abends:
+# Samstag Abend:
+
+
+# Sonntag Morgen:
+
+
+# Sonntag Nachmittag:
+
+
+# Sonntag Abend:
 
