@@ -20,10 +20,13 @@ Dann renne ich zu McDonald und esse ich einen riesigen Grillenmehl Hamburger, mi
 # Samstag Nachmittag:
 Dann gehe ich zum Einkaufszentrum und kaufe ich eine Reihe von idiotische nutzlose elektronische Geräte,
 den ich werde ein Paar Mal benutzen und dann im Müll werfen.
-
+Später kehre ich zurück zu Hause, um Fussball Spielen bei Sky zu gucken.
 
 # Samstag Abend:
-
+Samstag Abend widme ich zu News: ich lese den NY-Times, den Spiegel, ich gucke ein bisschen CNN und alle die anderen
+WEF-globalisten Medienagenturen, ich nässe mich durch mit ihrer Propaganda und Desinformation, um mich der Herde anzuschließen.
+Es ist wichting, sicherzustellen das meine Weltaschau korrespondiert mit den Grossen Brudern Bill Gates und Charles Schwab. 
+Ein guten Untertan hat seine eigene Meinung, aber diese Meinung sollte von den Herrschen genemigt.   
 
 # Sonntag Morgen:
 
