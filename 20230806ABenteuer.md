@@ -9,7 +9,7 @@ oder einfach nur als Reiningungskräfte.
 Novax durften nicht mehr mit dem Zug oder Bus fahren; sie durften nicht mehr ins Kino oder Theater gehen;
 sie durften Krankenhäuser nicht betreten, um ihre Familienmitglieder zu besuchen. 
 Einige skrupellose und korrupte sogenannte "Wissenschaftler" traten im Fernseher auf und erklärten, dass
-die Impfstoffen "sicher und effektiv" seien und dass Ungeimpfte sollten in Konzentrationslager eingesperrt werden sollten.
+die Impfstoffen "sicher und effektiv" seien und dass Ungeimpfte in Konzentrationslager eingesperrt werden sollten.
 Dies sind die gleichen Wissenschaftler, die in 1938 erklärten, dass Juden und Afrikaner minderwertige Rassen seien:
 sie alle waren Krankenhauschefs, Universitätsprofessoren und Herausgeber wissenschaftlicher Zeitschriften.
 Alle respektabel Prominente mit dicken Bäuchen und fetten Kehlsäcken, die im Namen der Wissenschaft und des Bankkontos    
