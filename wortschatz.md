@@ -6,3 +6,5 @@ umwerfend = devastating
 
 Wicht = little fellow
 
+vorsätzlich = premeditated
+
